@@ -1,34 +1,59 @@
 {
-  "title": "GLOBAL AI REPORT | 2026-04-22",
-  "generated_date": "Wednesday, April 22, 2026, 10:45 PM ET",
-  "headline": "AI product rollouts, model updates, and enterprise adoption remain the focus across the sector.",
-  "snapshot": "This edition includes 4 reports.",
+  "title": "GLOBAL POLITICS REPORT",
+  "generated_date": "2026-04-24",
+  "generated_at": "2026-04-24 12:55 AM ET",
+  "updated_at": "2026-04-24 12:55 AM ET",
+  "published_at": "2026-04-24 12:55 AM ET",
+  "headline": "Policy debates, global elections, legal battles, and geopolitical pressure continue to shape the political landscape.",
+  "snapshot": "The politics desk is built around neutral reporting signals: legislation, campaigns, courts, foreign policy, public polling, and institutional movement.",
   "key_storylines": [
-    "Major AI companies continue pushing model updates and enterprise tools.",
-    "Competition remains intense across assistants, infrastructure, and developer platforms.",
-    "Business adoption is increasingly tied to workflow efficiency and automation.",
-    "Investor and media attention remains fixed on practical AI deployment."
+    "Campaign positioning and policy messaging remain central to the political news cycle.",
+    "Courts, legislatures, and executive offices continue to drive major institutional storylines.",
+    "Global conflict, diplomacy, trade, and alliances remain key pressure points for political coverage."
   ],
-  "sections": {
-    "models": {
-      "title": "MODELS",
-      "headline": "Model competition remains active across consumer and enterprise AI.",
-      "snapshot": "Companies continue refining performance, reliability, and multimodal capability."
+  "disclaimer": "This report is an automated summary intended to support, not replace, human political journalism.",
+  "x_handle": "@GlobalSportsRp",
+  "substack_url": "https://globalsportsreport.substack.com/",
+  "sections": [
+    {
+      "key": "campaigns",
+      "title": "Campaign Watch",
+      "headline": "Campaign strategy, fundraising, messaging, and voter coalitions remain core political reporting lanes.",
+      "snapshot": "Election coverage is strongest when campaign movement is tied to polling, turnout, money, geography, and demographic shifts.",
+      "key_storylines": [
+        "Fundraising and ad spending remain key indicators of campaign strength.",
+        "Polling movement should be framed with context, margin, methodology, and trend direction."
+      ]
     },
-    "business": {
-      "title": "BUSINESS",
-      "headline": "AI business expansion remains centered on enterprise value.",
-      "snapshot": "Vendors are positioning tools around productivity, automation, and data workflows."
+    {
+      "key": "policy",
+      "title": "Policy Watch",
+      "headline": "Legislative priorities and executive action continue to shape national and state-level coverage.",
+      "snapshot": "Policy coverage is strongest when proposals are tied to real-world impact, budget pressure, implementation timelines, and political tradeoffs.",
+      "key_storylines": [
+        "Budget, immigration, health care, technology, education, and energy remain recurring policy lanes.",
+        "Journalists should separate proposal, passage, implementation, and legal challenge stages."
+      ]
     },
-    "tools": {
-      "title": "TOOLS",
-      "headline": "Tooling remains a major battleground in the AI market.",
-      "snapshot": "Developer platforms, copilots, and automation layers continue evolving quickly."
+    {
+      "key": "courts",
+      "title": "Courts & Legal Watch",
+      "headline": "Court rulings, investigations, and legal challenges remain major drivers of political coverage.",
+      "snapshot": "Legal and political storylines often overlap, but the strongest coverage separates courtroom process from campaign messaging.",
+      "key_storylines": [
+        "Key legal developments should be tracked by venue, ruling stage, appeal path, and practical effect.",
+        "Court-driven stories often reshape political calendars and policy timelines."
+      ]
     },
-    "media": {
-      "title": "MEDIA",
-      "headline": "AI’s cultural and newsroom impact continues to expand.",
-      "snapshot": "Publishers, creators, and analysts are tracking both adoption and disruption."
+    {
+      "key": "world",
+      "title": "Global Affairs Watch",
+      "headline": "Foreign policy, alliances, trade, conflict, and diplomacy continue to shape global political coverage.",
+      "snapshot": "International political coverage is strongest when diplomatic signals are connected to security, economics, migration, and regional power dynamics.",
+      "key_storylines": [
+        "Conflict zones, trade relationships, and alliance pressure remain core global politics storylines.",
+        "Political journalists should connect international developments to domestic policy and election impact."
+      ]
     }
-  }
+  ]
 }
