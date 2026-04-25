@@ -1,58 +1,19 @@
 {
   "title": "GLOBAL POLITICS REPORT",
-  "generated_date": "2026-04-24",
-  "generated_at": "2026-04-24 12:55 AM ET",
-  "updated_at": "2026-04-24 12:55 AM ET",
-  "published_at": "2026-04-24 12:55 AM ET",
-  "headline": "Policy debates, global elections, legal battles, and geopolitical pressure continue to shape the political landscape.",
-  "snapshot": "The politics desk is built around neutral reporting signals: legislation, campaigns, courts, foreign policy, public polling, and institutional movement.",
-  "key_storylines": [
-    "Campaign positioning and policy messaging remain central to the political news cycle.",
-    "Courts, legislatures, and executive offices continue to drive major institutional storylines.",
-    "Global conflict, diplomacy, trade, and alliances remain key pressure points for political coverage."
-  ],
-  "disclaimer": "This report is an automated summary intended to support, not replace, human political journalism.",
-  "x_handle": "@GlobalSportsRp",
-  "substack_url": "https://globalsportsreport.substack.com/",
+  "headline": "Global politics developments move into real-time newsroom tracking mode.",
+  "snapshot": "Global Politics Report delivers structured coverage of government, elections, policy, and power — built for journalists, by a journalist.",
+  "updated_at": "2026-04-25 09:48:17 AM ET",
+  "generated_at": "2026-04-25 09:48:17 AM ET",
   "sections": [
     {
-      "key": "campaigns",
-      "title": "Campaign Watch",
-      "headline": "Campaign strategy, fundraising, messaging, and voter coalitions remain core political reporting lanes.",
-      "snapshot": "Election coverage is strongest when campaign movement is tied to polling, turnout, money, geography, and demographic shifts.",
+      "title": "POLITICS REPORT",
+      "name": "Politics",
+      "updated_at": "2026-04-25 09:48:17 AM ET",
+      "content": "Global Politics Report delivers structured coverage of government, elections, policy, and power — built for journalists, by a journalist.",
       "key_storylines": [
-        "Fundraising and ad spending remain key indicators of campaign strength.",
-        "Polling movement should be framed with context, margin, methodology, and trend direction."
-      ]
-    },
-    {
-      "key": "policy",
-      "title": "Policy Watch",
-      "headline": "Legislative priorities and executive action continue to shape national and state-level coverage.",
-      "snapshot": "Policy coverage is strongest when proposals are tied to real-world impact, budget pressure, implementation timelines, and political tradeoffs.",
-      "key_storylines": [
-        "Budget, immigration, health care, technology, education, and energy remain recurring policy lanes.",
-        "Journalists should separate proposal, passage, implementation, and legal challenge stages."
-      ]
-    },
-    {
-      "key": "courts",
-      "title": "Courts & Legal Watch",
-      "headline": "Court rulings, investigations, and legal challenges remain major drivers of political coverage.",
-      "snapshot": "Legal and political storylines often overlap, but the strongest coverage separates courtroom process from campaign messaging.",
-      "key_storylines": [
-        "Key legal developments should be tracked by venue, ruling stage, appeal path, and practical effect.",
-        "Court-driven stories often reshape political calendars and policy timelines."
-      ]
-    },
-    {
-      "key": "world",
-      "title": "Global Affairs Watch",
-      "headline": "Foreign policy, alliances, trade, conflict, and diplomacy continue to shape global political coverage.",
-      "snapshot": "International political coverage is strongest when diplomatic signals are connected to security, economics, migration, and regional power dynamics.",
-      "key_storylines": [
-        "Conflict zones, trade relationships, and alliance pressure remain core global politics storylines.",
-        "Political journalists should connect international developments to domestic policy and election impact."
+        "Politics coverage is flowing through the local GSR Network engine.",
+        "The site can now update from generated JSON instead of static page content.",
+        "This creates the same locked publishing pattern used by Global Sports Report and Global AI Report."
       ]
     }
   ]
