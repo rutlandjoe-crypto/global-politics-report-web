@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Global AI Report",
+  title: "Global Politics Report",
   description: "AI news, analysis, and automated reporting for modern journalists.",
 };
 

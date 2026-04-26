@@ -3,11 +3,6 @@ import path from "path";
 
 export const dynamic = "force-dynamic";
 
-export const metadata = {
-  title: "Global Politics Report",
-  description: "Automated political journalism support for the modern newsroom.",
-};
-
 type JsonObject = { [key: string]: any };
 
 function readLatestReport(): JsonObject {
@@ -15,146 +10,249 @@ function readLatestReport(): JsonObject {
 
   try {
     if (!fs.existsSync(filePath)) {
-      return {
-        title: "GLOBAL POLITICS REPORT",
-        generated_date: new Date().toLocaleString("en-US", {
-          timeZone: "America/New_York",
-        }),
-        headline: "Latest report file not found.",
-        snapshot: "Add public/latest_report.json to display live data.",
-        key_storylines: [],
-        sections: [],
-      };
+      return fallbackReport("Latest report file not found.", "Add public/latest_report.json to display live data.");
     }
 
     const raw = fs.readFileSync(filePath, "utf8");
     return JSON.parse(raw);
-  } catch (e) {
-    return {
-      title: "GLOBAL POLITICS REPORT",
-      generated_date: new Date().toLocaleString("en-US", {
-        timeZone: "America/New_York",
-      }),
-      headline: "Error loading report.",
-      snapshot: "Check JSON file.",
-      key_storylines: [],
-      sections: [],
-    };
+  } catch {
+    return fallbackReport("Latest report could not be loaded.", "Check public/latest_report.json for valid JSON formatting.");
   }
 }
 
-function asArray(value: any): string[] {
-  if (!Array.isArray(value)) return [];
-  return value.map((v) => String(v));
+function fallbackReport(headline: string, snapshot: string): JsonObject {
+  return {
+    title: "GLOBAL POLITICS REPORT",
+    generated_date: new Date().toLocaleString("en-US", {
+      timeZone: "America/New_York",
+    }),
+    headline,
+    snapshot,
+    key_storylines: [],
+    sections: [],
+  };
 }
 
-function SectionCard({ section }: { section: JsonObject }) {
+function asArray(value: any): any[] {
+  if (!value) return [];
+  if (Array.isArray(value)) return value;
+  if (typeof value === "object") return Object.values(value);
+  return [];
+}
+
+function text(value: any, fallback = ""): string {
+  if (typeof value === "string") return value;
+  if (value === null || value === undefined) return fallback;
+  return String(value);
+}
+
+function getUpdatedAt(report: JsonObject): string {
   return (
-    <div className="rounded-2xl border border-slate-300 bg-white p-4 shadow">
-      <h3 className="mb-2 text-sm font-bold uppercase tracking-wide text-[#0f2747]">
-        {section.title || "Coverage"}
-      </h3>
-
-      {section.headline && (
-        <p className="mb-2 text-sm text-slate-800">{section.headline}</p>
-      )}
-
-      {section.snapshot && (
-        <p className="mb-2 text-sm text-slate-600">{section.snapshot}</p>
-      )}
-
-      {section.key_storylines && (
-        <ul className="space-y-1 text-sm text-slate-700">
-          {asArray(section.key_storylines).map((item, i) => (
-            <li key={i} className="ml-5 list-disc marker:text-red-600">
-              {item}
-            </li>
-          ))}
-        </ul>
-      )}
-    </div>
+    text(report.updated_at) ||
+    text(report.generated_at) ||
+    text(report.generated_date) ||
+    text(report.published_at) ||
+    new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
   );
 }
 
-export default function Page() {
-  const data = readLatestReport();
+export default function Home() {
+  const report = readLatestReport();
 
-  const sections = Array.isArray(data.sections) ? data.sections : [];
+  const title = text(report.title, "GLOBAL POLITICS REPORT");
+  const headline = text(report.headline, "Politics briefing loading.");
+  const snapshot = text(report.snapshot || report.body, "Latest politics intelligence will appear here.");
+  const updatedAt = getUpdatedAt(report);
+
+  const keyStorylines = asArray(report.key_storylines || report.key_points || report.storylines);
+  const sections = asArray(report.sections);
 
   return (
-    <main className="min-h-screen bg-[#eef2f7] text-slate-950">
-      <div className="mx-auto max-w-7xl px-4 py-6">
-
-        {/* HEADER */}
-        <header className="mb-6 rounded-3xl border border-slate-300 bg-white p-5 shadow-lg shadow-slate-300/40">
-          <div className="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
-
-            {/* LEFT HEADER */}
+    <main className="min-h-screen bg-slate-100 text-slate-950">
+      <div className="mx-auto max-w-7xl px-5 py-6">
+        <header className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+          <div className="grid gap-6 lg:grid-cols-[1.35fr_0.65fr]">
             <div>
-              <div className="mb-4 inline-flex w-fit rounded-full border border-red-300 bg-red-50 px-3 py-1 text-[10px] font-bold uppercase tracking-[0.28em] text-red-700">
-                Politics Intelligence Desk
-              </div>
-
-              <h1 className="text-3xl font-black uppercase tracking-wide text-[#0f2747]">
-                {data.title || "GLOBAL POLITICS REPORT"}
-              </h1>
-
-              <p className="mt-1 text-sm font-medium text-slate-600">
-                Updated: {data.generated_date}
+              <p className="text-sm font-bold tracking-[0.25em] text-blue-700">
+                BUILT FOR JOURNALISTS, BY A JOURNALIST
               </p>
 
-              {data.headline && (
-                <p className="mt-4 text-base font-semibold text-slate-900">
-                  {data.headline}
-                </p>
-              )}
+              <h1 className="mt-3 text-4xl font-black tracking-tight text-slate-950 md:text-6xl">
+                {title}
+              </h1>
 
-              {data.snapshot && (
-                <p className="mt-2 text-sm text-slate-600">
-                  {data.snapshot}
-                </p>
-              )}
+              <p className="mt-3 text-sm font-semibold text-red-700">
+                Updated: {updatedAt} ET
+              </p>
+
+              <h2 className="mt-6 text-2xl font-extrabold leading-tight text-slate-900 md:text-3xl">
+                {headline}
+              </h2>
+
+              <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-700">
+                {snapshot}
+              </p>
+
+              <div className="mt-6 flex flex-wrap gap-3">
+                <a
+                  href="https://globalsportsreport.substack.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full bg-blue-700 px-5 py-3 text-sm font-bold text-white shadow-sm hover:bg-blue-800"
+                >
+                  Read the Network Briefing
+                </a>
+
+                <a
+                  href="https://x.com/GlobalSportsRp"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full border border-slate-300 bg-white px-5 py-3 text-sm font-bold text-slate-900 hover:bg-slate-50"
+                >
+                  Follow @GlobalSportsRp
+                </a>
+              </div>
             </div>
 
-            {/* VIDEO */}
-            <div className="overflow-hidden rounded-3xl border border-slate-300 bg-white shadow">
-              <div className="border-b border-slate-300 bg-[#0f2747] px-4 py-3 text-xs font-bold uppercase tracking-widest text-white">
-                Politics Live Video
-              </div>
+            <aside className="rounded-3xl border border-slate-200 bg-slate-950 p-5 text-white shadow-sm">
+              <p className="text-xs font-bold tracking-[0.25em] text-blue-300">
+                LIVE POLITICS WATCH
+              </p>
 
-              <div className="aspect-video w-full bg-black">
-                <iframe
-                  className="h-full w-full"
-                  src="https://www.youtube.com/embed/yY9dX2wQ6aQ?autoplay=1&mute=1"
-                  title="Politics Live Stream"
-                  allow="autoplay; encrypted-media; picture-in-picture"
-                  allowFullScreen
-                />
-              </div>
-            </div>
+              <div className="mt-4 rounded-2xl bg-gradient-to-br from-blue-800 via-slate-900 to-red-900 p-5 min-h-[260px] flex flex-col justify-between">
+                <div>
+                  <h3 className="text-2xl font-black leading-tight">
+                    Politics video stream temporarily replaced
+                  </h3>
 
+                  <p className="mt-4 text-sm leading-6 text-slate-200">
+                    The previous embedded stream was being blocked or marked unavailable.
+                    This panel keeps the site clean while the Politics Report continues
+                    serving the live written briefing.
+                  </p>
+                </div>
+
+                <div className="mt-6 grid gap-3">
+                  <a
+                    href="https://www.youtube.com/results?search_query=politics+live+news"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-2xl bg-white px-4 py-3 text-center text-sm font-black text-slate-950 hover:bg-slate-100"
+                  >
+                    Open Live Politics Video Search
+                  </a>
+
+                  <a
+                    href="https://news.google.com/topstories?topic=n"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-2xl border border-white/20 px-4 py-3 text-center text-sm font-black text-white hover:bg-white/10"
+                  >
+                    Open Politics Headlines
+                  </a>
+                </div>
+              </div>
+            </aside>
           </div>
         </header>
 
-        {/* SECTIONS */}
-        {sections.length > 0 && (
-          <section className="grid gap-5 lg:grid-cols-2">
-            {sections.map((section: JsonObject, i: number) => (
-              <SectionCard key={i} section={section} />
-            ))}
+        <section className="mt-6 grid gap-6 lg:grid-cols-[0.75fr_1.25fr]">
+          <aside className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+            <p className="text-sm font-black tracking-[0.2em] text-blue-700">
+              KEY STORYLINES
+            </p>
+
+            <div className="mt-5 space-y-4">
+              {keyStorylines.length > 0 ? (
+                keyStorylines.map((item, index) => (
+                  <div key={index} className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                    <p className="text-sm font-bold leading-6 text-slate-800">
+                      {text(item)}
+                    </p>
+                  </div>
+                ))
+              ) : (
+                <div className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                  <p className="text-sm font-bold leading-6 text-slate-800">
+                    Key storylines will populate after the next politics report update.
+                  </p>
+                </div>
+              )}
+            </div>
+          </aside>
+
+          <section className="space-y-6">
+            {sections.length > 0 ? (
+              sections.map((section, index) => {
+                const sectionTitle = text(section.title || section.name || section.category, `Politics Section ${index + 1}`);
+                const sectionHeadline = text(section.headline);
+                const sectionSnapshot = text(section.snapshot || section.summary || section.body);
+                const sectionItems = asArray(section.items || section.key_storylines || section.points);
+
+                return (
+                  <article
+                    key={index}
+                    className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200"
+                  >
+                    <p className="text-xs font-black tracking-[0.25em] text-red-700">
+                      GLOBAL POLITICS REPORT
+                    </p>
+
+                    <h3 className="mt-3 text-2xl font-black text-slate-950">
+                      {sectionTitle}
+                    </h3>
+
+                    {sectionHeadline && (
+                      <h4 className="mt-4 text-xl font-extrabold text-slate-900">
+                        {sectionHeadline}
+                      </h4>
+                    )}
+
+                    {sectionSnapshot && (
+                      <p className="mt-4 whitespace-pre-line text-base leading-8 text-slate-700">
+                        {sectionSnapshot}
+                      </p>
+                    )}
+
+                    {sectionItems.length > 0 && (
+                      <div className="mt-5 space-y-3">
+                        {sectionItems.map((item, itemIndex) => (
+                          <div
+                            key={itemIndex}
+                            className="rounded-2xl border border-slate-200 bg-slate-50 p-4"
+                          >
+                            <p className="text-sm font-semibold leading-6 text-slate-800">
+                              {text(item)}
+                            </p>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </article>
+                );
+              })
+            ) : (
+              <article className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+                <p className="text-xs font-black tracking-[0.25em] text-red-700">
+                  GLOBAL POLITICS REPORT
+                </p>
+
+                <h3 className="mt-3 text-2xl font-black text-slate-950">
+                  Politics briefing ready for content
+                </h3>
+
+                <p className="mt-4 text-base leading-8 text-slate-700">
+                  Once the automated politics report writes to public/latest_report.json,
+                  sections will display here in the same locked GSR Network structure.
+                </p>
+              </article>
+            )}
           </section>
-        )}
+        </section>
 
-        {/* FOOTER */}
-        <footer className="mt-6 rounded-3xl border border-slate-300 bg-white p-5 text-center shadow">
-          <p className="text-xs uppercase tracking-widest text-slate-500">
-            Global Politics Report
-          </p>
-          <p className="mt-2 text-sm text-slate-600">
-            Automated political journalism support for the modern newsroom.
-          </p>
+        <footer className="mt-8 rounded-3xl bg-slate-950 p-6 text-center text-sm font-semibold text-slate-300">
+          Global Politics Report · Part of the GSR Network · Built for journalists, by a journalist.
         </footer>
-
       </div>
     </main>
   );
