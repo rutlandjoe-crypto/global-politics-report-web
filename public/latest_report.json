@@ -1,20 +1,15 @@
 {
-  "title": "GLOBAL POLITICS REPORT",
-  "headline": "Global politics developments move into real-time newsroom tracking mode.",
-  "snapshot": "Global Politics Report delivers structured coverage of government, elections, policy, and power — built for journalists, by a journalist.",
-  "updated_at": "2026-04-25 09:48:17 AM ET",
-  "generated_at": "2026-04-25 09:48:17 AM ET",
-  "sections": [
-    {
-      "title": "POLITICS REPORT",
-      "name": "Politics",
-      "updated_at": "2026-04-25 09:48:17 AM ET",
-      "content": "Global Politics Report delivers structured coverage of government, elections, policy, and power — built for journalists, by a journalist.",
-      "key_storylines": [
-        "Politics coverage is flowing through the local GSR Network engine.",
-        "The site can now update from generated JSON instead of static page content.",
-        "This creates the same locked publishing pattern used by Global Sports Report and Global AI Report."
-      ]
+  "title": "Global Politics Report",
+  "headline": "White House, Congress Face New Budget Pressure as Negotiations Continue",
+  "snapshot": "White House, Congress Face New Budget Pressure as Negotiations Continue",
+  "updated_at": "2026-04-26 12:19:56 PM ET",
+  "generated_at": "2026-04-26 12:19:56 PM ET",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "headline": "White House, Congress Face New Budget Pressure as Negotiations Continue",
+      "content": "HEADLINE\nWhite House, Congress Face New Budget Pressure as Negotiations Continue\n\nSNAPSHOT\nWashington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout.\n\nKEY STORYLINES\n- Budget talks remain the central Washington storyline.\n- Party leaders are balancing policy demands with deadline pressure.\n- The next phase will test whether lawmakers can avoid another shutdown fight.",
+      "updated_at": "2026-04-26 12:19:56 PM ET"
     }
-  ]
+  }
 }
