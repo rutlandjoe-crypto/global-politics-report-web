@@ -7,7 +7,7 @@ type JsonObject = { [key: string]: any };
 
 const VIDEO_URL =
   process.env.NEXT_PUBLIC_GPR_VIDEO_URL ||
-  "https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1&mute=1";
+  "https://www.youtube.com/embed/9Auq9mYxFEE";
 
 function readReport(): JsonObject {
   try {
@@ -196,14 +196,14 @@ export default function Home() {
             </div>
 
             <div className="aspect-video overflow-hidden rounded-xl bg-black">
-              <iframe
-                src={VIDEO_URL}
-                title="Live Politics Video"
-                className="h-full w-full border-0"
-                allow="autoplay; encrypted-media; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
+<iframe
+  src={VIDEO_URL}
+  title="Live Politics Video"
+  className="h-full w-full border-0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+          </div>
 
             <div className="mt-3 text-xs text-neutral-400">
               Live politics video stream.
