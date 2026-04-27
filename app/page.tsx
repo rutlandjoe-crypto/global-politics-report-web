@@ -14,17 +14,15 @@ function readReport(): JsonObject {
     return JSON.parse(raw);
   } catch {
     return {
-      site: "Global Politics Report",
-      brand: "Built for journalists, by a journalist.",
       headline: "Politics Report Loading",
-      snapshot: "Latest political intelligence will appear here.",
+      snapshot: "",
       sections: [],
     };
   }
 }
 
 function asText(v: any): string {
-  if (v === null || v === undefined) return "";
+  if (!v) return "";
   return String(v).trim();
 }
 
@@ -32,15 +30,7 @@ function asList(v: any): string[] {
   if (!v) return [];
 
   if (Array.isArray(v)) {
-    return v
-      .map((x) => {
-        if (typeof x === "string") return x.trim();
-        if (x && typeof x === "object") {
-          return asText(x.text || x.title || x.headline || x.summary || x.name);
-        }
-        return asText(x);
-      })
-      .filter(Boolean);
+    return v.map((x) => asText(x)).filter(Boolean);
   }
 
   if (typeof v === "string") {
@@ -53,100 +43,45 @@ function asList(v: any): string[] {
   return [];
 }
 
-function cleanTitle(value: string): string {
-  return value
-    .replace(/_/g, " ")
-    .replace(/\b\w/g, (char) => char.toUpperCase());
-}
-
 function getSections(report: JsonObject): any[] {
-  if (!report || typeof report !== "object") return [];
-
-  if (Array.isArray(report.sections)) {
-    return report.sections.filter(Boolean);
-  }
-
+  if (Array.isArray(report.sections)) return report.sections;
   if (report.sections && typeof report.sections === "object") {
-    return Object.entries(report.sections)
-      .filter(([, value]) => value && typeof value === "object")
-      .map(([key, value]: [string, any]) => ({
-        id: value.id || key,
-        title: value.title || cleanTitle(key),
-        headline: value.headline || value.title || cleanTitle(key),
-        snapshot: value.snapshot || value.summary || "",
-        content: value.content || "",
-        key_storylines:
-          value.key_storylines ||
-          value.keyStorylines ||
-          value.storylines ||
-          value.items ||
-          [],
-        updated_at: value.updated_at || value.generated_at || "",
-      }));
+    return Object.values(report.sections);
   }
-
   return [];
 }
 
-function Card({ section }: { section: any }) {
-  const title = asText(section.title || "Politics Report");
-  const headline = asText(section.headline || title);
-  const snapshot = asText(section.snapshot);
-  const content = asText(section.content);
-  const storylines = asList(section.key_storylines);
-
-  const fallbackItems = content
-    .split("\n")
-    .map((line) => line.trim())
-    .filter(
-      (line) =>
-        line.length > 25 &&
-        !["HEADLINE", "SNAPSHOT", "KEY STORYLINES"].includes(line.toUpperCase())
-    )
-    .slice(0, 5);
-
-  const items = storylines.length ? storylines : fallbackItems;
+// 🔥 CLEAN NEWS LINE (ROLL CALL STYLE)
+function NewsLine({ item }: { item: any }) {
+  const headline = asText(item.headline);
+  const url = item.url || "#";
+  const context = asText(item.snapshot);
 
   return (
-    <article className="rounded-3xl bg-white p-6 shadow-xl">
-      <span className="text-xs font-black uppercase tracking-widest text-red-600">
-        {title}
-      </span>
-
-      <h2 className="mt-3 text-2xl font-black text-slate-900">
+    <div className="py-2 border-b border-neutral-800">
+      <a
+        href={url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="block text-lg font-bold text-white hover:text-red-400"
+      >
         {headline}
-      </h2>
+      </a>
 
-      {snapshot ? (
-        <p className="mt-4 text-base leading-7 text-slate-700">
-          {snapshot}
-        </p>
-      ) : null}
-
-      {items.length > 0 ? (
-        <div className="mt-5 space-y-3">
-          {items.map((item: string, i: number) => (
-            <div
-              key={i}
-              className="border-l-4 border-red-600 bg-slate-50 px-4 py-3 text-sm font-semibold leading-6 text-slate-900"
-            >
-              {item}
-            </div>
-          ))}
+      {context && (
+        <div className="text-sm text-neutral-400 mt-1">
+          {context}
         </div>
-      ) : null}
-    </article>
+      )}
+    </div>
   );
 }
 
 export default function Home() {
   const report = readReport();
 
-  const headline = asText(report.headline || "Global Politics Report");
-  const snapshot = asText(
-    report.snapshot ||
-      "Real-time developments across government, elections, policy and power."
-  );
+  const headline = asText(report.headline);
+  const snapshot = asText(report.snapshot);
   const updated = asText(report.updated_at || report.generated_at);
 
   const sections = getSections(report);
@@ -154,87 +89,86 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="mx-auto max-w-7xl px-5 py-6">
-        <header className="grid gap-8 border-b border-neutral-800 pb-10 lg:grid-cols-[1.2fr_0.8fr]">
-          <div>
-            <div className="mb-4 flex flex-wrap gap-3">
-              <span className="bg-red-700 px-4 py-2 text-xs font-black uppercase tracking-widest">
+      <div className="max-w-5xl mx-auto px-4 py-6">
+
+        {/* HEADER */}
+        <header className="border-b border-neutral-800 pb-6 mb-6">
+
+          <div className="flex justify-between items-start gap-6">
+
+            <div>
+              <div className="text-xs uppercase font-black tracking-widest text-red-400 mb-2">
                 GLOBAL POLITICS REPORT
-              </span>
+              </div>
 
-              <span className="border border-neutral-600 px-4 py-2 text-xs font-black uppercase tracking-widest">
-                BUILT FOR JOURNALISTS
-              </span>
+              <h1 className="text-3xl font-extrabold leading-tight">
+                {headline}
+              </h1>
+
+              {snapshot && (
+                <p className="text-sm text-neutral-400 mt-2 max-w-2xl">
+                  {snapshot}
+                </p>
+              )}
+
+              <div className="text-xs text-neutral-500 mt-2">
+                Updated {updated}
+              </div>
             </div>
 
-            <h1 className="text-5xl font-black leading-tight">
-              {headline}
-            </h1>
+            {/* VIDEO */}
+            <div className="w-[320px] hidden lg:block">
+              <div className="text-xs font-bold mb-1 text-red-400">
+                LIVE
+              </div>
 
-            <p className="mt-5 max-w-3xl text-lg text-neutral-300">
-              {snapshot}
-            </p>
-
-            <div className="mt-5 flex flex-wrap gap-3">
-              {updated ? (
-                <span className="rounded-full bg-white px-4 py-2 text-xs font-bold text-black">
-                  UPDATED {updated}
-                </span>
-              ) : null}
-
-              <span className="rounded-full border border-red-500 px-4 py-2 text-xs font-bold text-red-300">
-                {sections.length} REPORTS
-              </span>
-            </div>
-          </div>
-
-          <div className="rounded-3xl bg-neutral-900 p-5">
-            <div className="mb-2 text-xs font-black uppercase text-red-400">
-              LIVE POLITICS VIDEO
+              <div className="aspect-video bg-black rounded overflow-hidden">
+                <iframe
+                  src={`${VIDEO_URL}?autoplay=1&mute=1`}
+                  title="Live Video"
+                  allow="autoplay; encrypted-media"
+                  allowFullScreen
+                  className="w-full h-full"
+                />
+              </div>
             </div>
 
-            <div className="aspect-video overflow-hidden rounded-xl bg-black">
-<iframe
-  src={`${VIDEO_URL}?autoplay=1&mute=1`}
-  title="Live Video"
-  allow="autoplay; encrypted-media"
-  allowFullScreen
-  className="w-full h-full rounded-2xl"
-/>
-          </div>
-
-            <div className="mt-3 text-xs text-neutral-400">
-              Live politics video stream.
-            </div>
           </div>
         </header>
 
-        {keyStorylines.length > 0 ? (
-          <section className="grid gap-4 py-6 md:grid-cols-2 lg:grid-cols-4">
-            {keyStorylines.slice(0, 4).map((s, i) => (
-              <div key={i} className="rounded-2xl border border-neutral-800 p-4">
-                <p className="text-sm font-semibold">{s}</p>
+        {/* 🔥 KEY STORYLINES */}
+        <section className="mb-6">
+          {keyStorylines.map((s, i) => (
+            <div key={i} className="py-2 border-b border-neutral-800">
+              <div className="text-base font-semibold text-white">
+                {s}
               </div>
-            ))}
-          </section>
-        ) : null}
-
-        <section className="grid gap-6 py-8 lg:grid-cols-2">
-          {sections.length ? (
-            sections.map((s, i) => <Card key={s.id || i} section={s} />)
-          ) : (
-            <article className="rounded-3xl bg-white p-6 text-black">
-              <h2 className="text-2xl font-black">No politics sections found.</h2>
-              <p className="mt-3 font-semibold">
-                Check public/latest_report.json and confirm the politics section exists.
-              </p>
-            </article>
-          )}
+            </div>
+          ))}
         </section>
 
-        <footer className="mt-10 text-center text-sm text-neutral-400">
-          Global Politics Report · GSR Network
-        </footer>
+        {/* 🔥 MAIN NEWS FLOW */}
+        <section>
+          {sections.map((s: any, i: number) => (
+            <NewsLine key={i} item={s} />
+          ))}
+        </section>
+
+        {/* TOOLKIT */}
+        <section className="mt-8 border-t border-neutral-800 pt-6">
+          <div className="text-xs uppercase font-black text-red-400 mb-3">
+            Journalist Toolkit
+          </div>
+
+          <div className="space-y-2 text-sm">
+            <a href="https://www.reuters.com/world/politics/" target="_blank" className="block hover:underline">Reuters Politics</a>
+            <a href="https://www.apnews.com/politics" target="_blank" className="block hover:underline">Associated Press</a>
+            <a href="https://www.politico.com" target="_blank" className="block hover:underline">Politico</a>
+            <a href="https://rollcall.com" target="_blank" className="block hover:underline">Roll Call</a>
+            <a href="https://thehill.com" target="_blank" className="block hover:underline">The Hill</a>
+          </div>
+        </section>
+
       </div>
     </main>
   );
