@@ -5,9 +5,7 @@ export const dynamic = "force-dynamic";
 
 type JsonObject = { [key: string]: any };
 
-const VIDEO_URL =
-  process.env.NEXT_PUBLIC_GPR_VIDEO_URL ||
-  "https://www.youtube.com/embed/9Auq9mYxFEE";
+const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg";
 
 function readReport(): JsonObject {
   try {
@@ -197,11 +195,11 @@ export default function Home() {
 
             <div className="aspect-video overflow-hidden rounded-xl bg-black">
 <iframe
-  src={VIDEO_URL}
-  title="Live Politics Video"
-  className="h-full w-full border-0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  src={`${VIDEO_URL}?autoplay=1&mute=1`}
+  title="Live Video"
+  allow="autoplay; encrypted-media"
   allowFullScreen
+  className="w-full h-full rounded-2xl"
 />
           </div>
 
