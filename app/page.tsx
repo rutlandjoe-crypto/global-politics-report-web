@@ -5,8 +5,8 @@ export const dynamic = "force-dynamic";
 
 type JsonObject = { [key: string]: any };
 
-// ✅ CLEAN + STABLE EMBED
-const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg?rel=0";
+// ✅ STABLE VIDEO
+const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1";
 
 function readReport(): JsonObject {
   try {
@@ -22,17 +22,15 @@ function readReport(): JsonObject {
   }
 }
 
-function asText(v: any): string {
+function clean(v: any): string {
   if (!v) return "";
-  return String(v).trim();
+  return String(v).replace(/\s+/g, " ").trim();
 }
 
-function asList(v: any): string[] {
+function list(v: any): string[] {
   if (!v) return [];
 
-  if (Array.isArray(v)) {
-    return v.map((x) => asText(x)).filter(Boolean);
-  }
+  if (Array.isArray(v)) return v.map(clean).filter(Boolean);
 
   if (typeof v === "string") {
     return v
@@ -44,36 +42,86 @@ function asList(v: any): string[] {
   return [];
 }
 
-function getSections(report: JsonObject): any[] {
+function getStories(report: JsonObject): any[] {
   if (Array.isArray(report.sections)) return report.sections;
+
   if (report.sections && typeof report.sections === "object") {
     return Object.values(report.sections);
   }
+
   return [];
 }
 
-// 🔥 CLEAN NEWS LINE (ROLL CALL STYLE)
-function NewsLine({ item }: { item: any }) {
-  const headline = asText(item.headline);
-  const url = item.url || "#";
-  const context = asText(item.snapshot);
+// 🔥 STORY CARD (REAL STRUCTURE)
+function StoryCard({ story, index }: { story: any; index: number }) {
+  const headline = clean(story.headline) || `Politics Story ${index + 1}`;
+  const url = story.url || "#";
+  const summary = clean(story.snapshot || story.summary);
+
+  const keyData = list(story.key_data);
+  const why = list(story.why_it_matters);
+  const watch = list(story.what_to_watch);
 
   return (
-    <div className="py-2 border-b border-neutral-800">
+    <div className="border border-neutral-800 rounded-xl p-5 bg-neutral-900 mb-6">
+
+      {/* HEADLINE */}
       <a
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className="block text-lg font-bold text-white hover:text-red-400"
+        className="text-2xl font-extrabold text-white hover:text-red-400 block"
       >
         {headline}
       </a>
 
-      {context && (
-        <div className="text-sm text-neutral-400 mt-1">
-          {context}
+      {/* SUMMARY */}
+      {summary && (
+        <div className="text-sm text-neutral-400 mt-2">
+          {summary}
         </div>
       )}
+
+      {/* DATA GRID */}
+      <div className="grid md:grid-cols-3 gap-4 mt-4">
+
+        {/* KEY DATA */}
+        <div className="bg-black p-3 rounded-lg">
+          <div className="text-xs font-black text-red-400 mb-2">
+            KEY DATA
+          </div>
+          {keyData.length ? keyData.map((d, i) => (
+            <div key={i} className="text-sm border-b border-neutral-800 py-1">
+              {d}
+            </div>
+          )) : <div className="text-sm text-neutral-500">No data</div>}
+        </div>
+
+        {/* WHY IT MATTERS */}
+        <div className="bg-black p-3 rounded-lg">
+          <div className="text-xs font-black text-red-400 mb-2">
+            WHY IT MATTERS
+          </div>
+          {why.length ? why.map((d, i) => (
+            <div key={i} className="text-sm border-b border-neutral-800 py-1">
+              {d}
+            </div>
+          )) : <div className="text-sm text-neutral-500">Editorial impact developing</div>}
+        </div>
+
+        {/* WHAT TO WATCH */}
+        <div className="bg-black p-3 rounded-lg">
+          <div className="text-xs font-black text-red-400 mb-2">
+            WHAT TO WATCH
+          </div>
+          {watch.length ? watch.map((d, i) => (
+            <div key={i} className="text-sm border-b border-neutral-800 py-1">
+              {d}
+            </div>
+          )) : <div className="text-sm text-neutral-500">Next movement pending</div>}
+        </div>
+
+      </div>
     </div>
   );
 }
@@ -81,12 +129,23 @@ function NewsLine({ item }: { item: any }) {
 export default function Home() {
   const report = readReport();
 
-  const headline = asText(report.headline);
-  const snapshot = asText(report.snapshot);
-  const updated = asText(report.updated_at || report.generated_at);
+  const headline = clean(report.headline);
+  const snapshot = clean(report.snapshot);
+  const updated = clean(report.updated_at || report.generated_at);
 
-  const sections = getSections(report);
-  const keyStorylines = asList(report.key_storylines);
+  let stories = getStories(report);
+
+  if (!stories.length) {
+    stories = [{
+      headline: headline,
+      snapshot: snapshot,
+      key_data: ["Politics pipeline awaiting update"],
+      why_it_matters: ["Coverage gap for newsroom"],
+      what_to_watch: ["Next content engine run"]
+    }];
+  }
+
+  const keyStorylines = list(report.key_storylines);
 
   return (
     <main className="min-h-screen bg-black text-white">
@@ -94,21 +153,19 @@ export default function Home() {
 
         {/* HEADER */}
         <header className="border-b border-neutral-800 pb-6 mb-6">
+          <div className="grid lg:grid-cols-[1.2fr_1fr] gap-6">
 
-          <div className="grid lg:grid-cols-[1.2fr_1fr] gap-6 items-start">
-
-            {/* LEFT */}
             <div>
               <div className="text-xs uppercase font-black tracking-widest text-red-400 mb-2">
                 GLOBAL POLITICS REPORT
               </div>
 
-              <h1 className="text-4xl font-extrabold leading-tight">
+              <h1 className="text-4xl font-extrabold">
                 {headline}
               </h1>
 
               {snapshot && (
-                <p className="text-base text-neutral-400 mt-3 max-w-2xl">
+                <p className="text-neutral-400 mt-3 max-w-2xl">
                   {snapshot}
                 </p>
               )}
@@ -118,45 +175,38 @@ export default function Home() {
               </div>
             </div>
 
-            {/* RIGHT — BIG VIDEO */}
+            {/* VIDEO */}
             <div>
               <div className="text-xs font-bold mb-2 text-red-400">
-                LIVE POLITICS COVERAGE
+                LIVE COVERAGE
               </div>
 
-              <div className="aspect-video bg-black rounded-xl overflow-hidden border border-neutral-800">
+              <div className="aspect-video rounded-xl overflow-hidden border border-neutral-800">
                 <iframe
                   src={VIDEO_URL}
-                  title="Live Politics Video"
                   allow="autoplay; encrypted-media"
                   allowFullScreen
                   className="w-full h-full"
                 />
-              </div>
-
-              <div className="text-xs text-neutral-500 mt-2">
-                Live politics news stream
               </div>
             </div>
 
           </div>
         </header>
 
-        {/* KEY STORYLINES */}
+        {/* STORYLINES */}
         <section className="mb-6">
           {keyStorylines.map((s, i) => (
             <div key={i} className="py-2 border-b border-neutral-800">
-              <div className="text-base font-semibold text-white">
-                {s}
-              </div>
+              {s}
             </div>
           ))}
         </section>
 
-        {/* MAIN NEWS */}
+        {/* STORIES */}
         <section>
-          {sections.map((s: any, i: number) => (
-            <NewsLine key={i} item={s} />
+          {stories.slice(0, 10).map((s, i) => (
+            <StoryCard key={i} story={s} index={i} />
           ))}
         </section>
 
@@ -168,7 +218,7 @@ export default function Home() {
 
           <div className="space-y-2 text-sm">
             <a href="https://www.reuters.com/world/politics/" target="_blank" className="block hover:underline">Reuters Politics</a>
-            <a href="https://www.apnews.com/politics" target="_blank" className="block hover:underline">Associated Press</a>
+            <a href="https://apnews.com/hub/politics" target="_blank" className="block hover:underline">Associated Press</a>
             <a href="https://www.politico.com" target="_blank" className="block hover:underline">Politico</a>
             <a href="https://rollcall.com" target="_blank" className="block hover:underline">Roll Call</a>
             <a href="https://thehill.com" target="_blank" className="block hover:underline">The Hill</a>
