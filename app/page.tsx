@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import EditorialStandard from "@/components/EditorialStandard";
 
 export const dynamic = "force-dynamic";
 
@@ -347,6 +348,7 @@ export default function Page() {
             {SITE.descriptor}
           </p>
         </div>
+        <EditorialStandard />
       </footer>
     </main>
   );
