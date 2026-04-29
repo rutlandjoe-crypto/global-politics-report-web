@@ -65,21 +65,19 @@ jobs:
         run: |
           git add public/latest_report.json public/latest_report.txt public/global_sports_report.txt || true
 
-      - name: Commit updated site data if changed
+            - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com}"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --cached --quiet; then
-            echo "No site-data changes to commit."
-          else
-            git commit -m "Auto update GSR site data"
-          fi
+          git add public/latest_report.json public/latest_report.txt || true
 
-      - name: Push changes
-        run: |
           if git diff --cached --quiet && git diff --quiet; then
-            echo "Nothing to push."
-          else
-            git push origin HEAD:master
+            echo "No changes to commit."
+            exit 0
           fi
+
+          git commit -m "Update politics report"
+
+          git pull --rebase origin master
+          git push origin HEAD:master
