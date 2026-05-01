@@ -3,19 +3,20 @@ name: GSR Morning Run
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *"
-      timezone: "America/New_York"
-    - cron: "0 11 * * *"
-      timezone: "America/New_York"
-    - cron: "0 17 * * *"
-      timezone: "America/New_York"
+    # GitHub cron uses UTC only.
+    # 9 AM ET = 13:00 UTC during daylight time / 14:00 UTC during standard time
+    # 3 PM ET = 19:00 UTC during daylight time / 20:00 UTC during standard time
+    # 9 PM ET = 01:00 UTC next day during daylight time / 02:00 UTC during standard time
+    - cron: "0 13 * * *"
+    - cron: "0 19 * * *"
+    - cron: "0 1 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: gsr-morning-run
-  cancel-in-progress: false
+  group: gsr-morning-run-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   run-gsr:
@@ -36,6 +37,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v5
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,26 +54,18 @@ jobs:
             pip install requests python-dotenv tweepy
           fi
 
-      - name: Show working directory
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 2 -type f | sort
-
       - name: Run master runner
         run: |
           python master_runner.py
-
-      - name: Stage website files
-        run: |
-          git add public/latest_report.json public/latest_report.txt || true
 
       - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --cached --quiet && git diff --quiet; then
+          git add public/latest_report.json public/latest_report.txt || true
+
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
