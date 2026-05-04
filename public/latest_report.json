@@ -1,24 +1,51 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump goes after Jeffries after Supreme Court voting rights comments: 'Isn't he subject to Impeachment?'",
-  "snapshot": "President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the Voting Rights Act. \"Hakeem Jeffries, a Low IQ individual, said our Supreme Court is 'illegitimate.' After saying such a thing,...",
-  "updated_at": "2026-05-04 07:26:08 AM ET",
-  "generated_at": "2026-05-04 07:26:08 AM ET",
+  "headline": "Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
+  "snapshot": "Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital waterway. \"Iran's armed forces, just like in the 40-day war, will not allow passage to American combat forces, and any transit in...",
+  "updated_at": "2026-05-04 09:04:33 AM ET",
+  "generated_at": "2026-05-04 09:04:33 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 155,
-    "live_fresh_items": 31,
-    "editor_fresh_items": 86,
+    "live_fresh_items": 39,
+    "editor_fresh_items": 92,
     "public_fallback_items": 154,
-    "stale_or_blocked_items": 124,
+    "stale_or_blocked_items": 116,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-04 07:26:08 AM ET"
+    "last_checked": "2026-05-04 09:04:33 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
+      "url": "https://thehill.com/policy/defense/5861929-iran-us-conflict-shipping/",
+      "snapshot": "Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital waterway. \"Iran's armed forces, just like in the 40-day war, will not allow passage to American combat forces, and any transit in...",
+      "key_data": [
+        "Key people or organizations: Iran, Strait, Hormuz, Trump",
+        "Specific figures mentioned: 40",
+        "Story focus: Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
+        "Source context: Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital..."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 04 May 2026 12:48:48 +0000",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
     {
       "headline": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss",
@@ -40,7 +67,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 10:55:19 +0000",
-      "age_hours": "0.51",
+      "age_hours": "2.15",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "BREAKING"
@@ -67,36 +94,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 03 May 2026 22:17:05 -0400",
-      "age_hours": "9.15",
+      "age_hours": "10.79",
       "freshness_status": "fresh",
       "editorial_score": "71",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump goes after Jeffries after Supreme Court voting rights comments: 'Isn't he subject to Impeachment?'",
-      "url": "https://thehill.com/homenews/administration/5861681-trump-jeffries-impeachment-supreme-court/",
-      "snapshot": "President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the Voting Rights Act. \"Hakeem Jeffries, a Low IQ individual, said our Supreme Court is 'illegitimate.' After saying such a thing,...",
-      "key_data": [
-        "Key people or organizations: Trump, Jeffries, Supreme Court, Isn",
-        "Story focus: Trump goes after Jeffries after Supreme Court voting rights comments",
-        "Source context: President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 04 May 2026 00:25:46 +0000",
-      "age_hours": "11.01",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": ""
     },
     {
       "headline": "'I can't feel my leg': Israeli gunfire disables teenagers in West Bank",
@@ -119,7 +120,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 09:44:41 +0000",
-      "age_hours": "1.69",
+      "age_hours": "3.33",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
@@ -145,7 +146,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 04:45:52 +0000",
-      "age_hours": "6.67",
+      "age_hours": "8.31",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "WATCH"
@@ -153,29 +154,30 @@
   ],
   "editor_signals": [
     {
-      "headline": "Political signal: Trump goes after Jeffries after Supreme Court voting rights comments",
-      "url": "https://thehill.com/homenews/administration/5861681-trump-jeffries-impeachment-supreme-court/",
-      "snapshot": "President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the Voting Rights Act. \"Hakeem Jeffries, a Low IQ individual, said our Supreme Court is 'illegitimate.' After saying such a thing,...",
+      "headline": "Political signal: Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
+      "url": "https://thehill.com/policy/defense/5861929-iran-us-conflict-shipping/",
+      "snapshot": "Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital waterway. \"Iran's armed forces, just like in the 40-day war, will not allow passage to American combat forces, and any transit in...",
       "key_data": [
-        "Key people or organizations: Political, Trump, Jeffries, Supreme Court",
+        "Key people or organizations: Political, Iran, Strait, Hormuz",
+        "Specific figures mentioned: 40",
         "Story focus: Political signal",
-        "Source context: President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the..."
+        "Source context: Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Power, policy or institutional accountability angle.",
+      "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 04 May 2026 00:25:46 +0000",
-      "age_hours": "11.01",
+      "published": "Mon, 04 May 2026 12:48:48 +0000",
+      "age_hours": "0.26",
       "freshness_status": "fresh",
-      "editorial_score": "104",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
@@ -199,41 +201,67 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 09:57:05 +0000",
-      "age_hours": "1.48",
+      "age_hours": "3.12",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Trump's poll numbers tank as Iran war continues to jack up gas prices",
-      "url": "https://www.cbsnews.com/video/trumps-poll-numbers-tank-as-iran-war-continues-to-jack-up-gas-prices/",
-      "snapshot": "Prolonged uncertainty about the war in Iran coupled with rising energy and grocery prices are pummeling pocketbooks and President Trump's polling numbers. Olivia Gazis reports.",
+      "headline": "Political signal: Sen. Raphael Warnock",
+      "url": "https://www.cbsnews.com/news/raphael-warnock-callais-decision-supreme-court-redistricting-gerrymandering/",
+      "snapshot": "Democratic Sen. Raphael Warnock of Georgia called the Supreme Court's decision last week to strike down Louisiana's congressional map and weaken the Voting Rights Act \"a massive and devastating blow.\"",
       "key_data": [
-        "Key people or organizations: Political, Trump, Iran, Prolonged",
+        "Key people or organizations: Political, Sen, Raphael Warnock, Democratic Sen",
         "Story focus: Political signal",
-        "Source context: Prolonged uncertainty about the war in Iran coupled with rising energy and grocery prices are pummeling pocketbooks and President Trump's polling..."
+        "Source context: Democratic Sen. Raphael Warnock of Georgia called the Supreme Court's decision last week to strike down Louisiana's congressional map and weaken the..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 03 May 2026 20:59:00 -0400",
-      "age_hours": "10.45",
+      "published": "Sun, 03 May 2026 16:06:17 -0400",
+      "age_hours": "16.97",
+      "freshness_status": "stale",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Watch live",
+      "url": "https://thehill.com/homenews/administration/5861858-president-trump-small-business/",
+      "snapshot": "President Trump on Monday afternoon is expected to participate in a small business summit at the White House. It comes one day after he said that the U.S. will assist in freeing ships in the Strait of Hormuz, a key waterway for the oil industry, which has been closed during...",
+      "key_data": [
+        "Key people or organizations: Political, President Trump, White House, It",
+        "Story focus: Political signal",
+        "Source context: President Trump on Monday afternoon is expected to participate in a small business summit at the White House. It comes one day after he said that the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 04 May 2026 12:51:50 +0000",
+      "age_hours": "0.21",
       "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "96",
       "urgency": ""
     },
     {
       "headline": "Political signal: Republicans see GOP dysfunction as major liability ahead of midterms",
       "url": "https://thehill.com/homenews/senate/5860118-senate-republicans-house-infighting-gridlock/",
-      "snapshot": "Senate Republicans say the dysfunction in the House is becoming a liability for the broader GOP brand ahead of this year's midterm elections, warning that if Congress can't break through legislative gridlock the party's candidates will pay a severe political price in November....",
+      "snapshot": "Senate Republicans say the dysfunction in the House is becoming a liability for the broader GOP brand ahead of this year's midterm elections, warning that if Congress can't break through legislative gridlock, the party's candidates will pay a severe political price in...",
       "key_data": [
         "Key people or organizations: Political, Republicans, GOP, Senate Republicans",
         "Story focus: Political signal",
@@ -251,68 +279,43 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 10:00:00 +0000",
-      "age_hours": "1.44",
+      "age_hours": "3.08",
       "freshness_status": "fresh",
       "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Senate Democrat on redistricting",
-      "url": "https://thehill.com/homenews/senate/5861331-warnock-slams-supreme-court-voting-rights/",
-      "snapshot": "Sen. Raphael Warnock (D-Ga.) on Sunday slammed the Supreme Court for striking down Louisiana's congressional maps this week, arguing the national redistricting push is allowing lawmakers to choose their voters rather than upholding the democratic process. \"Gerrymandering turns...",
-      "key_data": [
-        "Key people or organizations: Political, Senate Democrat, Sen, Raphael Warnock",
-        "Story focus: Political signal",
-        "Source context: Sen. Raphael Warnock (D-Ga.) on Sunday slammed the Supreme Court for striking down Louisiana's congressional maps this week, arguing the national..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 03 May 2026 15:57:36 +0000",
-      "age_hours": "19.48",
-      "freshness_status": "stale",
-      "editorial_score": "90",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump goes after Jeffries after Supreme Court voting rights comments: 'Isn't he subject to Impeachment?'",
+    "Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
     "NATO chief says Europeans have 'gotten the message' from Trump on defence",
-    "Trump's poll numbers tank as Iran war continues to jack up gas prices"
+    "5/3: CBS Weekend News"
   ],
   "sections": [
     {
-      "headline": "Trump goes after Jeffries after Supreme Court voting rights comments: 'Isn't he subject to Impeachment?'",
-      "url": "https://thehill.com/homenews/administration/5861681-trump-jeffries-impeachment-supreme-court/",
-      "snapshot": "President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the Voting Rights Act. \"Hakeem Jeffries, a Low IQ individual, said our Supreme Court is 'illegitimate.' After saying such a thing,...",
+      "headline": "Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
+      "url": "https://thehill.com/policy/defense/5861929-iran-us-conflict-shipping/",
+      "snapshot": "Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital waterway. \"Iran's armed forces, just like in the 40-day war, will not allow passage to American combat forces, and any transit in...",
       "key_data": [
-        "Key people or organizations: Trump, Jeffries, Supreme Court, Isn",
-        "Story focus: Trump goes after Jeffries after Supreme Court voting rights comments",
-        "Source context: President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the..."
+        "Key people or organizations: Iran, Strait, Hormuz, Trump",
+        "Specific figures mentioned: 40",
+        "Story focus: Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
+        "Source context: Iran issued a threat over the Strait of Hormuz after President Trump announced Sunday that the U.S. would assist in freeing up vessels in the vital..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Iran.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Power, policy or institutional accountability angle.",
+      "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 04 May 2026 00:25:46 +0000",
-      "age_hours": "11.01",
+      "published": "Mon, 04 May 2026 12:48:48 +0000",
+      "age_hours": "0.26",
       "freshness_status": "fresh",
-      "editorial_score": "104",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
@@ -336,41 +339,68 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 09:57:05 +0000",
-      "age_hours": "1.48",
+      "age_hours": "3.12",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
     },
     {
-      "headline": "Trump's poll numbers tank as Iran war continues to jack up gas prices",
-      "url": "https://www.cbsnews.com/video/trumps-poll-numbers-tank-as-iran-war-continues-to-jack-up-gas-prices/",
-      "snapshot": "Prolonged uncertainty about the war in Iran coupled with rising energy and grocery prices are pummeling pocketbooks and President Trump's polling numbers. Olivia Gazis reports.",
+      "headline": "5/3: CBS Weekend News",
+      "url": "https://www.cbsnews.com/video/050326-cbs-weekend-news/",
+      "snapshot": "Passengers deal with Spirit shutdown fallout; Trump's poll numbers tank as Iran war continues to jack up gas prices.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, Prolonged, President Trump",
-        "Story focus: Trump's poll numbers tank as Iran war continues to jack up gas prices",
-        "Source context: Prolonged uncertainty about the war in Iran coupled with rising energy and grocery prices are pummeling pocketbooks and President Trump's polling..."
+        "Key people or organizations: CBS Weekend News, Passengers, Spirit, Trump",
+        "Specific figures mentioned: 5, 3",
+        "Story focus: 5/3",
+        "Source context: Passengers deal with Spirit shutdown fallout; Trump's poll numbers tank as Iran war continues to jack up gas prices."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
         "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
+        "Watch for the next official action involving CBS Weekend News.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 03 May 2026 22:17:05 -0400",
+      "age_hours": "10.79",
+      "freshness_status": "fresh",
+      "editorial_score": "71",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Watch live: Trump participates in small business summit",
+      "url": "https://thehill.com/homenews/administration/5861858-president-trump-small-business/",
+      "snapshot": "President Trump on Monday afternoon is expected to participate in a small business summit at the White House. It comes one day after he said that the U.S. will assist in freeing ships in the Strait of Hormuz, a key waterway for the oil industry, which has been closed during...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, White House, It",
+        "Story focus: Watch live",
+        "Source context: President Trump on Monday afternoon is expected to participate in a small business summit at the White House. It comes one day after he said that the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
         "Watch for the next official action involving Trump.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 03 May 2026 20:59:00 -0400",
-      "age_hours": "10.45",
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 04 May 2026 12:51:50 +0000",
+      "age_hours": "0.21",
       "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "96",
       "urgency": ""
     },
     {
       "headline": "Republicans see GOP dysfunction as major liability ahead of midterms",
       "url": "https://thehill.com/homenews/senate/5860118-senate-republicans-house-infighting-gridlock/",
-      "snapshot": "Senate Republicans say the dysfunction in the House is becoming a liability for the broader GOP brand ahead of this year's midterm elections, warning that if Congress can't break through legislative gridlock the party's candidates will pay a severe political price in November....",
+      "snapshot": "Senate Republicans say the dysfunction in the House is becoming a liability for the broader GOP brand ahead of this year's midterm elections, warning that if Congress can't break through legislative gridlock, the party's candidates will pay a severe political price in...",
       "key_data": [
         "Key people or organizations: Republicans, GOP, Senate Republicans, House",
         "Story focus: Republicans see GOP dysfunction as major liability ahead of midterms",
@@ -388,7 +418,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 10:00:00 +0000",
-      "age_hours": "1.44",
+      "age_hours": "3.08",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -414,7 +444,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 08:20:54 +0000",
-      "age_hours": "3.09",
+      "age_hours": "4.73",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": ""
@@ -440,7 +470,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 10:00:00 +0000",
-      "age_hours": "1.44",
+      "age_hours": "3.08",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
@@ -467,7 +497,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 09:11:08 +0000",
-      "age_hours": "2.25",
+      "age_hours": "3.89",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
@@ -493,7 +523,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 03:47:00 +0000",
-      "age_hours": "7.65",
+      "age_hours": "9.29",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
@@ -519,7 +549,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 10:55:19 +0000",
-      "age_hours": "0.51",
+      "age_hours": "2.15",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "BREAKING"
@@ -545,7 +575,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 09:44:41 +0000",
-      "age_hours": "1.69",
+      "age_hours": "3.33",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
@@ -571,7 +601,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 04:45:52 +0000",
-      "age_hours": "6.67",
+      "age_hours": "8.31",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "WATCH"
@@ -597,37 +627,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 03:37:09 +0000",
-      "age_hours": "7.82",
+      "age_hours": "9.46",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
-    },
-    {
-      "headline": "5/3: CBS Weekend News",
-      "url": "https://www.cbsnews.com/video/050326-cbs-weekend-news/",
-      "snapshot": "Passengers deal with Spirit shutdown fallout; Trump's poll numbers tank as Iran war continues to jack up gas prices.",
-      "key_data": [
-        "Key people or organizations: CBS Weekend News, Passengers, Spirit, Trump",
-        "Specific figures mentioned: 5, 3",
-        "Story focus: 5/3",
-        "Source context: Passengers deal with Spirit shutdown fallout; Trump's poll numbers tank as Iran war continues to jack up gas prices."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving CBS Weekend News.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 03 May 2026 22:17:05 -0400",
-      "age_hours": "9.15",
-      "freshness_status": "fresh",
-      "editorial_score": "71",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Former NYC Mayor Giuliani hospitalised in 'critical condition'",
@@ -650,7 +653,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 07:19:47 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.75",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
