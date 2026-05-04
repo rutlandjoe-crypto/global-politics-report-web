@@ -3,8 +3,8 @@
   "vertical": "Politics",
   "headline": "Trump family crypto firm sues billionaire investor Justin Sun for defamation",
   "snapshot": "World Liberty Financial, the Trump family's cryptocurrency company, is suing billionaire investor Justin Sun for defamation after he accused the firm of improperly freezing his tokens. In a lawsuit filed Monday, the company argued that Sun engaged in a \"campaign of defamatory...",
-  "updated_at": "2026-05-04 06:31:34 PM ET",
-  "generated_at": "2026-05-04 06:31:34 PM ET",
+  "updated_at": "2026-05-04 07:33:06 PM ET",
+  "generated_at": "2026-05-04 07:33:06 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,11 +12,11 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 155,
     "live_fresh_items": 82,
-    "editor_fresh_items": 124,
+    "editor_fresh_items": 127,
     "public_fallback_items": 128,
     "stale_or_blocked_items": 73,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-04 06:31:34 PM ET"
+    "last_checked": "2026-05-04 07:33:06 PM ET"
   },
   "live_newsroom": [
     {
@@ -40,7 +40,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 17:29:03 +0000",
-      "age_hours": "5.04",
+      "age_hours": "6.07",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -66,9 +66,35 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 17:29:33 +0000",
-      "age_hours": "5.03",
+      "age_hours": "6.06",
       "freshness_status": "fresh",
       "editorial_score": "102",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Alito temporarily restores FDA rule allowing abortion pill to be sent by mail",
+      "url": "https://www.cbsnews.com/news/mifepristone-alito-supreme-court-fda-mail/",
+      "snapshot": "A federal appeals court blocked a FDA rule that allowed the abortion pill mifepristone to be dispensed through the mail.",
+      "key_data": [
+        "Key people or organizations: Alito, FDA",
+        "Story focus: Alito temporarily restores FDA rule allowing abortion pill to be sent by mail",
+        "Source context: A federal appeals court blocked a FDA rule that allowed the abortion pill mifepristone to be dispensed through the mail."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Alito.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 04 May 2026 19:19:05 -0400",
+      "age_hours": "0.23",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -92,7 +118,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 18:44:24 +0000",
-      "age_hours": "3.79",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "BREAKING"
@@ -119,35 +145,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 14:49:23 +0000",
-      "age_hours": "7.70",
+      "age_hours": "8.73",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "New York Times faces a potential lawsuit from Trump's EEOC over discrimination allegations",
-      "url": "https://thehill.com/homenews/administration/5862229-trump-eeoc-potential-lawsuit-new-york-times/",
-      "snapshot": "The Equal Employment Opportunity Commission (EEOC) under the Trump administration is preparing to sue The New York Times over discrimination allegations, the Times reported, a suit it suggested was driven by politics. The potential lawsuit was sparked by a complaint from a...",
-      "key_data": [
-        "Key people or organizations: New York Times, Trump, EEOC, Commission",
-        "Story focus: New York Times faces a potential lawsuit from Trump's EEOC over discrimination allegations",
-        "Source context: The Equal Employment Opportunity Commission (EEOC) under the Trump administration is preparing to sue The New York Times over discrimination..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving New York Times.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 04 May 2026 15:25:06 +0000",
-      "age_hours": "7.11",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
       "urgency": "DEVELOPING"
     }
   ],
@@ -173,7 +173,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 17:29:03 +0000",
-      "age_hours": "5.04",
+      "age_hours": "6.07",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -199,37 +199,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 17:29:33 +0000",
-      "age_hours": "5.03",
+      "age_hours": "6.06",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Full transcript of \"Face the Nation with Margaret Brennan,\" May 3, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-transcript-05-03-2026/",
-      "snapshot": "On this \"Face the Nation with Margaret Brennan\" broadcast, White House Economic Council Director Kevin Hassett and Sen. Raphael Warnock join Margaret Brennan.",
+      "headline": "Political signal: Alito temporarily restores FDA rule allowing abortion pill to be sent by mail",
+      "url": "https://www.cbsnews.com/news/mifepristone-alito-supreme-court-fda-mail/",
+      "snapshot": "A federal appeals court blocked a FDA rule that allowed the abortion pill mifepristone to be dispensed through the mail.",
       "key_data": [
-        "Key people or organizations: Political, Full, Face, Nation",
-        "Specific figures mentioned: 3, 2026",
+        "Key people or organizations: Political, Alito, FDA",
         "Story focus: Political signal",
-        "Source context: On this \"Face the Nation with Margaret Brennan\" broadcast, White House Economic Council Director Kevin Hassett and Sen. Raphael Warnock join Margaret..."
+        "Source context: A federal appeals court blocked a FDA rule that allowed the abortion pill mifepristone to be dispensed through the mail."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Power, policy or institutional accountability angle.",
+      "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 04 May 2026 09:34:00 -0400",
-      "age_hours": "8.96",
+      "published": "Mon, 04 May 2026 19:19:05 -0400",
+      "age_hours": "0.23",
       "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: Trump urges South Korea to join Iran war after ship fired upon",
@@ -252,7 +251,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 18:44:24 +0000",
-      "age_hours": "3.79",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "BREAKING"
@@ -279,7 +278,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 14:49:23 +0000",
-      "age_hours": "7.70",
+      "age_hours": "8.73",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -288,7 +287,7 @@
   "key_storylines": [
     "Trump family crypto firm sues billionaire investor Justin Sun for defamation",
     "US Supreme Court temporarily lifts ban on abortion pill mail delivery",
-    "Trump urges South Korea to join Iran war after ship fired upon"
+    "Alito temporarily restores FDA rule allowing abortion pill to be sent by mail"
   ],
   "sections": [
     {
@@ -312,7 +311,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 17:29:03 +0000",
-      "age_hours": "5.04",
+      "age_hours": "6.07",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -338,9 +337,35 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 17:29:33 +0000",
-      "age_hours": "5.03",
+      "age_hours": "6.06",
       "freshness_status": "fresh",
       "editorial_score": "102",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Alito temporarily restores FDA rule allowing abortion pill to be sent by mail",
+      "url": "https://www.cbsnews.com/news/mifepristone-alito-supreme-court-fda-mail/",
+      "snapshot": "A federal appeals court blocked a FDA rule that allowed the abortion pill mifepristone to be dispensed through the mail.",
+      "key_data": [
+        "Key people or organizations: Alito, FDA",
+        "Story focus: Alito temporarily restores FDA rule allowing abortion pill to be sent by mail",
+        "Source context: A federal appeals court blocked a FDA rule that allowed the abortion pill mifepristone to be dispensed through the mail."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Alito.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 04 May 2026 19:19:05 -0400",
+      "age_hours": "0.23",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -364,7 +389,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 18:44:24 +0000",
-      "age_hours": "3.79",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "BREAKING"
@@ -391,7 +416,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 14:49:23 +0000",
-      "age_hours": "7.70",
+      "age_hours": "8.73",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -418,7 +443,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 14:53:37 +0000",
-      "age_hours": "7.63",
+      "age_hours": "8.66",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": ""
@@ -444,7 +469,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 15:25:06 +0000",
-      "age_hours": "7.11",
+      "age_hours": "8.13",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -471,9 +496,35 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 12:48:48 +0000",
-      "age_hours": "9.71",
+      "age_hours": "10.74",
       "freshness_status": "fresh",
       "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "In feud with Trump, Jeffries weighs risks of how to respond",
+      "url": "https://thehill.com/homenews/house/5862960-jeffries-trump-feud-democrats-risks/",
+      "snapshot": "President Trump's escalated attacks on House Minority Leader Hakeem Jeffries (D-N.Y.) have created opportunities for Democrats racing to seize control of the lower chamber in this year's midterm elections. But they also carry plenty of political risks. Trump is widely...",
+      "key_data": [
+        "Key people or organizations: In, Trump, Jeffries, President Trump",
+        "Story focus: In feud with Trump, Jeffries weighs risks of how to respond",
+        "Source context: President Trump's escalated attacks on House Minority Leader Hakeem Jeffries (D-N.Y.) have created opportunities for Democrats racing to seize..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving In.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 04 May 2026 22:05:04 +0000",
+      "age_hours": "1.47",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
       "urgency": ""
     },
     {
@@ -498,7 +549,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 13:30:00 +0000",
-      "age_hours": "9.03",
+      "age_hours": "10.05",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "WATCH"
@@ -524,7 +575,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 13:46:13 +0000",
-      "age_hours": "8.76",
+      "age_hours": "9.78",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -550,7 +601,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 12:51:50 +0000",
-      "age_hours": "9.66",
+      "age_hours": "10.69",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -576,7 +627,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 04 May 2026 21:21:46 +0000",
-      "age_hours": "1.16",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -602,62 +653,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 04 May 2026 19:43:43 +0000",
-      "age_hours": "2.80",
+      "age_hours": "3.82",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iran ceasefire under threat as Trump's 'Project Freedom' escalates Strait of Hormuz tensions",
-      "url": "https://thehill.com/homenews/5862669-trump-project-freedom-hormuz-strait-tensions/",
-      "snapshot": "The fragile ceasefire between the U.S. and Iran is under threat of falling apart after President Trump declared that the U.S. would \"guide\" vessels through the Strait of Hormuz in an effort he called \"Project Freedom,\" to begin Monday. In response, Iran's armed forces said...",
-      "key_data": [
-        "Key people or organizations: Iran, Trump, Project Freedom, Strait",
-        "Story focus: Iran ceasefire under threat as Trump's 'Project Freedom' escalates Strait of Hormuz tensions",
-        "Source context: The fragile ceasefire between the U.S. and Iran is under threat of falling apart after President Trump declared that the U.S. would \"guide\" vessels..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 04 May 2026 18:51:20 +0000",
-      "age_hours": "3.67",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump and Meloni's transatlantic divorce is important",
-      "url": "https://thehill.com/opinion/5861466-rift-us-europe-allies/",
-      "snapshot": "Italian Prime Minister Giorgia Meloni has publicly distanced herself from President Trump, criticizing his military actions in Iran and declining to participate in mine sweeping operations in the Strait of Hormuz, due to the unpopularity of Trump and his policies in Italy.",
-      "key_data": [
-        "Key people or organizations: Trump, Meloni, Italian Prime Minister Giorgia, President Trump",
-        "Story focus: Trump and Meloni's transatlantic divorce is important",
-        "Source context: Italian Prime Minister Giorgia Meloni has publicly distanced herself from President Trump, criticizing his military actions in Iran and declining to..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 04 May 2026 16:00:00 +0000",
-      "age_hours": "6.53",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
     }
   ],
   "schema": {
