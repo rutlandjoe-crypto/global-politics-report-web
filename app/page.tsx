@@ -3,6 +3,8 @@ import path from "path";
 import EditorialStandard from "@/components/EditorialStandard";
 
 export const dynamic = "force-dynamic";
+export const revalidate = 0;
+export const fetchCache = "force-no-store";
 
 type AnyObj = Record<string, any>;
 
@@ -27,6 +29,23 @@ const GSR_NETWORK = [
   ["AI", "https://globalaireport.news"],
   ["Politics", "https://globalpoliticsreport.com"],
   ["Entertainment", "https://globalentertainmentreport.com"],
+  ["Betting", "https://globalbettingreport.com"],
+];
+
+const BAD_CONTENT_PHRASES = [
+  "source refresh",
+  "refresh needed",
+  "needed before publication",
+  "strict mode",
+  "current-day update pending",
+  "feed checked",
+  "required date",
+  "rebuild distribution",
+  "bad or stale",
+  "not allowed onto the homepage",
+  "no verified data point attached yet",
+  "no current items available",
+  "undefined",
 ];
 
 function readReport(): AnyObj {
@@ -41,26 +60,59 @@ function readReport(): AnyObj {
 
 function cleanText(value: any): string {
   if (value === null || value === undefined) return "";
-  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean).join(" • ");
+
+  if (Array.isArray(value)) {
+    return value.map(cleanText).filter(Boolean).join(" • ");
+  }
+
   if (typeof value === "object") {
     return Object.values(value).map(cleanText).filter(Boolean).join(" • ");
   }
+
   return String(value).replace(/\s+/g, " ").trim();
+}
+
+function normalizeText(value: any): string {
+  return cleanText(value).toLowerCase();
+}
+
+function isBadContent(value: any): boolean {
+  const text = normalizeText(value);
+  if (!text) return true;
+  return BAD_CONTENT_PHRASES.some((phrase) => text.includes(phrase));
+}
+
+function unique(items: string[]): string[] {
+  const seen = new Set<string>();
+
+  return items
+    .map(cleanText)
+    .filter((item) => item && !isBadContent(item))
+    .filter((item) => {
+      const key = item.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
 }
 
 function asList(value: any): string[] {
   if (!value) return [];
-  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean);
-  if (typeof value === "object") return Object.values(value).map(cleanText).filter(Boolean);
 
-  return cleanText(value)
-    .split(/\n|•|\|/)
-    .map((x) => x.trim())
-    .filter(Boolean);
+  if (Array.isArray(value)) {
+    return unique(value.flatMap((item) => cleanText(item).split(/\n|•|\|/)));
+  }
+
+  if (typeof value === "object") {
+    return unique(Object.values(value).flatMap((item) => cleanText(item).split(/\n|•|\|/)));
+  }
+
+  return unique(cleanText(value).split(/\n|•|\|/));
 }
 
 function getStories(report: AnyObj): AnyObj[] {
   const candidates =
+    report.live_newsroom ||
     report.stories ||
     report.news ||
     report.headlines ||
@@ -115,14 +167,14 @@ function storyLabel(story: AnyObj): string {
 }
 
 function storySignal(story: AnyObj, index: number): string {
-  return `${storyLabel(story)}: ${storyTitle(story, index)}`;
+  return cleanText(`${storyLabel(story)}: ${storyTitle(story, index)}`);
 }
 
 function Block({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <section className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
       <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-blue-800">
-        {title}
+        {cleanText(title)}
       </h2>
       {children}
     </section>
@@ -130,10 +182,14 @@ function Block({ title, children }: { title: string; children: React.ReactNode }
 }
 
 function LineList({ items }: { items: string[] }) {
-  const safe = items.filter(Boolean).slice(0, 8);
+  const safe = unique(items).slice(0, 8);
 
   if (!safe.length) {
-    return <p className="text-sm leading-6 text-slate-700">No current items available.</p>;
+    return (
+      <p className="text-sm leading-6 text-slate-700">
+        Monitoring verified political developments for the next clean newsroom update.
+      </p>
+    );
   }
 
   return (
@@ -148,7 +204,7 @@ function LineList({ items }: { items: string[] }) {
 }
 
 function NewsroomBriefing({ items }: { items: string[] }) {
-  const safe = items.filter(Boolean).slice(0, 6);
+  const safe = unique(items).slice(0, 6);
 
   return (
     <div className="rounded-2xl border border-slate-300 bg-white p-5 shadow-sm">
@@ -188,7 +244,7 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   return (
     <article className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
       <p className="mb-2 text-xs font-black uppercase tracking-wide text-blue-700">
-        Politics Watch
+        {storyLabel(story)}
       </p>
 
       <h3 className="text-xl font-black leading-tight text-slate-950">
@@ -206,12 +262,12 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       <div className="mt-4 grid gap-3 md:grid-cols-3">
         <div className="rounded-xl bg-slate-50 p-3">
           <p className="mb-2 text-xs font-black uppercase text-slate-600">Key Data</p>
-          <LineList items={keyData.length ? keyData : ["No verified data point attached yet."]} />
+          <LineList items={keyData.length ? keyData : ["Latest verified political signal attached for newsroom review."]} />
         </div>
 
         <div className="rounded-xl bg-slate-50 p-3">
           <p className="mb-2 text-xs font-black uppercase text-slate-600">Why It Matters</p>
-          <LineList items={why.length ? why : ["This affects political coverage priorities."]} />
+          <LineList items={why.length ? why : ["This affects political coverage priorities, public accountability, policy direction or campaign strategy."]} />
         </div>
 
         <div className="rounded-xl bg-slate-50 p-3">
@@ -302,7 +358,11 @@ export default function Page() {
                 href={url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-white hover:text-red-300"
+                className={
+                  name === "Politics"
+                    ? "text-red-300 hover:text-white"
+                    : "text-white hover:text-red-300"
+                }
               >
                 {name}
               </a>
