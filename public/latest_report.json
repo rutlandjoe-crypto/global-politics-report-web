@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Stop the Trump ballroom bunker bandwagon dead in its tracks",
   "snapshot": "Donald Trump's call for taxpayers to fund a $400 million White House ballroom and bunker is a political misstep and a waste of presidential power, and Democrats should seize the opportunity to criticize him for it.",
-  "updated_at": "2026-05-06 08:11:45 PM ET",
-  "generated_at": "2026-05-06 08:11:45 PM ET",
+  "updated_at": "2026-05-06 10:14:19 PM ET",
+  "generated_at": "2026-05-06 10:14:19 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 152,
-    "live_fresh_items": 108,
+    "total_items_checked": 151,
+    "live_fresh_items": 100,
     "editor_fresh_items": 149,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 44,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 51,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-06 08:11:45 PM ET"
+    "last_checked": "2026-05-06 10:14:19 PM ET"
   },
   "live_newsroom": [
     {
@@ -41,7 +41,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 15:00:00 +0000",
-      "age_hours": "9.20",
+      "age_hours": "11.24",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -67,35 +67,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 15:48:00 -0400",
-      "age_hours": "4.40",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Russia cuts mobile internet in Moscow citing drone security concerns",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss",
-      "snapshot": "Russia has begun rolling mobile internet shutdowns in Moscow and other cities.",
-      "key_data": [
-        "Key people or organizations: Russia, Moscow",
-        "Story focus: Russia cuts mobile internet in Moscow citing drone security concerns",
-        "Source context: Russia has begun rolling mobile internet shutdowns in Moscow and other cities."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russia.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 06 May 2026 20:28:57 +0000",
-      "age_hours": "3.71",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
@@ -119,7 +93,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 17:03:33 +0000",
-      "age_hours": "7.14",
+      "age_hours": "9.18",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -145,10 +119,37 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 06 May 2026 21:17:47 +0000",
-      "age_hours": "2.90",
+      "age_hours": "4.94",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Republicans seek $1 billion in taxpayer dollars for Trump's ballroom",
+      "url": "https://www.cbsnews.com/video/republicans-seek-1-billion-taxpayer-dollars-trumps-ballroom/",
+      "snapshot": "After having the East Wing of the White House torn down, President Trump said a ballroom would be entirely funded by private donations. But Republicans are now requesting about $1 billion in taxpayer money for heightened ballroom security.",
+      "key_data": [
+        "Key people or organizations: Republicans, Trump, East Wing, White House",
+        "Specific figures mentioned: $1 billion",
+        "Story focus: Republicans seek $1 billion in taxpayer dollars for Trump's ballroom",
+        "Source context: After having the East Wing of the White House torn down, President Trump said a ballroom would be entirely funded by private donations. But..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Republicans.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 06 May 2026 19:24:36 -0400",
+      "age_hours": "2.83",
+      "freshness_status": "fresh",
+      "editorial_score": "132",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -174,7 +175,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 15:00:00 +0000",
-      "age_hours": "9.20",
+      "age_hours": "11.24",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -201,7 +202,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 19:24:36 -0400",
-      "age_hours": "0.79",
+      "age_hours": "2.83",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -227,7 +228,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 15:48:00 -0400",
-      "age_hours": "4.40",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
@@ -253,19 +254,19 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 17:03:33 +0000",
-      "age_hours": "7.14",
+      "age_hours": "9.18",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Trump says had 'very good talks' with Iran as Tehran reviews US proposal",
-      "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-      "snapshot": "Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.",
+      "headline": "Political signal: Iran war live",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
+      "snapshot": "UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge.",
       "key_data": [
-        "Key people or organizations: Political, Trump, Iran, Tehran",
+        "Key people or organizations: Political, Iran, UN, Israel",
         "Story focus: Political signal",
-        "Source context: Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war."
+        "Source context: UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
@@ -275,14 +276,14 @@
         "Watch for the next official action involving Political.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 06 May 2026 21:17:47 +0000",
-      "age_hours": "2.90",
+      "published": "Thu, 07 May 2026 00:00:00 +0000",
+      "age_hours": "2.24",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
@@ -313,7 +314,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 15:00:00 +0000",
-      "age_hours": "9.20",
+      "age_hours": "11.24",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -340,7 +341,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 19:24:36 -0400",
-      "age_hours": "0.79",
+      "age_hours": "2.83",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -366,7 +367,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 15:48:00 -0400",
-      "age_hours": "4.40",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
@@ -392,10 +393,36 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 17:03:33 +0000",
-      "age_hours": "7.14",
+      "age_hours": "9.18",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war live: Trump says deal with Tehran 'possible'; Israel bombs Beirut",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
+      "snapshot": "UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge.",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, Tehran, Israel",
+        "Story focus: Iran war live",
+        "Source context: UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 07 May 2026 00:00:00 +0000",
+      "age_hours": "2.24",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump says had 'very good talks' with Iran as Tehran reviews US proposal",
@@ -418,35 +445,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 06 May 2026 21:17:47 +0000",
-      "age_hours": "2.90",
+      "age_hours": "4.94",
       "freshness_status": "fresh",
       "editorial_score": "82",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Russia cuts mobile internet in Moscow citing drone security concerns",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss",
-      "snapshot": "Russia has begun rolling mobile internet shutdowns in Moscow and other cities.",
-      "key_data": [
-        "Key people or organizations: Russia, Moscow",
-        "Story focus: Russia cuts mobile internet in Moscow citing drone security concerns",
-        "Source context: Russia has begun rolling mobile internet shutdowns in Moscow and other cities."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russia.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 06 May 2026 20:28:57 +0000",
-      "age_hours": "3.71",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
