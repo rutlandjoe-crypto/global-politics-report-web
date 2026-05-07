@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Senate GOP fears $1B for White House ballroom represents political landmine",
   "snapshot": "A Republican proposal to spend $1 billion in taxpayer money on security for the White House ballroom has become a political landmine in the Senate debate over funding Immigration and Customs Enforcement (ICE) and Border Patrol for the next three and a half years. Before the...",
-  "updated_at": "2026-05-07 03:12:03 PM ET",
-  "generated_at": "2026-05-07 03:12:03 PM ET",
+  "updated_at": "2026-05-07 04:39:02 PM ET",
+  "generated_at": "2026-05-07 04:39:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 85,
+    "total_items_checked": 149,
+    "live_fresh_items": 99,
     "editor_fresh_items": 128,
     "public_fallback_items": 128,
-    "stale_or_blocked_items": 65,
+    "stale_or_blocked_items": 50,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-07 03:12:03 PM ET"
+    "last_checked": "2026-05-07 04:39:02 PM ET"
   },
   "live_newsroom": [
     {
@@ -40,35 +40,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 12:26:38 -0400",
-      "age_hours": "2.76",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tennessee lawmakers approve new congressional map",
-      "url": "https://www.cbsnews.com/news/tennessee-redistricting-legislature-vote-congressional-maps/",
-      "snapshot": "Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on middecade redistricting.",
-      "key_data": [
-        "Key people or organizations: Tennessee, Tennessee Republicans",
-        "Story focus: Tennessee lawmakers approve new congressional map",
-        "Source context: Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on middecade redistricting."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Tennessee.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 07 May 2026 14:51:00 -0400",
-      "age_hours": "0.35",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
       "urgency": "DEVELOPING"
     },
     {
@@ -92,10 +66,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 16:55:37 +0000",
-      "age_hours": "2.27",
+      "age_hours": "3.72",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Tennessee approves new congressional map dissolving majority Black district",
+      "url": "https://www.cbsnews.com/news/tennessee-redistricting-legislature-vote-congressional-maps/",
+      "snapshot": "Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on mid-decade redistricting.",
+      "key_data": [
+        "Key people or organizations: Tennessee, Black, Tennessee Republicans",
+        "Story focus: Tennessee approves new congressional map dissolving majority Black district",
+        "Source context: Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on mid-decade redistricting."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Tennessee.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 07 May 2026 16:12:49 -0400",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Senate GOP fears $1B for White House ballroom represents political landmine",
@@ -119,7 +119,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 10:00:00 +0000",
-      "age_hours": "9.20",
+      "age_hours": "10.65",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "WATCH"
@@ -145,7 +145,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 12:42:17 +0000",
-      "age_hours": "6.50",
+      "age_hours": "7.95",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
@@ -174,7 +174,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 10:00:00 +0000",
-      "age_hours": "9.20",
+      "age_hours": "10.65",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "WATCH"
@@ -200,36 +200,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 12:42:17 +0000",
-      "age_hours": "6.50",
+      "age_hours": "7.95",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Political signal: Tennessee lawmakers approve new congressional map",
-      "url": "https://www.cbsnews.com/news/tennessee-redistricting-legislature-vote-congressional-maps/",
-      "snapshot": "Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on middecade redistricting.",
-      "key_data": [
-        "Key people or organizations: Political, Tennessee, Tennessee Republicans",
-        "Story focus: Political signal",
-        "Source context: Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on middecade redistricting."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 07 May 2026 14:51:00 -0400",
-      "age_hours": "0.35",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: Trump calls for 'incitement' charges against top Democrat Hakeem Jeffries",
@@ -252,10 +226,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 16:55:37 +0000",
-      "age_hours": "2.27",
+      "age_hours": "3.72",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Political signal: Tennessee approves new congressional map dissolving majority Black district",
+      "url": "https://www.cbsnews.com/news/tennessee-redistricting-legislature-vote-congressional-maps/",
+      "snapshot": "Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on mid-decade redistricting.",
+      "key_data": [
+        "Key people or organizations: Political, Tennessee, Black, Tennessee Republicans",
+        "Story focus: Political signal",
+        "Source context: Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on mid-decade redistricting."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 07 May 2026 16:12:49 -0400",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: Trump pardon recipients face congressional probe over \"pay-to-play\" questions",
@@ -278,7 +278,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 12:26:38 -0400",
-      "age_hours": "2.76",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
@@ -287,7 +287,7 @@
   "key_storylines": [
     "Senate GOP fears $1B for White House ballroom represents political landmine",
     "Trump punishes Indiana Republicans; Is US nearing an Iran deal?",
-    "Tennessee lawmakers approve new congressional map"
+    "Trump calls for 'incitement' charges against top Democrat Hakeem Jeffries"
   ],
   "sections": [
     {
@@ -312,7 +312,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 10:00:00 +0000",
-      "age_hours": "9.20",
+      "age_hours": "10.65",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "WATCH"
@@ -338,36 +338,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 12:42:17 +0000",
-      "age_hours": "6.50",
+      "age_hours": "7.95",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Tennessee lawmakers approve new congressional map",
-      "url": "https://www.cbsnews.com/news/tennessee-redistricting-legislature-vote-congressional-maps/",
-      "snapshot": "Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on middecade redistricting.",
-      "key_data": [
-        "Key people or organizations: Tennessee, Tennessee Republicans",
-        "Story focus: Tennessee lawmakers approve new congressional map",
-        "Source context: Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on middecade redistricting."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Tennessee.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 07 May 2026 14:51:00 -0400",
-      "age_hours": "0.35",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump calls for 'incitement' charges against top Democrat Hakeem Jeffries",
@@ -390,10 +364,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 16:55:37 +0000",
-      "age_hours": "2.27",
+      "age_hours": "3.72",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Tennessee approves new congressional map dissolving majority Black district",
+      "url": "https://www.cbsnews.com/news/tennessee-redistricting-legislature-vote-congressional-maps/",
+      "snapshot": "Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on mid-decade redistricting.",
+      "key_data": [
+        "Key people or organizations: Tennessee, Black, Tennessee Republicans",
+        "Story focus: Tennessee approves new congressional map dissolving majority Black district",
+        "Source context: Tennessee Republicans earlier Thursday approved a measure to overturn the state's ban on mid-decade redistricting."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Tennessee.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 07 May 2026 16:12:49 -0400",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump pardon recipients face congressional probe over \"pay-to-play\" questions",
@@ -416,7 +416,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 12:26:38 -0400",
-      "age_hours": "2.76",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
@@ -442,7 +442,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 18:33:36 +0000",
-      "age_hours": "0.64",
+      "age_hours": "2.09",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
