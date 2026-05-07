@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Stop the Trump ballroom bunker bandwagon dead in its tracks",
   "snapshot": "Donald Trump's call for taxpayers to fund a $400 million White House ballroom and bunker is a political misstep and a waste of presidential power, and Democrats should seize the opportunity to criticize him for it.",
-  "updated_at": "2026-05-06 10:14:19 PM ET",
-  "generated_at": "2026-05-06 10:14:19 PM ET",
+  "updated_at": "2026-05-06 10:48:37 PM ET",
+  "generated_at": "2026-05-06 10:48:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 100,
+    "live_fresh_items": 95,
     "editor_fresh_items": 149,
     "public_fallback_items": 149,
-    "stale_or_blocked_items": 51,
+    "stale_or_blocked_items": 56,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-06 10:14:19 PM ET"
+    "last_checked": "2026-05-06 10:48:37 PM ET"
   },
   "live_newsroom": [
     {
@@ -41,7 +41,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 15:00:00 +0000",
-      "age_hours": "11.24",
+      "age_hours": "11.81",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -67,7 +67,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 15:48:00 -0400",
-      "age_hours": "6.44",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
@@ -93,35 +93,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 17:03:33 +0000",
-      "age_hours": "9.18",
+      "age_hours": "9.75",
       "freshness_status": "fresh",
       "editorial_score": "111",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump says had 'very good talks' with Iran as Tehran reviews US proposal",
-      "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-      "snapshot": "Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, Tehran, US",
-        "Story focus: Trump says had 'very good talks' with Iran as Tehran reviews US proposal",
-        "Source context: Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 06 May 2026 21:17:47 +0000",
-      "age_hours": "4.94",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -146,10 +120,36 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 19:24:36 -0400",
-      "age_hours": "2.83",
+      "age_hours": "3.40",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Iran war live: Trump says deal with Tehran 'possible'; Israel bombs Beirut",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
+      "snapshot": "UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge.",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, Tehran, Israel",
+        "Story focus: Iran war live",
+        "Source context: UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 07 May 2026 00:00:00 +0000",
+      "age_hours": "2.81",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -175,7 +175,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 15:00:00 +0000",
-      "age_hours": "11.24",
+      "age_hours": "11.81",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -202,7 +202,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 19:24:36 -0400",
-      "age_hours": "2.83",
+      "age_hours": "3.40",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -228,7 +228,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 15:48:00 -0400",
-      "age_hours": "6.44",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
@@ -254,7 +254,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 17:03:33 +0000",
-      "age_hours": "9.18",
+      "age_hours": "9.75",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -280,7 +280,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 00:00:00 +0000",
-      "age_hours": "2.24",
+      "age_hours": "2.81",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
@@ -314,7 +314,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 15:00:00 +0000",
-      "age_hours": "11.24",
+      "age_hours": "11.81",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -341,7 +341,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 19:24:36 -0400",
-      "age_hours": "2.83",
+      "age_hours": "3.40",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -367,7 +367,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 06 May 2026 15:48:00 -0400",
-      "age_hours": "6.44",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
@@ -393,7 +393,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 06 May 2026 17:03:33 +0000",
-      "age_hours": "9.18",
+      "age_hours": "9.75",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -419,19 +419,19 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 00:00:00 +0000",
-      "age_hours": "2.24",
+      "age_hours": "2.81",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump says had 'very good talks' with Iran as Tehran reviews US proposal",
+      "headline": "Trump says war will be 'over quickly' as Iran reviews US peace proposal",
       "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-      "snapshot": "Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.",
+      "snapshot": "US president indicates momentum building for a deal, but Iran says it is still reviewing Washington's proposal.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, Tehran, US",
-        "Story focus: Trump says had 'very good talks' with Iran as Tehran reviews US proposal",
-        "Source context: Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war."
+        "Key people or organizations: Trump, Iran, US, Washington",
+        "Story focus: Trump says war will be 'over quickly' as Iran reviews US peace proposal",
+        "Source context: US president indicates momentum building for a deal, but Iran says it is still reviewing Washington's proposal."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
@@ -441,14 +441,14 @@
         "Watch for the next official action involving Trump.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 06 May 2026 21:17:47 +0000",
-      "age_hours": "4.94",
+      "age_hours": "5.51",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": "WATCH"
     }
   ],
   "schema": {
