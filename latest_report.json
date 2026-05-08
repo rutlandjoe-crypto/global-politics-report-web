@@ -1,188 +1,33 @@
 {
   "title": "Global Politics Report",
+  "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Congress Advances Spending Bill as Shutdown Pressure Builds",
-  "snapshot": "Lawmakers are moving forward with a high-stakes spending package as the threat of a government shutdown intensifies. Negotiations highlight deep divisions over fiscal priorities.",
-  "updated_at": "2026-04-26 10:30:00 PM ET",
-  "generated_at": "2026-04-26 10:30:00 PM ET",
-  "key_storylines": [
-    "Congress pushes spending bill amid deadline pressure",
-    "Shutdown risks remain elevated",
-    "Partisan divisions shape negotiations",
-    "Policy trade-offs dominate discussions"
-  ],
-  "live_newsroom": [
-    {
-      "label": "National Lead",
-      "headline": "Congress Moves Forward on Spending Bill Under Deadline Pressure",
-      "summary": "Congress is moving ahead on a spending package as lawmakers face deadline pressure and rising shutdown risk.",
-      "url": "https://www.congress.gov/",
+  "headline": "White House, Congress Face New Budget Pressure as Negotiations Continue",
+  "snapshot": "Washington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout.",
+  "updated_at": "2026-05-08 06:41:42 PM ET",
+  "generated_at": "2026-05-08 06:41:42 PM ET",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "headline": "White House, Congress Face New Budget Pressure as Negotiations Continue",
+      "snapshot": "Washington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout.",
+      "content": "HEADLINE White House, Congress Face New Budget Pressure as Negotiations Continue SNAPSHOT Washington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout. KEY STORYLINES Budget talks remain the central Washington storyline. Party leaders are balancing policy demands with deadline pressure. The next phase will test whether lawmakers can avoid another shutdown fight.",
+      "updated_at": "2026-05-08 06:41:42 PM ET",
+      "source_name": "Politics Report",
       "key_data": [
-        "Lawmakers are negotiating funding to avoid a shutdown",
-        "Key disagreements remain over budget priorities",
-        "Leadership is signaling urgency around finalizing a deal"
+        "Agency / court / committee: White House, Congress, House",
+        "Jurisdiction: Washington",
+        "Policy area: budget",
+        "Published: 2026-05-08 06:41:42 PM ET",
+        "Source: Politics Report"
       ],
       "why_it_matters": [
-        "Government funding fights can affect federal workers, agencies and public services",
-        "Shutdown pressure often forces last-minute trade-offs on policy and spending",
-        "The negotiations reveal where party leadership is willing to compromise"
+        "The policy stakes matter because they can shift public spending, legislative leverage or agency action"
       ],
       "what_to_watch": [
-        "Track House and Senate vote timing",
-        "Watch whether leadership can keep enough members aligned",
-        "Monitor which policy riders or spending levels become deal-breakers"
-      ]
-    },
-    {
-      "label": "Global Affairs",
-      "headline": "Diplomatic Tensions Rise Amid Ongoing International Conflicts",
-      "summary": "International negotiations, sanctions and military strategies remain central to a shifting global political landscape.",
-      "url": "https://www.reuters.com/world/",
-      "key_data": [
-        "World leaders are engaged in high-level negotiations",
-        "Sanctions and military strategy remain major points of focus",
-        "Global alliances continue to shift around conflict zones"
-      ],
-      "why_it_matters": [
-        "Foreign policy pressure can reshape domestic political priorities",
-        "Sanctions and security commitments carry economic and diplomatic consequences",
-        "Journalists should connect global developments to congressional, executive and alliance decisions"
-      ],
-      "what_to_watch": [
-        "Monitor new sanctions, cease-fire efforts and defense commitments",
-        "Track statements from allied governments and international institutions",
-        "Watch how global conflicts affect domestic spending debates"
-      ]
-    },
-    {
-      "label": "Policy Tracker",
-      "headline": "Major Policy Proposals Move Through Legislative Pipeline",
-      "summary": "Healthcare, tax and regulatory proposals remain under review as lawmakers and agencies weigh next steps.",
-      "url": "https://www.federalregister.gov/",
-      "key_data": [
-        "Healthcare and tax reforms are under review",
-        "Regulatory frameworks are being updated across sectors",
-        "Legal challenges are expected on key measures"
-      ],
-      "why_it_matters": [
-        "Policy movement can affect households, businesses and state governments",
-        "Regulatory shifts often produce legal and political backlash",
-        "Journalists should watch both legislative text and agency implementation"
-      ],
-      "what_to_watch": [
-        "Track bill text, committee action and agency rulemaking",
-        "Watch court challenges and state-level responses",
-        "Monitor which proposals survive negotiation"
-      ]
-    },
-    {
-      "label": "Political Signals",
-      "headline": "Polling and Strategy Shifts Shape Election Landscape",
-      "summary": "Polling, campaign strategy and fundraising activity are shaping how candidates and parties position themselves for the next major election cycle.",
-      "url": "https://www.fec.gov/",
-      "key_data": [
-        "Polling data shows tightening races in key regions",
-        "Campaign strategies are adjusting to voter concerns",
-        "Fundraising activity is accelerating across parties"
-      ],
-      "why_it_matters": [
-        "Polling and fundraising signals can reveal where campaigns see opportunity or risk",
-        "Voter concerns shape messaging, travel and ad spending",
-        "Strategic shifts can show which issues are gaining political force"
-      ],
-      "what_to_watch": [
-        "Track FEC filings and fundraising momentum",
-        "Watch battleground polling and voter issue priorities",
-        "Monitor changes in campaign travel, advertising and endorsements"
+        "Watch for the next statement, filing, vote, hearing or agency action involving officials",
+        "Track responses from lawmakers, courts, campaigns, affected voters and official records"
       ]
     }
-  ],
-  "editor_signals": [
-    {
-      "label": "Editor Signal",
-      "headline": "Shutdown Pressure Is the Core Political Storyline",
-      "summary": "The strongest politics signal is the collision between deadline pressure, party divisions and federal funding risk.",
-      "key_data": [
-        "Spending talks are moving under deadline pressure",
-        "Shutdown risk remains elevated",
-        "Leadership must balance fiscal priorities with vote-counting realities"
-      ],
-      "why_it_matters": [
-        "Shutdown negotiations can quickly become the dominant national political story"
-      ],
-      "what_to_watch": [
-        "Watch vote timing, party defections, policy riders and agency contingency planning"
-      ]
-    }
-  ],
-  "stories": [
-    {
-      "label": "National Lead",
-      "headline": "Congress Moves Forward on Spending Bill Under Deadline Pressure",
-      "summary": "Lawmakers are negotiating a spending bill while trying to avoid a government shutdown.",
-      "url": "https://www.congress.gov/",
-      "key_data": [
-        "Lawmakers negotiate funding to avoid shutdown",
-        "Key disagreements remain on budget priorities",
-        "Leadership signals urgency in finalizing deal"
-      ],
-      "why_it_matters": [
-        "The outcome could affect federal operations, public services and political leverage."
-      ],
-      "what_to_watch": [
-        "Watch vote timing, leadership statements and possible policy riders."
-      ]
-    },
-    {
-      "label": "Global Affairs",
-      "headline": "Diplomatic Tensions Rise Amid Ongoing International Conflicts",
-      "summary": "International conflicts continue shaping diplomacy, sanctions and alliance strategy.",
-      "url": "https://www.reuters.com/world/",
-      "key_data": [
-        "World leaders engage in high-level negotiations",
-        "Sanctions and military strategies remain in focus",
-        "Global alliances continue to shift"
-      ],
-      "why_it_matters": [
-        "Foreign policy developments can reshape domestic politics and budget priorities."
-      ],
-      "what_to_watch": [
-        "Track sanctions, alliance commitments and diplomatic negotiations."
-      ]
-    },
-    {
-      "label": "Policy Tracker",
-      "headline": "Major Policy Proposals Move Through Legislative Pipeline",
-      "summary": "Healthcare, tax and regulatory proposals remain active across the legislative and agency pipeline.",
-      "url": "https://www.federalregister.gov/",
-      "key_data": [
-        "Healthcare and tax reforms under review",
-        "Regulatory frameworks updated across sectors",
-        "Legal challenges expected on key measures"
-      ],
-      "why_it_matters": [
-        "Policy changes can affect households, businesses, agencies and state governments."
-      ],
-      "what_to_watch": [
-        "Monitor bill text, agency rules and legal challenges."
-      ]
-    },
-    {
-      "label": "Political Signals",
-      "headline": "Polling and Strategy Shifts Shape Election Landscape",
-      "summary": "Polling, fundraising and strategy shifts continue shaping election positioning.",
-      "url": "https://www.fec.gov/",
-      "key_data": [
-        "Polling data shows tightening races in key regions",
-        "Campaign strategies adjust to voter concerns",
-        "Fundraising activity accelerates across parties"
-      ],
-      "why_it_matters": [
-        "Polling and fundraising can reveal where campaigns see momentum or risk."
-      ],
-      "what_to_watch": [
-        "Track FEC filings, battleground polling and campaign messaging shifts."
-      ]
-    }
-  ]
+  }
 }

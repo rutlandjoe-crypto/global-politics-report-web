@@ -57,7 +57,9 @@ jobs:
 
       - name: Run master runner
         run: |
+          echo "POLITICS BLOCK START"
           python master_runner.py
+          echo "POLITICS BLOCK FINISH"
 
       - name: Clean unwanted generated files
         run: |

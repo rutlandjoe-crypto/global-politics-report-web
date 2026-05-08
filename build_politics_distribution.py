@@ -5,6 +5,8 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from editorial_intelligence import clean_text, normalize_payload
+
 ET = ZoneInfo("America/New_York")
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -31,35 +33,56 @@ def stamp():
 def read_report():
     if not REPORT_FILE.exists():
         return ""
-    return REPORT_FILE.read_text(encoding="utf-8").strip()
+    raw = REPORT_FILE.read_text(encoding="utf-8")
+    return "\n".join(clean_text(line) for line in raw.splitlines()).strip()
 
 
 def first_real_line(text: str):
     for line in text.splitlines():
-        line = line.strip()
-        if len(line) > 40:
+        line = clean_text(line)
+        if len(line) > 40 and line.upper() not in {"HEADLINE", "SNAPSHOT", "KEY STORYLINES"}:
             return line
     return "Political developments are unfolding across key areas."
 
 
-def build_payload(text: str):
-    headline = first_real_line(text)
+def section_value(text: str, heading: str) -> str:
+    lines = text.splitlines()
+    for index, line in enumerate(lines):
+        if line.strip().upper() != heading:
+            continue
+        for value in lines[index + 1:]:
+            value = clean_text(value.lstrip("- "))
+            if not value:
+                continue
+            if value.upper() in {"HEADLINE", "SNAPSHOT", "KEY STORYLINES", "WHY IT MATTERS", "WHAT TO WATCH"}:
+                return ""
+            return value
+    return ""
 
-    return {
+
+def build_payload(text: str):
+    headline = section_value(text, "HEADLINE") or first_real_line(text)
+    snapshot = section_value(text, "SNAPSHOT") or headline
+
+    return normalize_payload({
         "title": "Global Politics Report",
+        "site": "Global Politics Report",
+        "vertical": "Politics",
         "headline": headline,
-        "snapshot": headline,
+        "snapshot": snapshot,
         "updated_at": stamp(),
         "generated_at": stamp(),
         "sections": {
             "politics": {
                 "title": "Politics",
                 "headline": headline,
+                "snapshot": snapshot,
                 "content": text,
                 "updated_at": stamp(),
+                "source_name": "Politics Report",
             }
         }
-    }
+    })
 
 
 def write_files(payload, text):
