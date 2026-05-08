@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
   "snapshot": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent...",
-  "updated_at": "2026-05-08 12:30:11 AM ET",
-  "generated_at": "2026-05-08 12:30:11 AM ET",
+  "updated_at": "2026-05-08 02:17:01 AM ET",
+  "generated_at": "2026-05-08 02:17:01 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 76,
+    "live_fresh_items": 65,
     "editor_fresh_items": 137,
     "public_fallback_items": 137,
-    "stale_or_blocked_items": 70,
+    "stale_or_blocked_items": 81,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-08 12:30:11 AM ET"
+    "last_checked": "2026-05-08 02:17:01 AM ET"
   },
   "live_newsroom": [
     {
@@ -41,7 +41,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "6.20",
+      "age_hours": "7.98",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -68,7 +68,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 20:17:04 +0000",
-      "age_hours": "8.22",
+      "age_hours": "10.00",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
@@ -95,10 +95,37 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 20:58:55 +0000",
-      "age_hours": "7.52",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senators press US military on Israel's displacement campaign in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
+      "snapshot": "In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel's 'mass evacuation zones'.",
+      "key_data": [
+        "Key people or organizations: Senators, US, Israel, Lebanon",
+        "Specific figures mentioned: 12",
+        "Story focus: Senators press US military on Israel's displacement campaign in Lebanon",
+        "Source context: In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel's 'mass evacuation zones'."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senators.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 07 May 2026 20:53:11 +0000",
+      "age_hours": "9.40",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Tennessee approves new congressional map dissolving majority Black district",
@@ -121,35 +148,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 20:33:00 -0400",
-      "age_hours": "3.95",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "104",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iran war live: Trump says ceasefire still 'in effect' as Iran, US clash",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
-      "snapshot": "Iran accuses the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas.",
-      "key_data": [
-        "Key people or organizations: Iran, Trump, US, Iranian",
-        "Story focus: Iran war live",
-        "Source context: Iran accuses the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 00:00:00 +0000",
-      "age_hours": "4.50",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": "DEVELOPING"
     }
   ],
@@ -176,7 +177,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "6.20",
+      "age_hours": "7.98",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -203,7 +204,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 22:00:50 -0400",
-      "age_hours": "2.49",
+      "age_hours": "4.27",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -230,7 +231,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 20:17:04 +0000",
-      "age_hours": "8.22",
+      "age_hours": "10.00",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
@@ -256,7 +257,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 20:33:00 -0400",
-      "age_hours": "3.95",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
@@ -283,7 +284,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 20:58:55 +0000",
-      "age_hours": "7.52",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "BREAKING"
@@ -317,7 +318,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "6.20",
+      "age_hours": "7.98",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -344,7 +345,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 22:00:50 -0400",
-      "age_hours": "2.49",
+      "age_hours": "4.27",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -371,7 +372,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 20:17:04 +0000",
-      "age_hours": "8.22",
+      "age_hours": "10.00",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
@@ -397,7 +398,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 07 May 2026 20:33:00 -0400",
-      "age_hours": "3.95",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
@@ -424,33 +425,34 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 07 May 2026 20:58:55 +0000",
-      "age_hours": "7.52",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Iran war live: Trump says ceasefire still 'in effect' as Iran, US clash",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
-      "snapshot": "Iran accuses the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas.",
+      "headline": "Senators press US military on Israel's displacement campaign in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
+      "snapshot": "In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel's 'mass evacuation zones'.",
       "key_data": [
-        "Key people or organizations: Iran, Trump, US, Iranian",
-        "Story focus: Iran war live",
-        "Source context: Iran accuses the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas."
+        "Key people or organizations: Senators, US, Israel, Lebanon",
+        "Specific figures mentioned: 12",
+        "Story focus: Senators press US military on Israel's displacement campaign in Lebanon",
+        "Source context: In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel's 'mass evacuation zones'."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
         "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Senators.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 00:00:00 +0000",
-      "age_hours": "4.50",
+      "published": "Thu, 07 May 2026 20:53:11 +0000",
+      "age_hours": "9.40",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
