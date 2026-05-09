@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Virginia Supreme Court hands Republicans an edge ahead of midterms",
   "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details.",
-  "updated_at": "2026-05-09 01:25:36 AM ET",
-  "generated_at": "2026-05-09 01:25:36 AM ET",
+  "updated_at": "2026-05-09 03:24:02 AM ET",
+  "generated_at": "2026-05-09 03:24:02 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 52,
-    "editor_fresh_items": 144,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 95,
+    "total_items_checked": 148,
+    "live_fresh_items": 32,
+    "editor_fresh_items": 134,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 116,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 01:25:36 AM ET"
+    "last_checked": "2026-05-09 03:24:02 AM ET"
   },
   "live_newsroom": [
     {
@@ -40,35 +40,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "6.90",
+      "age_hours": "8.87",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
-      "snapshot": "Israel has increased its attacks across southern Lebanon. Al Jazeera's Obaida Hitto reports from Tyre.",
+      "headline": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
+      "url": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
+      "snapshot": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent...",
       "key_data": [
-        "Key people or organizations: Al Jazeera, Israeli, Lebanon, Israel",
-        "Story focus: Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-        "Source context: Israel has increased its attacks across southern Lebanon. Al Jazeera's Obaida Hitto reports from Tyre."
+        "Key people or organizations: Trade, Trump, Supreme Court, President Trump",
+        "Specific figures mentioned: 10",
+        "Story focus: Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
+        "Source context: A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Al Jazeera.",
+        "Watch for the next official action involving Trade.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 19:20:23 +0000",
-      "age_hours": "10.09",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 07 May 2026 22:18:26 +0000",
+      "age_hours": "33.09",
+      "freshness_status": "stale",
+      "editorial_score": "115",
       "urgency": "DEVELOPING"
     },
     {
@@ -92,35 +93,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "5.92",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "112",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Rogan: UFO file dump could be distraction from Iran war that's 'not going very well'",
-      "url": "https://thehill.com/blogs/in-the-know/5870108-joe-rogan-trump-ufo-iran-war/",
-      "snapshot": "Podcaster Joe Rogan questioned GOP Rep. Tim Burchett (Tenn.) about the motives behind the Trump administration's decision to release new government files about UFOs amid the Iran war. The Pentagon released a trove of UFO-related files on Friday, after President Trump directed...",
-      "key_data": [
-        "Key people or organizations: Rogan, UFO, Iran, Podcaster Joe Rogan",
-        "Story focus: Rogan",
-        "Source context: Podcaster Joe Rogan questioned GOP Rep. Tim Burchett (Tenn.) about the motives behind the Trump administration's decision to release new government..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Rogan.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 08 May 2026 18:25:37 +0000",
-      "age_hours": "11.00",
-      "freshness_status": "fresh",
-      "editorial_score": "101",
       "urgency": "WATCH"
     },
     {
@@ -144,9 +119,35 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "5.83",
+      "age_hours": "7.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Alabama asks Supreme Court to clear way for Republicans' redrawn voting map",
+      "url": "https://thehill.com/homenews/campaign/5870503-alabama-congressional-map-republicans/",
+      "snapshot": "Alabama urged the Supreme Court on Friday for an emergency order clearing the way for its redrawn congressional map that could boost Republicans' chances of holding on to the House in November. The ask landed just as Gov. Kay Ivey (R) signed the map, which lawmakers passed in...",
+      "key_data": [
+        "Key people or organizations: Alabama, Supreme Court, Republicans, House",
+        "Story focus: Alabama asks Supreme Court to clear way for Republicans' redrawn voting map",
+        "Source context: Alabama urged the Supreme Court on Friday for an emergency order clearing the way for its redrawn congressional map that could boost Republicans'..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Alabama.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 08 May 2026 21:51:39 +0000",
+      "age_hours": "9.54",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     }
   ],
@@ -172,7 +173,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "5.83",
+      "age_hours": "7.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -199,7 +200,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "31.12",
+      "age_hours": "33.09",
       "freshness_status": "stale",
       "editorial_score": "115",
       "urgency": "DEVELOPING"
@@ -225,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "5.92",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -251,7 +252,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 08 May 2026 21:51:39 +0000",
-      "age_hours": "7.57",
+      "age_hours": "9.54",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -277,7 +278,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "6.90",
+      "age_hours": "8.87",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -310,7 +311,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "5.83",
+      "age_hours": "7.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -336,7 +337,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "5.92",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -362,36 +363,36 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 08 May 2026 21:51:39 +0000",
-      "age_hours": "7.57",
+      "age_hours": "9.54",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Rogan: UFO file dump could be distraction from Iran war that's 'not going very well'",
-      "url": "https://thehill.com/blogs/in-the-know/5870108-joe-rogan-trump-ufo-iran-war/",
-      "snapshot": "Podcaster Joe Rogan questioned GOP Rep. Tim Burchett (Tenn.) about the motives behind the Trump administration's decision to release new government files about UFOs amid the Iran war. The Pentagon released a trove of UFO-related files on Friday, after President Trump directed...",
+      "headline": "Platner points to Ohio GOP defying courts in response to Virginia redistricting ruling",
+      "url": "https://thehill.com/homenews/campaign/5870468-platner-republican-defiance-redistricting/",
+      "snapshot": "Graham Platner, a Democratic candidate for U.S. Senate in Maine, pointed to past Republican defiance of court orders on redistricting as he reacted to the Virginia Supreme Court striking down the commonwealth's new congressional map Friday. \"I'm old enough to remember when...",
       "key_data": [
-        "Key people or organizations: Rogan, UFO, Iran, Podcaster Joe Rogan",
-        "Story focus: Rogan",
-        "Source context: Podcaster Joe Rogan questioned GOP Rep. Tim Burchett (Tenn.) about the motives behind the Trump administration's decision to release new government..."
+        "Key people or organizations: Platner, Ohio GOP, Virginia, Graham Platner",
+        "Story focus: Platner points to Ohio GOP defying courts in response to Virginia redistricting ruling",
+        "Source context: Graham Platner, a Democratic candidate for U.S. Senate in Maine, pointed to past Republican defiance of court orders on redistricting as he reacted..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Rogan.",
+        "Watch for the next official action involving Platner.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
+      "editor_note": "Power, policy or institutional accountability angle.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 08 May 2026 18:25:37 +0000",
-      "age_hours": "11.00",
+      "published": "Fri, 08 May 2026 21:12:52 +0000",
+      "age_hours": "10.19",
       "freshness_status": "fresh",
-      "editorial_score": "101",
-      "urgency": "WATCH"
+      "editorial_score": "97",
+      "urgency": ""
     },
     {
       "headline": "Pentagon releases video of strikes on Iranian oil tankers",
@@ -414,35 +415,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "6.90",
+      "age_hours": "8.87",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
-      "snapshot": "Israel has increased its attacks across southern Lebanon. Al Jazeera's Obaida Hitto reports from Tyre.",
+      "headline": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
+      "url": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
+      "snapshot": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent...",
       "key_data": [
-        "Key people or organizations: Al Jazeera, Israeli, Lebanon, Israel",
-        "Story focus: Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-        "Source context: Israel has increased its attacks across southern Lebanon. Al Jazeera's Obaida Hitto reports from Tyre."
+        "Key people or organizations: Trade, Trump, Supreme Court, President Trump",
+        "Specific figures mentioned: 10",
+        "Story focus: Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
+        "Source context: A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Al Jazeera.",
+        "Watch for the next official action involving Trade.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 19:20:23 +0000",
-      "age_hours": "10.09",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 07 May 2026 22:18:26 +0000",
+      "age_hours": "33.09",
+      "freshness_status": "stale",
+      "editorial_score": "115",
       "urgency": "DEVELOPING"
     }
   ],
