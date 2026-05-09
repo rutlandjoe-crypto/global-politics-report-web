@@ -1,24 +1,51 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
-  "snapshot": "President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy. A federal court ruled against the 10...",
-  "updated_at": "2026-05-09 11:35:37 AM ET",
-  "generated_at": "2026-05-09 11:35:37 AM ET",
+  "headline": "White House scrambles to tame AI fears",
+  "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
+  "updated_at": "2026-05-09 12:34:52 PM ET",
+  "generated_at": "2026-05-09 12:34:52 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 40,
-    "editor_fresh_items": 122,
+    "live_fresh_items": 45,
+    "editor_fresh_items": 126,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 110,
+    "stale_or_blocked_items": 105,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 11:35:37 AM ET"
+    "last_checked": "2026-05-09 12:34:52 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Niger suspends nine French media bodies: Watchdog slams 'abusive' decision",
+      "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
+      "snapshot": "Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023.",
+      "key_data": [
+        "Key people or organizations: Niger, French, Watchdog",
+        "Specific figures mentioned: 2023",
+        "Story focus: Niger suspends nine French media bodies",
+        "Source context: Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Niger.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 15:53:27 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Palestinians run West Bank freedom marathon along separation wall",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
@@ -40,10 +67,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 14:53:02 +0000",
-      "age_hours": "0.71",
+      "age_hours": "1.70",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "White House scrambles to tame AI fears",
+      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
+      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
+      "key_data": [
+        "Key people or organizations: White House, Trump, President Trump",
+        "Story focus: White House scrambles to tame AI fears",
+        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "6.58",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
@@ -67,61 +120,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "5.59",
+      "age_hours": "6.58",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "White House scrambles to tame AI fears",
-      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
-      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, President Trump",
-        "Story focus: White House scrambles to tame AI fears",
-        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "5.59",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says hantavirus is 'under control' as WHO tracks cruise outbreak",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss",
-      "snapshot": "US President Donald Trump says a hantavirus cruise ship cluster is 'under very good control.'",
-      "key_data": [
-        "Key people or organizations: Trump, WHO, US President Donald Trump",
-        "Story focus: Trump says hantavirus is 'under control' as WHO tracks cruise outbreak",
-        "Source context: US President Donald Trump says a hantavirus cruise ship cluster is 'under very good control.'"
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 09 May 2026 12:35:02 +0000",
-      "age_hours": "3.01",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
       "urgency": ""
     },
     {
@@ -146,13 +147,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 15:00:00 +0000",
-      "age_hours": "0.59",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Political signal: White House scrambles to tame AI fears",
+      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
+      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
+      "key_data": [
+        "Key people or organizations: Political, White House, Trump, President Trump",
+        "Story focus: Political signal",
+        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "6.58",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
     {
       "headline": "Political signal: Trump, frustrated by courts, sees his tariff policies take new hit",
       "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
@@ -175,33 +202,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "5.59",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: White House scrambles to tame AI fears",
-      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
-      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
-      "key_data": [
-        "Key people or organizations: Political, White House, Trump, President Trump",
-        "Story focus: Political signal",
-        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "5.59",
+      "age_hours": "6.58",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -227,7 +228,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "15.99",
+      "age_hours": "16.98",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": ""
@@ -253,19 +254,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "16.08",
+      "age_hours": "17.07",
       "freshness_status": "stale",
       "editorial_score": "82",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Palestinians run West Bank freedom marathon along separation wall",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
-      "snapshot": "Palestinians ran alongside the separation wall today, a structure that cuts them off from their land and their families.",
+      "headline": "Political signal: Niger suspends nine French media bodies",
+      "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
+      "snapshot": "Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023.",
       "key_data": [
-        "Key people or organizations: Political, Palestinians, West Bank",
+        "Key people or organizations: Political, Niger, French",
+        "Specific figures mentioned: 2023",
         "Story focus: Political signal",
-        "Source context: Palestinians ran alongside the separation wall today, a structure that cuts them off from their land and their families."
+        "Source context: Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
@@ -278,19 +280,45 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 09 May 2026 14:53:02 +0000",
-      "age_hours": "0.71",
+      "published": "Sat, 09 May 2026 15:53:27 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
       "editorial_score": "70",
-      "urgency": "DEVELOPING"
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
-    "Trump, frustrated by courts, sees his tariff policies take new hit",
     "White House scrambles to tame AI fears",
-    "Palestinians run West Bank freedom marathon along separation wall"
+    "Trump, frustrated by courts, sees his tariff policies take new hit",
+    "Niger suspends nine French media bodies: Watchdog slams 'abusive' decision"
   ],
   "sections": [
+    {
+      "headline": "White House scrambles to tame AI fears",
+      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
+      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
+      "key_data": [
+        "Key people or organizations: White House, Trump, President Trump",
+        "Story focus: White House scrambles to tame AI fears",
+        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "6.58",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
     {
       "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
       "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
@@ -313,36 +341,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "5.59",
+      "age_hours": "6.58",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "White House scrambles to tame AI fears",
-      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
-      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
+      "headline": "Niger suspends nine French media bodies: Watchdog slams 'abusive' decision",
+      "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
+      "snapshot": "Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023.",
       "key_data": [
-        "Key people or organizations: White House, Trump, President Trump",
-        "Story focus: White House scrambles to tame AI fears",
-        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
+        "Key people or organizations: Niger, French, Watchdog",
+        "Specific figures mentioned: 2023",
+        "Story focus: Niger suspends nine French media bodies",
+        "Source context: Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "Editors should watch whether the story changes votes, negotiations or public pressure."
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving Niger.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "5.59",
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 15:53:27 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
+      "editorial_score": "70",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Palestinians run West Bank freedom marathon along separation wall",
@@ -365,36 +394,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 14:53:02 +0000",
-      "age_hours": "0.71",
+      "age_hours": "1.70",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump says hantavirus is 'under control' as WHO tracks cruise outbreak",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss",
-      "snapshot": "US President Donald Trump says a hantavirus cruise ship cluster is 'under very good control.'",
-      "key_data": [
-        "Key people or organizations: Trump, WHO, US President Donald Trump",
-        "Story focus: Trump says hantavirus is 'under control' as WHO tracks cruise outbreak",
-        "Source context: US President Donald Trump says a hantavirus cruise ship cluster is 'under very good control.'"
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 09 May 2026 12:35:02 +0000",
-      "age_hours": "3.01",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
     },
     {
       "headline": "Gulf crisis weakens Trump's hand in his coming talks with Xi",
@@ -418,7 +421,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 15:00:00 +0000",
-      "age_hours": "0.59",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -445,7 +448,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 12:54:26 +0000",
-      "age_hours": "2.69",
+      "age_hours": "3.67",
       "freshness_status": "fresh",
       "editorial_score": "83",
       "urgency": ""
