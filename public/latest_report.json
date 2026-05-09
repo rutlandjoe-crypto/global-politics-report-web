@@ -3,48 +3,22 @@
   "vertical": "Politics",
   "headline": "Virginia Supreme Court hands Republicans an edge ahead of midterms",
   "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details.",
-  "updated_at": "2026-05-09 06:03:38 AM ET",
-  "generated_at": "2026-05-09 06:03:38 AM ET",
+  "updated_at": "2026-05-09 07:10:59 AM ET",
+  "generated_at": "2026-05-09 07:10:59 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 27,
+    "total_items_checked": 149,
+    "live_fresh_items": 32,
     "editor_fresh_items": 119,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 121,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 117,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 06:03:38 AM ET"
+    "last_checked": "2026-05-09 07:10:59 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Pentagon releases video of strikes on Iranian oil tankers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-      "snapshot": "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz.",
-      "key_data": [
-        "Key people or organizations: Pentagon, Iranian, Footage, US",
-        "Story focus: Pentagon releases video of strikes on Iranian oil tankers",
-        "Source context: Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "11.53",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Israeli settlers set fire to homes and cars in violent West Bank raids",
       "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
@@ -66,7 +40,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 07:18:27 +0000",
-      "age_hours": "2.75",
+      "age_hours": "3.88",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -92,10 +66,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "10.55",
+      "age_hours": "11.67",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Iran war live: US expects Tehran's reply to peace deal; 'clashes' in Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+      "snapshot": "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon's National News Agency said.",
+      "key_data": [
+        "Key people or organizations: Iran, US, Tehran, Hormuz",
+        "Specific figures mentioned: 31",
+        "Story focus: Iran war live",
+        "Source context: Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon's National News Agency said."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 00:00:00 +0000",
+      "age_hours": "11.18",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Virginia Supreme Court hands Republicans an edge ahead of midterms",
@@ -118,35 +119,36 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "10.46",
+      "age_hours": "11.58",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Trump hopes for 'big extension' on Russia-Ukraine ceasefire",
-      "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/",
-      "snapshot": "President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after the two countries agreed to halt fighting through the weekend. \"I'd like to see a big extension,\" Trump told The Hill's sister...",
+      "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
+      "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
+      "snapshot": "President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy. A federal court ruled against the 10...",
       "key_data": [
-        "Key people or organizations: Trump, Russia, Ukraine, President Trump",
-        "Story focus: Trump hopes for 'big extension' on Russia-Ukraine ceasefire",
-        "Source context: President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after..."
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: 10",
+        "Story focus: Trump, frustrated by courts, sees his tariff policies take new hit",
+        "Source context: President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "editor_note": "Power, policy or institutional accountability angle.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 02:08:17 +0000",
-      "age_hours": "7.92",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "1.18",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "107",
       "urgency": ""
     }
   ],
@@ -172,37 +174,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "10.46",
+      "age_hours": "11.58",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
-    },
-    {
-      "headline": "Political signal: Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
-      "url": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
-      "snapshot": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent...",
-      "key_data": [
-        "Key people or organizations: Political, Trade, Trump, Supreme Court",
-        "Specific figures mentioned: 10",
-        "Story focus: Political signal",
-        "Source context: A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "35.75",
-      "freshness_status": "stale",
-      "editorial_score": "115",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: Trump tells public to \"have fun\" with UFO document release",
@@ -225,19 +200,46 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "10.55",
+      "age_hours": "11.67",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Trump weighs Iran peace talks; GOP sharpens culture wars",
-      "url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/5869307-donald-trump-peace-talks-gop-culture-wars-midterms-whole-hog-live-discussion/",
-      "snapshot": "Is President Trump losing his appetite for war as the U.S.-Iran peace talks ramp up? Republicans are also weighing a renewed focus on culture war issues ahead of the midterms. Meanwhile, Secretary of State Marco Rubio's high‑profile White House tryout is fueling fresh...",
+      "headline": "Political signal: Trump, frustrated by courts, sees his tariff policies take new hit",
+      "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
+      "snapshot": "President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy. A federal court ruled against the 10...",
       "key_data": [
-        "Key people or organizations: Political, Trump, Iran, GOP",
+        "Key people or organizations: Political, Trump, President Trump",
+        "Specific figures mentioned: 10",
         "Story focus: Political signal",
-        "Source context: Is President Trump losing his appetite for war as the U.S.-Iran peace talks ramp up? Republicans are also weighing a renewed focus on culture war..."
+        "Source context: President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Editors should frame it around precedent, accountability and public impact."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "1.18",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: White House scrambles to tame AI fears",
+      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
+      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
+      "key_data": [
+        "Key people or organizations: Political, White House, Trump, President Trump",
+        "Story focus: Political signal",
+        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -247,23 +249,23 @@
         "Watch for the next official action involving Political.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
+      "editor_note": "Power, policy or institutional accountability angle.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 08 May 2026 12:03:01 +0000",
-      "age_hours": "22.01",
-      "freshness_status": "stale",
-      "editorial_score": "105",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "1.18",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Pentagon releases video of strikes on Iranian oil tankers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-      "snapshot": "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz.",
+      "headline": "Political signal: Israeli settlers set fire to homes and cars in violent West Bank raids",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+      "snapshot": "Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
       "key_data": [
-        "Key people or organizations: Political, Pentagon, Iranian, Footage",
+        "Key people or organizations: Political, Israeli, West Bank, Dozens",
         "Story focus: Political signal",
-        "Source context: Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz."
+        "Source context: Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
@@ -276,17 +278,17 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "11.53",
+      "published": "Sat, 09 May 2026 07:18:27 +0000",
+      "age_hours": "3.88",
       "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Virginia Supreme Court hands Republicans an edge ahead of midterms",
     "Trump tells public to \"have fun\" with UFO document release",
-    "Trump hopes for 'big extension' on Russia-Ukraine ceasefire"
+    "Trump, frustrated by courts, sees his tariff policies take new hit"
   ],
   "sections": [
     {
@@ -310,7 +312,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "10.46",
+      "age_hours": "11.58",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -336,88 +338,63 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "10.55",
+      "age_hours": "11.67",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump hopes for 'big extension' on Russia-Ukraine ceasefire",
-      "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/",
-      "snapshot": "President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after the two countries agreed to halt fighting through the weekend. \"I'd like to see a big extension,\" Trump told The Hill's sister...",
+      "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
+      "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
+      "snapshot": "President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy. A federal court ruled against the 10...",
       "key_data": [
-        "Key people or organizations: Trump, Russia, Ukraine, President Trump",
-        "Story focus: Trump hopes for 'big extension' on Russia-Ukraine ceasefire",
-        "Source context: President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 02:08:17 +0000",
-      "age_hours": "7.92",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Virginia Democrats ask state Supreme Court to halt redistricting ruling",
-      "url": "https://thehill.com/homenews/campaign/5870634-virginia-democrats-fight-redistricting-ruling/",
-      "snapshot": "Virginia Democrats on Friday asked the state Supreme Court for a stay on its ruling that threw out last month's referendum on redistricting in the commonwealth, signaling plans to appeal to the U.S. Supreme Court. The state, Virginia's House of Delegates Speaker Don Scott (D)...",
-      "key_data": [
-        "Key people or organizations: Virginia Democrats, Supreme Court, Virginia, House",
-        "Story focus: Virginia Democrats ask state Supreme Court to halt redistricting ruling",
-        "Source context: Virginia Democrats on Friday asked the state Supreme Court for a stay on its ruling that threw out last month's referendum on redistricting in the..."
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: 10",
+        "Story focus: Trump, frustrated by courts, sees his tariff policies take new hit",
+        "Source context: President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
         "Editors should frame it around precedent, accountability and public impact."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Virginia Democrats.",
+        "Watch for the next official action involving Trump.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
       "editor_note": "Power, policy or institutional accountability angle.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 08 May 2026 23:28:49 +0000",
-      "age_hours": "10.58",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "1.18",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Pentagon releases video of strikes on Iranian oil tankers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-      "snapshot": "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz.",
+      "headline": "White House scrambles to tame AI fears",
+      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
+      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a...",
       "key_data": [
-        "Key people or organizations: Pentagon, Iranian, Footage, US",
-        "Story focus: Pentagon releases video of strikes on Iranian oil tankers",
-        "Source context: Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz."
+        "Key people or organizations: White House, Trump, President Trump",
+        "Story focus: White House scrambles to tame AI fears",
+        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "Editors should identify who gains leverage and who faces accountability."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "Editors should watch whether the story changes votes, negotiations or public pressure."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
+        "Watch for the next official action involving White House.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "11.53",
+      "editor_note": "Power, policy or institutional accountability angle.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "1.18",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Israeli settlers set fire to homes and cars in violent West Bank raids",
@@ -440,9 +417,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 07:18:27 +0000",
-      "age_hours": "2.75",
+      "age_hours": "3.88",
       "freshness_status": "fresh",
       "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war live: US expects Tehran's reply to peace deal; 'clashes' in Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+      "snapshot": "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon's National News Agency said.",
+      "key_data": [
+        "Key people or organizations: Iran, US, Tehran, Hormuz",
+        "Specific figures mentioned: 31",
+        "Story focus: Iran war live",
+        "Source context: Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon's National News Agency said."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 00:00:00 +0000",
+      "age_hours": "11.18",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
       "urgency": "DEVELOPING"
     }
   ],
