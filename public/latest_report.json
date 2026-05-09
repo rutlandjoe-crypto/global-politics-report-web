@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
   "snapshot": "President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy. A federal court ruled against the 10...",
-  "updated_at": "2026-05-09 09:21:00 AM ET",
-  "generated_at": "2026-05-09 09:21:00 AM ET",
+  "updated_at": "2026-05-09 10:33:45 AM ET",
+  "generated_at": "2026-05-09 10:33:45 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 29,
-    "editor_fresh_items": 115,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 120,
+    "total_items_checked": 150,
+    "live_fresh_items": 35,
+    "editor_fresh_items": 120,
+    "public_fallback_items": 150,
+    "stale_or_blocked_items": 115,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 09:21:00 AM ET"
+    "last_checked": "2026-05-09 10:33:45 AM ET"
   },
   "live_newsroom": [
     {
@@ -40,7 +40,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 07:18:27 +0000",
-      "age_hours": "6.04",
+      "age_hours": "7.26",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -67,7 +67,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "3.35",
+      "age_hours": "4.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -93,35 +93,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "3.35",
+      "age_hours": "4.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Alabama lawmakers pass plan for new House primary as state pushes to redistrict",
-      "url": "https://www.cbsnews.com/news/alabama-republicans-look-to-set-new-u-s-house-primaries-if-courts-allow-redistricting/",
-      "snapshot": "Alabama lawmakers have approved a plan for new House primaries if courts allow the state to use different congressional districts in this year's elections.",
-      "key_data": [
-        "Key people or organizations: Alabama, House",
-        "Story focus: Alabama lawmakers pass plan for new House primary as state pushes to redistrict",
-        "Source context: Alabama lawmakers have approved a plan for new House primaries if courts allow the state to use different congressional districts in this year's..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Alabama.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 08 May 2026 21:37:28 -0400",
-      "age_hours": "11.73",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
       "urgency": ""
     },
     {
@@ -145,9 +119,36 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 12:35:02 +0000",
-      "age_hours": "0.77",
+      "age_hours": "1.98",
       "freshness_status": "fresh",
       "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump lauds April jobs gains, swipes at Democrats in Mother's Day post",
+      "url": "https://thehill.com/homenews/administration/5870877-donald-trump-april-jobs-report-mothers-day-democrats/",
+      "snapshot": "President Trump touted the latest job's report late Friday while lobbying criticism at his political opponents in a social media post for Mother's Day weekend. \"Happy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found jobs in the month of April...",
+      "key_data": [
+        "Key people or organizations: Trump, April, Democrats, Mother",
+        "Specific figures mentioned: 115",
+        "Story focus: Trump lauds April jobs gains, swipes at Democrats in Mother's Day post",
+        "Source context: President Trump touted the latest job's report late Friday while lobbying criticism at his political opponents in a social media post for Mother's..."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 12:54:26 +0000",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
       "urgency": ""
     }
   ],
@@ -174,7 +175,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "3.35",
+      "age_hours": "4.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -200,35 +201,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "3.35",
+      "age_hours": "4.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Alabama lawmakers pass plan for new House primary as state pushes to redistrict",
-      "url": "https://www.cbsnews.com/news/alabama-republicans-look-to-set-new-u-s-house-primaries-if-courts-allow-redistricting/",
-      "snapshot": "Alabama lawmakers have approved a plan for new House primaries if courts allow the state to use different congressional districts in this year's elections.",
-      "key_data": [
-        "Key people or organizations: Political, Alabama, House",
-        "Story focus: Political signal",
-        "Source context: Alabama lawmakers have approved a plan for new House primaries if courts allow the state to use different congressional districts in this year's..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 08 May 2026 21:37:28 -0400",
-      "age_hours": "11.73",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
       "urgency": ""
     },
     {
@@ -252,10 +227,36 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "13.75",
+      "age_hours": "14.96",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": ""
+    },
+    {
+      "headline": "Political signal: Trump tells public to \"have fun\" with UFO document release",
+      "url": "https://www.cbsnews.com/video/trump-tells-public-have-fun-ufo-document-release/",
+      "snapshot": "The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter Evans reports.",
+      "key_data": [
+        "Key people or organizations: Political, Trump, UFO, President Trump",
+        "Story focus: Political signal",
+        "Source context: The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter..."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:30:31 -0400",
+      "age_hours": "15.05",
+      "freshness_status": "stale",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     },
     {
       "headline": "Political signal: Trump says hantavirus is 'under control' as WHO tracks cruise outbreak",
@@ -278,7 +279,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 12:35:02 +0000",
-      "age_hours": "0.77",
+      "age_hours": "1.98",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -287,7 +288,7 @@
   "key_storylines": [
     "Trump, frustrated by courts, sees his tariff policies take new hit",
     "White House scrambles to tame AI fears",
-    "Alabama lawmakers pass plan for new House primary as state pushes to redistrict"
+    "Trump says hantavirus is 'under control' as WHO tracks cruise outbreak"
   ],
   "sections": [
     {
@@ -312,7 +313,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "3.35",
+      "age_hours": "4.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -338,35 +339,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "3.35",
+      "age_hours": "4.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Alabama lawmakers pass plan for new House primary as state pushes to redistrict",
-      "url": "https://www.cbsnews.com/news/alabama-republicans-look-to-set-new-u-s-house-primaries-if-courts-allow-redistricting/",
-      "snapshot": "Alabama lawmakers have approved a plan for new House primaries if courts allow the state to use different congressional districts in this year's elections.",
-      "key_data": [
-        "Key people or organizations: Alabama, House",
-        "Story focus: Alabama lawmakers pass plan for new House primary as state pushes to redistrict",
-        "Source context: Alabama lawmakers have approved a plan for new House primaries if courts allow the state to use different congressional districts in this year's..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Alabama.",
-        "Track responses from lawmakers, courts, agencies or campaigns."
-      ],
-      "editor_note": "Power, policy or institutional accountability angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 08 May 2026 21:37:28 -0400",
-      "age_hours": "11.73",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
       "urgency": ""
     },
     {
@@ -390,7 +365,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 12:35:02 +0000",
-      "age_hours": "0.77",
+      "age_hours": "1.98",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -416,19 +391,20 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 07:18:27 +0000",
-      "age_hours": "6.04",
+      "age_hours": "7.26",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump hopes for 'big extension' on Russia-Ukraine ceasefire",
-      "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/",
-      "snapshot": "President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after the two countries agreed to halt fighting through the weekend. \"I'd like to see a big extension,\" Trump told The Hill's sister...",
+      "headline": "Trump lauds April jobs gains, swipes at Democrats in Mother's Day post",
+      "url": "https://thehill.com/homenews/administration/5870877-donald-trump-april-jobs-report-mothers-day-democrats/",
+      "snapshot": "President Trump touted the latest job's report late Friday while lobbying criticism at his political opponents in a social media post for Mother's Day weekend. \"Happy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found jobs in the month of April...",
       "key_data": [
-        "Key people or organizations: Trump, Russia, Ukraine, President Trump",
-        "Story focus: Trump hopes for 'big extension' on Russia-Ukraine ceasefire",
-        "Source context: President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after..."
+        "Key people or organizations: Trump, April, Democrats, Mother",
+        "Specific figures mentioned: 115",
+        "Story focus: Trump lauds April jobs gains, swipes at Democrats in Mother's Day post",
+        "Source context: President Trump touted the latest job's report late Friday while lobbying criticism at his political opponents in a social media post for Mother's..."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
@@ -441,11 +417,38 @@
       "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 02:08:17 +0000",
-      "age_hours": "11.21",
+      "published": "Sat, 09 May 2026 12:54:26 +0000",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "83",
       "urgency": ""
+    },
+    {
+      "headline": "The Memo: Trump vexed by crashing crosscurrents in seeking end to Iran war",
+      "url": "https://thehill.com/homenews/administration/5870606-iran-ceasefire-trump-conflict/",
+      "snapshot": "When is a ceasefire not a ceasefire? President Trump has been dancing around the question this past week as he seeks to preserve an uneasy semi-peace with Iran while searching for a lasting deal to end the war that he began 10 weeks ago. Trump and other senior figures in his...",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Specific figures mentioned: 10",
+        "Story focus: The Memo",
+        "Source context: When is a ceasefire not a ceasefire? President Trump has been dancing around the question this past week as he seeks to preserve an uneasy semi-peace..."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track responses from lawmakers, courts, agencies or campaigns."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 10:00:00 +0000",
+      "age_hours": "4.56",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
+      "urgency": "WATCH"
     }
   ],
   "schema": {
