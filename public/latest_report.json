@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
-  "snapshot": "New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\" with voters when it comes to messaging on the economy. \"Certainly, there has been a similarity in terms of how President Biden... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-09 03:44:45 PM ET",
-  "generated_at": "2026-05-09 03:44:45 PM ET",
+  "headline": "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+  "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-05-09 04:27:19 PM ET",
+  "generated_at": "2026-05-09 04:27:19 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 57,
-    "editor_fresh_items": 138,
+    "live_fresh_items": 59,
+    "editor_fresh_items": 140,
     "public_fallback_items": 151,
-    "stale_or_blocked_items": 94,
+    "stale_or_blocked_items": 92,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 03:44:45 PM ET"
+    "last_checked": "2026-05-09 04:27:19 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 17:50:18 +0000",
-      "age_hours": "1.91",
+      "age_hours": "2.62",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -71,10 +71,70 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 17:21:33 +0000",
-      "age_hours": "2.39",
+      "age_hours": "3.10",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Harris, Dems, Virginia Supreme Court, Former Vice President Kamala",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Harris.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "0.78",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump tells public to \"have fun\" with UFO document release",
+      "url": "https://www.cbsnews.com/video/trump-tells-public-have-fun-ufo-document-release/",
+      "snapshot": "The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter Evans reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, UFO, President Trump, Carter Evans",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump tells public to \"have fun\" with UFO document release",
+        "Source context: The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:30:31 -0400",
+      "age_hours": "20.95",
+      "freshness_status": "stale",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     },
     {
       "headline": "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
@@ -101,51 +161,23 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 17:36:58 +0000",
-      "age_hours": "2.13",
+      "age_hours": "2.84",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "White House scrambles to tame AI fears",
-      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
-      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a... The key question is leverage: the next votes, negotiations and public pressure points will determine whether this...",
+      "headline": "Political signal: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: White House, Trump, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House scrambles to tame AI fears",
-        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "9.75",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Virginia Supreme Court hands Republicans an edge ahead of midterms",
-      "url": "https://www.cbsnews.com/video/virginia-supreme-court-hands-republicans-edge-midterms/",
-      "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
-      "key_data": [
-        "Key people or organizations: Virginia Supreme Court, Republicans, Virginia, Democrats",
+        "Key people or organizations: Political, Harris, Dems, Virginia Supreme Court",
         "Politics desk signal: congress, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Virginia Supreme Court hands Republicans an edge ahead of midterms",
-        "Source context: Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on..."
+        "Story focus: Political signal",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -153,21 +185,19 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Virginia Supreme Court.",
+        "Watch for the next official action involving Political.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "20.14",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "0.78",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Political signal: Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
       "url": "https://thehill.com/homenews/administration/5871102-trump-biden-disconnect-economy/",
@@ -193,37 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 17:36:58 +0000",
-      "age_hours": "2.13",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: White House scrambles to tame AI fears",
-      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
-      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a... The key question is leverage: the next votes, negotiations and public pressure points will determine whether this...",
-      "key_data": [
-        "Key people or organizations: Political, White House, Trump, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "9.75",
+      "age_hours": "2.84",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -253,7 +253,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "20.14",
+      "age_hours": "20.85",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": ""
@@ -283,7 +283,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "20.24",
+      "age_hours": "20.95",
       "freshness_status": "stale",
       "editorial_score": "82",
       "urgency": "WATCH"
@@ -311,18 +311,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 17:50:18 +0000",
-      "age_hours": "1.91",
+      "age_hours": "2.62",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
     "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
-    "White House scrambles to tame AI fears",
     "Syria and Lebanon make 'significant progress' at talks on joint interests"
   ],
   "sections": [
+    {
+      "headline": "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Harris, Dems, Virginia Supreme Court, Former Vice President Kamala",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Harris.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "0.78",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
       "url": "https://thehill.com/homenews/administration/5871102-trump-biden-disconnect-economy/",
@@ -348,37 +378,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 09 May 2026 17:36:58 +0000",
-      "age_hours": "2.13",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "White House scrambles to tame AI fears",
-      "url": "https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/",
-      "snapshot": "The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to rethink its strategy on AI safety. From the outset of President Trump's second term, the White House has promoted a... The key question is leverage: the next votes, negotiations and public pressure points will determine whether this...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House scrambles to tame AI fears",
-        "Source context: The White House is scrambling to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "9.75",
+      "age_hours": "2.84",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -406,7 +406,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 17:50:18 +0000",
-      "age_hours": "1.91",
+      "age_hours": "2.62",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -435,7 +435,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 09 May 2026 17:21:33 +0000",
-      "age_hours": "2.39",
+      "age_hours": "3.10",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -465,40 +465,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "20.14",
+      "age_hours": "20.85",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "Trump, frustrated by courts, sees his tariff policies take new hit",
-      "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
-      "snapshot": "President Trump's trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy. A federal court ruled against the 10... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Trump tells public to \"have fun\" with UFO document release",
+      "url": "https://www.cbsnews.com/video/trump-tells-public-have-fun-ufo-document-release/",
+      "snapshot": "The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter Evans reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Specific figures mentioned: 10",
-        "Politics desk signal: court, tariff",
+        "Key people or organizations: Trump, UFO, President Trump, Carter Evans",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, frustrated by courts, sees his tariff policies take new hit"
+        "Story focus: Trump tells public to \"have fun\" with UFO document release",
+        "Source context: The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 10:00:00 +0000",
-      "age_hours": "9.75",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:30:31 -0400",
+      "age_hours": "20.95",
+      "freshness_status": "stale",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
