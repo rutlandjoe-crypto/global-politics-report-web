@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Virginia Supreme Court hands Republicans an edge ahead of midterms",
   "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details.",
-  "updated_at": "2026-05-09 03:24:02 AM ET",
-  "generated_at": "2026-05-09 03:24:02 AM ET",
+  "updated_at": "2026-05-09 04:57:29 AM ET",
+  "generated_at": "2026-05-09 04:57:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 32,
-    "editor_fresh_items": 134,
+    "live_fresh_items": 29,
+    "editor_fresh_items": 122,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 116,
+    "stale_or_blocked_items": 119,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 03:24:02 AM ET"
+    "last_checked": "2026-05-09 04:57:29 AM ET"
   },
   "live_newsroom": [
     {
@@ -40,36 +40,35 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "8.87",
+      "age_hours": "10.43",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
-      "url": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
-      "snapshot": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent...",
+      "headline": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+      "snapshot": "Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
       "key_data": [
-        "Key people or organizations: Trade, Trump, Supreme Court, President Trump",
-        "Specific figures mentioned: 10",
-        "Story focus: Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
-        "Source context: A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this..."
+        "Key people or organizations: Israeli, West Bank, Dozens, Palestinians",
+        "Story focus: Israeli settlers set fire to homes and cars in violent West Bank raids",
+        "Source context: Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trade.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "33.09",
-      "freshness_status": "stale",
-      "editorial_score": "115",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 07:18:27 +0000",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -93,7 +92,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "7.89",
+      "age_hours": "9.45",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -119,7 +118,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "7.80",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -145,7 +144,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 08 May 2026 21:51:39 +0000",
-      "age_hours": "9.54",
+      "age_hours": "11.10",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -173,7 +172,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "7.80",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -200,7 +199,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "33.09",
+      "age_hours": "34.65",
       "freshness_status": "stale",
       "editorial_score": "115",
       "urgency": "DEVELOPING"
@@ -226,7 +225,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "7.89",
+      "age_hours": "9.45",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -252,7 +251,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 08 May 2026 21:51:39 +0000",
-      "age_hours": "9.54",
+      "age_hours": "11.10",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -278,7 +277,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "8.87",
+      "age_hours": "10.43",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -311,7 +310,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "7.80",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -337,7 +336,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 08 May 2026 19:30:31 -0400",
-      "age_hours": "7.89",
+      "age_hours": "9.45",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -363,7 +362,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 08 May 2026 21:51:39 +0000",
-      "age_hours": "9.54",
+      "age_hours": "11.10",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -389,7 +388,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 08 May 2026 21:12:52 +0000",
-      "age_hours": "10.19",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
       "editorial_score": "97",
       "urgency": ""
@@ -415,36 +414,35 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 08 May 2026 22:31:37 +0000",
-      "age_hours": "8.87",
+      "age_hours": "10.43",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
-      "url": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
-      "snapshot": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent...",
+      "headline": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+      "snapshot": "Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
       "key_data": [
-        "Key people or organizations: Trade, Trump, Supreme Court, President Trump",
-        "Specific figures mentioned: 10",
-        "Story focus: Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
-        "Source context: A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this..."
+        "Key people or organizations: Israeli, West Bank, Dozens, Palestinians",
+        "Story focus: Israeli settlers set fire to homes and cars in violent West Bank raids",
+        "Source context: Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Editors should frame it around precedent, accountability and public impact."
+        "This affects the balance of power, policy debate or public trust.",
+        "Editors should identify who gains leverage and who faces accountability."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trade.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 07 May 2026 22:18:26 +0000",
-      "age_hours": "33.09",
-      "freshness_status": "stale",
-      "editorial_score": "115",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 07:18:27 +0000",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
