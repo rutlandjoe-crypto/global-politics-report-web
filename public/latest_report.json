@@ -1,33 +1,552 @@
 {
-  "title": "Global Politics Report",
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "White House, Congress Face New Budget Pressure as Negotiations Continue",
-  "snapshot": "Washington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout.",
-  "updated_at": "2026-05-08 06:41:42 PM ET",
-  "generated_at": "2026-05-08 06:41:42 PM ET",
-  "sections": {
-    "politics": {
-      "title": "Politics",
-      "headline": "White House, Congress Face New Budget Pressure as Negotiations Continue",
-      "snapshot": "Washington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout.",
-      "content": "HEADLINE White House, Congress Face New Budget Pressure as Negotiations Continue SNAPSHOT Washington enters another funding fight with lawmakers weighing short-term fixes, spending priorities and political fallout. KEY STORYLINES Budget talks remain the central Washington storyline. Party leaders are balancing policy demands with deadline pressure. The next phase will test whether lawmakers can avoid another shutdown fight.",
-      "updated_at": "2026-05-08 06:41:42 PM ET",
-      "source_name": "Politics Report",
+  "headline": "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+  "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-05-09 07:38:25 PM ET",
+  "generated_at": "2026-05-09 07:38:25 PM ET",
+  "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
+  "freshness": {
+    "max_live_story_age_hours": 12,
+    "max_editor_story_age_hours": 36,
+    "max_public_fallback_age_hours": 72,
+    "total_items_checked": 152,
+    "live_fresh_items": 59,
+    "editor_fresh_items": 138,
+    "public_fallback_items": 152,
+    "stale_or_blocked_items": 93,
+    "unknown_date_items": 0,
+    "last_checked": "2026-05-09 07:38:25 PM ET"
+  },
+  "live_newsroom": [
+    {
+      "headline": "Syria and Lebanon make 'significant progress' at talks on joint interests",
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "snapshot": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
       "key_data": [
-        "Agency / court / committee: White House, Congress, House",
-        "Jurisdiction: Washington",
-        "Policy area: budget",
-        "Published: 2026-05-08 06:41:42 PM ET",
-        "Source: Politics Report"
+        "Key people or organizations: Syria, Lebanon, In Damascus, Lebanese",
+        "Story focus: Syria and Lebanon make 'significant progress' at talks on joint interests",
+        "Source context: In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy."
       ],
       "why_it_matters": [
-        "The policy stakes matter because they can shift public spending, legislative leverage or agency action"
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next statement, filing, vote, hearing or agency action involving officials",
-        "Track responses from lawmakers, courts, campaigns, affected voters and official records"
-      ]
+        "Watch for the next official action involving Syria.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 17:50:18 +0000",
+      "age_hours": "5.80",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "\"Nowhere left to go\": Gaza residents return to rubble after Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
+      "snapshot": "Al Jazeera's Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Nowhere, Gaza, Israeli, Al Jazeera",
+        "Politics desk signal: gaza",
+        "Story focus: \"Nowhere left to go\"",
+        "Source context: Al Jazeera's Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes. The geopolitical angle is how the decision..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Nowhere.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 17:21:33 +0000",
+      "age_hours": "6.28",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Harris, Dems, Virginia Supreme Court, Former Vice President Kamala",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Harris.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "3.96",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump tells public to \"have fun\" with UFO document release",
+      "url": "https://www.cbsnews.com/video/trump-tells-public-have-fun-ufo-document-release/",
+      "snapshot": "The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter Evans reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, UFO, President Trump, Carter Evans",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump tells public to \"have fun\" with UFO document release",
+        "Source context: The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:30:31 -0400",
+      "age_hours": "24.13",
+      "freshness_status": "stale",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
+      "url": "https://thehill.com/homenews/administration/5871102-trump-biden-disconnect-economy/",
+      "snapshot": "New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\" with voters when it comes to messaging on the economy. \"Certainly, there has been a similarity in terms of how President Biden... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Haberman, Trump, Biden, New York Times White",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
+        "Source context: New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\"..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Haberman.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 17:36:58 +0000",
+      "age_hours": "6.02",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
     }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Political signal: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Political, Harris, Dems, Virginia Supreme Court",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "3.96",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
+      "url": "https://thehill.com/homenews/administration/5871102-trump-biden-disconnect-economy/",
+      "snapshot": "New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\" with voters when it comes to messaging on the economy. \"Certainly, there has been a similarity in terms of how President Biden... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Political, Haberman, Trump, Biden",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\"..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 17:36:58 +0000",
+      "age_hours": "6.02",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Virginia Supreme Court hands Republicans an edge ahead of midterms",
+      "url": "https://www.cbsnews.com/video/virginia-supreme-court-hands-republicans-edge-midterms/",
+      "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "key_data": [
+        "Key people or organizations: Political, Virginia Supreme Court, Republicans, Virginia",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:36:03 -0400",
+      "age_hours": "24.04",
+      "freshness_status": "stale",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Trump tells public to \"have fun\" with UFO document release",
+      "url": "https://www.cbsnews.com/video/trump-tells-public-have-fun-ufo-document-release/",
+      "snapshot": "The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter Evans reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Political, Trump, UFO, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:30:31 -0400",
+      "age_hours": "24.13",
+      "freshness_status": "stale",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Political signal: Syria and Lebanon make 'significant progress' at talks on joint interests",
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "snapshot": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
+      "key_data": [
+        "Key people or organizations: Political, Syria, Lebanon, In Damascus",
+        "Story focus: Political signal",
+        "Source context: In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 17:50:18 +0000",
+      "age_hours": "5.80",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    }
+  ],
+  "key_storylines": [
+    "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+    "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
+    "Syria and Lebanon make 'significant progress' at talks on joint interests"
+  ],
+  "sections": [
+    {
+      "headline": "Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Harris, Dems, Virginia Supreme Court, Former Vice President Kamala",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Harris.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "3.96",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
+      "url": "https://thehill.com/homenews/administration/5871102-trump-biden-disconnect-economy/",
+      "snapshot": "New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\" with voters when it comes to messaging on the economy. \"Certainly, there has been a similarity in terms of how President Biden... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Haberman, Trump, Biden, New York Times White",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Haberman says Trump, Biden both have 'disconnect' with voters over economic situations",
+        "Source context: New York Times White House Correspondent Maggie Haberman said on Friday that President Trump and former President Biden share a common \"disconnect\"..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Haberman.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 09 May 2026 17:36:58 +0000",
+      "age_hours": "6.02",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Syria and Lebanon make 'significant progress' at talks on joint interests",
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "snapshot": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
+      "key_data": [
+        "Key people or organizations: Syria, Lebanon, In Damascus, Lebanese",
+        "Story focus: Syria and Lebanon make 'significant progress' at talks on joint interests",
+        "Source context: In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Syria.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 17:50:18 +0000",
+      "age_hours": "5.80",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "\"Nowhere left to go\": Gaza residents return to rubble after Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
+      "snapshot": "Al Jazeera's Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Nowhere, Gaza, Israeli, Al Jazeera",
+        "Politics desk signal: gaza",
+        "Story focus: \"Nowhere left to go\"",
+        "Source context: Al Jazeera's Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes. The geopolitical angle is how the decision..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Nowhere.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 09 May 2026 17:21:33 +0000",
+      "age_hours": "6.28",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Virginia Supreme Court hands Republicans an edge ahead of midterms",
+      "url": "https://www.cbsnews.com/video/virginia-supreme-court-hands-republicans-edge-midterms/",
+      "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "key_data": [
+        "Key people or organizations: Virginia Supreme Court, Republicans, Virginia, Democrats",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Virginia Supreme Court hands Republicans an edge ahead of midterms",
+        "Source context: Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Virginia Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:36:03 -0400",
+      "age_hours": "24.04",
+      "freshness_status": "stale",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump tells public to \"have fun\" with UFO document release",
+      "url": "https://www.cbsnews.com/video/trump-tells-public-have-fun-ufo-document-release/",
+      "snapshot": "The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter Evans reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, UFO, President Trump, Carter Evans",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump tells public to \"have fun\" with UFO document release",
+        "Source context: The Pentagon released UFO documents on Friday, with President Trump telling the public to \"have fun\" deciding for itself what is going on. Carter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 08 May 2026 19:30:31 -0400",
+      "age_hours": "24.13",
+      "freshness_status": "stale",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    }
+  ],
+  "editorial_brain": {
+    "status": "active",
+    "version": "v4.0-cross-vertical-editorial-intelligence",
+    "language_upgrade": "active",
+    "placeholder_guard": "active",
+    "contextual_snapshot_engine": "active",
+    "vertical_analysis_modes": {
+      "ai": "enterprise, infrastructure, model competition, regulation and capital allocation",
+      "politics": "policy, institutional power, courts, elections, geopolitics and governing consequences",
+      "entertainment": "streaming strategy, studio economics, music business, gaming IP and creator economy"
+    }
+  },
+  "schema": {
+    "version": "gsr-network-v4.0-cross-vertical-editorial-intelligence",
+    "required_story_fields": [
+      "headline",
+      "url",
+      "snapshot",
+      "key_data",
+      "why_it_matters",
+      "what_to_watch",
+      "editor_note",
+      "urgency",
+      "published",
+      "age_hours",
+      "freshness_status",
+      "source_name"
+    ],
+    "spotlight_fields": [
+      "live_newsroom",
+      "editor_signals"
+    ],
+    "editorial_guards": [
+      "AI public lead should use a real vetted story whenever available",
+      "Monitoring language is blocked from normal public snapshots",
+      "Source diversity guard prevents one feed from dominating the page",
+      "Authority scoring favors major AI companies, models, infrastructure, policy and enterprise movement",
+      "Entertainment scoring favors recognizable studios, platforms, talent, box office, streaming, music, gaming and creator-economy signals",
+      "Entertainment fallback language is blocked from normal public leads when verified stories exist",
+      "Topic deduplication prevents repeated stories from filling the same public page",
+      "Minimum-card logic attempts to fill each vertical with a healthy newsroom mix when enough vetted stories exist",
+      "Cross-vertical editorial intelligence adds business, policy, market, audience and institutional context",
+      "AI cards emphasize infrastructure, model competition, regulation, capital allocation and enterprise impact",
+      "Politics cards emphasize power, policy, courts, elections, geopolitics and governing consequences",
+      "Entertainment cards emphasize streaming strategy, studio economics, music business, gaming IP and creator-economy signals",
+      "Public snapshots are expanded into contextual newsroom analysis when source text is too thin or mechanical"
+    ]
   }
 }
