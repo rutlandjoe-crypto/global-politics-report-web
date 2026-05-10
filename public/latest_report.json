@@ -3,8 +3,8 @@
   "vertical": "Politics",
   "headline": "U.S. still awaits Iranian response to peace plan, Trump says it could come \"any minute\"",
   "snapshot": "The U.S. still has no reply from Iran on the latest peace plan, but President Trump says it could happen \"any minute.\" But there is movement on wartime fuel prices, averaging $4.53 a gallon, up 25 cents for the second week. Holly Williams has more. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-05-10 07:31:45 AM ET",
-  "generated_at": "2026-05-10 07:31:45 AM ET",
+  "updated_at": "2026-05-10 08:40:45 AM ET",
+  "generated_at": "2026-05-10 08:40:45 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,11 +12,11 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
     "live_fresh_items": 34,
-    "editor_fresh_items": 83,
+    "editor_fresh_items": 79,
     "public_fallback_items": 150,
     "stale_or_blocked_items": 117,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-10 07:31:45 AM ET"
+    "last_checked": "2026-05-10 08:40:45 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 10 May 2026 10:00:00 +0000",
-      "age_hours": "1.53",
+      "age_hours": "2.68",
       "freshness_status": "fresh",
       "editorial_score": "91",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
+      "snapshot": "A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu.",
+      "key_data": [
+        "Key people or organizations: Deadly, Pakistan, Bannu",
+        "Story focus: Deadly car bomb attack hits checkpoint in northwest Pakistan",
+        "Source context: A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Deadly.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 10 May 2026 08:21:02 +0000",
+      "age_hours": "4.33",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
       "urgency": "BREAKING"
     },
     {
@@ -73,36 +101,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 10 May 2026 08:18:23 +0000",
-      "age_hours": "3.22",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
-      "snapshot": "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Iran, IRGC, US, Israel",
-        "Specific figures mentioned: 24",
-        "Story focus: Iran war live",
-        "Source context: US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 10 May 2026 00:00:00 +0000",
-      "age_hours": "11.53",
+      "age_hours": "4.37",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -132,7 +131,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 09 May 2026 20:49:00 -0400",
-      "age_hours": "10.71",
+      "age_hours": "11.86",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -162,7 +161,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 09 May 2026 20:54:00 -0400",
-      "age_hours": "10.63",
+      "age_hours": "11.78",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -194,39 +193,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 09 May 2026 20:49:00 -0400",
-      "age_hours": "10.71",
+      "age_hours": "11.86",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Virginia Supreme Court hands Republicans an edge ahead of midterms",
-      "url": "https://www.cbsnews.com/video/virginia-supreme-court-hands-republicans-edge-midterms/",
-      "snapshot": "Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on Friday, the state's Supreme Court narrowly struck down those maps. Ed O'Keefe has details. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "headline": "Political signal: Trump overseeing D.C. landmark overhauls in wartime",
+      "url": "https://www.cbsnews.com/video/trump-overseeing-dc-landmark-overhauls-wartime/",
+      "snapshot": "President Trump is overseeing an overhaul of some of D.C.'s most treasured landmarks and this week, shot back when asked why he'd focus on these projects during a war. Aaron Navarro reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Political, Virginia Supreme Court, Republicans, Virginia",
-        "Politics desk signal: congress, supreme court, court",
+        "Key people or organizations: Political, Trump, President Trump, Aaron Navarro",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: Virginia voters recently approved a new congressional map designed to help give Democrats as many as four additional seats in Congress. But on..."
+        "Source context: President Trump is overseeing an overhaul of some of D.C.'s most treasured landmarks and this week, shot back when asked why he'd focus on these..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 08 May 2026 19:36:03 -0400",
-      "age_hours": "35.93",
-      "freshness_status": "stale",
-      "editorial_score": "94",
+      "published": "Sat, 09 May 2026 20:54:00 -0400",
+      "age_hours": "11.78",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -254,40 +253,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 10 May 2026 10:00:00 +0000",
-      "age_hours": "1.53",
+      "age_hours": "2.68",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Political signal: Trump uses AI to tout sunken Iranian ships as US awaits peace proposal response",
-      "url": "https://thehill.com/homenews/administration/5871352-trump-ai-iran-warships/",
-      "snapshot": "President Trump on Saturday shared an AI-generated composite image of sunken Iranian warships, as the administration awaits a response from Iranian officials over a proposed peace plan. The composite image shared on Truth Social shows \"159 Iranian ships.\" The first image shows... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Political signal: Harris says Dems 'rightfully outraged' after Virginia Supreme Court tosses new map",
+      "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/",
+      "snapshot": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week to strike down a new congressional map. \"Today, the Virginia Supreme Court ignored the will of the people and overturned those... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Political, Trump, Iranian, US",
-        "Specific figures mentioned: 159",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Political, Harris, Dems, Virginia Supreme Court",
+        "Politics desk signal: congress, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
+        "Story focus: Political signal",
+        "Source context: Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court's decision this week..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 23:57:39 +0000",
-      "age_hours": "11.57",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
+      "published": "Sat, 09 May 2026 19:40:39 +0000",
+      "age_hours": "17.00",
+      "freshness_status": "stale",
+      "editorial_score": "89",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: Iran war day 72",
@@ -313,7 +312,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 10 May 2026 08:18:23 +0000",
-      "age_hours": "3.22",
+      "age_hours": "4.37",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -350,7 +349,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 09 May 2026 20:49:00 -0400",
-      "age_hours": "10.71",
+      "age_hours": "11.86",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -380,7 +379,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 09 May 2026 20:54:00 -0400",
-      "age_hours": "10.63",
+      "age_hours": "11.78",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -410,21 +409,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 10 May 2026 10:00:00 +0000",
-      "age_hours": "1.53",
+      "age_hours": "2.68",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump uses AI to tout sunken Iranian ships as US awaits peace proposal response",
-      "url": "https://thehill.com/homenews/administration/5871352-trump-ai-iran-warships/",
-      "snapshot": "President Trump on Saturday shared an AI-generated composite image of sunken Iranian warships, as the administration awaits a response from Iranian officials over a proposed peace plan. The composite image shared on Truth Social shows \"159 Iranian ships.\" The first image shows... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump's electoral assault is just getting started",
+      "url": "https://thehill.com/opinion/campaign/5870057-trump-election-integrity-strategy/",
+      "snapshot": "Trump's baseless allegations of fraud, issued every time Republicans lose, are part of a comprehensive strategy to stack the deck in his favor. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Iranian, US, President Trump",
-        "Specific figures mentioned: 159",
+        "Key people or organizations: Trump, Republicans",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump uses AI to tout sunken Iranian ships as US awaits peace proposal response"
+        "Story focus: Trump's electoral assault is just getting started",
+        "Source context: Trump's baseless allegations of fraud, issued every time Republicans lose, are part of a comprehensive strategy to stack the deck in his favor. The..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -439,10 +438,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 09 May 2026 23:57:39 +0000",
-      "age_hours": "11.57",
+      "published": "Sun, 10 May 2026 12:00:00 +0000",
+      "age_hours": "0.68",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "75",
       "urgency": ""
     },
     {
@@ -469,39 +468,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 10 May 2026 08:18:23 +0000",
-      "age_hours": "3.22",
+      "age_hours": "4.37",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
-      "snapshot": "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
+      "snapshot": "A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu.",
       "key_data": [
-        "Key people or organizations: Iran, IRGC, US, Israel",
-        "Specific figures mentioned: 24",
-        "Story focus: Iran war live",
-        "Source context: US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon. The geopolitical angle is how..."
+        "Key people or organizations: Deadly, Pakistan, Bannu",
+        "Story focus: Deadly car bomb attack hits checkpoint in northwest Pakistan",
+        "Source context: A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Deadly.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 10 May 2026 00:00:00 +0000",
-      "age_hours": "11.53",
+      "published": "Sun, 10 May 2026 08:21:02 +0000",
+      "age_hours": "4.33",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
