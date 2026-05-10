@@ -110,23 +110,96 @@ function asList(value: any): string[] {
   return unique(cleanText(value).split(/\n|•|\|/));
 }
 
+function normalizeStory(story: AnyObj, index: number): AnyObj {
+  return {
+    ...story,
+    id: cleanText(story.id || story.key || `politics-story-${index}`),
+    key: cleanText(story.key || story.id || `politics-story-${index}`),
+    label: cleanText(story.label || story.category || story.source || "Politics Watch"),
+    headline:
+      cleanText(story.headline) ||
+      cleanText(story.title) ||
+      cleanText(story.name) ||
+      `Politics Storyline ${index + 1}`,
+    title:
+      cleanText(story.title) ||
+      cleanText(story.headline) ||
+      cleanText(story.name) ||
+      `Politics Storyline ${index + 1}`,
+    summary:
+      cleanText(story.summary) ||
+      cleanText(story.snapshot) ||
+      cleanText(story.description) ||
+      cleanText(story.body) ||
+      "Political development flagged for newsroom monitoring.",
+    snapshot:
+      cleanText(story.snapshot) ||
+      cleanText(story.summary) ||
+      cleanText(story.description) ||
+      cleanText(story.body) ||
+      "Political development flagged for newsroom monitoring.",
+    key_data: asList(story.key_data || story.keyData || story.data || story.metrics).slice(0, 8),
+    why_it_matters: asList(story.why_it_matters || story.whyItMatters || story.why).slice(0, 6),
+    what_to_watch: asList(story.what_to_watch || story.whatToWatch || story.watch).slice(0, 8),
+    story_angles: asList(story.story_angles || story.storyAngles || story.angles).slice(0, 6),
+  };
+}
+
 function getStories(report: AnyObj): AnyObj[] {
-  const candidates =
-    report.live_newsroom ||
-    report.stories ||
-    report.news ||
-    report.headlines ||
-    report.items ||
-    report.articles ||
-    report.sections ||
-    [];
+  const collections = [
+    report.homepage_cards,
+    report.live_newsroom,
+    report.stories,
+    report.cards,
+    report.sections,
+    report.news,
+    report.headlines,
+    report.items,
+    report.articles,
+  ];
 
-  if (Array.isArray(candidates)) return candidates.filter(Boolean);
+  for (const candidates of collections) {
+    if (Array.isArray(candidates) && candidates.length) {
+      return candidates
+        .filter((story) => story && typeof story === "object")
+        .map((story, index) => normalizeStory(story, index));
+    }
 
-  if (typeof candidates === "object") {
-    return Object.values(candidates).flatMap((item: any) =>
-      Array.isArray(item) ? item : [item]
-    );
+    if (candidates && typeof candidates === "object") {
+      return Object.entries(candidates).flatMap(([key, item]: [string, any], index) => {
+        if (Array.isArray(item)) {
+          return item
+            .filter((story) => story && typeof story === "object")
+            .map((story, itemIndex) =>
+              normalizeStory(
+                {
+                  id: `${key}-${itemIndex}`,
+                  key,
+                  label: key,
+                  ...story,
+                },
+                itemIndex
+              )
+            );
+        }
+
+        if (item && typeof item === "object") {
+          return [
+            normalizeStory(
+              {
+                id: key,
+                key,
+                label: item.label || item.category || key,
+                ...item,
+              },
+              index
+            ),
+          ];
+        }
+
+        return [];
+      });
+    }
   }
 
   return [];
@@ -135,7 +208,9 @@ function getStories(report: AnyObj): AnyObj[] {
 function getSpotlightStories(report: AnyObj, key: "live_newsroom" | "editor_signals"): AnyObj[] {
   const raw = report[key];
   if (!Array.isArray(raw)) return [];
-  return raw.filter((item) => item && typeof item === "object");
+  return raw
+    .filter((item) => item && typeof item === "object")
+    .map((item, index) => normalizeStory(item, index));
 }
 
 function storyTitle(story: AnyObj, index: number): string {
@@ -163,7 +238,7 @@ function storySummary(story: AnyObj): string {
 }
 
 function storyLabel(story: AnyObj): string {
-  return cleanText(story.label) || cleanText(story.source) || "Politics Watch";
+  return cleanText(story.label) || cleanText(story.category) || cleanText(story.source) || "Politics Watch";
 }
 
 function storySignal(story: AnyObj, index: number): string {
@@ -240,6 +315,7 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   const keyData = asList(story.key_data || story.keyData || story.data || story.metrics);
   const why = asList(story.why_it_matters || story.whyItMatters || story.why);
   const watch = asList(story.what_to_watch || story.whatToWatch || story.watch);
+  const angles = asList(story.story_angles || story.storyAngles || story.angles);
 
   return (
     <article className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
@@ -259,7 +335,7 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
 
       <p className="mt-3 text-sm leading-6 text-slate-700">{summary}</p>
 
-      <div className="mt-4 grid gap-3 md:grid-cols-3">
+      <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
         <div className="rounded-xl bg-slate-50 p-3">
           <p className="mb-2 text-xs font-black uppercase text-slate-600">Key Data</p>
           <LineList items={keyData.length ? keyData : ["Latest verified political signal attached for newsroom review."]} />
@@ -273,6 +349,11 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
         <div className="rounded-xl bg-slate-50 p-3">
           <p className="mb-2 text-xs font-black uppercase text-slate-600">What To Watch</p>
           <LineList items={watch.length ? watch : ["Monitor the next vote, court action, campaign move or government response."]} />
+        </div>
+
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">Story Angles</p>
+          <LineList items={angles.length ? angles : ["Identify the strongest policy, power, campaign, court or accountability angle behind the development."]} />
         </div>
       </div>
     </article>
@@ -309,6 +390,7 @@ export default function Page() {
         key_data: ["Latest politics report generated from live feeds."],
         why_it_matters: ["Editors need fast clarity on power, policy and public accountability."],
         what_to_watch: ["Next vote, court move, agency action, campaign response or policy shift."],
+        story_angles: ["Follow the strongest policy, campaign, legal or accountability thread."],
       },
     ];
   }
@@ -438,7 +520,7 @@ export default function Page() {
 
         <section className="space-y-6">
           {leadStories.map((story, index) => (
-            <StoryCard key={index} story={story} index={index} />
+            <StoryCard key={story.id || index} story={story} index={index} />
           ))}
         </section>
       </section>
