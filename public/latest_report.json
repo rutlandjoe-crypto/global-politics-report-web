@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
   "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-11 09:34:27 AM ET",
-  "generated_at": "2026-05-11 09:34:27 AM ET",
+  "updated_at": "2026-05-11 12:19:55 PM ET",
+  "generated_at": "2026-05-11 12:19:55 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 142,
-    "live_fresh_items": 43,
-    "editor_fresh_items": 87,
-    "public_fallback_items": 141,
-    "stale_or_blocked_items": 99,
+    "live_fresh_items": 63,
+    "editor_fresh_items": 108,
+    "public_fallback_items": 142,
+    "stale_or_blocked_items": 79,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-11 09:34:27 AM ET"
+    "last_checked": "2026-05-11 12:19:55 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,21 +44,49 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "3.57",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
-      "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
-      "snapshot": "Brent crude rises amid a continuing deadlock as Trump describes Iran's response as 'totally unacceptable'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Lebanese civil defence worker captures moment of Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
+      "snapshot": "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Iran, Trump, Tehran, Brent",
-        "Specific figures mentioned: 73",
+        "Key people or organizations: Lebanese, Israeli, Lebanon",
+        "Story focus: Lebanese civil defence worker captures moment of Israeli strike",
+        "Source context: A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lebanese.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 11 May 2026 14:25:51 +0000",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Cole Allen pleads not guilty to attempted Trump assassination",
+      "url": "https://www.aljazeera.com/news/2026/5/11/suspect-pleads-not-guilty-to-attempted-assassination-of-us-president?traffic_source=rss",
+      "snapshot": "Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Cole Allen, Trump, Defence, US Attorney Pirro",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 73"
+        "Story focus: Cole Allen pleads not guilty to attempted Trump assassination",
+        "Source context: Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,29 +94,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Cole Allen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 08:16:37 +0000",
-      "age_hours": "5.30",
+      "published": "Mon, 11 May 2026 14:04:02 +0000",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "74",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Democrats face flak for accepting contributions from donors funding Trump ballroom",
-      "url": "https://thehill.com/homenews/senate/5870534-senate-democrats-trump-ballroom/",
-      "snapshot": "Senate Democrats are gearing up to make President Trump's lavish new White House ballroom a prominent issue in the midterm elections, but several prominent Senate Democratic contenders have also accepted contributions from corporations funding the ballroom, muddling the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "White House ballroom funds hang over GOP push to fund ICE",
+      "url": "https://www.cbsnews.com/news/white-house-ballroom-gop-reconciliation-bill/",
+      "snapshot": "The Senate is returning to Washington to resume work on funding immigration agencies with a package that includes $1 billion for the renovation of the White House East Wing. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Democrats, Trump, Senate Democrats, President Trump",
-        "Politics desk signal: senate, house, white house, election",
+        "Key people or organizations: White House, GOP, ICE, Washington",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats face flak for accepting contributions from donors funding Trump ballroom",
-        "Source context: Senate Democrats are gearing up to make President Trump's lavish new White House ballroom a prominent issue in the midterm elections, but several..."
+        "Story focus: White House ballroom funds hang over GOP push to fund ICE"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -96,77 +124,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "3.57",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Philippine Congress impeaches VP Sara Duterte for second time",
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
-      "snapshot": "Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Philippine Congress, VP Sara Duterte, Trial, Duterte",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Philippine Congress impeaches VP Sara Duterte for second time",
-        "Source context: Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Philippine Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 06:51:23 +0000",
-      "age_hours": "6.72",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    },
-    {
-      "headline": "Redistricting could prop up Republicans in the midterm elections",
-      "url": "https://www.cbsnews.com/video/latest-on-the-battle-over-redistricting/",
-      "snapshot": "The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President Trump's record-low approval rating. Aaron Navarro is at the White House with more. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Redistricting, Republicans, House, President Trump",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Redistricting could prop up Republicans in the midterm elections",
-        "Source context: The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Redistricting.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 20:47:38 -0400",
-      "age_hours": "12.78",
-      "freshness_status": "stale",
-      "editorial_score": "76",
+      "published": "Mon, 11 May 2026 10:26:00 -0400",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump says he aims to suspend gas tax \"for a period of time\"",
+      "url": "https://www.cbsnews.com/news/trump-interview-suspending-gas-tax-iran-war/",
+      "snapshot": "President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, CBS News, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he aims to suspend gas tax \"for a period of time\"",
+        "Source context: President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 11 May 2026 11:42:46 -0400",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     }
   ],
@@ -196,10 +194,70 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "3.57",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Political signal: White House ballroom funds hang over GOP push to fund ICE",
+      "url": "https://www.cbsnews.com/news/white-house-ballroom-gop-reconciliation-bill/",
+      "snapshot": "The Senate is returning to Washington to resume work on funding immigration agencies with a package that includes $1 billion for the renovation of the White House East Wing. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Political, White House, GOP, ICE",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 11 May 2026 10:26:00 -0400",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Political signal: Trump says he aims to suspend gas tax \"for a period of time\"",
+      "url": "https://www.cbsnews.com/news/trump-interview-suspending-gas-tax-iran-war/",
+      "snapshot": "President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Political, Trump, President Trump, CBS News",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 11 May 2026 11:42:46 -0400",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Political signal: Democrats face flak for accepting contributions from donors funding Trump ballroom",
@@ -226,106 +284,44 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "3.57",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Philippine Congress impeaches VP Sara Duterte for second time",
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
-      "snapshot": "Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Political signal: Lebanese civil defence worker captures moment of Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
+      "snapshot": "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Political, Philippine Congress, VP Sara Duterte, Trial",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Key people or organizations: Political, Lebanese, Israeli, Lebanon",
         "Story focus: Political signal",
-        "Source context: Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the..."
+        "Source context: A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 06:51:23 +0000",
-      "age_hours": "6.72",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Iran war day 73",
-      "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
-      "snapshot": "Brent crude rises amid a continuing deadlock as Trump describes Iran's response as 'totally unacceptable'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Political, Iran, Brent, Trump",
-        "Specific figures mentioned: 73",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 08:16:37 +0000",
-      "age_hours": "5.30",
+      "published": "Mon, 11 May 2026 14:25:51 +0000",
+      "age_hours": "1.90",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Political signal: Redistricting could prop up Republicans in the midterm elections",
-      "url": "https://www.cbsnews.com/video/latest-on-the-battle-over-redistricting/",
-      "snapshot": "The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President Trump's record-low approval rating. Aaron Navarro is at the White House with more. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Political, Redistricting, Republicans, House",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 20:47:38 -0400",
-      "age_hours": "12.78",
-      "freshness_status": "stale",
-      "editorial_score": "76",
-      "urgency": ""
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
-    "Democrats face flak for accepting contributions from donors funding Trump ballroom",
-    "Philippine Congress impeaches VP Sara Duterte for second time"
+    "White House ballroom funds hang over GOP push to fund ICE",
+    "Trump says he aims to suspend gas tax \"for a period of time\""
   ],
   "sections": [
     {
@@ -353,10 +349,70 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "3.57",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "White House ballroom funds hang over GOP push to fund ICE",
+      "url": "https://www.cbsnews.com/news/white-house-ballroom-gop-reconciliation-bill/",
+      "snapshot": "The Senate is returning to Washington to resume work on funding immigration agencies with a package that includes $1 billion for the renovation of the White House East Wing. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: White House, GOP, ICE, Washington",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House ballroom funds hang over GOP push to fund ICE"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 11 May 2026 10:26:00 -0400",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump says he aims to suspend gas tax \"for a period of time\"",
+      "url": "https://www.cbsnews.com/news/trump-interview-suspending-gas-tax-iran-war/",
+      "snapshot": "President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, CBS News, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he aims to suspend gas tax \"for a period of time\"",
+        "Source context: President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 11 May 2026 11:42:46 -0400",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Democrats face flak for accepting contributions from donors funding Trump ballroom",
@@ -383,51 +439,49 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "3.57",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Philippine Congress impeaches VP Sara Duterte for second time",
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
-      "snapshot": "Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Lebanese civil defence worker captures moment of Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
+      "snapshot": "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Philippine Congress, VP Sara Duterte, Trial, Duterte",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Philippine Congress impeaches VP Sara Duterte for second time",
-        "Source context: Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the..."
+        "Key people or organizations: Lebanese, Israeli, Lebanon",
+        "Story focus: Lebanese civil defence worker captures moment of Israeli strike",
+        "Source context: A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Philippine Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Lebanese.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 06:51:23 +0000",
-      "age_hours": "6.72",
+      "published": "Mon, 11 May 2026 14:25:51 +0000",
+      "age_hours": "1.90",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
-      "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
-      "snapshot": "Brent crude rises amid a continuing deadlock as Trump describes Iran's response as 'totally unacceptable'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Cole Allen pleads not guilty to attempted Trump assassination",
+      "url": "https://www.aljazeera.com/news/2026/5/11/suspect-pleads-not-guilty-to-attempted-assassination-of-us-president?traffic_source=rss",
+      "snapshot": "Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Iran, Trump, Tehran, Brent",
-        "Specific figures mentioned: 73",
+        "Key people or organizations: Cole Allen, Trump, Defence, US Attorney Pirro",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 73"
+        "Story focus: Cole Allen pleads not guilty to attempted Trump assassination",
+        "Source context: Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,78 +489,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Cole Allen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 08:16:37 +0000",
-      "age_hours": "5.30",
+      "published": "Mon, 11 May 2026 14:04:02 +0000",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "74",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "5/10: CBS Weekend News",
-      "url": "https://www.cbsnews.com/video/051026-cbs-weekend-news/",
-      "snapshot": "Americans on hantavirus cruise ship headed back to the United States. Trump says Iran proposal \"totally unacceptable.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: CBS Weekend News, Americans, United States, Trump",
-        "Specific figures mentioned: 5, 10",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 5/10"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving CBS Weekend News.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 23:00:00 -0400",
-      "age_hours": "10.57",
-      "freshness_status": "fresh",
-      "editorial_score": "71",
-      "urgency": ""
-    },
-    {
-      "headline": "Redistricting could prop up Republicans in the midterm elections",
-      "url": "https://www.cbsnews.com/video/latest-on-the-battle-over-redistricting/",
-      "snapshot": "The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President Trump's record-low approval rating. Aaron Navarro is at the White House with more. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Redistricting, Republicans, House, President Trump",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Redistricting could prop up Republicans in the midterm elections",
-        "Source context: The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Redistricting.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 20:47:38 -0400",
-      "age_hours": "12.78",
-      "freshness_status": "stale",
-      "editorial_score": "76",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
