@@ -2,33 +2,33 @@
   "site": "Global Politics Report",
   "vertical": "Politics",
   "headline": "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
-  "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-11 06:40:12 AM ET",
-  "generated_at": "2026-05-11 06:40:12 AM ET",
+  "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-05-11 09:34:27 AM ET",
+  "generated_at": "2026-05-11 09:34:27 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 140,
-    "live_fresh_items": 36,
-    "editor_fresh_items": 79,
-    "public_fallback_items": 139,
-    "stale_or_blocked_items": 104,
+    "total_items_checked": 142,
+    "live_fresh_items": 43,
+    "editor_fresh_items": 87,
+    "public_fallback_items": 141,
+    "stale_or_blocked_items": 99,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-11 06:40:12 AM ET"
+    "last_checked": "2026-05-11 09:34:27 AM ET"
   },
   "live_newsroom": [
     {
       "headline": "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
       "url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection/",
-      "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
         "Key people or organizations: Healthcare, Sullivan, Alaska, Alaskans",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Healthcare cuts threaten Sullivan's reelection chances in Alaska",
-        "Source context: Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for..."
+        "Source context: Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "0.67",
+      "age_hours": "3.57",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -74,7 +74,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 11 May 2026 08:16:37 +0000",
-      "age_hours": "2.39",
+      "age_hours": "5.30",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "BREAKING"
@@ -104,10 +104,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "0.67",
+      "age_hours": "3.57",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Philippine Congress impeaches VP Sara Duterte for second time",
+      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
+      "snapshot": "Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Philippine Congress, VP Sara Duterte, Trial, Duterte",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Philippine Congress impeaches VP Sara Duterte for second time",
+        "Source context: Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Philippine Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 11 May 2026 06:51:23 +0000",
+      "age_hours": "6.72",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": ""
     },
     {
       "headline": "Redistricting could prop up Republicans in the midterm elections",
@@ -134,39 +164,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 10 May 2026 20:47:38 -0400",
-      "age_hours": "9.88",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Taiwan to be key issue at Trump's summit with China's President Xi",
-      "url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping/",
-      "snapshot": "Taiwan, one of the world's biggest diplomatic flashpoints, will be top of mind for President Xi when he meets with President Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Taiwan, Trump, China, President Xi",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Taiwan to be key issue at Trump's summit with China's President Xi",
-        "Source context: Taiwan, one of the world's biggest diplomatic flashpoints, will be top of mind for President Xi when he meets with President Trump. The election..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Taiwan.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 21:09:43 -0400",
-      "age_hours": "9.51",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "age_hours": "12.78",
+      "freshness_status": "stale",
+      "editorial_score": "76",
       "urgency": ""
     }
   ],
@@ -174,13 +174,13 @@
     {
       "headline": "Political signal: Healthcare cuts threaten Sullivan's reelection chances in Alaska",
       "url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection/",
-      "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
         "Key people or organizations: Political, Healthcare, Sullivan, Alaska",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for..."
+        "Source context: Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "0.67",
+      "age_hours": "3.57",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -226,10 +226,70 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "0.67",
+      "age_hours": "3.57",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Political signal: Philippine Congress impeaches VP Sara Duterte for second time",
+      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
+      "snapshot": "Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Political, Philippine Congress, VP Sara Duterte, Trial",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 11 May 2026 06:51:23 +0000",
+      "age_hours": "6.72",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Iran war day 73",
+      "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
+      "snapshot": "Brent crude rises amid a continuing deadlock as Trump describes Iran's response as 'totally unacceptable'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Political, Iran, Brent, Trump",
+        "Specific figures mentioned: 73",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 11 May 2026 08:16:37 +0000",
+      "age_hours": "5.30",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Political signal: Redistricting could prop up Republicans in the midterm elections",
@@ -256,88 +316,28 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 10 May 2026 20:47:38 -0400",
-      "age_hours": "9.88",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Taiwan to be key issue at Trump's summit with China's President Xi",
-      "url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping/",
-      "snapshot": "Taiwan, one of the world's biggest diplomatic flashpoints, will be top of mind for President Xi when he meets with President Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Political, Taiwan, Trump, China",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: Taiwan, one of the world's biggest diplomatic flashpoints, will be top of mind for President Xi when he meets with President Trump. The election..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 21:09:43 -0400",
-      "age_hours": "9.51",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Philippine Congress impeaches VP Sara Duterte for a second time",
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
-      "snapshot": "Trial of vice president in question after allies of Duterte stages a coup and wrestles control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Political, Philippine Congress, VP Sara Duterte, Trial",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: Trial of vice president in question after allies of Duterte stages a coup and wrestles control of the Philippine Senate. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 06:51:23 +0000",
-      "age_hours": "3.81",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
+      "age_hours": "12.78",
+      "freshness_status": "stale",
+      "editorial_score": "76",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
     "Democrats face flak for accepting contributions from donors funding Trump ballroom",
-    "Redistricting could prop up Republicans in the midterm elections"
+    "Philippine Congress impeaches VP Sara Duterte for second time"
   ],
   "sections": [
     {
       "headline": "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
       "url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection/",
-      "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
         "Key people or organizations: Healthcare, Sullivan, Alaska, Alaskans",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Healthcare cuts threaten Sullivan's reelection chances in Alaska",
-        "Source context: Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for..."
+        "Source context: Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "0.67",
+      "age_hours": "3.57",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -383,81 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "0.67",
+      "age_hours": "3.57",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Redistricting could prop up Republicans in the midterm elections",
-      "url": "https://www.cbsnews.com/video/latest-on-the-battle-over-redistricting/",
-      "snapshot": "The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President Trump's record-low approval rating. Aaron Navarro is at the White House with more. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Redistricting, Republicans, House, President Trump",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Redistricting could prop up Republicans in the midterm elections",
-        "Source context: The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Redistricting.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 20:47:38 -0400",
-      "age_hours": "9.88",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Taiwan to be key issue at Trump's summit with China's President Xi",
-      "url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping/",
-      "snapshot": "Taiwan, one of the world's biggest diplomatic flashpoints, will be top of mind for President Xi when he meets with President Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Taiwan, Trump, China, President Xi",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Taiwan to be key issue at Trump's summit with China's President Xi",
-        "Source context: Taiwan, one of the world's biggest diplomatic flashpoints, will be top of mind for President Xi when he meets with President Trump. The election..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Taiwan.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 10 May 2026 21:09:43 -0400",
-      "age_hours": "9.51",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Philippine Congress impeaches VP Sara Duterte for a second time",
+      "headline": "Philippine Congress impeaches VP Sara Duterte for second time",
       "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
-      "snapshot": "Trial of vice president in question after allies of Duterte stages a coup and wrestles control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Philippine Congress, VP Sara Duterte, Trial, Duterte",
         "Politics desk signal: congress, senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Philippine Congress impeaches VP Sara Duterte for a second time",
-        "Source context: Trial of vice president in question after allies of Duterte stages a coup and wrestles control of the Philippine Senate. The key question is..."
+        "Story focus: Philippine Congress impeaches VP Sara Duterte for second time",
+        "Source context: Trial of vice president in question after Duterte's allies stage a coup and wrest control of the Philippine Senate. The key question is leverage: the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -473,7 +413,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 11 May 2026 06:51:23 +0000",
-      "age_hours": "3.81",
+      "age_hours": "6.72",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -503,10 +443,70 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 11 May 2026 08:16:37 +0000",
-      "age_hours": "2.39",
+      "age_hours": "5.30",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "5/10: CBS Weekend News",
+      "url": "https://www.cbsnews.com/video/051026-cbs-weekend-news/",
+      "snapshot": "Americans on hantavirus cruise ship headed back to the United States. Trump says Iran proposal \"totally unacceptable.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: CBS Weekend News, Americans, United States, Trump",
+        "Specific figures mentioned: 5, 10",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 5/10"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving CBS Weekend News.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 10 May 2026 23:00:00 -0400",
+      "age_hours": "10.57",
+      "freshness_status": "fresh",
+      "editorial_score": "71",
+      "urgency": ""
+    },
+    {
+      "headline": "Redistricting could prop up Republicans in the midterm elections",
+      "url": "https://www.cbsnews.com/video/latest-on-the-battle-over-redistricting/",
+      "snapshot": "The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President Trump's record-low approval rating. Aaron Navarro is at the White House with more. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
+      "key_data": [
+        "Key people or organizations: Redistricting, Republicans, House, President Trump",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Redistricting could prop up Republicans in the midterm elections",
+        "Source context: The battle over redistricting is swinging in favor of Republicans, giving them a built-in advantage to retain control of the House despite President..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Redistricting.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 10 May 2026 20:47:38 -0400",
+      "age_hours": "12.78",
+      "freshness_status": "stale",
+      "editorial_score": "76",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
