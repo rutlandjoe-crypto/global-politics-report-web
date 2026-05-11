@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Healthcare cuts threaten Sullivan's reelection chances in Alaska",
   "snapshot": "Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed ObamaCare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office. A Democratic ad campaign released late last month accused... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-11 12:19:55 PM ET",
-  "generated_at": "2026-05-11 12:19:55 PM ET",
+  "updated_at": "2026-05-11 02:18:09 PM ET",
+  "generated_at": "2026-05-11 02:18:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 142,
-    "live_fresh_items": 63,
-    "editor_fresh_items": 108,
-    "public_fallback_items": 142,
-    "stale_or_blocked_items": 79,
+    "live_fresh_items": 77,
+    "editor_fresh_items": 122,
+    "public_fallback_items": 141,
+    "stale_or_blocked_items": 65,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-11 12:19:55 PM ET"
+    "last_checked": "2026-05-11 02:18:09 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "6.33",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Israeli attacks kill at least four in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
+      "snapshot": "Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Lebanon",
+        "Story focus: Israeli attacks kill at least four in southern Lebanon",
+        "Source context: Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon. The geopolitical angle is how the decision..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 11 May 2026 16:39:23 +0000",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Lebanese civil defence worker captures moment of Israeli strike",
@@ -72,40 +100,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 11 May 2026 14:25:51 +0000",
-      "age_hours": "1.90",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Cole Allen pleads not guilty to attempted Trump assassination",
-      "url": "https://www.aljazeera.com/news/2026/5/11/suspect-pleads-not-guilty-to-attempted-assassination-of-us-president?traffic_source=rss",
-      "snapshot": "Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Cole Allen, Trump, Defence, US Attorney Pirro",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cole Allen pleads not guilty to attempted Trump assassination",
-        "Source context: Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cole Allen.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 14:04:02 +0000",
-      "age_hours": "2.26",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "BREAKING"
     },
     {
       "headline": "White House ballroom funds hang over GOP push to fund ICE",
@@ -132,7 +130,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 11 May 2026 10:26:00 -0400",
-      "age_hours": "1.90",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -161,8 +159,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 11 May 2026 11:42:46 -0400",
-      "age_hours": "0.62",
+      "published": "Mon, 11 May 2026 12:28:50 -0400",
+      "age_hours": "1.82",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -194,7 +192,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "6.33",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -224,7 +222,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 11 May 2026 10:26:00 -0400",
-      "age_hours": "1.90",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -253,8 +251,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 11 May 2026 11:42:46 -0400",
-      "age_hours": "0.62",
+      "published": "Mon, 11 May 2026 12:28:50 -0400",
+      "age_hours": "1.82",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -284,19 +282,19 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "6.33",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Lebanese civil defence worker captures moment of Israeli strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
-      "snapshot": "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Political signal: Israeli attacks kill at least four in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
+      "snapshot": "Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Political, Lebanese, Israeli, Lebanon",
+        "Key people or organizations: Political, Israeli, Lebanon",
         "Story focus: Political signal",
-        "Source context: A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon. The geopolitical angle is how the..."
+        "Source context: Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon. The geopolitical angle is how the decision..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -311,8 +309,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 14:25:51 +0000",
-      "age_hours": "1.90",
+      "published": "Mon, 11 May 2026 16:39:23 +0000",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -349,7 +347,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "6.33",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -379,7 +377,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 11 May 2026 10:26:00 -0400",
-      "age_hours": "1.90",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -408,8 +406,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 11 May 2026 11:42:46 -0400",
-      "age_hours": "0.62",
+      "published": "Mon, 11 May 2026 12:28:50 -0400",
+      "age_hours": "1.82",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -439,10 +437,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 11 May 2026 10:00:00 +0000",
-      "age_hours": "6.33",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Israeli attacks kill at least four in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
+      "snapshot": "Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Lebanon",
+        "Story focus: Israeli attacks kill at least four in southern Lebanon",
+        "Source context: Israeli strikes follow forced displacement warnings for nine towns in southern and eastern Lebanon. The geopolitical angle is how the decision..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 11 May 2026 16:39:23 +0000",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Lebanese civil defence worker captures moment of Israeli strike",
@@ -467,40 +493,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 11 May 2026 14:25:51 +0000",
-      "age_hours": "1.90",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Cole Allen pleads not guilty to attempted Trump assassination",
-      "url": "https://www.aljazeera.com/news/2026/5/11/suspect-pleads-not-guilty-to-attempted-assassination-of-us-president?traffic_source=rss",
-      "snapshot": "Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Cole Allen, Trump, Defence, US Attorney Pirro",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cole Allen pleads not guilty to attempted Trump assassination",
-        "Source context: Defence challenges involvement of US Attorney Pirro, citing her friendship with Trump, role at gala where shots fired. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cole Allen.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 11 May 2026 14:04:02 +0000",
-      "age_hours": "2.26",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
