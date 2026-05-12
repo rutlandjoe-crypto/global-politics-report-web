@@ -1,32 +1,32 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate Republicans warn Trump against Cuba military attack",
-  "snapshot": "Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military already has its hands full with Iran. The Trump administration, these Republicans say, should not be thinking about opening... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-12 12:20:52 PM ET",
-  "generated_at": "2026-05-12 12:20:52 PM ET",
+  "headline": "Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
+  "snapshot": "The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central bank's leader, replacing Jerome Powell. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-05-12 01:34:41 PM ET",
+  "generated_at": "2026-05-12 01:34:41 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
-    "max_public_backup_age_hours": 72,
+    "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 76,
-    "editor_fresh_items": 143,
-    "public_backup_items": 149,
-    "stale_or_blocked_items": 73,
+    "live_fresh_items": 88,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 61,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-12 12:20:52 PM ET"
+    "last_checked": "2026-05-12 01:34:41 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Israel killing at least one child a week in occupied West Bank, UN says",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=feed",
-      "snapshot": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Israel's war creating a 'lost generation' of Lebanese students",
+      "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+      "snapshot": "Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country's education system. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Names involved: Israel, West Bank, UN, Israeli",
-        "Story focus: Israel killing at least one child a week in occupied West Bank, UN says",
-        "Context: Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank. The geopolitical angle is how..."
+        "Key people or organizations: Israel, Lebanese, Lebanon",
+        "Story focus: Israel's war creating a 'lost generation' of Lebanese students",
+        "Source context: Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country's education system. The geopolitical angle is..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -39,12 +39,42 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/feed/all.xml",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 12 May 2026 15:23:04 +0000",
-      "age_hours": "0.96",
+      "published": "Tue, 12 May 2026 16:33:23 +0000",
+      "age_hours": "1.02",
       "freshness_status": "fresh",
       "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
+      "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirms-fed-governor/",
+      "snapshot": "The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central bank's leader, replacing Jerome Powell. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate, Kevin Warsh, Fed, Federal Reserve",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
+        "Source context: The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 12 May 2026 12:29:51 -0400",
+      "age_hours": "1.08",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
@@ -52,11 +82,11 @@
       "url": "https://thehill.com/homenews/senate/5873176-senate-republicans-caution-trump-cuba/",
       "snapshot": "Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military already has its hands full with Iran. The Trump administration, these Republicans say, should not be thinking about opening... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Names involved: Senate Republicans, Trump, Cuba, President Trump",
-        "Politics signal: senate",
+        "Key people or organizations: Senate Republicans, Trump, Cuba, President Trump",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Senate Republicans warn Trump against Cuba military attack",
-        "Context: Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military..."
+        "Source context: Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -72,49 +102,19 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 12 May 2026 10:00:00 +0000",
-      "age_hours": "6.35",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
-      "editorial_score": "110",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump heads to China today for high-stakes meeting with Xi",
-      "url": "https://www.cbsnews.com/news/trump-heads-to-china-for-high-stakes-meeting-with-xi/",
-      "snapshot": "Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Names involved: Trump, China, Xi, Trade",
-        "Politics signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump heads to China today for high-stakes meeting with Xi",
-        "Context: Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/feed/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 12 May 2026 06:13:00 -0400",
-      "age_hours": "6.13",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     },
     {
       "headline": "Trump urges House to pass Senate's housing bill over conservative opposition",
       "url": "https://thehill.com/homenews/administration/5873550-trump-congress-housing-bill-gop/",
-      "snapshot": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "snapshot": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Names involved: Trump, House, Senate, President Trump",
-        "Key number: 21",
-        "Politics signal: senate, house",
+        "Key people or organizations: Trump, House, Senate, President Trump",
+        "Specific figures mentioned: 21",
+        "Politics desk signal: senate, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump urges House to pass Senate's housing bill over conservative opposition"
       ],
@@ -132,52 +132,53 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 12 May 2026 11:52:11 +0000",
-      "age_hours": "4.48",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "one Palestinian teen's life changed forever after Israeli gunfire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=feed",
-      "snapshot": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump heads to China today for high-stakes meeting with Xi",
+      "url": "https://www.cbsnews.com/news/trump-heads-to-china-for-high-stakes-meeting-with-xi/",
+      "snapshot": "Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Names involved: Palestinian, Israeli, Amir Othman, Nablus",
-        "Key number: 16",
-        "Story focus: one Palestinian teen's life changed forever after Israeli gunfire",
-        "Context: Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank. The geopolitical angle is how the decision affects..."
+        "Key people or organizations: Trump, China, Xi, Trade",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump heads to China today for high-stakes meeting with Xi",
+        "Source context: Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Palestinian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/feed/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 12 May 2026 15:02:22 +0000",
-      "age_hours": "1.31",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 12 May 2026 06:13:00 -0400",
+      "age_hours": "7.36",
       "freshness_status": "fresh",
-      "editorial_score": "56",
-      "urgency": "DEVELOPING"
+      "editorial_score": "108",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Senate Republicans warn Trump against Cuba military attack carries governing consequence",
-      "url": "https://thehill.com/homenews/senate/5873176-senate-republicans-caution-trump-cuba/",
-      "snapshot": "Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military already has its hands full with Iran. The Trump administration, these Republicans say, should not be thinking about opening... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
+      "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirms-fed-governor/",
+      "snapshot": "The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central bank's leader, replacing Jerome Powell. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Names involved: Senate Republicans, Trump, Cuba, President Trump",
-        "Politics signal: senate",
+        "Key people or organizations: Political, Senate, Kevin Warsh, Fed",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Republicans warn Trump against Cuba military attack carries governing consequence",
-        "Context: Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military..."
+        "Story focus: Political signal",
+        "Source context: The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -185,7 +186,37 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate Republicans.",
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 12 May 2026 12:29:51 -0400",
+      "age_hours": "1.08",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Senate Republicans warn Trump against Cuba military attack",
+      "url": "https://thehill.com/homenews/senate/5873176-senate-republicans-caution-trump-cuba/",
+      "snapshot": "Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military already has its hands full with Iran. The Trump administration, these Republicans say, should not be thinking about opening... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Political, Senate Republicans, Trump, Cuba",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
@@ -193,109 +224,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 12 May 2026 10:00:00 +0000",
-      "age_hours": "6.35",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
-      "editorial_score": "110",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump heads to China today for high-stakes meeting with Xi carries governing consequence",
-      "url": "https://www.cbsnews.com/news/trump-heads-to-china-for-high-stakes-meeting-with-xi/",
-      "snapshot": "Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Names involved: Trump, China, Xi, Trade",
-        "Politics signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump heads to China today for high-stakes meeting with Xi carries governing consequence",
-        "Context: Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/feed/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 12 May 2026 06:13:00 -0400",
-      "age_hours": "6.13",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Israel killing at least one child a week in occupied West Bank, UN says carries governing consequence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=feed",
-      "snapshot": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Names involved: Israel, West Bank, UN, Israeli",
-        "Story focus: Israel killing at least one child a week in occupied West Bank, UN says carries governing consequence",
-        "Context: Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/feed/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 12 May 2026 15:23:04 +0000",
-      "age_hours": "0.96",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Lawmakers press Hegseth, Caine for details on Iran war funding carries governing consequence",
-      "url": "https://www.cbsnews.com/news/hegseth-caine-pentagon-budget-request-congress-committees/",
-      "snapshot": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are appearing in back-to-back hearings before the House and Senate Appropriations subcommittees that oversee defense spending. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Names involved: Lawmakers, Hegseth, Caine, Iran",
-        "Politics signal: senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lawmakers press Hegseth, Caine for details on Iran war funding carries governing consequence",
-        "Context: Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are appearing in back-to-back hearings before the House and Senate..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lawmakers.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/feed/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 12 May 2026 10:48:21 -0400",
-      "age_hours": "1.54",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump urges House to pass Senate's housing bill over conservative opposition carries governing consequence",
+      "headline": "Political signal: Trump urges House to pass Senate's housing bill over conservative opposition",
       "url": "https://thehill.com/homenews/administration/5873550-trump-congress-housing-bill-gop/",
-      "snapshot": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "snapshot": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Names involved: Trump, House, Senate, President Trump",
-        "Key number: 21",
-        "Politics signal: senate, house",
+        "Key people or organizations: Political, Trump, House, Senate",
+        "Specific figures mentioned: 21",
+        "Politics desk signal: senate, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump urges House to pass Senate's housing bill over conservative opposition carries governing consequence"
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -303,7 +246,7 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Political.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
@@ -311,28 +254,118 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 12 May 2026 11:52:11 +0000",
-      "age_hours": "4.48",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Trump heads to China today for high-stakes meeting with Xi",
+      "url": "https://www.cbsnews.com/news/trump-heads-to-china-for-high-stakes-meeting-with-xi/",
+      "snapshot": "Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Political, Trump, China, Xi",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 12 May 2026 06:13:00 -0400",
+      "age_hours": "7.36",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+      "url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+      "snapshot": "Appearing before congressional panel, Defense Secretary Hegseth says US is prepared to either escalate or wind down war. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Political, Pentagon, Iran, Appearing",
+        "Specific figures mentioned: 29",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 12 May 2026 16:13:28 +0000",
+      "age_hours": "1.35",
+      "freshness_status": "fresh",
+      "editorial_score": "68",
+      "urgency": ""
     }
   ],
   "key_storylines": [
+    "Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
     "Senate Republicans warn Trump against Cuba military attack",
-    "Trump heads to China today for high-stakes meeting with Xi",
-    "Israel killing at least one child a week in occupied West Bank, UN says"
+    "Trump urges House to pass Senate's housing bill over conservative opposition"
   ],
   "sections": [
+    {
+      "headline": "Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
+      "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirms-fed-governor/",
+      "snapshot": "The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central bank's leader, replacing Jerome Powell. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate, Kevin Warsh, Fed, Federal Reserve",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate confirms Kevin Warsh as Fed governor, clearing path to become chair",
+        "Source context: The Senate has confirmed Kevin Warsh to the Federal Reserve's Board of Governors, a crucial step in President Trump's push to make Warsh the central..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 12 May 2026 12:29:51 -0400",
+      "age_hours": "1.08",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Senate Republicans warn Trump against Cuba military attack",
       "url": "https://thehill.com/homenews/senate/5873176-senate-republicans-caution-trump-cuba/",
       "snapshot": "Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military already has its hands full with Iran. The Trump administration, these Republicans say, should not be thinking about opening... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Names involved: Senate Republicans, Trump, Cuba, President Trump",
-        "Politics signal: senate",
+        "Key people or organizations: Senate Republicans, Trump, Cuba, President Trump",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Senate Republicans warn Trump against Cuba military attack",
-        "Context: Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military..."
+        "Source context: Senate Republicans are cautioning President Trump against ordering military strikes against the socialist regime in Cuba, arguing the U.S. military..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -348,107 +381,19 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 12 May 2026 10:00:00 +0000",
-      "age_hours": "6.35",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
-      "editorial_score": "110",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump heads to China today for high-stakes meeting with Xi",
-      "url": "https://www.cbsnews.com/news/trump-heads-to-china-for-high-stakes-meeting-with-xi/",
-      "snapshot": "Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Names involved: Trump, China, Xi, Trade",
-        "Politics signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump heads to China today for high-stakes meeting with Xi",
-        "Context: Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/feed/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 12 May 2026 06:13:00 -0400",
-      "age_hours": "6.13",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Israel killing at least one child a week in occupied West Bank, UN says",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=feed",
-      "snapshot": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Names involved: Israel, West Bank, UN, Israeli",
-        "Story focus: Israel killing at least one child a week in occupied West Bank, UN says",
-        "Context: Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/feed/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 12 May 2026 15:23:04 +0000",
-      "age_hours": "0.96",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Lawmakers press Hegseth, Caine for details on Iran war funding",
-      "url": "https://www.cbsnews.com/news/hegseth-caine-pentagon-budget-request-congress-committees/",
-      "snapshot": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are appearing in back-to-back hearings before the House and Senate Appropriations subcommittees that oversee defense spending. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Names involved: Lawmakers, Hegseth, Caine, Iran",
-        "Politics signal: senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lawmakers press Hegseth, Caine for details on Iran war funding",
-        "Context: Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are appearing in back-to-back hearings before the House and Senate..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lawmakers.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/feed/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 12 May 2026 10:48:21 -0400",
-      "age_hours": "1.54",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
     },
     {
       "headline": "Trump urges House to pass Senate's housing bill over conservative opposition",
       "url": "https://thehill.com/homenews/administration/5873550-trump-congress-housing-bill-gop/",
-      "snapshot": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "snapshot": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Names involved: Trump, House, Senate, President Trump",
-        "Key number: 21",
-        "Politics signal: senate, house",
+        "Key people or organizations: Trump, House, Senate, President Trump",
+        "Specific figures mentioned: 21",
+        "Politics desk signal: senate, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump urges House to pass Senate's housing bill over conservative opposition"
       ],
@@ -466,20 +411,79 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 12 May 2026 11:52:11 +0000",
-      "age_hours": "4.48",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "one Palestinian teen's life changed forever after Israeli gunfire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=feed",
-      "snapshot": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump heads to China today for high-stakes meeting with Xi",
+      "url": "https://www.cbsnews.com/news/trump-heads-to-china-for-high-stakes-meeting-with-xi/",
+      "snapshot": "Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Names involved: Palestinian, Israeli, Amir Othman, Nablus",
-        "Key number: 16",
-        "Story focus: one Palestinian teen's life changed forever after Israeli gunfire",
-        "Context: Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank. The geopolitical angle is how the decision affects..."
+        "Key people or organizations: Trump, China, Xi, Trade",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump heads to China today for high-stakes meeting with Xi",
+        "Source context: Trade, Taiwan and tensions with Iran are surefire topics for President Trump's meeting with Chinese leader Xi Jinping. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 12 May 2026 06:13:00 -0400",
+      "age_hours": "7.36",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+      "url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+      "snapshot": "Appearing before congressional panel, Defense Secretary Hegseth says US is prepared to either escalate or wind down war. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Pentagon, Iran, Appearing, Defense Secretary Hegseth",
+        "Specific figures mentioned: 29",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Pentagon gives new $29bn Iran war price tag, downplays munitions concerns"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Pentagon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 12 May 2026 16:13:28 +0000",
+      "age_hours": "1.35",
+      "freshness_status": "fresh",
+      "editorial_score": "68",
+      "urgency": ""
+    },
+    {
+      "headline": "Israel's war creating a 'lost generation' of Lebanese students",
+      "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+      "snapshot": "Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country's education system. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israel, Lebanese, Lebanon",
+        "Story focus: Israel's war creating a 'lost generation' of Lebanese students",
+        "Source context: Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country's education system. The geopolitical angle is..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -487,17 +491,17 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Palestinian.",
+        "Watch for the next official action involving Israel.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/feed/all.xml",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 12 May 2026 15:02:22 +0000",
-      "age_hours": "1.31",
+      "published": "Tue, 12 May 2026 16:33:23 +0000",
+      "age_hours": "1.02",
       "freshness_status": "fresh",
-      "editorial_score": "56",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
@@ -505,7 +509,7 @@
     "status": "active",
     "version": "v4.0-cross-vertical-editorial-intelligence",
     "language_upgrade": "active",
-    "public_language_guard": "active",
+    "placeholder_guard": "active",
     "contextual_snapshot_engine": "active",
     "vertical_analysis_modes": {
       "ai": "enterprise, infrastructure, model competition, regulation and capital allocation",
@@ -539,7 +543,7 @@
       "Source diversity guard prevents one feed from dominating the page",
       "Authority scoring favors major AI companies, models, infrastructure, policy and enterprise movement",
       "Entertainment scoring favors recognizable studios, platforms, talent, box office, streaming, music, gaming and creator-economy signals",
-      "Entertainment backup source language is blocked from normal public leads when verified stories exist",
+      "Entertainment fallback language is blocked from normal public leads when verified stories exist",
       "Topic deduplication prevents repeated stories from filling the same public page",
       "Minimum-card logic attempts to fill each vertical with a healthy newsroom mix when enough vetted stories exist",
       "Cross-vertical editorial intelligence adds business, policy, market, audience and institutional context",
