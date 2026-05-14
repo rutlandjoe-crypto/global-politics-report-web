@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection",
-  "snapshot": "The Senate rejected another attempt by Democrats to limit President Trump's ability to use military force against Iran, but one new Republican senator voted in favor of advancing the measure. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-05-14 02:00:46 AM ET",
-  "generated_at": "2026-05-14 02:00:46 AM ET",
+  "headline": "Judge rules Rubio's sanction of UN rapporteur violates First Amendment",
+  "snapshot": "A federal judge on Wednesday temporarily blocked the Trump administration from enforcing sanctions against Francesa Albanese, a United Nations human rights investigator whose recent work has focused on the Israeli military campaign against Hamas in Gaza. U.S. District Judge... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-05-14 04:24:12 AM ET",
+  "generated_at": "2026-05-14 04:24:12 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 153,
-    "live_fresh_items": 82,
-    "editor_fresh_items": 152,
-    "public_fallback_items": 153,
-    "stale_or_blocked_items": 71,
+    "total_items_checked": 152,
+    "live_fresh_items": 63,
+    "editor_fresh_items": 151,
+    "public_fallback_items": 152,
+    "stale_or_blocked_items": 89,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-14 02:00:46 AM ET"
+    "last_checked": "2026-05-14 04:24:12 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 14 May 2026 00:00:17 +0000",
-      "age_hours": "6.01",
+      "age_hours": "8.40",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+      "snapshot": "US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, Vance, Israel, Lebanon",
+        "Specific figures mentioned: 76",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war day 76"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 14 May 2026 07:00:12 +0000",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,21 +104,51 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 13 May 2026 22:58:19 +0000",
-      "age_hours": "7.04",
+      "age_hours": "9.43",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection",
-      "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
-      "snapshot": "The Senate rejected another attempt by Democrats to limit President Trump's ability to use military force against Iran, but one new Republican senator voted in favor of advancing the measure. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Musk flew to China near end of OpenAI trial, after judge warned he could be recalled",
+      "url": "https://www.cbsnews.com/news/musk-china-openai-trial-judge-altman/",
+      "snapshot": "Elon Musk arrived in Beijing on Wednesday, as his $150 billion lawsuit against OpenAI's Sam Altman played out. But a judge told Musk last month he may be recalled to a California courtroom for further testimony at the request of OpenAI lawyers. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the...",
       "key_data": [
-        "Key people or organizations: Senate, Trump, Iran, GOP",
-        "Specific figures mentioned: 7",
-        "Politics desk signal: senate",
+        "Key people or organizations: Musk, China, OpenAI, Elon Musk",
+        "Specific figures mentioned: $150 billion",
+        "Politics desk signal: court, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection"
+        "Story focus: Musk flew to China near end of OpenAI trial, after judge warned he could be recalled"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Musk.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 13 May 2026 20:33:49 -0400",
+      "age_hours": "7.84",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Louisiana lawmakers advance new 5-1 congressional map that favors Republicans",
+      "url": "https://www.cbsnews.com/news/louisiana-redistricting-new-congressional-map-advances/",
+      "snapshot": "The new map will eliminate one of the state's majority Black, Democratic-leaning districts while keeping one Democratic-leaning district. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Louisiana, Republicans, Black, Democratic",
+        "Specific figures mentioned: 5, 1",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Louisiana lawmakers advance new 5-1 congressional map that favors Republicans"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -96,111 +156,21 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate.",
+        "Watch for the next official action involving Louisiana.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 13 May 2026 15:21:38 -0400",
-      "age_hours": "10.65",
+      "published": "Wed, 13 May 2026 17:53:38 -0400",
+      "age_hours": "10.51",
       "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate confirms Kevin Warsh as Fed chair as Trump presses for lower rates",
-      "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirmation-fed-chair/",
-      "snapshot": "The Senate voted to confirm Kevin Warsh as chairman of the Federal Reserve, marking a victory for President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate, Kevin Warsh, Fed, Trump",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate confirms Kevin Warsh as Fed chair as Trump presses for lower rates",
-        "Source context: The Senate voted to confirm Kevin Warsh as chairman of the Federal Reserve, marking a victory for President Trump. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 13 May 2026 15:20:24 -0400",
-      "age_hours": "10.67",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "White House threatens to withhold Medicaid money from states over fraud",
-      "url": "https://thehill.com/homenews/administration/5876707-states-face-medicaid-fraud-crackdown/",
-      "snapshot": "The Trump administration is threatening to withhold Medicaid money from all 50 states if they do not show that they are complying with federal anti-fraud statutes. Vice President Vance told reporters Wednesday that a letter sent to states by the Department of Health and Human... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: White House, Medicaid, Vice President Vance, Department",
-        "Specific figures mentioned: 50",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House threatens to withhold Medicaid money from states over fraud"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 13 May 2026 19:07:10 +0000",
-      "age_hours": "10.89",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
+      "editorial_score": "108",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Political signal: Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection",
-      "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
-      "snapshot": "The Senate rejected another attempt by Democrats to limit President Trump's ability to use military force against Iran, but one new Republican senator voted in favor of advancing the measure. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Political, Senate, Trump, Iran",
-        "Specific figures mentioned: 7",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 13 May 2026 15:21:38 -0400",
-      "age_hours": "10.65",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": ""
-    },
     {
       "headline": "Political signal: Judge rules Rubio's sanction of UN rapporteur violates First Amendment",
       "url": "https://thehill.com/regulation/court-battles/5877218-trump-administration-sanctions-blocked/",
@@ -226,49 +196,49 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 14 May 2026 00:00:17 +0000",
-      "age_hours": "6.01",
+      "age_hours": "8.40",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Senate confirms Kevin Warsh as Fed chair as Trump presses for lower rates",
-      "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirmation-fed-chair/",
-      "snapshot": "The Senate voted to confirm Kevin Warsh as chairman of the Federal Reserve, marking a victory for President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Political signal: Musk flew to China near end of OpenAI trial, after judge warned he could be recalled",
+      "url": "https://www.cbsnews.com/news/musk-china-openai-trial-judge-altman/",
+      "snapshot": "Elon Musk arrived in Beijing on Wednesday, as his $150 billion lawsuit against OpenAI's Sam Altman played out. But a judge told Musk last month he may be recalled to a California courtroom for further testimony at the request of OpenAI lawyers. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the...",
       "key_data": [
-        "Key people or organizations: Political, Senate, Kevin Warsh, Fed",
-        "Politics desk signal: senate",
+        "Key people or organizations: Political, Musk, China, OpenAI",
+        "Specific figures mentioned: $150 billion",
+        "Politics desk signal: court, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The Senate voted to confirm Kevin Warsh as chairman of the Federal Reserve, marking a victory for President Trump. The key question is leverage: the..."
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 13 May 2026 15:20:24 -0400",
-      "age_hours": "10.67",
+      "published": "Wed, 13 May 2026 20:33:49 -0400",
+      "age_hours": "7.84",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: White House threatens to withhold Medicaid money from states over fraud",
-      "url": "https://thehill.com/homenews/administration/5876707-states-face-medicaid-fraud-crackdown/",
-      "snapshot": "The Trump administration is threatening to withhold Medicaid money from all 50 states if they do not show that they are complying with federal anti-fraud statutes. Vice President Vance told reporters Wednesday that a letter sent to states by the Department of Health and Human... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Political signal: Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection",
+      "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
+      "snapshot": "The Senate rejected another attempt by Democrats to limit President Trump's ability to use military force against Iran, but one new Republican senator voted in favor of advancing the measure. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Political, White House, Medicaid, Vice President Vance",
-        "Specific figures mentioned: 50",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Political, Senate, Trump, Iran",
+        "Specific figures mentioned: 7",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal"
       ],
@@ -283,24 +253,54 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 13 May 2026 19:07:10 +0000",
-      "age_hours": "10.89",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 13 May 2026 15:21:38 -0400",
+      "age_hours": "13.04",
+      "freshness_status": "stale",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Republicans break ranks, but Senate fails to curb Trump's Iran war powers",
-      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
-      "snapshot": "The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Political signal: Republicans block Democrat-backed measures to undo Trump's dismantling of CFPB",
+      "url": "https://thehill.com/homenews/senate/5877247-senate-republicans-block-cfpb-measures/",
+      "snapshot": "Senate Republicans on Wednesday shot down more than a dozen Democratic-backed measures to undo the Trump administration's dismantling of the Consumer Financial Protection Bureau (CFPB). Democrats forced votes on multiple resolutions targeting rules and regulatory changes made... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Political, Republicans, Senate, Trump",
+        "Key people or organizations: Political, Republicans, Democrat, Trump",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran. The key question is leverage: the..."
+        "Source context: Senate Republicans on Wednesday shot down more than a dozen Democratic-backed measures to undo the Trump administration's dismantling of the Consumer..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 14 May 2026 00:30:25 +0000",
+      "age_hours": "7.90",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Iran war day 76",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+      "snapshot": "US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Political, Iran, US Vice President Vance, President Trump",
+        "Specific figures mentioned: 76",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -315,49 +315,19 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 13 May 2026 19:53:31 +0000",
-      "age_hours": "10.12",
+      "published": "Thu, 14 May 2026 07:00:12 +0000",
+      "age_hours": "1.40",
       "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection",
     "Judge rules Rubio's sanction of UN rapporteur violates First Amendment",
-    "Senate confirms Kevin Warsh as Fed chair as Trump presses for lower rates"
+    "Musk flew to China near end of OpenAI trial, after judge warned he could be recalled",
+    "Louisiana lawmakers advance new 5-1 congressional map that favors Republicans"
   ],
   "sections": [
-    {
-      "headline": "Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection",
-      "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
-      "snapshot": "The Senate rejected another attempt by Democrats to limit President Trump's ability to use military force against Iran, but one new Republican senator voted in favor of advancing the measure. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate, Trump, Iran, GOP",
-        "Specific figures mentioned: 7",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate defeats 7th attempt to limit Trump on Iran, despite new GOP defection"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 13 May 2026 15:21:38 -0400",
-      "age_hours": "10.65",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": ""
-    },
     {
       "headline": "Judge rules Rubio's sanction of UN rapporteur violates First Amendment",
       "url": "https://thehill.com/regulation/court-battles/5877218-trump-administration-sanctions-blocked/",
@@ -383,21 +353,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 14 May 2026 00:00:17 +0000",
-      "age_hours": "6.01",
+      "age_hours": "8.40",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate confirms Kevin Warsh as Fed chair as Trump presses for lower rates",
-      "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirmation-fed-chair/",
-      "snapshot": "The Senate voted to confirm Kevin Warsh as chairman of the Federal Reserve, marking a victory for President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Musk flew to China near end of OpenAI trial, after judge warned he could be recalled",
+      "url": "https://www.cbsnews.com/news/musk-china-openai-trial-judge-altman/",
+      "snapshot": "Elon Musk arrived in Beijing on Wednesday, as his $150 billion lawsuit against OpenAI's Sam Altman played out. But a judge told Musk last month he may be recalled to a California courtroom for further testimony at the request of OpenAI lawyers. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the...",
       "key_data": [
-        "Key people or organizations: Senate, Kevin Warsh, Fed, Trump",
-        "Politics desk signal: senate",
+        "Key people or organizations: Musk, China, OpenAI, Elon Musk",
+        "Specific figures mentioned: $150 billion",
+        "Politics desk signal: court, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate confirms Kevin Warsh as Fed chair as Trump presses for lower rates",
-        "Source context: The Senate voted to confirm Kevin Warsh as chairman of the Federal Reserve, marking a victory for President Trump. The key question is leverage: the..."
+        "Story focus: Musk flew to China near end of OpenAI trial, after judge warned he could be recalled"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Musk.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 13 May 2026 20:33:49 -0400",
+      "age_hours": "7.84",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Louisiana lawmakers advance new 5-1 congressional map that favors Republicans",
+      "url": "https://www.cbsnews.com/news/louisiana-redistricting-new-congressional-map-advances/",
+      "snapshot": "The new map will eliminate one of the state's majority Black, Democratic-leaning districts while keeping one Democratic-leaning district. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Louisiana, Republicans, Black, Democratic",
+        "Specific figures mentioned: 5, 1",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Louisiana lawmakers advance new 5-1 congressional map that favors Republicans"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,59 +405,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate.",
+        "Watch for the next official action involving Louisiana.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 13 May 2026 15:20:24 -0400",
-      "age_hours": "10.67",
+      "published": "Wed, 13 May 2026 17:53:38 -0400",
+      "age_hours": "10.51",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "White House threatens to withhold Medicaid money from states over fraud",
-      "url": "https://thehill.com/homenews/administration/5876707-states-face-medicaid-fraud-crackdown/",
-      "snapshot": "The Trump administration is threatening to withhold Medicaid money from all 50 states if they do not show that they are complying with federal anti-fraud statutes. Vice President Vance told reporters Wednesday that a letter sent to states by the Department of Health and Human... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Republicans block Democrat-backed measures to undo Trump's dismantling of CFPB",
+      "url": "https://thehill.com/homenews/senate/5877247-senate-republicans-block-cfpb-measures/",
+      "snapshot": "Senate Republicans on Wednesday shot down more than a dozen Democratic-backed measures to undo the Trump administration's dismantling of the Consumer Financial Protection Bureau (CFPB). Democrats forced votes on multiple resolutions targeting rules and regulatory changes made... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: White House, Medicaid, Vice President Vance, Department",
-        "Specific figures mentioned: 50",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House threatens to withhold Medicaid money from states over fraud"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 13 May 2026 19:07:10 +0000",
-      "age_hours": "10.89",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Republicans break ranks, but Senate fails to curb Trump's Iran war powers",
-      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
-      "snapshot": "The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Republicans, Senate, Trump, Iran",
+        "Key people or organizations: Republicans, Democrat, Trump, CFPB",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republicans break ranks, but Senate fails to curb Trump's Iran war powers",
-        "Source context: The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran. The key question is leverage: the..."
+        "Story focus: Republicans block Democrat-backed measures to undo Trump's dismantling of CFPB",
+        "Source context: Senate Republicans on Wednesday shot down more than a dozen Democratic-backed measures to undo the Trump administration's dismantling of the Consumer..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -470,13 +440,43 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 14 May 2026 00:30:25 +0000",
+      "age_hours": "7.90",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+      "snapshot": "US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, Vance, Israel, Lebanon",
+        "Specific figures mentioned: 76",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war day 76"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 13 May 2026 19:53:31 +0000",
-      "age_hours": "10.12",
+      "published": "Thu, 14 May 2026 07:00:12 +0000",
+      "age_hours": "1.40",
       "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Memphis residents file lawsuit alleging abuses by Trump-backed task force",
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 13 May 2026 22:58:19 +0000",
-      "age_hours": "7.04",
+      "age_hours": "9.43",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
