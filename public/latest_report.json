@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trucking broker can face lawsuit over fatal crash, Supreme Court rules",
   "snapshot": "A CBS News investigation showed the broker had worked with dangerous \"chameleon carriers,\" thousands of which evade federal safety enforcement by reincarnating under new names. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-05-14 09:49:04 PM ET",
-  "generated_at": "2026-05-14 09:49:04 PM ET",
+  "updated_at": "2026-05-15 01:45:27 AM ET",
+  "generated_at": "2026-05-15 01:45:27 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 117,
+    "live_fresh_items": 85,
     "editor_fresh_items": 148,
     "public_fallback_items": 149,
-    "stale_or_blocked_items": 33,
+    "stale_or_blocked_items": 65,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-14 09:49:04 PM ET"
+    "last_checked": "2026-05-15 01:45:27 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,9 +43,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 14 May 2026 13:45:49 -0400",
-      "age_hours": "8.05",
+      "age_hours": "11.99",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court preserves abortion pill access over Alito, Thomas dissents",
+      "url": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
+      "snapshot": "Abortion pills can remain available through the mail for the immediate future after the Supreme Court on Thursday paused a lower court ruling that would have blocked access while a lawsuit proceeds. The justices halted a May 1 order from the conservative U.S. Court of Appeals... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Alito, Thomas, Abortion",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court preserves abortion pill access over Alito, Thomas dissents"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 14 May 2026 21:37:24 +0000",
+      "age_hours": "8.13",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -73,7 +103,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 14 May 2026 16:26:00 -0400",
-      "age_hours": "5.38",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
@@ -103,70 +133,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 14 May 2026 20:08:06 +0000",
-      "age_hours": "5.68",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: Turner testifies before Senate on HUD budget request",
-      "url": "https://thehill.com/video-clips/5877670-watch-live-hud-scott-turner-housing-trump-senate-budget-hearing/",
-      "snapshot": "Housing and Urban Development (HUD) Secretary Scott Turner will testify before a Senate Appropriations Committee panel on President Trump's fiscal 2027 budget request. The Trump administration is seeking $73.5 billion for HUD in 2027, focusing primarily on tackling... The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
+      "headline": "Top US admiral: Strikes severely degraded Iran's military, defence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
+      "snapshot": "Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Turner, Senate, HUD, Housing",
-        "Specific figures mentioned: 2027, $73.5 billion",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live"
+        "Key people or organizations: Top US, Strikes, Iran, Admiral Brad Cooper",
+        "Story focus: Top US admiral",
+        "Source context: Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Turner.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Top US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 14 May 2026 13:53:03 +0000",
-      "age_hours": "11.93",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iran, Taiwan, and trade: Trump's high‑stakes return to Beijing",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-      "snapshot": "As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Taiwan, Trump, Beijing",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran, Taiwan, and trade",
-        "Source context: As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained? The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 14 May 2026 19:34:25 +0000",
-      "age_hours": "6.24",
+      "published": "Fri, 15 May 2026 04:26:53 +0000",
+      "age_hours": "1.31",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
@@ -195,39 +193,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 14 May 2026 16:26:00 -0400",
-      "age_hours": "5.38",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "150",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Political signal: Watch live",
-      "url": "https://thehill.com/video-clips/5877670-watch-live-hud-scott-turner-housing-trump-senate-budget-hearing/",
-      "snapshot": "Housing and Urban Development (HUD) Secretary Scott Turner will testify before a Senate Appropriations Committee panel on President Trump's fiscal 2027 budget request. The Trump administration is seeking $73.5 billion for HUD in 2027, focusing primarily on tackling... The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
-      "key_data": [
-        "Key people or organizations: Political, Housing, Urban Development, HUD",
-        "Specific figures mentioned: 2027, $73.5 billion",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 14 May 2026 13:53:03 +0000",
-      "age_hours": "11.93",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -255,7 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 14 May 2026 20:08:06 +0000",
-      "age_hours": "5.68",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -284,46 +252,74 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 14 May 2026 13:45:49 -0400",
-      "age_hours": "8.05",
+      "age_hours": "11.99",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Iran, Taiwan, and trade",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-      "snapshot": "As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Political signal: Supreme Court preserves abortion pill access over Alito, Thomas dissents",
+      "url": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
+      "snapshot": "Abortion pills can remain available through the mail for the immediate future after the Supreme Court on Thursday paused a lower court ruling that would have blocked access while a lawsuit proceeds. The justices halted a May 1 order from the conservative U.S. Court of Appeals... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Political, Iran, Taiwan, As Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Political, Supreme Court, Alito, Thomas",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained? The election angle is whether..."
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 14 May 2026 21:37:24 +0000",
+      "age_hours": "8.13",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Top US admiral",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
+      "snapshot": "Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Political, Top US, Admiral Brad Cooper, US",
+        "Story focus: Political signal",
+        "Source context: Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 14 May 2026 19:34:25 +0000",
-      "age_hours": "6.24",
+      "published": "Fri, 15 May 2026 04:26:53 +0000",
+      "age_hours": "1.31",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Trucking broker can face lawsuit over fatal crash, Supreme Court rules",
-    "Watch live: Turner testifies before Senate on HUD budget request",
-    "Warren, Rick Scott introduce bill to ban former members of Congress from lobbying"
+    "Warren, Rick Scott introduce bill to ban former members of Congress from lobbying",
+    "U.S. Border Patrol chief resigns in latest immigration shakeup"
   ],
   "sections": [
     {
@@ -351,39 +347,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 14 May 2026 16:26:00 -0400",
-      "age_hours": "5.38",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "150",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch live: Turner testifies before Senate on HUD budget request",
-      "url": "https://thehill.com/video-clips/5877670-watch-live-hud-scott-turner-housing-trump-senate-budget-hearing/",
-      "snapshot": "Housing and Urban Development (HUD) Secretary Scott Turner will testify before a Senate Appropriations Committee panel on President Trump's fiscal 2027 budget request. The Trump administration is seeking $73.5 billion for HUD in 2027, focusing primarily on tackling... The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
-      "key_data": [
-        "Key people or organizations: Turner, Senate, HUD, Housing",
-        "Specific figures mentioned: 2027, $73.5 billion",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Turner.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 14 May 2026 13:53:03 +0000",
-      "age_hours": "11.93",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -411,7 +377,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 14 May 2026 20:08:06 +0000",
-      "age_hours": "5.68",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -440,51 +406,79 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 14 May 2026 13:45:49 -0400",
-      "age_hours": "8.05",
+      "age_hours": "11.99",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Iran, Taiwan, and trade: Trump's high‑stakes return to Beijing",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-      "snapshot": "As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Supreme Court preserves abortion pill access over Alito, Thomas dissents",
+      "url": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
+      "snapshot": "Abortion pills can remain available through the mail for the immediate future after the Supreme Court on Thursday paused a lower court ruling that would have blocked access while a lawsuit proceeds. The justices halted a May 1 order from the conservative U.S. Court of Appeals... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Iran, Taiwan, Trump, Beijing",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Supreme Court, Alito, Thomas, Abortion",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran, Taiwan, and trade",
-        "Source context: As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained? The election angle is whether..."
+        "Story focus: Supreme Court preserves abortion pill access over Alito, Thomas dissents"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 14 May 2026 19:34:25 +0000",
-      "age_hours": "6.24",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 14 May 2026 21:37:24 +0000",
+      "age_hours": "8.13",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "119",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump administration pledges $1.8bn in additional humanitarian aid to UN",
-      "url": "https://www.aljazeera.com/news/2026/5/14/trump-administration-pledges-1-8bn-in-additional-humanitarian-aid-to-un?traffic_source=rss",
-      "snapshot": "The extra funds come on top of $2bn announced in December but fall short of past commitments from the US. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Top US admiral: Strikes severely degraded Iran's military, defence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
+      "snapshot": "Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, UN, December, US",
-        "Specific figures mentioned: $1, 8, 2",
+        "Key people or organizations: Top US, Strikes, Iran, Admiral Brad Cooper",
+        "Story focus: Top US admiral",
+        "Source context: Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Top US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 15 May 2026 04:26:53 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump and Xi hold high-stakes talks in Beijing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-and-xi-hold-high-stakes-talks-in-beijing?traffic_source=rss",
+      "snapshot": "US President Donald Trump and Chinese President Xi Jinping are meeting for a second day in Beijing. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Xi, Beijing, US President Donald Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration pledges $1.8bn in additional humanitarian aid to UN"
+        "Story focus: Trump and Xi hold high-stakes talks in Beijing",
+        "Source context: US President Donald Trump and Chinese President Xi Jinping are meeting for a second day in Beijing. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -499,8 +493,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 14 May 2026 18:24:00 +0000",
-      "age_hours": "7.42",
+      "published": "Fri, 15 May 2026 05:35:34 +0000",
+      "age_hours": "0.16",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
