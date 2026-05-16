@@ -66,6 +66,9 @@ jobs:
           find . -type d -name "__pycache__" -prune -exec rm -rf {} + || true
           rm -rf "C:\\Users\\joeru\\OneDrive\\Desktop\\global-politics-report-web" || true
 
+
+      - name: Guard Politics report quality before commit
+        run: python scripts/check_politics_agent.py
       - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
