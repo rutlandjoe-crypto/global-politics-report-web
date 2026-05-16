@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump administration sued by veterans group over VA abortion ban",
-  "snapshot": "A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA). The Minority Veterans of America said it brought the lawsuit on behalf of all its members harmed by the ban, including one... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-05-16 01:18:00 AM ET",
-  "generated_at": "2026-05-16 01:18:00 AM ET",
+  "headline": "Colorado governor commutes Trump ally Tina Peters' prison sentence",
+  "snapshot": "Gov. Jared Polis announced he is commuting the sentence of former Mesa County Clerk Tina Peters, who was facing more than eight years in state prison for allowing unauthorized access to voting machines following the 2020 presidential election. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-05-16 03:47:06 AM ET",
+  "generated_at": "2026-05-16 03:47:06 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 55,
-    "editor_fresh_items": 148,
+    "live_fresh_items": 44,
+    "editor_fresh_items": 138,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 95,
+    "stale_or_blocked_items": 106,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-16 01:18:00 AM ET"
+    "last_checked": "2026-05-16 03:47:06 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Trump administration sued by veterans group over VA abortion ban",
-      "url": "https://thehill.com/policy/healthcare/5880300-veterans-sue-trump-abortion-ban/",
-      "snapshot": "A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA). The Minority Veterans of America said it brought the lawsuit on behalf of all its members harmed by the ban, including one... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, VA, Department, Veterans Affairs",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sued by veterans group over VA abortion ban",
-        "Source context: A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA)...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 15 May 2026 18:13:09 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Israel launches deadly air strikes on Gaza City apartment building",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
@@ -73,10 +43,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 16 May 2026 03:37:28 +0000",
-      "age_hours": "1.68",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Iran war live: Israel continues Lebanon attacks after 'ceasefire' extended",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "snapshot": "Lebanon's Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Iran, Israel, Lebanon, Health Ministry",
+        "Specific figures mentioned: 2, 951, 8, 988",
+        "Story focus: Iran war live",
+        "Source context: Lebanon's Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 16 May 2026 00:00:00 +0000",
+      "age_hours": "7.78",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Colorado governor commutes Trump ally Tina Peters' prison sentence",
@@ -103,7 +102,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 15 May 2026 23:23:00 -0400",
-      "age_hours": "1.92",
+      "age_hours": "4.40",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -133,7 +132,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 15 May 2026 19:53:24 -0400",
-      "age_hours": "5.41",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -163,43 +162,13 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 16 May 2026 02:07:35 +0000",
-      "age_hours": "3.17",
+      "age_hours": "5.66",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Political signal: Trump administration sued by veterans group over VA abortion ban",
-      "url": "https://thehill.com/policy/healthcare/5880300-veterans-sue-trump-abortion-ban/",
-      "snapshot": "A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA). The Minority Veterans of America said it brought the lawsuit on behalf of all its members harmed by the ban, including one... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Political, Trump, VA, Department",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA)...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 15 May 2026 18:13:09 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Political signal: Colorado governor commutes Trump ally Tina Peters' prison sentence",
       "url": "https://www.cbsnews.com/news/tina-peters-clemency-jared-police-colorado-governor/",
@@ -225,7 +194,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 15 May 2026 23:23:00 -0400",
-      "age_hours": "1.92",
+      "age_hours": "4.40",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -255,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 15 May 2026 19:53:24 -0400",
-      "age_hours": "5.41",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -285,7 +254,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 16 May 2026 02:07:35 +0000",
-      "age_hours": "3.17",
+      "age_hours": "5.66",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Supreme Court declines to restore Virginia Democrats' congressional map",
+      "url": "https://thehill.com/regulation/court-battles/5880850-supreme-court-rejects-virginia-congressional-map/",
+      "snapshot": "The Supreme Court refused Virginia Democratic leaders' emergency plea to reinstate theircongressional map on Friday in what would've been one of the party's best opportunities to keep pace in the mid-decade redistricting war. Without any noted dissents, the justices declined... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Political, Supreme Court, Virginia Democrats, Virginia Democratic",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: The Supreme Court refused Virginia Democratic leaders' emergency plea to reinstate theircongressional map on Friday in what would've been one of the..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 15 May 2026 22:46:09 +0000",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -314,48 +313,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 16 May 2026 03:37:28 +0000",
-      "age_hours": "1.68",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
-    "Trump administration sued by veterans group over VA abortion ban",
     "Colorado governor commutes Trump ally Tina Peters' prison sentence",
-    "Lawmakers press Trump for military support for Taiwan after Xi summit"
+    "Lawmakers press Trump for military support for Taiwan after Xi summit",
+    "Warren, Shaheen urge Trump administration not to extend Russian oil sanctions waiver"
   ],
   "sections": [
-    {
-      "headline": "Trump administration sued by veterans group over VA abortion ban",
-      "url": "https://thehill.com/policy/healthcare/5880300-veterans-sue-trump-abortion-ban/",
-      "snapshot": "A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA). The Minority Veterans of America said it brought the lawsuit on behalf of all its members harmed by the ban, including one... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, VA, Department, Veterans Affairs",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sued by veterans group over VA abortion ban",
-        "Source context: A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA)...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 15 May 2026 18:13:09 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Colorado governor commutes Trump ally Tina Peters' prison sentence",
       "url": "https://www.cbsnews.com/news/tina-peters-clemency-jared-police-colorado-governor/",
@@ -381,7 +350,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 15 May 2026 23:23:00 -0400",
-      "age_hours": "1.92",
+      "age_hours": "4.40",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -411,7 +380,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 15 May 2026 19:53:24 -0400",
-      "age_hours": "5.41",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -441,7 +410,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 16 May 2026 02:07:35 +0000",
-      "age_hours": "3.17",
+      "age_hours": "5.66",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
+    },
+    {
+      "headline": "Supreme Court declines to restore Virginia Democrats' congressional map",
+      "url": "https://thehill.com/regulation/court-battles/5880850-supreme-court-rejects-virginia-congressional-map/",
+      "snapshot": "The Supreme Court refused Virginia Democratic leaders' emergency plea to reinstate theircongressional map on Friday in what would've been one of the party's best opportunities to keep pace in the mid-decade redistricting war. Without any noted dissents, the justices declined... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Virginia Democrats, Virginia Democratic, Without",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court declines to restore Virginia Democrats' congressional map",
+        "Source context: The Supreme Court refused Virginia Democratic leaders' emergency plea to reinstate theircongressional map on Friday in what would've been one of the..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 15 May 2026 22:46:09 +0000",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -470,40 +469,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 16 May 2026 03:37:28 +0000",
-      "age_hours": "1.68",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-      "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
-      "snapshot": "Trump tells reporters he is still deciding fate of new Taiwan weapons package, says not \"asking for any favors\" on Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Iran war live: Israel continues Lebanon attacks after 'ceasefire' extended",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "snapshot": "Lebanon's Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, China, Iran, Taiwan",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump departs China touting deals, but little clarity on Iran or Taiwan",
-        "Source context: Trump tells reporters he is still deciding fate of new Taiwan weapons package, says not \"asking for any favors\" on Iran. The election angle is..."
+        "Key people or organizations: Iran, Israel, Lebanon, Health Ministry",
+        "Specific figures mentioned: 2, 951, 8, 988",
+        "Story focus: Iran war live",
+        "Source context: Lebanon's Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 15 May 2026 17:46:06 +0000",
-      "age_hours": "11.53",
+      "published": "Sat, 16 May 2026 00:00:00 +0000",
+      "age_hours": "7.78",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "WATCH"
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
