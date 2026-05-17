@@ -1,34 +1,34 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-  "snapshot": "Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ, ending the incumbent senator's reelection bid after years of political fallout from his vote to convict President Trump following... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-05-17 08:48:40 AM ET",
-  "generated_at": "2026-05-17 08:48:40 AM ET",
+  "headline": "Senate parliamentarian rules against Trump's White House ballroom funding in budget bill",
+  "snapshot": "The Senate parliamentarian late Saturday ruled against the $1 billion provision intended to fund President Trump's White House ballroom in the budget reconciliation package. The guidance, according to Sen. Jeff Merkley (D-Ore.) who serves as the ranking member of the Senate... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-05-17 10:20:30 AM ET",
+  "generated_at": "2026-05-17 10:20:30 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 33,
-    "editor_fresh_items": 81,
+    "total_items_checked": 147,
+    "live_fresh_items": 36,
+    "editor_fresh_items": 83,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 115,
+    "stale_or_blocked_items": 111,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-17 08:48:40 AM ET"
+    "last_checked": "2026-05-17 10:20:30 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-      "url": "https://thehill.com/homenews/campaign/5876242-cassidy-fails-louisiana-gop-primary-letlow-fleming/",
-      "snapshot": "Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ, ending the incumbent senator's reelection bid after years of political fallout from his vote to convict President Trump following... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Senate parliamentarian rules against Trump's White House ballroom funding in budget bill",
+      "url": "https://thehill.com/homenews/senate/5882011-senate-parliamentarian-rejects-trump-white-house-ballroom-funding/",
+      "snapshot": "The Senate parliamentarian late Saturday ruled against the $1 billion provision intended to fund President Trump's White House ballroom in the budget reconciliation package. The guidance, according to Sen. Jeff Merkley (D-Ore.) who serves as the ranking member of the Senate... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Cassidy, Louisiana Senate GOP, Trump, Sen",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: Senate, Trump, White House, President Trump",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-        "Source context: Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ,..."
+        "Story focus: Senate parliamentarian rules against Trump's White House ballroom funding in budget bill"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,18 +36,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
+        "Watch for the next official action involving Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 17 May 2026 01:59:49 +0000",
-      "age_hours": "10.81",
+      "published": "Sun, 17 May 2026 13:31:59 +0000",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump turns eye to 'disloyal' Massie after Cassidy ouster",
@@ -74,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 17 May 2026 12:18:35 +0000",
-      "age_hours": "0.50",
+      "age_hours": "2.03",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -104,7 +104,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 17 May 2026 10:29:16 +0000",
-      "age_hours": "2.32",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -134,7 +134,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 17 May 2026 08:37:38 +0000",
-      "age_hours": "4.18",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
@@ -164,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 16 May 2026 13:40:19 -0400",
-      "age_hours": "19.14",
+      "age_hours": "20.67",
       "freshness_status": "stale",
       "editorial_score": "78",
       "urgency": ""
@@ -172,15 +172,15 @@
   ],
   "editor_signals": [
     {
-      "headline": "Political signal: Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-      "url": "https://thehill.com/homenews/campaign/5876242-cassidy-fails-louisiana-gop-primary-letlow-fleming/",
-      "snapshot": "Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ, ending the incumbent senator's reelection bid after years of political fallout from his vote to convict President Trump following... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Political signal: Senate parliamentarian rules against Trump's White House ballroom funding in budget bill",
+      "url": "https://thehill.com/homenews/senate/5882011-senate-parliamentarian-rejects-trump-white-house-ballroom-funding/",
+      "snapshot": "The Senate parliamentarian late Saturday ruled against the $1 billion provision intended to fund President Trump's White House ballroom in the budget reconciliation package. The guidance, according to Sen. Jeff Merkley (D-Ore.) who serves as the ranking member of the Senate... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Political, Cassidy, Louisiana Senate GOP, Trump",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: Political, Senate, Trump, White House",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ,..."
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -195,11 +195,11 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 17 May 2026 01:59:49 +0000",
-      "age_hours": "10.81",
+      "published": "Sun, 17 May 2026 13:31:59 +0000",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
+      "urgency": "WATCH"
     },
     {
       "headline": "Political signal: Trump turns eye to 'disloyal' Massie after Cassidy ouster",
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 17 May 2026 12:18:35 +0000",
-      "age_hours": "0.50",
+      "age_hours": "2.03",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -256,7 +256,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 17 May 2026 10:29:16 +0000",
-      "age_hours": "2.32",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -286,7 +286,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 17 May 2026 08:37:38 +0000",
-      "age_hours": "4.18",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
@@ -316,28 +316,28 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 16 May 2026 13:40:19 -0400",
-      "age_hours": "19.14",
+      "age_hours": "20.67",
       "freshness_status": "stale",
       "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
+    "Senate parliamentarian rules against Trump's White House ballroom funding in budget bill",
     "Trump turns eye to 'disloyal' Massie after Cassidy ouster",
     "Republican Senator Cassidy loses Louisiana primary after opposing Trump"
   ],
   "sections": [
     {
-      "headline": "Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-      "url": "https://thehill.com/homenews/campaign/5876242-cassidy-fails-louisiana-gop-primary-letlow-fleming/",
-      "snapshot": "Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ, ending the incumbent senator's reelection bid after years of political fallout from his vote to convict President Trump following... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Senate parliamentarian rules against Trump's White House ballroom funding in budget bill",
+      "url": "https://thehill.com/homenews/senate/5882011-senate-parliamentarian-rejects-trump-white-house-ballroom-funding/",
+      "snapshot": "The Senate parliamentarian late Saturday ruled against the $1 billion provision intended to fund President Trump's White House ballroom in the budget reconciliation package. The guidance, according to Sen. Jeff Merkley (D-Ore.) who serves as the ranking member of the Senate... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Cassidy, Louisiana Senate GOP, Trump, Sen",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: Senate, Trump, White House, President Trump",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-        "Source context: Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana's GOP Senate primary Saturday, according to Decision Desk HQ,..."
+        "Story focus: Senate parliamentarian rules against Trump's White House ballroom funding in budget bill"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -345,18 +345,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
+        "Watch for the next official action involving Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 17 May 2026 01:59:49 +0000",
-      "age_hours": "10.81",
+      "published": "Sun, 17 May 2026 13:31:59 +0000",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump turns eye to 'disloyal' Massie after Cassidy ouster",
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 17 May 2026 12:18:35 +0000",
-      "age_hours": "0.50",
+      "age_hours": "2.03",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -413,7 +413,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 17 May 2026 10:29:16 +0000",
-      "age_hours": "2.32",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -443,10 +443,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 17 May 2026 08:37:38 +0000",
-      "age_hours": "4.18",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Transcript: Former Defense Secretary Robert Gates on \"Face the Nation with Margaret Brennan,\" May 17, 2026",
+      "url": "https://www.cbsnews.com/news/robert-gates-former-defense-secretary-face-the-nation-transcript-05-17-2026/",
+      "snapshot": "The following is the transcript of the interview with former Defense Secretary Robert Gates that aired on \"Face the Nation with Margaret Brennan\" on May 17, 2026.",
+      "key_data": [
+        "Key people or organizations: Transcript, Former Defense Secretary Robert, Gates, Face",
+        "Specific figures mentioned: 17, 2026",
+        "Story focus: Transcript",
+        "Source context: The following is the transcript of the interview with former Defense Secretary Robert Gates that aired on \"Face the Nation with Margaret Brennan\" on..."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Transcript.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Power, policy or public-trust angle.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 17 May 2026 10:03:13 -0400",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": ""
     },
     {
       "headline": "Days after Trump's summit in Beijing, Putin will meet with China's Xi",
@@ -473,39 +502,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 16 May 2026 13:40:19 -0400",
-      "age_hours": "19.14",
+      "age_hours": "20.67",
       "freshness_status": "stale",
       "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump calls for GOP challenger to Rep. Boebert as she campaigns with Massie in Kentucky",
-      "url": "https://thehill.com/homenews/campaign/5881792-trump-boebert-endorsement-threat/",
-      "snapshot": "President Trump threatened to pull his endorsement of Rep. Lauren Boebert (R-Colo.) on Saturday, as she campaigned with Rep. Thomas Massie (R-Ky.) ahead of a tough reelection fight. Trump railed against Boebert in a pair of back-to-back posts on Truth Social, calling her... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Rep, Boebert",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump calls for GOP challenger to Rep. Boebert as she campaigns with Massie in Kentucky",
-        "Source context: President Trump threatened to pull his endorsement of Rep. Lauren Boebert (R-Colo.) on Saturday, as she campaigned with Rep. Thomas Massie (R-Ky.)..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 17 May 2026 01:18:52 +0000",
-      "age_hours": "11.50",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
       "urgency": ""
     }
   ],
