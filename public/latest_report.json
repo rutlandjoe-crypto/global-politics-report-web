@@ -1,34 +1,121 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Iran war day 80: Trump issues warning; Tehran 'ready' to confront attacks",
-  "snapshot": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-05-18 06:04:51 AM ET",
-  "generated_at": "2026-05-18 06:04:51 AM ET",
+  "headline": "GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate: Join the live discussion",
+  "snapshot": "Republicans in the Senate are clashing over President Trump's wish for $1 billion in security funding for a White House ballroom. The battle comes as the Senate parliamentarian rules the money cannot be included in a budget reconciliation package under Senate rules. Meanshile,... The key question is leverage: the next votes, negotiations and public pressure points will...",
+  "updated_at": "2026-05-18 10:24:56 AM ET",
+  "generated_at": "2026-05-18 10:24:56 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 39,
-    "editor_fresh_items": 73,
-    "public_fallback_items": 143,
-    "stale_or_blocked_items": 106,
+    "total_items_checked": 146,
+    "live_fresh_items": 54,
+    "editor_fresh_items": 92,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 92,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-18 06:04:51 AM ET"
+    "last_checked": "2026-05-18 10:24:56 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Iran war day 80: Trump issues warning; Tehran 'ready' to confront attacks",
-      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-      "snapshot": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
+      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
+      "snapshot": "The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation.",
       "key_data": [
-        "Key people or organizations: Iran, Trump, Tehran, US",
-        "Specific figures mentioned: 80",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Migrants, Libyan, Sea, NGO",
+        "Specific figures mentioned: 5",
+        "Story focus: Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
+        "Source context: The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Migrants.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 18 May 2026 10:45:52 +0000",
+      "age_hours": "3.65",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Israeli settlers run over livestock in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
+      "snapshot": "Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, West Bank, Palestinian",
+        "Story focus: Israeli settlers run over livestock in occupied West Bank",
+        "Source context: Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 18 May 2026 09:09:18 +0000",
+      "age_hours": "5.26",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court tells lower courts to take new look at 2 voting rights cases",
+      "url": "https://www.cbsnews.com/news/supreme-court-voting-rights-cases-mississippi-north-dakota/",
+      "snapshot": "At issue in the cases was who can bring lawsuits in federal court to address potential violations of Section 2 of the Voting Rights Act. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, At, Section, Voting Rights Act",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 80"
+        "Story focus: Supreme Court tells lower courts to take new look at 2 voting rights cases"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 18 May 2026 10:16:00 -0400",
+      "age_hours": "0.15",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate: Join the live discussion",
+      "url": "https://thehill.com/homenews/editors-call/5882797-gop-infighting-over-trump-ballroom-bill-cassidy-falls-to-president-join-the-live-discussion/",
+      "snapshot": "Republicans in the Senate are clashing over President Trump's wish for $1 billion in security funding for a White House ballroom. The battle comes as the Senate parliamentarian rules the money cannot be included in a budget reconciliation package under Senate rules. Meanshile,... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Cassidy, Join",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,18 +123,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 07:24:18 +0000",
-      "age_hours": "2.68",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 18 May 2026 13:08:05 +0000",
+      "age_hours": "1.28",
       "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": "DEVELOPING"
+      "editorial_score": "131",
+      "urgency": "WATCH"
     },
     {
       "headline": "Senate GOP looking for off-ramp from White House ballroom debacle",
@@ -74,21 +161,23 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "0.08",
+      "age_hours": "4.42",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "Democrats on the brink of war powers breakthrough",
-      "url": "https://thehill.com/policy/defense/5880849-congress-iran-war-resolution-trump/",
-      "snapshot": "Democratic lawmakers are on the verge of passing a resolution to end President Trump's war with Iran — with some help from a steadily growing group of Republicans. In the House and Senate, resolutions under the 1973 War Powers Act this past week saw more members of Trump's... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate",
+      "url": "https://thehill.com/homenews/editors-call/5882797-gop-infighting-over-trump-ballroom-bill-cassidy-falls-to-president-join-the-live-discussion/",
+      "snapshot": "Republicans in the Senate are clashing over President Trump's wish for $1 billion in security funding for a White House ballroom. The battle comes as the Senate parliamentarian rules the money cannot be included in a budget reconciliation package under Senate rules. Meanshile,... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Democrats, Democratic, President Trump, Iran",
-        "Specific figures mentioned: 1973",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Political, GOP, Trump, Cassidy",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats on the brink of war powers breakthrough"
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -96,108 +185,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
+        "Watch for the next official action involving Political.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "0.08",
+      "published": "Mon, 18 May 2026 13:08:05 +0000",
+      "age_hours": "1.28",
       "freshness_status": "fresh",
-      "editorial_score": "105",
-      "urgency": ""
-    },
-    {
-      "headline": "US says China to buy billions in agricultural goods after Trump-Xi talks",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
-      "snapshot": "China will buy 'at least' $17bn worth of US agricultural goods annually, the White House says. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: US, China, Trump, Xi",
-        "Specific figures mentioned: 17",
-        "Politics desk signal: house, white house, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US says China to buy billions in agricultural goods after Trump-Xi talks"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 02:43:12 +0000",
-      "age_hours": "7.36",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "5/17/2026: Betting on War; The Knowledge; Christopher Nolan",
-      "url": "https://www.cbsnews.com/video/60minutes-2026-05-17/",
-      "snapshot": "First, prediction market bets on war defy odds. Then, London's cabbies skeptical about robotaxis. And, Christopher Nolan: The 60 Minutes Interview.",
-      "key_data": [
-        "Key people or organizations: Betting, War, Christopher Nolan, First",
-        "Specific figures mentioned: 5, 17, 2026, 60",
-        "Story focus: 5/17/2026",
-        "Source context: First, prediction market bets on war defy odds. Then, London's cabbies skeptical about robotaxis. And, Christopher Nolan: The 60 Minutes Interview."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Betting.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Power, policy or public-trust angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 17 May 2026 23:00:00 -0400",
-      "age_hours": "7.08",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Political signal: Iran war day 80",
-      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-      "snapshot": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Political, Iran, US, Israeli",
-        "Specific figures mentioned: 80",
-        "Story focus: Political signal",
-        "Source context: The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 07:24:18 +0000",
-      "age_hours": "2.68",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": "DEVELOPING"
+      "editorial_score": "131",
+      "urgency": "WATCH"
     },
     {
       "headline": "Political signal: Senate GOP looking for off-ramp from White House ballroom debacle",
@@ -224,51 +223,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "0.08",
+      "age_hours": "4.42",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Trump, GOP make midterm appeal to farmers with China deal, farm bill",
-      "url": "https://thehill.com/homenews/state-watch/5880642-farmers-trade-deal-trump-china/",
-      "snapshot": "The Trump administration and GOP lawmakers are seeking to win over U.S. farmers, a core constituency for the president during his 2016 and 2024 White House wins that has been aggravated by rising prices caused by his trade policies and the Iran war. Ahead of a midterm election... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Political signal: Supreme Court tells lower courts to take new look at 2 voting rights cases",
+      "url": "https://www.cbsnews.com/news/supreme-court-voting-rights-cases-mississippi-north-dakota/",
+      "snapshot": "At issue in the cases was who can bring lawsuits in federal court to address potential violations of Section 2 of the Voting Rights Act. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Political, Trump, GOP, China",
-        "Specific figures mentioned: 2016, 2024",
-        "Politics desk signal: house, white house, election, china",
+        "Key people or organizations: Political, Supreme Court, At, Section",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 17 May 2026 16:00:00 +0000",
-      "age_hours": "18.08",
-      "freshness_status": "stale",
-      "editorial_score": "117",
-      "urgency": "WATCH"
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 18 May 2026 10:16:00 -0400",
+      "age_hours": "0.15",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Senate GOP revising White House ballroom security funds plan",
-      "url": "https://www.cbsnews.com/news/senate-gop-revising-white-house-ballroom-security-funding-plan-after-parliamentarian-ruling/",
-      "snapshot": "The Senate's rulemaker delivered a blow to GOP plans to fund security for President Trump's overhaul of the East Wing of the White House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Political signal: Trump talks up trade deals with China, but experts see no big wins for U.S.",
+      "url": "https://www.cbsnews.com/news/trump-xi-jinping-china-trade-deals-boeing/",
+      "snapshot": "President Trump's trip to China could bolster economic relations, but failed to deliver a breakthrough deal, some trade and energy experts said. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Political, Senate GOP, White House, GOP",
-        "Politics desk signal: senate, house, white house",
+        "Key people or organizations: Political, Trump, China, President Trump",
+        "Politics desk signal: election, campaign, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: The Senate's rulemaker delivered a blow to GOP plans to fund security for President Trump's overhaul of the East Wing of the White House. The key..."
+        "Source context: President Trump's trip to China could bolster economic relations, but failed to deliver a breakthrough deal, some trade and energy experts said. The..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -283,78 +282,77 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 17 May 2026 13:14:04 -0400",
-      "age_hours": "16.85",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": ""
+      "published": "Mon, 18 May 2026 10:19:43 -0400",
+      "age_hours": "0.09",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: US says China to buy billions in agricultural goods after Trump-Xi talks",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
-      "snapshot": "China will buy 'at least' $17bn worth of US agricultural goods annually, the White House says. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Political signal: Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
+      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
+      "snapshot": "The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation.",
       "key_data": [
-        "Key people or organizations: Political, US, China, Trump",
-        "Specific figures mentioned: 17",
-        "Politics desk signal: house, white house, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
+        "Key people or organizations: Political, Migrants, Libyan, Sea",
+        "Specific figures mentioned: 5",
+        "Story focus: Political signal",
+        "Source context: The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 02:43:12 +0000",
-      "age_hours": "7.36",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Iran war day 80: Trump issues warning; Tehran 'ready' to confront attacks",
-    "Senate GOP looking for off-ramp from White House ballroom debacle",
-    "Democrats on the brink of war powers breakthrough"
-  ],
-  "sections": [
-    {
-      "headline": "Iran war day 80: Trump issues warning; Tehran 'ready' to confront attacks",
-      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-      "snapshot": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Trump, Tehran, US",
-        "Specific figures mentioned: 80",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 80"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 07:24:18 +0000",
-      "age_hours": "2.68",
+      "published": "Mon, 18 May 2026 10:45:52 +0000",
+      "age_hours": "3.65",
       "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": "BREAKING"
+    }
+  ],
+  "key_storylines": [
+    "GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate: Join the live discussion",
+    "Senate GOP looking for off-ramp from White House ballroom debacle",
+    "Supreme Court tells lower courts to take new look at 2 voting rights cases"
+  ],
+  "sections": [
+    {
+      "headline": "GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate: Join the live discussion",
+      "url": "https://thehill.com/homenews/editors-call/5882797-gop-infighting-over-trump-ballroom-bill-cassidy-falls-to-president-join-the-live-discussion/",
+      "snapshot": "Republicans in the Senate are clashing over President Trump's wish for $1 billion in security funding for a White House ballroom. The battle comes as the Senate parliamentarian rules the money cannot be included in a budget reconciliation package under Senate rules. Meanshile,... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Cassidy, Join",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: senate, house, white house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 18 May 2026 13:08:05 +0000",
+      "age_hours": "1.28",
+      "freshness_status": "fresh",
+      "editorial_score": "131",
+      "urgency": "WATCH"
     },
     {
       "headline": "Senate GOP looking for off-ramp from White House ballroom debacle",
@@ -381,51 +379,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "0.08",
+      "age_hours": "4.42",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
     },
     {
-      "headline": "Democrats on the brink of war powers breakthrough",
-      "url": "https://thehill.com/policy/defense/5880849-congress-iran-war-resolution-trump/",
-      "snapshot": "Democratic lawmakers are on the verge of passing a resolution to end President Trump's war with Iran — with some help from a steadily growing group of Republicans. In the House and Senate, resolutions under the 1973 War Powers Act this past week saw more members of Trump's... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Supreme Court tells lower courts to take new look at 2 voting rights cases",
+      "url": "https://www.cbsnews.com/news/supreme-court-voting-rights-cases-mississippi-north-dakota/",
+      "snapshot": "At issue in the cases was who can bring lawsuits in federal court to address potential violations of Section 2 of the Voting Rights Act. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Democrats, Democratic, President Trump, Iran",
-        "Specific figures mentioned: 1973",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Supreme Court, At, Section, Voting Rights Act",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats on the brink of war powers breakthrough"
+        "Story focus: Supreme Court tells lower courts to take new look at 2 voting rights cases"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "0.08",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 18 May 2026 10:16:00 -0400",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "105",
-      "urgency": ""
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "US says China to buy billions in agricultural goods after Trump-Xi talks",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
-      "snapshot": "China will buy 'at least' $17bn worth of US agricultural goods annually, the White House says. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump talks up trade deals with China, but experts see no big wins for U.S.",
+      "url": "https://www.cbsnews.com/news/trump-xi-jinping-china-trade-deals-boeing/",
+      "snapshot": "President Trump's trip to China could bolster economic relations, but failed to deliver a breakthrough deal, some trade and energy experts said. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: US, China, Trump, Xi",
-        "Specific figures mentioned: 17",
-        "Politics desk signal: house, white house, china",
+        "Key people or organizations: Trump, China, President Trump",
+        "Politics desk signal: election, campaign, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US says China to buy billions in agricultural goods after Trump-Xi talks"
+        "Story focus: Trump talks up trade deals with China, but experts see no big wins for U.S.",
+        "Source context: President Trump's trip to China could bolster economic relations, but failed to deliver a breakthrough deal, some trade and energy experts said. The..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -433,75 +431,75 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 18 May 2026 10:19:43 -0400",
+      "age_hours": "0.09",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
+      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
+      "snapshot": "The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation.",
+      "key_data": [
+        "Key people or organizations: Migrants, Libyan, Sea, NGO",
+        "Specific figures mentioned: 5",
+        "Story focus: Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
+        "Source context: The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Migrants.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 02:43:12 +0000",
-      "age_hours": "7.36",
+      "published": "Mon, 18 May 2026 10:45:52 +0000",
+      "age_hours": "3.65",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
+      "editorial_score": "78",
+      "urgency": "BREAKING"
     },
     {
-      "headline": "5/17/2026: Betting on War; The Knowledge; Christopher Nolan",
-      "url": "https://www.cbsnews.com/video/60minutes-2026-05-17/",
-      "snapshot": "First, prediction market bets on war defy odds. Then, London's cabbies skeptical about robotaxis. And, Christopher Nolan: The 60 Minutes Interview.",
+      "headline": "Israeli settlers run over livestock in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
+      "snapshot": "Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Betting, War, Christopher Nolan, First",
-        "Specific figures mentioned: 5, 17, 2026, 60",
-        "Story focus: 5/17/2026",
-        "Source context: First, prediction market bets on war defy odds. Then, London's cabbies skeptical about robotaxis. And, Christopher Nolan: The 60 Minutes Interview."
+        "Key people or organizations: Israeli, West Bank, Palestinian",
+        "Story focus: Israeli settlers run over livestock in occupied West Bank",
+        "Source context: Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Betting.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Power, policy or public-trust angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 17 May 2026 23:00:00 -0400",
-      "age_hours": "7.08",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 18 May 2026 09:09:18 +0000",
+      "age_hours": "5.26",
       "freshness_status": "fresh",
       "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Reported U.S. plan to indict Raúl Castro could mean reform for Cuba, but questions remain",
-      "url": "https://www.cbsnews.com/video/reported-us-plan-to-indict-ral-castro-could-mean-reform-for-cuba-but-questions-remain/",
-      "snapshot": "The United States is ramping up pressure on Cuba with a potential indictment of former President Raúl Castro. Cristian Benavides has more.",
-      "key_data": [
-        "Key people or organizations: Reported, Castro, Cuba, President",
-        "Story focus: Reported U.S. plan to indict Raúl Castro could mean reform for Cuba, but questions remain",
-        "Source context: The United States is ramping up pressure on Cuba with a potential indictment of former President Raúl Castro. Cristian Benavides has more."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Reported.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Power, policy or public-trust angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 17 May 2026 21:45:06 -0400",
-      "age_hours": "8.33",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
