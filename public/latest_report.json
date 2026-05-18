@@ -3,51 +3,22 @@
   "vertical": "Politics",
   "headline": "GOP infighting over Trump ballroom; Cassidy falls to Trump's candidate",
   "snapshot": "Republicans in the Senate are clashing over President Trump's wish for $1 billion in security funding for a White House ballroom. The battle comes as the Senate parliamentarian rules the money cannot be included in a budget reconciliation package under Senate rules. Meanshile,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-05-18 01:24:13 PM ET",
-  "generated_at": "2026-05-18 01:24:13 PM ET",
+  "updated_at": "2026-05-18 03:21:42 PM ET",
+  "generated_at": "2026-05-18 03:21:42 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 74,
-    "editor_fresh_items": 115,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 73,
+    "total_items_checked": 146,
+    "live_fresh_items": 86,
+    "editor_fresh_items": 127,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 60,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-18 01:24:13 PM ET"
+    "last_checked": "2026-05-18 03:21:42 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
-      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
-      "snapshot": "The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation.",
-      "key_data": [
-        "Key people or organizations: Migrants, Libyan, Sea, NGO",
-        "Specific figures mentioned: 5",
-        "Story focus: Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
-        "Source context: The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Migrants.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 10:45:52 +0000",
-      "age_hours": "6.64",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Trump settles IRS lawsuit, sets up $1.7B fund for claims of \"weaponization\"",
       "url": "https://www.cbsnews.com/news/trump-settles-10-billion-lawsuit-against-irs/",
@@ -73,9 +44,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 18 May 2026 12:55:00 -0400",
-      "age_hours": "0.49",
+      "age_hours": "2.44",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Elon Musk loses US lawsuit against OpenAI",
+      "url": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai?traffic_source=rss",
+      "snapshot": "In a unanimous verdict, the jury in Oakland, California federal court said Musk had brought his case ⁠too late. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Elon Musk, US, OpenAI, In",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Elon Musk loses US lawsuit against OpenAI",
+        "Source context: In a unanimous verdict, the jury in Oakland, California federal court said Musk had brought his case ⁠too late. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Elon Musk.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 18 May 2026 17:58:47 +0000",
+      "age_hours": "1.38",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -103,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 18 May 2026 10:30:24 -0400",
-      "age_hours": "2.90",
+      "age_hours": "4.85",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -133,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 13:08:05 +0000",
-      "age_hours": "4.27",
+      "age_hours": "6.23",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "WATCH"
@@ -163,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
@@ -195,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 13:08:05 +0000",
-      "age_hours": "4.27",
+      "age_hours": "6.23",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "WATCH"
@@ -225,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
@@ -255,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 18 May 2026 10:30:24 -0400",
-      "age_hours": "2.90",
+      "age_hours": "4.85",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -285,39 +286,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 18 May 2026 12:55:00 -0400",
-      "age_hours": "0.49",
+      "age_hours": "2.44",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
-      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
-      "snapshot": "The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation.",
+      "headline": "Political signal: Elon Musk loses US lawsuit against OpenAI",
+      "url": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai?traffic_source=rss",
+      "snapshot": "In a unanimous verdict, the jury in Oakland, California federal court said Musk had brought his case ⁠too late. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Political, Migrants, Libyan, Sea",
-        "Specific figures mentioned: 5",
+        "Key people or organizations: Political, Elon Musk, US, OpenAI",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation."
+        "Source context: In a unanimous verdict, the jury in Oakland, California federal court said Musk had brought his case ⁠too late. The broader significance is..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 10:45:52 +0000",
-      "age_hours": "6.64",
+      "published": "Mon, 18 May 2026 17:58:47 +0000",
+      "age_hours": "1.38",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -351,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 13:08:05 +0000",
-      "age_hours": "4.27",
+      "age_hours": "6.23",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "WATCH"
@@ -381,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
@@ -411,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 18 May 2026 10:30:24 -0400",
-      "age_hours": "2.90",
+      "age_hours": "4.85",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -441,39 +443,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 18 May 2026 12:55:00 -0400",
-      "age_hours": "0.49",
+      "age_hours": "2.44",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
-      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
-      "snapshot": "The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation.",
+      "headline": "Elon Musk loses US lawsuit against OpenAI",
+      "url": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai?traffic_source=rss",
+      "snapshot": "In a unanimous verdict, the jury in Oakland, California federal court said Musk had brought his case ⁠too late. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Migrants, Libyan, Sea, NGO",
-        "Specific figures mentioned: 5",
-        "Story focus: Migrants 'feared for their lives' as Libyan gunmen fired on rescue ship",
-        "Source context: The Libyan coastguard threatened those on board Sea-Watch 5, but it's the NGO ship's captain who is under investigation."
+        "Key people or organizations: Elon Musk, US, OpenAI, In",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Elon Musk loses US lawsuit against OpenAI",
+        "Source context: In a unanimous verdict, the jury in Oakland, California federal court said Musk had brought his case ⁠too late. The broader significance is..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Migrants.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Elon Musk.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 18 May 2026 10:45:52 +0000",
-      "age_hours": "6.64",
+      "published": "Mon, 18 May 2026 17:58:47 +0000",
+      "age_hours": "1.38",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Former US negotiator with Iran: Trump falling into Vietnam trap",
@@ -500,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 18 May 2026 15:31:21 +0000",
-      "age_hours": "1.88",
+      "age_hours": "3.84",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
