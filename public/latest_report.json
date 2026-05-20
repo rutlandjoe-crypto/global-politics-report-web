@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor",
-  "snapshot": "Senate Republicans advanced a budget reconciliation bill on Wednesday that would fund immigration agencies within the Department of Homeland Security (DHS) through 2029, teeing up the possibility for votes on the floor as soon as this week. The Senate Budget Committee voted... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-20 01:49:45 PM ET",
-  "generated_at": "2026-05-20 01:49:45 PM ET",
+  "headline": "DOJ indicts former Cuban president; Trump breaks with Federalist Society: Join the live discussion",
+  "snapshot": "President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice Department increasingly eyes legal action against powerful individuals outside the bounds of U.S. borders. What's next as the focus... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-05-20 03:59:39 PM ET",
+  "generated_at": "2026-05-20 03:59:39 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 99,
+    "live_fresh_items": 119,
     "editor_fresh_items": 150,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 52,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-20 01:49:45 PM ET"
+    "last_checked": "2026-05-20 03:59:39 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Trump administration sues over Minnesota prediction markets ban",
-      "url": "https://thehill.com/policy/technology/5886866-minnesota-prediction-markets-ban-lawsuit/",
-      "snapshot": "The Trump administration sued Minnesota on Tuesday over the state's new law banning prediction markets. The Commodity Futures Trading Commission (CFTC) has repeatedly sued states in recent months over efforts to regulate or restrict the platforms, arguing it has exclusive... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Trump, Minnesota, Commission, CFTC",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sues over Minnesota prediction markets ban",
-        "Source context: The Trump administration sued Minnesota on Tuesday over the state's new law banning prediction markets. The Commodity Futures Trading Commission..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 20 May 2026 14:15:49 +0000",
-      "age_hours": "3.57",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Controlled reopening ends Iran's lengthy stock market shutdown",
       "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
@@ -72,9 +42,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "0.53",
+      "age_hours": "2.69",
       "freshness_status": "fresh",
       "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "DOJ indicts former Cuban president; Trump breaks with Federalist Society: Join the live discussion",
+      "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5887423-donald-trump-doj-castro-indictment-federalist-society-live-discussion/",
+      "snapshot": "President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice Department increasingly eyes legal action against powerful individuals outside the bounds of U.S. borders. What's next as the focus... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: DOJ, Cuban, Trump, Federalist Society",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: DOJ indicts former Cuban president; Trump breaks with Federalist Society",
+        "Source context: President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving DOJ.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 20 May 2026 18:03:35 +0000",
+      "age_hours": "1.93",
+      "freshness_status": "fresh",
+      "editorial_score": "137",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,21 +102,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 12:27:25 -0400",
-      "age_hours": "1.37",
+      "age_hours": "3.54",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "BREAKING"
     },
     {
-      "headline": "The major cases the Supreme Court will decide in the coming weeks",
-      "url": "https://www.cbsnews.com/news/supreme-court-major-cases-2026/",
-      "snapshot": "The Supreme Court's term is set to end around the end of June, with decisions on birthright citizenship, transgender athlete bans and gun rights still to come. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Judge orders White House staff to comply with presidential records law",
+      "url": "https://www.cbsnews.com/news/presidential-records-act-judge-white-house-justice-department/",
+      "snapshot": "A federal judge ordered White House staff and President Trump's top advisers to comply with a law that requires certain presidential records to be preserved. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Supreme Court, June",
-        "Politics desk signal: supreme court, court",
+        "Key people or organizations: Judge, White House, President Trump",
+        "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The major cases the Supreme Court will decide in the coming weeks",
-        "Source context: The Supreme Court's term is set to end around the end of June, with decisions on birthright citizenship, transgender athlete bans and gun rights..."
+        "Story focus: Judge orders White House staff to comply with presidential records law",
+        "Source context: A federal judge ordered White House staff and President Trump's top advisers to comply with a law that requires certain presidential records to be..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -124,29 +124,29 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Judge.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 06:00:16 -0400",
-      "age_hours": "7.82",
+      "published": "Wed, 20 May 2026 15:27:31 -0400",
+      "age_hours": "0.54",
       "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
-      "headline": "GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor",
-      "url": "https://thehill.com/homenews/senate/5887113-lindsey-graham-senate-budget-gop-reconciliation-bill-advances-immigration-enforcement/",
-      "snapshot": "Senate Republicans advanced a budget reconciliation bill on Wednesday that would fund immigration agencies within the Department of Homeland Security (DHS) through 2029, teeing up the possibility for votes on the floor as soon as this week. The Senate Budget Committee voted... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Watch live: Doug Collins testifies before Senate on VA budget request",
+      "url": "https://thehill.com/video-clips/5887769-watch-live-doug-collins-veterans-affairs-budget-senate-hearing/",
+      "snapshot": "Veterans Affairs Secretary Doug Collins will testify before a Senate Veterans Affairs Committee panel on President Trump's fiscal year 2027 budget request for the department. The White House is seeking $144 billion in discretionary funding for the Veterans Affairs Department... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: GOP, ICE, Border Patrol, Senate",
-        "Specific figures mentioned: 2029",
-        "Politics desk signal: senate, budget, immigration",
+        "Key people or organizations: Doug Collins, Senate, VA, Veterans Affairs Secretary Doug",
+        "Specific figures mentioned: 2027, $144 billion",
+        "Politics desk signal: senate, house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor"
+        "Story focus: Watch live"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -154,29 +154,89 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Doug Collins.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 20 May 2026 15:14:56 +0000",
-      "age_hours": "2.58",
+      "published": "Wed, 20 May 2026 19:17:57 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Political signal: GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor",
-      "url": "https://thehill.com/homenews/senate/5887113-lindsey-graham-senate-budget-gop-reconciliation-bill-advances-immigration-enforcement/",
-      "snapshot": "Senate Republicans advanced a budget reconciliation bill on Wednesday that would fund immigration agencies within the Department of Homeland Security (DHS) through 2029, teeing up the possibility for votes on the floor as soon as this week. The Senate Budget Committee voted... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: DOJ indicts former Cuban president; Trump breaks with Federalist Society",
+      "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5887423-donald-trump-doj-castro-indictment-federalist-society-live-discussion/",
+      "snapshot": "President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice Department increasingly eyes legal action against powerful individuals outside the bounds of U.S. borders. What's next as the focus... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Political, GOP, ICE, Border Patrol",
-        "Specific figures mentioned: 2029",
-        "Politics desk signal: senate, budget, immigration",
+        "Key people or organizations: Political, DOJ, Cuban, Trump",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 20 May 2026 18:03:35 +0000",
+      "age_hours": "1.93",
+      "freshness_status": "fresh",
+      "editorial_score": "137",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Judge orders White House staff to comply with presidential records law",
+      "url": "https://www.cbsnews.com/news/presidential-records-act-judge-white-house-justice-department/",
+      "snapshot": "A federal judge ordered White House staff and President Trump's top advisers to comply with a law that requires certain presidential records to be preserved. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Political, Judge, White House, President Trump",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: A federal judge ordered White House staff and President Trump's top advisers to comply with a law that requires certain presidential records to be..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 20 May 2026 15:27:31 -0400",
+      "age_hours": "0.54",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Watch live",
+      "url": "https://thehill.com/video-clips/5887769-watch-live-doug-collins-veterans-affairs-budget-senate-hearing/",
+      "snapshot": "Veterans Affairs Secretary Doug Collins will testify before a Senate Veterans Affairs Committee panel on President Trump's fiscal year 2027 budget request for the department. The White House is seeking $144 billion in discretionary funding for the Veterans Affairs Department... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Political, Veterans Affairs Secretary Doug, Collins, Senate Veterans Affairs Committee",
+        "Specific figures mentioned: 2027, $144 billion",
+        "Politics desk signal: senate, house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal"
       ],
@@ -193,41 +253,11 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 20 May 2026 15:14:56 +0000",
-      "age_hours": "2.58",
+      "published": "Wed, 20 May 2026 19:17:57 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Trump administration sues over Minnesota prediction markets ban",
-      "url": "https://thehill.com/policy/technology/5886866-minnesota-prediction-markets-ban-lawsuit/",
-      "snapshot": "The Trump administration sued Minnesota on Tuesday over the state's new law banning prediction markets. The Commodity Futures Trading Commission (CFTC) has repeatedly sued states in recent months over efforts to regulate or restrict the platforms, arguing it has exclusive... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Political, Trump, Minnesota, Commission",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The Trump administration sued Minnesota on Tuesday over the state's new law banning prediction markets. The Commodity Futures Trading Commission..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 20 May 2026 14:15:49 +0000",
-      "age_hours": "3.57",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
     },
     {
       "headline": "Political signal: Barney Frank, Massachusetts congressman for 32 years, dies at 86",
@@ -254,40 +284,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 12:27:25 -0400",
-      "age_hours": "1.37",
+      "age_hours": "3.54",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Political signal: Blanche faces backlash over \"anti-weaponization\" fund at Senate hearing",
-      "url": "https://www.cbsnews.com/video/blanche-faces-backlash-over-anti-weaponization-fund-at-senate-hearing/",
-      "snapshot": "Acting Attorney General Todd Blanche took questions Tuesday on President Trump's new $1.8 billion fund designed for people who the Justice Department says \"suffered weaponization and lawfare\" under the Biden administration. Nikole Killion has more. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the...",
-      "key_data": [
-        "Key people or organizations: Political, Blanche, Senate, Acting Attorney General Todd",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: senate, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 19 May 2026 20:17:05 -0400",
-      "age_hours": "17.54",
-      "freshness_status": "stale",
-      "editorial_score": "110",
-      "urgency": ""
     },
     {
       "headline": "Political signal: Controlled reopening ends Iran's lengthy stock market shutdown",
@@ -312,28 +312,88 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "0.53",
+      "age_hours": "2.69",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor",
-    "Trump administration sues over Minnesota prediction markets ban",
-    "Barney Frank, Massachusetts congressman for 32 years, dies at 86"
+    "DOJ indicts former Cuban president; Trump breaks with Federalist Society: Join the live discussion",
+    "Judge orders White House staff to comply with presidential records law",
+    "Watch live: Doug Collins testifies before Senate on VA budget request"
   ],
   "sections": [
     {
-      "headline": "GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor",
-      "url": "https://thehill.com/homenews/senate/5887113-lindsey-graham-senate-budget-gop-reconciliation-bill-advances-immigration-enforcement/",
-      "snapshot": "Senate Republicans advanced a budget reconciliation bill on Wednesday that would fund immigration agencies within the Department of Homeland Security (DHS) through 2029, teeing up the possibility for votes on the floor as soon as this week. The Senate Budget Committee voted... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "DOJ indicts former Cuban president; Trump breaks with Federalist Society: Join the live discussion",
+      "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5887423-donald-trump-doj-castro-indictment-federalist-society-live-discussion/",
+      "snapshot": "President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice Department increasingly eyes legal action against powerful individuals outside the bounds of U.S. borders. What's next as the focus... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: GOP, ICE, Border Patrol, Senate",
-        "Specific figures mentioned: 2029",
-        "Politics desk signal: senate, budget, immigration",
+        "Key people or organizations: DOJ, Cuban, Trump, Federalist Society",
+        "Politics desk signal: court, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP reconciliation bill to fund ICE, Border Patrol advances to Senate floor"
+        "Story focus: DOJ indicts former Cuban president; Trump breaks with Federalist Society",
+        "Source context: President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving DOJ.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 20 May 2026 18:03:35 +0000",
+      "age_hours": "1.93",
+      "freshness_status": "fresh",
+      "editorial_score": "137",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Judge orders White House staff to comply with presidential records law",
+      "url": "https://www.cbsnews.com/news/presidential-records-act-judge-white-house-justice-department/",
+      "snapshot": "A federal judge ordered White House staff and President Trump's top advisers to comply with a law that requires certain presidential records to be preserved. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, White House, President Trump",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge orders White House staff to comply with presidential records law",
+        "Source context: A federal judge ordered White House staff and President Trump's top advisers to comply with a law that requires certain presidential records to be..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 20 May 2026 15:27:31 -0400",
+      "age_hours": "0.54",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Watch live: Doug Collins testifies before Senate on VA budget request",
+      "url": "https://thehill.com/video-clips/5887769-watch-live-doug-collins-veterans-affairs-budget-senate-hearing/",
+      "snapshot": "Veterans Affairs Secretary Doug Collins will testify before a Senate Veterans Affairs Committee panel on President Trump's fiscal year 2027 budget request for the department. The White House is seeking $144 billion in discretionary funding for the Veterans Affairs Department... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Doug Collins, Senate, VA, Veterans Affairs Secretary Doug",
+        "Specific figures mentioned: 2027, $144 billion",
+        "Politics desk signal: senate, house, white house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -341,48 +401,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Doug Collins.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 20 May 2026 15:14:56 +0000",
-      "age_hours": "2.58",
+      "published": "Wed, 20 May 2026 19:17:57 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump administration sues over Minnesota prediction markets ban",
-      "url": "https://thehill.com/policy/technology/5886866-minnesota-prediction-markets-ban-lawsuit/",
-      "snapshot": "The Trump administration sued Minnesota on Tuesday over the state's new law banning prediction markets. The Commodity Futures Trading Commission (CFTC) has repeatedly sued states in recent months over efforts to regulate or restrict the platforms, arguing it has exclusive... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Trump, Minnesota, Commission, CFTC",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sues over Minnesota prediction markets ban",
-        "Source context: The Trump administration sued Minnesota on Tuesday over the state's new law banning prediction markets. The Commodity Futures Trading Commission..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 20 May 2026 14:15:49 +0000",
-      "age_hours": "3.57",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
     },
     {
       "headline": "Barney Frank, Massachusetts congressman for 32 years, dies at 86",
@@ -409,40 +439,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 12:27:25 -0400",
-      "age_hours": "1.37",
+      "age_hours": "3.54",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "The major cases the Supreme Court will decide in the coming weeks",
-      "url": "https://www.cbsnews.com/news/supreme-court-major-cases-2026/",
-      "snapshot": "The Supreme Court's term is set to end around the end of June, with decisions on birthright citizenship, transgender athlete bans and gun rights still to come. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, June",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The major cases the Supreme Court will decide in the coming weeks",
-        "Source context: The Supreme Court's term is set to end around the end of June, with decisions on birthright citizenship, transgender athlete bans and gun rights..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 06:00:16 -0400",
-      "age_hours": "7.82",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Controlled reopening ends Iran's lengthy stock market shutdown",
@@ -467,21 +467,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "0.53",
+      "age_hours": "2.69",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Why is Trump's Gaza Board of Peace facing a funding shortfall?",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
-      "snapshot": "Experts say lack of a political horizon and Israeli land grabs are deterring donors from funding Gaza's reconstruction. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "China and Russia unite after Trump's Beijing visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
+      "snapshot": "Just days after Donald Trump's visit to Beijing, Vladimir Putin arrived in China for a summit with Xi Jinping. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Gaza Board, Peace, Experts",
-        "Politics desk signal: election, campaign, gaza",
+        "Key people or organizations: China, Russia, Trump, Beijing",
+        "Politics desk signal: election, campaign, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Why is Trump's Gaza Board of Peace facing a funding shortfall?",
-        "Source context: Experts say lack of a political horizon and Israeli land grabs are deterring donors from funding Gaza's reconstruction. The election angle is whether..."
+        "Story focus: China and Russia unite after Trump's Beijing visit",
+        "Source context: Just days after Donald Trump's visit to Beijing, Vladimir Putin arrived in China for a summit with Xi Jinping. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -489,18 +489,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving China.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 20 May 2026 15:24:14 +0000",
-      "age_hours": "2.43",
+      "published": "Wed, 20 May 2026 19:25:15 +0000",
+      "age_hours": "0.57",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "WATCH"
+      "urgency": ""
     }
   ],
   "editorial_brain": {
