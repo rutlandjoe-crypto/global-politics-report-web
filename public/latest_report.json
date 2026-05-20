@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "DOJ indicts former Cuban president; Trump breaks with Federalist Society",
-  "snapshot": "President Trump publicly broke with The Federalist Society — but are Trump's second-term judge selections really any different? Plus, the Justice Department increasingly eyes legal action against powerful individuals outside the bounds of U.S. borders. What's next as the focus... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-05-20 05:47:08 PM ET",
-  "generated_at": "2026-05-20 05:47:08 PM ET",
+  "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
+  "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+  "updated_at": "2026-05-20 07:03:48 PM ET",
+  "generated_at": "2026-05-20 07:03:48 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 129,
-    "editor_fresh_items": 150,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 22,
+    "total_items_checked": 150,
+    "live_fresh_items": 130,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 20,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-20 05:47:08 PM ET"
+    "last_checked": "2026-05-20 07:03:48 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "4.48",
+      "age_hours": "5.76",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -71,9 +71,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 20:58:48 +0000",
-      "age_hours": "0.81",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "78",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
+      "url": "https://www.cbsnews.com/news/doj-charges-carmen-lineberger-emailing-jack-smith-report-bundt-cake-recipe/",
+      "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "key_data": [
+        "Key people or organizations: Ex, Trump, Bundt Cake Recipe, Justice Department",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
+        "Source context: A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ex.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 20 May 2026 18:09:00 -0400",
+      "age_hours": "0.91",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
       "urgency": "BREAKING"
     },
     {
@@ -101,40 +131,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "3.73",
+      "age_hours": "5.00",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Barney Frank, Massachusetts congressman for 32 years, dies at 86",
-      "url": "https://www.cbsnews.com/news/barney-frank-dies-obituary-massachusetts-congressman/",
-      "snapshot": "Barney Frank​, a Democrat who represented Massachusetts in Congress for 32 years, has died. He was 86 years old. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Barney Frank, Massachusetts, Democrat, Congress",
-        "Specific figures mentioned: 32, 86",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Barney Frank, Massachusetts congressman for 32 years, dies at 86"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Barney Frank.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 12:27:25 -0400",
-      "age_hours": "5.33",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "BREAKING"
     },
     {
       "headline": "Judge orders White House staff to comply with presidential records law",
@@ -161,13 +161,43 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "2.33",
+      "age_hours": "3.60",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Political signal: Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
+      "url": "https://www.cbsnews.com/news/doj-charges-carmen-lineberger-emailing-jack-smith-report-bundt-cake-recipe/",
+      "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "key_data": [
+        "Key people or organizations: Political, Ex, Trump, Bundt Cake Recipe",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 20 May 2026 18:09:00 -0400",
+      "age_hours": "0.91",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Political signal: DOJ indicts former Cuban president; Trump breaks with Federalist Society",
       "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5887423-donald-trump-doj-castro-indictment-federalist-society-live-discussion/",
@@ -193,7 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "3.73",
+      "age_hours": "5.00",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -223,7 +253,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "2.33",
+      "age_hours": "3.60",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -253,40 +283,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 19:17:57 +0000",
-      "age_hours": "2.49",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Political signal: Barney Frank, Massachusetts congressman for 32 years, dies at 86",
-      "url": "https://www.cbsnews.com/news/barney-frank-dies-obituary-massachusetts-congressman/",
-      "snapshot": "Barney Frank​, a Democrat who represented Massachusetts in Congress for 32 years, has died. He was 86 years old. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Political, Barney Frank, Massachusetts, Democrat",
-        "Specific figures mentioned: 32, 86",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 12:27:25 -0400",
-      "age_hours": "5.33",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "BREAKING"
     },
     {
       "headline": "Political signal: Controlled reopening ends Iran's lengthy stock market shutdown",
@@ -311,18 +311,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "4.48",
+      "age_hours": "5.76",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
     "DOJ indicts former Cuban president; Trump breaks with Federalist Society",
-    "Judge orders White House staff to comply with presidential records law",
-    "Watch live: Doug Collins testifies before Senate on VA budget request"
+    "Judge orders White House staff to comply with presidential records law"
   ],
   "sections": [
+    {
+      "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
+      "url": "https://www.cbsnews.com/news/doj-charges-carmen-lineberger-emailing-jack-smith-report-bundt-cake-recipe/",
+      "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "key_data": [
+        "Key people or organizations: Ex, Trump, Bundt Cake Recipe, Justice Department",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
+        "Source context: A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ex.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 20 May 2026 18:09:00 -0400",
+      "age_hours": "0.91",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "DOJ indicts former Cuban president; Trump breaks with Federalist Society",
       "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5887423-donald-trump-doj-castro-indictment-federalist-society-live-discussion/",
@@ -348,7 +378,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "3.73",
+      "age_hours": "5.00",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -378,7 +408,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "2.33",
+      "age_hours": "3.60",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -408,40 +438,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 19:17:57 +0000",
-      "age_hours": "2.49",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Barney Frank, Massachusetts congressman for 32 years, dies at 86",
-      "url": "https://www.cbsnews.com/news/barney-frank-dies-obituary-massachusetts-congressman/",
-      "snapshot": "Barney Frank​, a Democrat who represented Massachusetts in Congress for 32 years, has died. He was 86 years old. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Barney Frank, Massachusetts, Democrat, Congress",
-        "Specific figures mentioned: 32, 86",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Barney Frank, Massachusetts congressman for 32 years, dies at 86"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Barney Frank.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 12:27:25 -0400",
-      "age_hours": "5.33",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "BREAKING"
     },
     {
       "headline": "Controlled reopening ends Iran's lengthy stock market shutdown",
@@ -466,7 +466,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "4.48",
+      "age_hours": "5.76",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -495,7 +495,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 20:58:48 +0000",
-      "age_hours": "0.81",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "BREAKING"
