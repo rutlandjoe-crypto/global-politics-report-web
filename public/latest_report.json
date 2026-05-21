@@ -3,50 +3,22 @@
   "vertical": "Politics",
   "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
   "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
-  "updated_at": "2026-05-20 09:54:54 PM ET",
-  "generated_at": "2026-05-20 09:54:54 PM ET",
+  "updated_at": "2026-05-21 02:00:39 AM ET",
+  "generated_at": "2026-05-21 02:00:39 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 123,
-    "editor_fresh_items": 149,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 27,
+    "total_items_checked": 148,
+    "live_fresh_items": 76,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 72,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-20 09:54:54 PM ET"
+    "last_checked": "2026-05-21 02:00:39 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Controlled reopening ends Iran's lengthy stock market shutdown",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
-      "snapshot": "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Controlled, Iran, Stocks, US",
-        "Story focus: Controlled reopening ends Iran's lengthy stock market shutdown",
-        "Source context: Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Controlled.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "8.61",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
       "url": "https://www.cbsnews.com/news/doj-charges-carmen-lineberger-emailing-jack-smith-report-bundt-cake-recipe/",
@@ -72,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 20:01:49 -0400",
-      "age_hours": "1.88",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "BREAKING"
@@ -102,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "7.85",
+      "age_hours": "11.95",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -132,10 +104,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 21 May 2026 01:02:37 +0000",
-      "age_hours": "0.87",
+      "age_hours": "4.97",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump says no escalation expected with Cuba after Castro indictment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/trump-says-no-escalation-expected-with-cuba-after-castro-indictment?traffic_source=rss",
+      "snapshot": "President Trump said the United States is \"freeing up Cuba\" and ruled out escalation after the US indicted Castro The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Cuba, Castro, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says no escalation expected with Cuba after Castro indictment",
+        "Source context: President Trump said the United States is \"freeing up Cuba\" and ruled out escalation after the US indicted Castro The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 21 May 2026 00:39:39 +0000",
+      "age_hours": "5.35",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Judge orders White House staff to comply with presidential records law",
@@ -162,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "6.46",
+      "age_hours": "10.55",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -194,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 20:01:49 -0400",
-      "age_hours": "1.88",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "BREAKING"
@@ -224,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "7.85",
+      "age_hours": "11.95",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -254,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "6.46",
+      "age_hours": "10.55",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -284,19 +286,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 19:17:57 +0000",
-      "age_hours": "6.62",
+      "age_hours": "10.71",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Controlled reopening ends Iran's lengthy stock market shutdown",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
-      "snapshot": "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Political signal: US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss",
+      "snapshot": "Albanese is among several people sanctioned by the US for advocacy against Israel's genocidal war in Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Political, Controlled, Iran, Stocks",
+        "Key people or organizations: Political, US, Francesca Albanese, UN",
+        "Politics desk signal: gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. The geopolitical angle is how..."
+        "Source context: Albanese is among several people sanctioned by the US for advocacy against Israel's genocidal war in Gaza. The geopolitical angle is how the decision..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -311,10 +315,10 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "8.61",
+      "published": "Thu, 21 May 2026 01:02:37 +0000",
+      "age_hours": "4.97",
       "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     }
   ],
@@ -349,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 20:01:49 -0400",
-      "age_hours": "1.88",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "BREAKING"
@@ -379,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "7.85",
+      "age_hours": "11.95",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -409,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "6.46",
+      "age_hours": "10.55",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -439,38 +443,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 19:17:57 +0000",
-      "age_hours": "6.62",
+      "age_hours": "10.71",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Controlled reopening ends Iran's lengthy stock market shutdown",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
-      "snapshot": "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Controlled, Iran, Stocks, US",
-        "Story focus: Controlled reopening ends Iran's lengthy stock market shutdown",
-        "Source context: Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Controlled.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "8.61",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
@@ -497,10 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 21 May 2026 01:02:37 +0000",
-      "age_hours": "0.87",
+      "age_hours": "4.97",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump says no escalation expected with Cuba after Castro indictment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/trump-says-no-escalation-expected-with-cuba-after-castro-indictment?traffic_source=rss",
+      "snapshot": "President Trump said the United States is \"freeing up Cuba\" and ruled out escalation after the US indicted Castro The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Cuba, Castro, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says no escalation expected with Cuba after Castro indictment",
+        "Source context: President Trump said the United States is \"freeing up Cuba\" and ruled out escalation after the US indicted Castro The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 21 May 2026 00:39:39 +0000",
+      "age_hours": "5.35",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
