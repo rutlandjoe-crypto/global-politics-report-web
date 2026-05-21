@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Congress delays reconciliation votes amid GOP opposition to new DOJ fund",
   "snapshot": "The House and Senate will both leave Washington for their Memorial Day recess without voting on a reconciliation package to fund federal immigration agencies. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-05-21 04:29:42 PM ET",
-  "generated_at": "2026-05-21 04:29:42 PM ET",
+  "updated_at": "2026-05-21 06:10:12 PM ET",
+  "generated_at": "2026-05-21 06:10:12 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 153,
-    "live_fresh_items": 111,
+    "live_fresh_items": 120,
     "editor_fresh_items": 151,
-    "public_fallback_items": 152,
-    "stale_or_blocked_items": 42,
+    "public_fallback_items": 153,
+    "stale_or_blocked_items": 33,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-21 04:29:42 PM ET"
+    "last_checked": "2026-05-21 06:10:12 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,68 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 21 May 2026 17:02:23 +0000",
-      "age_hours": "3.45",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "House bill would ban use of federal money for DOJ's \"anti-weaponization\" fund",
+      "url": "https://www.cbsnews.com/news/doj-fund-house-bill-fitzpatrick-suozzi/",
+      "snapshot": "GOP Rep. Brian Fitzpatrick and Democratic Rep. Tom Suozzi introduced a bill to ban the use of federal money for paying out claims under the Justice Department's new \"anti-weaponization\" fund. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: House, DOJ, GOP Rep, Brian Fitzpatrick",
+        "Politics desk signal: house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House bill would ban use of federal money for DOJ's \"anti-weaponization\" fund",
+        "Source context: GOP Rep. Brian Fitzpatrick and Democratic Rep. Tom Suozzi introduced a bill to ban the use of federal money for paying out claims under the Justice..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 21 May 2026 16:44:00 -0400",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "snapshot": "Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Hezbollah MPs, Lebanese, Hezbollah",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US sanctions elected Hezbollah MPs and Lebanese security officials",
+        "Source context: Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 21 May 2026 20:09:10 +0000",
+      "age_hours": "2.02",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 21 May 2026 13:48:14 +0000",
-      "age_hours": "6.69",
+      "age_hours": "8.37",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
@@ -104,70 +163,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 21 May 2026 15:04:07 -0400",
-      "age_hours": "1.43",
+      "age_hours": "3.10",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
-    },
-    {
-      "headline": "Trump postponing AI executive order \"because I didn't like what I was seeing\"",
-      "url": "https://www.cbsnews.com/news/trump-postponing-ai-executive-order-didnt-like-what-i-was-seeing/",
-      "snapshot": "President Trump said he doesn't want to \"do anything that's going to get in the way\" of leading the world on the technology. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump postponing AI executive order \"because I didn't like what I was seeing\"",
-        "Source context: President Trump said he doesn't want to \"do anything that's going to get in the way\" of leading the world on the technology. The election angle is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 21 May 2026 14:18:38 -0400",
-      "age_hours": "2.18",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump shifts between diplomacy and threats in Iran standoff",
-      "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-      "snapshot": "Supporters say unpredictable Trump approach deal-making strength, others see reflection of strategic dilemma. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, Supporters",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump shifts between diplomacy and threats in Iran standoff",
-        "Source context: Supporters say unpredictable Trump approach deal-making strength, others see reflection of strategic dilemma. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 21 May 2026 19:11:17 +0000",
-      "age_hours": "1.31",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -196,7 +195,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 21 May 2026 15:04:07 -0400",
-      "age_hours": "1.43",
+      "age_hours": "3.10",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -226,9 +225,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 21 May 2026 17:02:23 +0000",
-      "age_hours": "3.45",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: House bill would ban use of federal money for DOJ's \"anti-weaponization\" fund",
+      "url": "https://www.cbsnews.com/news/doj-fund-house-bill-fitzpatrick-suozzi/",
+      "snapshot": "GOP Rep. Brian Fitzpatrick and Democratic Rep. Tom Suozzi introduced a bill to ban the use of federal money for paying out claims under the Justice Department's new \"anti-weaponization\" fund. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Political, House, DOJ, GOP Rep",
+        "Politics desk signal: house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: GOP Rep. Brian Fitzpatrick and Democratic Rep. Tom Suozzi introduced a bill to ban the use of federal money for paying out claims under the Justice..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 21 May 2026 16:44:00 -0400",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
@@ -256,76 +285,45 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 21 May 2026 13:48:14 +0000",
-      "age_hours": "6.69",
+      "age_hours": "8.37",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
     },
     {
-      "headline": "Political signal: Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
-      "url": "https://www.cbsnews.com/news/doj-charges-carmen-lineberger-emailing-jack-smith-report-bundt-cake-recipe/",
-      "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "headline": "Political signal: US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "snapshot": "Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Political, Ex, Trump, Bundt Cake Recipe",
-        "Politics desk signal: court",
+        "Key people or organizations: Political, US, Hezbollah MPs, Lebanese",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that..."
+        "Source context: Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 20:01:49 -0400",
-      "age_hours": "20.46",
-      "freshness_status": "stale",
-      "editorial_score": "118",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Political signal: Trump shifts between diplomacy and threats in Iran standoff",
-      "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-      "snapshot": "Supporters say unpredictable Trump approach deal-making strength, others see reflection of strategic dilemma. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Political, Trump, Iran, Supporters",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: Supporters say unpredictable Trump approach deal-making strength, others see reflection of strategic dilemma. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 21 May 2026 19:11:17 +0000",
-      "age_hours": "1.31",
+      "published": "Thu, 21 May 2026 20:09:10 +0000",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": "WATCH"
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Congress delays reconciliation votes amid GOP opposition to new DOJ fund",
     "Iowa's Hinson leans into Trump alliance, pushes congressional trading ban in Senate campaign",
-    "Watch live: NIH director faces Senate questions over budget"
+    "House bill would ban use of federal money for DOJ's \"anti-weaponization\" fund"
   ],
   "sections": [
     {
@@ -353,7 +351,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 21 May 2026 15:04:07 -0400",
-      "age_hours": "1.43",
+      "age_hours": "3.10",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -383,9 +381,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 21 May 2026 17:02:23 +0000",
-      "age_hours": "3.45",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "House bill would ban use of federal money for DOJ's \"anti-weaponization\" fund",
+      "url": "https://www.cbsnews.com/news/doj-fund-house-bill-fitzpatrick-suozzi/",
+      "snapshot": "GOP Rep. Brian Fitzpatrick and Democratic Rep. Tom Suozzi introduced a bill to ban the use of federal money for paying out claims under the Justice Department's new \"anti-weaponization\" fund. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: House, DOJ, GOP Rep, Brian Fitzpatrick",
+        "Politics desk signal: house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House bill would ban use of federal money for DOJ's \"anti-weaponization\" fund",
+        "Source context: GOP Rep. Brian Fitzpatrick and Democratic Rep. Tom Suozzi introduced a bill to ban the use of federal money for paying out claims under the Justice..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 21 May 2026 16:44:00 -0400",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
@@ -413,40 +441,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 21 May 2026 13:48:14 +0000",
-      "age_hours": "6.69",
+      "age_hours": "8.37",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump postponing AI executive order \"because I didn't like what I was seeing\"",
-      "url": "https://www.cbsnews.com/news/trump-postponing-ai-executive-order-didnt-like-what-i-was-seeing/",
-      "snapshot": "President Trump said he doesn't want to \"do anything that's going to get in the way\" of leading the world on the technology. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "snapshot": "Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: US, Hezbollah MPs, Lebanese, Hezbollah",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump postponing AI executive order \"because I didn't like what I was seeing\"",
-        "Source context: President Trump said he doesn't want to \"do anything that's going to get in the way\" of leading the world on the technology. The election angle is..."
+        "Story focus: US sanctions elected Hezbollah MPs and Lebanese security officials",
+        "Source context: Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 21 May 2026 14:18:38 -0400",
-      "age_hours": "2.18",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 21 May 2026 20:09:10 +0000",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump shifts between diplomacy and threats in Iran standoff",
@@ -473,40 +500,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 21 May 2026 19:11:17 +0000",
-      "age_hours": "1.31",
+      "age_hours": "2.98",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Five key takeaways from Democrats' autopsy report on Kamala Harris's loss",
-      "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-      "snapshot": "Riddled with mistakes and missing sections, 192-page document on 2024 election loss to Trump fails to mention Gaza. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Five, Democrats, Kamala Harris, Riddled",
-        "Specific figures mentioned: 192, 2024",
-        "Politics desk signal: election, campaign, gaza",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Five key takeaways from Democrats' autopsy report on Kamala Harris's loss"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Five.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 21 May 2026 19:14:34 +0000",
-      "age_hours": "1.25",
-      "freshness_status": "fresh",
-      "editorial_score": "68",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
