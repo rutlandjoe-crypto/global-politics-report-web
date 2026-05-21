@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
   "snapshot": "A former federal prosecutor was charged this week with emailing herself a report on the Justice Department's investigation into President Trump that a judge had kept under lock and key, under the file name \"Bundt_Cake_Recipe.pdf.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
-  "updated_at": "2026-05-20 07:03:48 PM ET",
-  "generated_at": "2026-05-20 07:03:48 PM ET",
+  "updated_at": "2026-05-20 09:54:54 PM ET",
+  "generated_at": "2026-05-20 09:54:54 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 130,
+    "live_fresh_items": 123,
     "editor_fresh_items": 149,
     "public_fallback_items": 149,
-    "stale_or_blocked_items": 20,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-20 07:03:48 PM ET"
+    "last_checked": "2026-05-20 09:54:54 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,39 +42,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "5.76",
+      "age_hours": "8.61",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Why has the US indicted Cuba's Raul Castro now?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss",
-      "snapshot": "The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case.",
-      "key_data": [
-        "Key people or organizations: US, Cuba, Raul Castro, Cuban President Raul Castro",
-        "Specific figures mentioned: 1996",
-        "Story focus: Why has the US indicted Cuba's Raul Castro now?",
-        "Source context: The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 20 May 2026 20:58:48 +0000",
-      "age_hours": "2.08",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
     },
     {
       "headline": "Ex-prosecutor allegedly stole secret report on Trump, named file \"Bundt Cake Recipe\"",
@@ -100,8 +71,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 18:09:00 -0400",
-      "age_hours": "0.91",
+      "published": "Wed, 20 May 2026 20:01:49 -0400",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "BREAKING"
@@ -131,9 +102,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "5.00",
+      "age_hours": "7.85",
       "freshness_status": "fresh",
       "editorial_score": "137",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss",
+      "snapshot": "Albanese is among several people sanctioned by the US for advocacy against Israel's genocidal war in Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Francesca Albanese, UN, Palestinian",
+        "Politics desk signal: gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+        "Source context: Albanese is among several people sanctioned by the US for advocacy against Israel's genocidal war in Gaza. The geopolitical angle is how the decision..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 21 May 2026 01:02:37 +0000",
+      "age_hours": "0.87",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -161,7 +162,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "3.60",
+      "age_hours": "6.46",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -192,8 +193,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 18:09:00 -0400",
-      "age_hours": "0.91",
+      "published": "Wed, 20 May 2026 20:01:49 -0400",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "BREAKING"
@@ -223,7 +224,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "5.00",
+      "age_hours": "7.85",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -253,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "3.60",
+      "age_hours": "6.46",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -283,7 +284,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 19:17:57 +0000",
-      "age_hours": "3.76",
+      "age_hours": "6.62",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
@@ -311,7 +312,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "5.76",
+      "age_hours": "8.61",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -347,8 +348,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 20 May 2026 18:09:00 -0400",
-      "age_hours": "0.91",
+      "published": "Wed, 20 May 2026 20:01:49 -0400",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "BREAKING"
@@ -378,7 +379,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 18:03:35 +0000",
-      "age_hours": "5.00",
+      "age_hours": "7.85",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -408,7 +409,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 20 May 2026 15:27:31 -0400",
-      "age_hours": "3.60",
+      "age_hours": "6.46",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -438,7 +439,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 20 May 2026 19:17:57 +0000",
-      "age_hours": "3.76",
+      "age_hours": "6.62",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
@@ -466,25 +467,26 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 20 May 2026 17:18:12 +0000",
-      "age_hours": "5.76",
+      "age_hours": "8.61",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Why has the US indicted Cuba's Raul Castro now?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss",
-      "snapshot": "The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case.",
+      "headline": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss",
+      "snapshot": "Albanese is among several people sanctioned by the US for advocacy against Israel's genocidal war in Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: US, Cuba, Raul Castro, Cuban President Raul Castro",
-        "Specific figures mentioned: 1996",
-        "Story focus: Why has the US indicted Cuba's Raul Castro now?",
-        "Source context: The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case."
+        "Key people or organizations: US, Francesca Albanese, UN, Palestinian",
+        "Politics desk signal: gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+        "Source context: Albanese is among several people sanctioned by the US for advocacy against Israel's genocidal war in Gaza. The geopolitical angle is how the decision..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
         "Watch for the next official action involving US.",
@@ -494,11 +496,11 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 20 May 2026 20:58:48 +0000",
-      "age_hours": "2.08",
+      "published": "Thu, 21 May 2026 01:02:37 +0000",
+      "age_hours": "0.87",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
