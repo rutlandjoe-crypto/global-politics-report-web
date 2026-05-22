@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump defends DOJ 'anti-weaponization' fund from GOP critics",
   "snapshot": "President Trump is defending his administration's creation of a nearly $1.8 billion \"anti-weaponization\" fund in response to heavy criticism not only from Democrats but from Republicans in the Senate, who delayed votes on a reconciliation package Thursday over the issue. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-22 04:28:09 PM ET",
-  "generated_at": "2026-05-22 04:28:09 PM ET",
+  "updated_at": "2026-05-22 05:55:43 PM ET",
+  "generated_at": "2026-05-22 05:55:43 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 95,
-    "editor_fresh_items": 145,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 52,
+    "total_items_checked": 146,
+    "live_fresh_items": 100,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-22 04:28:09 PM ET"
+    "last_checked": "2026-05-22 05:55:43 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,38 +42,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 22 May 2026 17:04:08 +0000",
-      "age_hours": "3.40",
+      "age_hours": "4.86",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What are the implications of US sanctions in Lebanon?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-      "snapshot": "Nine people targeted, including Lebanese military officers. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: US, Lebanon, Nine, Lebanese",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What are the implications of US sanctions in Lebanon?",
-        "Source context: Nine people targeted, including Lebanese military officers. The geopolitical angle is how the decision affects alliances, economic pressure, security..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 22 May 2026 20:00:36 +0000",
-      "age_hours": "0.46",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -101,7 +72,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 22 May 2026 16:32:41 +0000",
-      "age_hours": "3.92",
+      "age_hours": "5.38",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -131,7 +102,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 22 May 2026 15:22:31 +0000",
-      "age_hours": "5.09",
+      "age_hours": "6.55",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -161,9 +132,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 12:11:20 -0400",
-      "age_hours": "4.28",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump administration to require most green card applicants to leave U.S. first",
+      "url": "https://www.cbsnews.com/news/trump-green-cards-leave-us/",
+      "snapshot": "The Trump administration on Friday announced a sweeping policy designed to make it harder for immigrants already in the U.S. to get permanent residency. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration to require most green card applicants to leave U.S. first",
+        "Source context: The Trump administration on Friday announced a sweeping policy designed to make it harder for immigrants already in the U.S. to get permanent..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 22 May 2026 14:59:00 -0400",
+      "age_hours": "2.95",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     }
   ],
@@ -193,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 22 May 2026 15:22:31 +0000",
-      "age_hours": "5.09",
+      "age_hours": "6.55",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -223,7 +224,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 22 May 2026 16:32:41 +0000",
-      "age_hours": "3.92",
+      "age_hours": "5.38",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -253,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 12:11:20 -0400",
-      "age_hours": "4.28",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -283,38 +284,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 21 May 2026 15:04:00 -0400",
-      "age_hours": "25.40",
+      "age_hours": "26.86",
       "freshness_status": "stale",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Video shows Israeli strike on Lebanese child and paramedics",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss",
-      "snapshot": "Video shows an Israeli air strike hitting paramedics responding to an earlier attack in southern Lebanon. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Political signal: Mahmoud Khalil to appeal US deportation case to Supreme Court",
+      "url": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
+      "snapshot": "Pro-Palestine advocate takes claim that Trump administration targeted him for protected free speech to top US court. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Political, Video, Israeli, Lebanese",
+        "Key people or organizations: Political, Mahmoud Khalil, US, Supreme Court",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: Video shows an Israeli air strike hitting paramedics responding to an earlier attack in southern Lebanon. The geopolitical angle is how the decision..."
+        "Source context: Pro-Palestine advocate takes claim that Trump administration targeted him for protected free speech to top US court. The broader significance is..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 22 May 2026 17:04:08 +0000",
-      "age_hours": "3.40",
+      "published": "Fri, 22 May 2026 21:08:03 +0000",
+      "age_hours": "0.79",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -348,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 22 May 2026 15:22:31 +0000",
-      "age_hours": "5.09",
+      "age_hours": "6.55",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -378,7 +381,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 22 May 2026 16:32:41 +0000",
-      "age_hours": "3.92",
+      "age_hours": "5.38",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -408,7 +411,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 12:11:20 -0400",
-      "age_hours": "4.28",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -438,9 +441,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 14:59:00 -0400",
-      "age_hours": "1.49",
+      "age_hours": "2.95",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
+      "url": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
+      "snapshot": "Pro-Palestine advocate takes claim that Trump administration targeted him for protected free speech to top US court. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Mahmoud Khalil, US, Supreme Court, Pro",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mahmoud Khalil to appeal US deportation case to Supreme Court",
+        "Source context: Pro-Palestine advocate takes claim that Trump administration targeted him for protected free speech to top US court. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Mahmoud Khalil.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 22 May 2026 21:08:03 +0000",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -466,38 +499,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 22 May 2026 17:04:08 +0000",
-      "age_hours": "3.40",
+      "age_hours": "4.86",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What are the implications of US sanctions in Lebanon?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-      "snapshot": "Nine people targeted, including Lebanese military officers. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: US, Lebanon, Nine, Lebanese",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What are the implications of US sanctions in Lebanon?",
-        "Source context: Nine people targeted, including Lebanese military officers. The geopolitical angle is how the decision affects alliances, economic pressure, security..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 22 May 2026 20:00:36 +0000",
-      "age_hours": "0.46",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
