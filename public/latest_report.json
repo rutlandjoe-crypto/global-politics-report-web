@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Tulsi Gabbard resigns as intel chief, fourth member of Trump's Cabinet to depart",
   "snapshot": "Director of National Intelligence Tulsi Gabbard resigned on Friday from President Trump's Cabinet. Weijia Jiang has more on this and the latest on the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-05-22 09:46:41 PM ET",
-  "generated_at": "2026-05-22 09:46:41 PM ET",
+  "updated_at": "2026-05-23 01:31:05 AM ET",
+  "generated_at": "2026-05-23 01:31:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 93,
+    "live_fresh_items": 64,
     "editor_fresh_items": 143,
     "public_fallback_items": 144,
-    "stale_or_blocked_items": 53,
+    "stale_or_blocked_items": 82,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-22 09:46:41 PM ET"
+    "last_checked": "2026-05-23 01:31:05 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 19:31:42 -0400",
-      "age_hours": "2.25",
+      "age_hours": "5.99",
       "freshness_status": "fresh",
       "editorial_score": "142",
+      "urgency": ""
+    },
+    {
+      "headline": "5/22: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/052226-the-takeout-with-major-garrett/",
+      "snapshot": "Tulsi Gabbard resigns as national intelligence director; President Trump defends \"anti-weaponization\" fund despite GOP backlash. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, Tulsi Gabbard, President Trump, GOP",
+        "Specific figures mentioned: 5, 22",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 5/22"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 22 May 2026 17:00:00 -0400",
+      "age_hours": "8.52",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -72,21 +102,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 22 May 2026 20:29:37 +0000",
-      "age_hours": "5.28",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
     },
     {
-      "headline": "Kevin Warsh sworn in as new Fed chair beside Trump at White House ceremony",
-      "url": "https://thehill.com/business/5891464-warsh-sworn-in-federal-reserve/",
-      "snapshot": "Federal Reserve Chair Kevin Warsh was sworn in Friday beside President Trump, kicking off his term as the new head of the central bank at a critical time for the U.S. economy. Supreme Court Justice Clarence Thomas swore Warsh in during the Friday ceremony at the White House.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Joe Kernen: Trump IRS settlement 'smells bad'",
+      "url": "https://thehill.com/homenews/media/5892228-kernen-slush-fund-concerns/",
+      "snapshot": "CNBC's \"Squawk Box\" co-host Joe Kernen said Friday that President Trump's settlement with his own administration for suing the IRS for $10 billion \"smells bad.\" Trump dropped the lawsuit to launch the $1.776 billion \"anti-weaponization\" fund to compensate those who claim they... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Kevin Warsh, Fed, Trump, White House",
-        "Politics desk signal: house, white house, supreme court, court",
+        "Key people or organizations: Joe Kernen, Trump IRS, CNBC, Squawk Box",
+        "Specific figures mentioned: $10 billion, $1.776 billion",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Kevin Warsh sworn in as new Fed chair beside Trump at White House ceremony",
-        "Source context: Federal Reserve Chair Kevin Warsh was sworn in Friday beside President Trump, kicking off his term as the new head of the central bank at a critical..."
+        "Story focus: Joe Kernen"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -94,29 +124,29 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Kevin Warsh.",
+        "Watch for the next official action involving Joe Kernen.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 22 May 2026 16:32:41 +0000",
-      "age_hours": "9.23",
+      "published": "Fri, 22 May 2026 23:11:37 +0000",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
-      "editorial_score": "127",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump defends DOJ 'anti-weaponization' fund from GOP critics",
-      "url": "https://thehill.com/homenews/administration/5891274-gop-senators-question-trump-fund/",
-      "snapshot": "President Trump is defending his administration's creation of a nearly $1.8 billion \"anti-weaponization\" fund in response to heavy criticism not only from Democrats but from Republicans in the Senate, who delayed votes on a reconciliation package Thursday over the issue. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Burchett 'disappointed' in Senate as Congress leaves DC: 'We've wasted a whole week'",
+      "url": "https://thehill.com/homenews/senate/5891995-burchett-disappointed-senate-recess/",
+      "snapshot": "Rep. Tim Burchett (R-Tenn.) said Thursday he was \"disappointed\" in the Senate for heading on a weeklong recess without holding a vote on a reconciliation bill to fund federal immigration agencies, joining a chorus of House Republicans frustrated with the upper chamber's... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, DOJ, GOP, President Trump",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: senate",
+        "Key people or organizations: Burchett, Senate, Congress, DC",
+        "Politics desk signal: congress, senate, house, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump defends DOJ 'anti-weaponization' fund from GOP critics"
+        "Story focus: Burchett 'disappointed' in Senate as Congress leaves DC",
+        "Source context: Rep. Tim Burchett (R-Tenn.) said Thursday he was \"disappointed\" in the Senate for heading on a weeklong recess without holding a vote on a..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -124,47 +154,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Burchett.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 22 May 2026 15:22:31 +0000",
-      "age_hours": "10.40",
+      "published": "Fri, 22 May 2026 20:17:33 +0000",
+      "age_hours": "9.22",
       "freshness_status": "fresh",
-      "editorial_score": "131",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it",
-      "url": "https://www.cbsnews.com/news/trump-anti-weaponization-fund-denied-says-he-allowed-it/",
-      "snapshot": "President Trump on Friday defended the Justice Department's $1.7 billion \"anti-weaponization\" fund and said he \"gave up a lot of money\" by allowing its creation. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Justice Department",
-        "Specific figures mentioned: $1.7B, $1.7 billion",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 22 May 2026 12:11:20 -0400",
-      "age_hours": "9.59",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "123",
       "urgency": ""
     }
   ],
@@ -194,21 +194,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 19:31:42 -0400",
-      "age_hours": "2.25",
+      "age_hours": "5.99",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Trump defends DOJ 'anti-weaponization' fund from GOP critics",
-      "url": "https://thehill.com/homenews/administration/5891274-gop-senators-question-trump-fund/",
-      "snapshot": "President Trump is defending his administration's creation of a nearly $1.8 billion \"anti-weaponization\" fund in response to heavy criticism not only from Democrats but from Republicans in the Senate, who delayed votes on a reconciliation package Thursday over the issue. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: Burchett 'disappointed' in Senate as Congress leaves DC",
+      "url": "https://thehill.com/homenews/senate/5891995-burchett-disappointed-senate-recess/",
+      "snapshot": "Rep. Tim Burchett (R-Tenn.) said Thursday he was \"disappointed\" in the Senate for heading on a weeklong recess without holding a vote on a reconciliation bill to fund federal immigration agencies, joining a chorus of House Republicans frustrated with the upper chamber's... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Political, Trump, DOJ, GOP",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: senate",
+        "Key people or organizations: Political, Burchett, Senate, Congress",
+        "Politics desk signal: congress, senate, house, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal"
+        "Story focus: Political signal",
+        "Source context: Rep. Tim Burchett (R-Tenn.) said Thursday he was \"disappointed\" in the Senate for heading on a weeklong recess without holding a vote on a..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -223,49 +223,19 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 22 May 2026 15:22:31 +0000",
-      "age_hours": "10.40",
+      "published": "Fri, 22 May 2026 20:17:33 +0000",
+      "age_hours": "9.22",
       "freshness_status": "fresh",
-      "editorial_score": "131",
+      "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Political signal: Kevin Warsh sworn in as new Fed chair beside Trump at White House ceremony",
-      "url": "https://thehill.com/business/5891464-warsh-sworn-in-federal-reserve/",
-      "snapshot": "Federal Reserve Chair Kevin Warsh was sworn in Friday beside President Trump, kicking off his term as the new head of the central bank at a critical time for the U.S. economy. Supreme Court Justice Clarence Thomas swore Warsh in during the Friday ceremony at the White House.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Political signal: Joe Kernen",
+      "url": "https://thehill.com/homenews/media/5892228-kernen-slush-fund-concerns/",
+      "snapshot": "CNBC's \"Squawk Box\" co-host Joe Kernen said Friday that President Trump's settlement with his own administration for suing the IRS for $10 billion \"smells bad.\" Trump dropped the lawsuit to launch the $1.776 billion \"anti-weaponization\" fund to compensate those who claim they... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Political, Kevin Warsh, Fed, Trump",
-        "Politics desk signal: house, white house, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: Federal Reserve Chair Kevin Warsh was sworn in Friday beside President Trump, kicking off his term as the new head of the central bank at a critical..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 22 May 2026 16:32:41 +0000",
-      "age_hours": "9.23",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Political signal: Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it",
-      "url": "https://www.cbsnews.com/news/trump-anti-weaponization-fund-denied-says-he-allowed-it/",
-      "snapshot": "President Trump on Friday defended the Justice Department's $1.7 billion \"anti-weaponization\" fund and said he \"gave up a lot of money\" by allowing its creation. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Political, Trump, President Trump, Justice Department",
-        "Specific figures mentioned: $1.7B, $1.7 billion",
+        "Key people or organizations: Political, Joe Kernen, CNBC, Squawk Box",
+        "Specific figures mentioned: $10 billion, $1.776 billion",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal"
@@ -280,13 +250,43 @@
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 22 May 2026 23:11:37 +0000",
+      "age_hours": "6.32",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: 5/22",
+      "url": "https://www.cbsnews.com/video/052226-the-takeout-with-major-garrett/",
+      "snapshot": "Tulsi Gabbard resigns as national intelligence director; President Trump defends \"anti-weaponization\" fund despite GOP backlash. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Political, Tulsi Gabbard, President Trump, GOP",
+        "Specific figures mentioned: 5, 22",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 22 May 2026 12:11:20 -0400",
-      "age_hours": "9.59",
+      "published": "Fri, 22 May 2026 17:00:00 -0400",
+      "age_hours": "8.52",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -314,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 22 May 2026 21:08:03 +0000",
-      "age_hours": "4.64",
+      "age_hours": "8.38",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -322,8 +322,8 @@
   ],
   "key_storylines": [
     "Tulsi Gabbard resigns as intel chief, fourth member of Trump's Cabinet to depart",
-    "Trump defends DOJ 'anti-weaponization' fund from GOP critics",
-    "Kevin Warsh sworn in as new Fed chair beside Trump at White House ceremony"
+    "Burchett 'disappointed' in Senate as Congress leaves DC: 'We've wasted a whole week'",
+    "Joe Kernen: Trump IRS settlement 'smells bad'"
   ],
   "sections": [
     {
@@ -351,21 +351,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 19:31:42 -0400",
-      "age_hours": "2.25",
+      "age_hours": "5.99",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": ""
     },
     {
-      "headline": "Trump defends DOJ 'anti-weaponization' fund from GOP critics",
-      "url": "https://thehill.com/homenews/administration/5891274-gop-senators-question-trump-fund/",
-      "snapshot": "President Trump is defending his administration's creation of a nearly $1.8 billion \"anti-weaponization\" fund in response to heavy criticism not only from Democrats but from Republicans in the Senate, who delayed votes on a reconciliation package Thursday over the issue. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Burchett 'disappointed' in Senate as Congress leaves DC: 'We've wasted a whole week'",
+      "url": "https://thehill.com/homenews/senate/5891995-burchett-disappointed-senate-recess/",
+      "snapshot": "Rep. Tim Burchett (R-Tenn.) said Thursday he was \"disappointed\" in the Senate for heading on a weeklong recess without holding a vote on a reconciliation bill to fund federal immigration agencies, joining a chorus of House Republicans frustrated with the upper chamber's... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, DOJ, GOP, President Trump",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: senate",
+        "Key people or organizations: Burchett, Senate, Congress, DC",
+        "Politics desk signal: congress, senate, house, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump defends DOJ 'anti-weaponization' fund from GOP critics"
+        "Story focus: Burchett 'disappointed' in Senate as Congress leaves DC",
+        "Source context: Rep. Tim Burchett (R-Tenn.) said Thursday he was \"disappointed\" in the Senate for heading on a weeklong recess without holding a vote on a..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -373,29 +373,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Burchett.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 22 May 2026 15:22:31 +0000",
-      "age_hours": "10.40",
+      "published": "Fri, 22 May 2026 20:17:33 +0000",
+      "age_hours": "9.22",
       "freshness_status": "fresh",
-      "editorial_score": "131",
+      "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Kevin Warsh sworn in as new Fed chair beside Trump at White House ceremony",
-      "url": "https://thehill.com/business/5891464-warsh-sworn-in-federal-reserve/",
-      "snapshot": "Federal Reserve Chair Kevin Warsh was sworn in Friday beside President Trump, kicking off his term as the new head of the central bank at a critical time for the U.S. economy. Supreme Court Justice Clarence Thomas swore Warsh in during the Friday ceremony at the White House.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Joe Kernen: Trump IRS settlement 'smells bad'",
+      "url": "https://thehill.com/homenews/media/5892228-kernen-slush-fund-concerns/",
+      "snapshot": "CNBC's \"Squawk Box\" co-host Joe Kernen said Friday that President Trump's settlement with his own administration for suing the IRS for $10 billion \"smells bad.\" Trump dropped the lawsuit to launch the $1.776 billion \"anti-weaponization\" fund to compensate those who claim they... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Kevin Warsh, Fed, Trump, White House",
-        "Politics desk signal: house, white house, supreme court, court",
+        "Key people or organizations: Joe Kernen, Trump IRS, CNBC, Squawk Box",
+        "Specific figures mentioned: $10 billion, $1.776 billion",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Kevin Warsh sworn in as new Fed chair beside Trump at White House ceremony",
-        "Source context: Federal Reserve Chair Kevin Warsh was sworn in Friday beside President Trump, kicking off his term as the new head of the central bank at a critical..."
+        "Story focus: Joe Kernen"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -403,47 +403,47 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Kevin Warsh.",
+        "Watch for the next official action involving Joe Kernen.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 22 May 2026 16:32:41 +0000",
-      "age_hours": "9.23",
+      "published": "Fri, 22 May 2026 23:11:37 +0000",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
-      "editorial_score": "127",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it",
-      "url": "https://www.cbsnews.com/news/trump-anti-weaponization-fund-denied-says-he-allowed-it/",
-      "snapshot": "President Trump on Friday defended the Justice Department's $1.7 billion \"anti-weaponization\" fund and said he \"gave up a lot of money\" by allowing its creation. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "5/22: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/052226-the-takeout-with-major-garrett/",
+      "snapshot": "Tulsi Gabbard resigns as national intelligence director; President Trump defends \"anti-weaponization\" fund despite GOP backlash. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump, Justice Department",
-        "Specific figures mentioned: $1.7B, $1.7 billion",
-        "Politics desk signal: court",
+        "Key people or organizations: Major Garrett, Tulsi Gabbard, President Trump, GOP",
+        "Specific figures mentioned: 5, 22",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it"
+        "Story focus: 5/22"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 22 May 2026 12:11:20 -0400",
-      "age_hours": "9.59",
+      "published": "Fri, 22 May 2026 17:00:00 -0400",
+      "age_hours": "8.52",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -471,7 +471,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 22 May 2026 21:08:03 +0000",
-      "age_hours": "4.64",
+      "age_hours": "8.38",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -499,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 22 May 2026 20:29:37 +0000",
-      "age_hours": "5.28",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
