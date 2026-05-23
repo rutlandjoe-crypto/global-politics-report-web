@@ -3,22 +3,52 @@
   "vertical": "Politics",
   "headline": "Here are the GOP victims of Trump's retribution campaign",
   "snapshot": "President Trump has taken bold strides in recent months to oust GOP lawmakers over perceived disloyalty to his administration — often against the wishes of congressional leadership. The president has recruited primary challengers and derided sitting lawmakers in lengthy,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-23 12:46:14 PM ET",
-  "generated_at": "2026-05-23 12:46:14 PM ET",
+  "updated_at": "2026-05-23 01:52:21 PM ET",
+  "generated_at": "2026-05-23 01:52:21 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 47,
-    "editor_fresh_items": 141,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 102,
+    "total_items_checked": 150,
+    "live_fresh_items": 51,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 99,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-23 12:46:14 PM ET"
+    "last_checked": "2026-05-23 01:52:21 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Tulsi Gabbard resigns as intel chief, fourth member of Trump's Cabinet to depart",
+      "url": "https://www.cbsnews.com/video/tulsi-gabbard-resigns-intel-chief-fourth-member-trumps-cabinet-depart/",
+      "snapshot": "Director of National Intelligence Tulsi Gabbard resigned on Friday from President Trump's Cabinet. Weijia Jiang has more on this and the latest on the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Tulsi Gabbard, Trump, Cabinet, Director",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Tulsi Gabbard resigns as intel chief, fourth member of Trump's Cabinet to depart",
+        "Source context: Director of National Intelligence Tulsi Gabbard resigned on Friday from President Trump's Cabinet. Weijia Jiang has more on this and the latest on..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Tulsi Gabbard.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 22 May 2026 19:31:42 -0400",
+      "age_hours": "18.34",
+      "freshness_status": "stale",
+      "editorial_score": "112",
+      "urgency": ""
+    },
     {
       "headline": "Israeli air strike pounds southern Lebanon leaving many injured",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
@@ -42,39 +72,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 23 May 2026 12:54:34 +0000",
-      "age_hours": "3.86",
+      "age_hours": "4.96",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Critics say Trump's 'pretext' for Cuba invasion doesn't square with reality",
-      "url": "https://thehill.com/policy/national-security/5892092-trump-cuba-invasion-pretext/",
-      "snapshot": "The indictment of former Cuban President Raúl Castro and comments from administration officials playing up Cuba's military and intelligence threat have critics more fearful than ever that President Trump will invade the island — accusing the White House of creating a pretext... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Critics, Trump, Cuba, Cuban President",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Critics say Trump's 'pretext' for Cuba invasion doesn't square with reality",
-        "Source context: The indictment of former Cuban President Raúl Castro and comments from administration officials playing up Cuba's military and intelligence threat..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Critics.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 23 May 2026 10:00:00 +0000",
-      "age_hours": "6.77",
-      "freshness_status": "fresh",
-      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,7 +102,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 23 May 2026 15:52:14 +0000",
-      "age_hours": "0.90",
+      "age_hours": "2.00",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -132,21 +132,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 23 May 2026 10:00:00 +0000",
-      "age_hours": "6.77",
+      "age_hours": "7.87",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
     },
     {
-      "headline": "Trump says U.S. is \"getting a lot closer\" to agreement with Iran",
-      "url": "https://www.cbsnews.com/news/trump-iran-war-negotiations-draft-agreement-strait-of-hormuz/",
-      "snapshot": "U.S. officials and negotiators were discussing a process to reopen the Strait of Hormuz, sources briefed on the conversations said. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Lutnick donated $5M to House GOP super PAC ahead of Epstein deposition",
+      "url": "https://thehill.com/homenews/administration/5892633-lutnick-political-donation-house-gop/",
+      "snapshot": "Commerce Secretary Howard Lutnick donated $5 million to a committee backing House Republicans ahead of his testimony to Congress about his ties to convicted sex offender Jeffrey Epstein, Federal Election Commission (FEC) filings show. The Trump administration official made the... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Trump, Iran, Strait, Hormuz",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Lutnick, House GOP, PAC, Epstein",
+        "Specific figures mentioned: $5M, $5 million",
+        "Politics desk signal: congress, house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says U.S. is \"getting a lot closer\" to agreement with Iran",
-        "Source context: U.S. officials and negotiators were discussing a process to reopen the Strait of Hormuz, sources briefed on the conversations said. The election..."
+        "Story focus: Lutnick donated $5M to House GOP super PAC ahead of Epstein deposition"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -154,17 +154,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Lutnick.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 23 May 2026 12:17:08 -0400",
-      "age_hours": "0.48",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 23 May 2026 13:51:19 +0000",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "113",
       "urgency": ""
     }
   ],
@@ -194,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 23 May 2026 10:00:00 +0000",
-      "age_hours": "6.77",
+      "age_hours": "7.87",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -224,7 +224,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 23 May 2026 13:51:19 +0000",
-      "age_hours": "2.91",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": ""
@@ -254,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 22 May 2026 19:31:42 -0400",
-      "age_hours": "17.24",
+      "age_hours": "18.34",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": ""
@@ -284,7 +284,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 23 May 2026 15:52:14 +0000",
-      "age_hours": "0.90",
+      "age_hours": "2.00",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -314,7 +314,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 23 May 2026 12:17:08 -0400",
-      "age_hours": "0.48",
+      "age_hours": "1.59",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 23 May 2026 10:00:00 +0000",
-      "age_hours": "6.77",
+      "age_hours": "7.87",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -381,7 +381,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 23 May 2026 13:51:19 +0000",
-      "age_hours": "2.91",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": ""
@@ -411,7 +411,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 23 May 2026 15:52:14 +0000",
-      "age_hours": "0.90",
+      "age_hours": "2.00",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -441,7 +441,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 23 May 2026 12:17:08 -0400",
-      "age_hours": "0.48",
+      "age_hours": "1.59",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -469,21 +469,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 23 May 2026 12:54:34 +0000",
-      "age_hours": "3.86",
+      "age_hours": "4.96",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Critics say Trump's 'pretext' for Cuba invasion doesn't square with reality",
-      "url": "https://thehill.com/policy/national-security/5892092-trump-cuba-invasion-pretext/",
-      "snapshot": "The indictment of former Cuban President Raúl Castro and comments from administration officials playing up Cuba's military and intelligence threat have critics more fearful than ever that President Trump will invade the island — accusing the White House of creating a pretext... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Tulsi Gabbard resigns as intel chief, fourth member of Trump's Cabinet to depart",
+      "url": "https://www.cbsnews.com/video/tulsi-gabbard-resigns-intel-chief-fourth-member-trumps-cabinet-depart/",
+      "snapshot": "Director of National Intelligence Tulsi Gabbard resigned on Friday from President Trump's Cabinet. Weijia Jiang has more on this and the latest on the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Critics, Trump, Cuba, Cuban President",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Tulsi Gabbard, Trump, Cabinet, Director",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Critics say Trump's 'pretext' for Cuba invasion doesn't square with reality",
-        "Source context: The indictment of former Cuban President Raúl Castro and comments from administration officials playing up Cuba's military and intelligence threat..."
+        "Story focus: Tulsi Gabbard resigns as intel chief, fourth member of Trump's Cabinet to depart",
+        "Source context: Director of National Intelligence Tulsi Gabbard resigned on Friday from President Trump's Cabinet. Weijia Jiang has more on this and the latest on..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -491,18 +491,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Critics.",
+        "Watch for the next official action involving Tulsi Gabbard.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 23 May 2026 10:00:00 +0000",
-      "age_hours": "6.77",
-      "freshness_status": "fresh",
-      "editorial_score": "111",
-      "urgency": "DEVELOPING"
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 22 May 2026 19:31:42 -0400",
+      "age_hours": "18.34",
+      "freshness_status": "stale",
+      "editorial_score": "112",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
