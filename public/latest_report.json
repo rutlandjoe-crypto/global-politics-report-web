@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Biden sues to block release of audio, transcripts in special counsel investigation",
   "snapshot": "Former President Biden on Tuesday sued the Department of Justice (DOJ) to block the release of audio and transcripts of private interviews with a ghostwriter used in a special counsel investigation into his handling of classified documents. Biden's lawyers filed the lawsuit in... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-05-27 12:32:21 PM ET",
-  "generated_at": "2026-05-27 12:32:21 PM ET",
+  "updated_at": "2026-05-27 03:12:39 PM ET",
+  "generated_at": "2026-05-27 03:12:39 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 83,
-    "editor_fresh_items": 146,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 65,
+    "total_items_checked": 150,
+    "live_fresh_items": 108,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 150,
+    "stale_or_blocked_items": 42,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-27 12:32:21 PM ET"
+    "last_checked": "2026-05-27 03:12:39 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,38 +44,69 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 27 May 2026 12:01:23 +0000",
-      "age_hours": "4.52",
+      "age_hours": "7.19",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "US, Iran have launched multiple attacks during ceasefire: A timeline",
-      "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
-      "snapshot": "Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/fifa-subpoenaed-by-new-york-new-jersey-in-world-cup-ticket-investigation?traffic_source=rss",
+      "snapshot": "US States react following increasing criticism of football's global governing body for the pricing of 2026 World Cup.",
       "key_data": [
-        "Key people or organizations: US, Iran, Washington, Tehran",
-        "Story focus: US, Iran have launched multiple attacks during ceasefire",
-        "Source context: Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet. The geopolitical angle is how the..."
+        "Key people or organizations: FIFA, New York, New Jersey, World Cup",
+        "Specific figures mentioned: 2026",
+        "Story focus: FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation",
+        "Source context: US States react following increasing criticism of football's global governing body for the pricing of 2026 World Cup."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving FIFA.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 27 May 2026 10:47:55 +0000",
-      "age_hours": "5.74",
+      "published": "Wed, 27 May 2026 17:23:24 +0000",
+      "age_hours": "1.82",
       "freshness_status": "fresh",
-      "editorial_score": "68",
-      "urgency": "BREAKING"
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump holds Cabinet meeting as negotiations continue to end Iran war",
+      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
+      "snapshot": "President Trump held a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Cabinet, Iran, President Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump holds Cabinet meeting as negotiations continue to end Iran war",
+        "Source context: President Trump held a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 27 May 2026 14:16:46 -0400",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
       "headline": "Alabama asks Supreme Court to allow congressional map found racially discriminatory",
@@ -101,40 +132,10 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 12:22:38 -0400",
-      "age_hours": "0.16",
+      "published": "Wed, 27 May 2026 12:55:49 -0400",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Watch Live: Trump holds Cabinet meeting at the White House",
-      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
-      "snapshot": "President Trump is holding a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Cabinet, White House, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch Live",
-        "Source context: President Trump is holding a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 12:29:32 -0400",
-      "age_hours": "0.05",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -162,7 +163,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 27 May 2026 14:51:29 +0000",
-      "age_hours": "1.68",
+      "age_hours": "4.35",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -194,10 +195,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 27 May 2026 12:01:23 +0000",
-      "age_hours": "4.52",
+      "age_hours": "7.19",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Political signal: Trump holds Cabinet meeting as negotiations continue to end Iran war",
+      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
+      "snapshot": "President Trump held a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Political, Trump, Cabinet, Iran",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: President Trump held a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 27 May 2026 14:16:46 -0400",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
       "headline": "Political signal: Alabama asks Supreme Court to allow congressional map found racially discriminatory",
@@ -223,40 +254,10 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 12:22:38 -0400",
-      "age_hours": "0.16",
+      "published": "Wed, 27 May 2026 12:55:49 -0400",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: Watch Live",
-      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
-      "snapshot": "President Trump is holding a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Political, President Trump, Cabinet, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: President Trump is holding a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 12:29:32 -0400",
-      "age_hours": "0.05",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -284,7 +285,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 27 May 2026 14:51:29 +0000",
-      "age_hours": "1.68",
+      "age_hours": "4.35",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -314,7 +315,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 27 May 2026 12:11:29 +0000",
-      "age_hours": "4.35",
+      "age_hours": "7.02",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -322,8 +323,8 @@
   ],
   "key_storylines": [
     "Biden sues to block release of audio, transcripts in special counsel investigation",
-    "Alabama asks Supreme Court to allow congressional map found racially discriminatory",
-    "Watch Live: Trump holds Cabinet meeting at the White House"
+    "Trump holds Cabinet meeting as negotiations continue to end Iran war",
+    "Alabama asks Supreme Court to allow congressional map found racially discriminatory"
   ],
   "sections": [
     {
@@ -351,10 +352,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 27 May 2026 12:01:23 +0000",
-      "age_hours": "4.52",
+      "age_hours": "7.19",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump holds Cabinet meeting as negotiations continue to end Iran war",
+      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
+      "snapshot": "President Trump held a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Cabinet, Iran, President Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump holds Cabinet meeting as negotiations continue to end Iran war",
+        "Source context: President Trump held a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 27 May 2026 14:16:46 -0400",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
       "headline": "Alabama asks Supreme Court to allow congressional map found racially discriminatory",
@@ -380,40 +411,10 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 12:22:38 -0400",
-      "age_hours": "0.16",
+      "published": "Wed, 27 May 2026 12:55:49 -0400",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Watch Live: Trump holds Cabinet meeting at the White House",
-      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
-      "snapshot": "President Trump is holding a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Cabinet, White House, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch Live",
-        "Source context: President Trump is holding a Cabinet meeting at the White House after moving it from Camp David due to weather. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 12:29:32 -0400",
-      "age_hours": "0.05",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -441,7 +442,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 27 May 2026 14:51:29 +0000",
-      "age_hours": "1.68",
+      "age_hours": "4.35",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -471,38 +472,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 27 May 2026 12:11:29 +0000",
-      "age_hours": "4.35",
+      "age_hours": "7.02",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "US, Iran have launched multiple attacks during ceasefire: A timeline",
-      "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
-      "snapshot": "Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/fifa-subpoenaed-by-new-york-new-jersey-in-world-cup-ticket-investigation?traffic_source=rss",
+      "snapshot": "US States react following increasing criticism of football's global governing body for the pricing of 2026 World Cup.",
       "key_data": [
-        "Key people or organizations: US, Iran, Washington, Tehran",
-        "Story focus: US, Iran have launched multiple attacks during ceasefire",
-        "Source context: Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet. The geopolitical angle is how the..."
+        "Key people or organizations: FIFA, New York, New Jersey, World Cup",
+        "Specific figures mentioned: 2026",
+        "Story focus: FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation",
+        "Source context: US States react following increasing criticism of football's global governing body for the pricing of 2026 World Cup."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving FIFA.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 27 May 2026 10:47:55 +0000",
-      "age_hours": "5.74",
+      "published": "Wed, 27 May 2026 17:23:24 +0000",
+      "age_hours": "1.82",
       "freshness_status": "fresh",
-      "editorial_score": "68",
-      "urgency": "BREAKING"
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
