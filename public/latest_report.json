@@ -1,24 +1,84 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "House NDAA draft would limit Trump's troop cuts, battleship plans",
-  "snapshot": "A major defense policy bill released by House Republicans Tuesday looks to maintain limits on how many U.S. troops can be moved from Europe and South Korea and bars construction of the first \"Trump-class\" battleship until the Navy can prove it has the technology to make it.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-05-26 08:02:20 PM ET",
-  "generated_at": "2026-05-26 08:02:20 PM ET",
+  "headline": "Biden sues Justice Department to block release of files from biographer interviews",
+  "snapshot": "Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer that later became a central part of a special counsel investigation into his handling of classified documents. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+  "updated_at": "2026-05-27 01:08:23 AM ET",
+  "generated_at": "2026-05-27 01:08:23 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 122,
-    "editor_fresh_items": 140,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 26,
+    "total_items_checked": 146,
+    "live_fresh_items": 95,
+    "editor_fresh_items": 141,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 51,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-26 08:02:20 PM ET"
+    "last_checked": "2026-05-27 01:08:23 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Trump: 'Critically important' CFTC has exclusive authority over prediction markets",
+      "url": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+      "snapshot": "President Trump on Tuesday said it was \"critically important\" for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority over prediction markets, following several lawsuits against states for attempting to either ban or enact regulations for betting... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, Critically, CFTC, President Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump",
+        "Source context: President Trump on Tuesday said it was \"critically important\" for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 26 May 2026 23:54:40 +0000",
+      "age_hours": "5.23",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Biden sues Justice Department to block release of files from biographer interviews",
+      "url": "https://www.cbsnews.com/news/biden-sues-justice-department-to-block-release-of-audio-files-from-biographer-interview/",
+      "snapshot": "Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer that later became a central part of a special counsel investigation into his handling of classified documents. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+      "key_data": [
+        "Key people or organizations: Biden, Justice Department, Former President Joe Biden",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Biden sues Justice Department to block release of files from biographer interviews",
+        "Source context: Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Biden.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 26 May 2026 23:50:46 -0400",
+      "age_hours": "1.29",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "House NDAA draft would limit Trump's troop cuts, battleship plans",
       "url": "https://thehill.com/policy/defense/5896228-ndaa-house-trump-troops-battleship/",
@@ -44,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 26 May 2026 22:06:53 +0000",
-      "age_hours": "1.92",
+      "age_hours": "7.02",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "WATCH"
@@ -74,7 +134,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 26 May 2026 20:33:10 +0000",
-      "age_hours": "3.49",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "DEVELOPING"
@@ -104,51 +164,23 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 26 May 2026 14:27:54 -0400",
-      "age_hours": "5.57",
+      "age_hours": "10.67",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "House Democrats label GOP reconciliation push 'political malpractice'",
-      "url": "https://thehill.com/homenews/campaign/5895184-dccc-democrats-gop-reconciliation-dhs-ice-iran-war/",
-      "snapshot": "The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \"committing political malpractice\" by pushing a bill that would fund federal immigration agencies through the reconciliation process. The DCCC predicted in... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: Biden sues Justice Department to block release of files from biographer interviews",
+      "url": "https://www.cbsnews.com/news/biden-sues-justice-department-to-block-release-of-audio-files-from-biographer-interview/",
+      "snapshot": "Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer that later became a central part of a special counsel investigation into his handling of classified documents. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
       "key_data": [
-        "Key people or organizations: House Democrats, GOP, Committee, DCCC",
-        "Politics desk signal: congress, house, campaign, immigration",
+        "Key people or organizations: Political, Biden, Justice Department, Former President Joe Biden",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House Democrats label GOP reconciliation push 'political malpractice'",
-        "Source context: The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \"committing political..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 26 May 2026 15:34:50 +0000",
-      "age_hours": "8.46",
-      "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": ""
-    },
-    {
-      "headline": "SPLC seeks dismissal of criminal charges, saying prosecution is vindictive",
-      "url": "https://www.cbsnews.com/news/southern-poverty-law-center-seeks-dismissal-criminal-charges-vindictive/",
-      "snapshot": "The Southern Poverty Law Center asked a federal judge to dismiss the criminal charges filed against it by the Justice Department, saying the indictment represents a \"top-down, retributive campaign\" directed by President Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives...",
-      "key_data": [
-        "Key people or organizations: SPLC, Center, Justice Department, President Trump",
-        "Politics desk signal: court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: SPLC seeks dismissal of criminal charges, saying prosecution is vindictive",
-        "Source context: The Southern Poverty Law Center asked a federal judge to dismiss the criminal charges filed against it by the Justice Department, saying the..."
+        "Story focus: Political signal",
+        "Source context: Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -156,21 +188,19 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving SPLC.",
+        "Watch for the next official action involving Political.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 26 May 2026 17:12:55 -0400",
-      "age_hours": "2.82",
+      "published": "Tue, 26 May 2026 23:50:46 -0400",
+      "age_hours": "1.29",
       "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
+      "editorial_score": "142",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Political signal: House NDAA draft would limit Trump's troop cuts, battleship plans",
       "url": "https://thehill.com/policy/defense/5896228-ndaa-house-trump-troops-battleship/",
@@ -196,10 +226,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 26 May 2026 22:06:53 +0000",
-      "age_hours": "1.92",
+      "age_hours": "7.02",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Political signal: Trump",
+      "url": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+      "snapshot": "President Trump on Tuesday said it was \"critically important\" for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority over prediction markets, following several lawsuits against states for attempting to either ban or enact regulations for betting... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Political, Trump, President Trump, Commodity Futures Trading Commission",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: President Trump on Tuesday said it was \"critically important\" for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 26 May 2026 23:54:40 +0000",
+      "age_hours": "5.23",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: South Carolina Senate rejects Trump's call to redraw congressional map",
@@ -226,69 +286,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 26 May 2026 14:27:54 -0400",
-      "age_hours": "5.57",
+      "age_hours": "10.67",
       "freshness_status": "fresh",
       "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: House Democrats label GOP reconciliation push 'political malpractice'",
-      "url": "https://thehill.com/homenews/campaign/5895184-dccc-democrats-gop-reconciliation-dhs-ice-iran-war/",
-      "snapshot": "The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \"committing political malpractice\" by pushing a bill that would fund federal immigration agencies through the reconciliation process. The DCCC predicted in... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Political, House Democrats, GOP, Committee",
-        "Politics desk signal: congress, house, campaign, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \"committing political..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 26 May 2026 15:34:50 +0000",
-      "age_hours": "8.46",
-      "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": ""
-    },
-    {
-      "headline": "Political signal: SPLC seeks dismissal of criminal charges, saying prosecution is vindictive",
-      "url": "https://www.cbsnews.com/news/southern-poverty-law-center-seeks-dismissal-criminal-charges-vindictive/",
-      "snapshot": "The Southern Poverty Law Center asked a federal judge to dismiss the criminal charges filed against it by the Justice Department, saying the indictment represents a \"top-down, retributive campaign\" directed by President Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives...",
-      "key_data": [
-        "Key people or organizations: Political, SPLC, Center, Justice Department",
-        "Politics desk signal: court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The Southern Poverty Law Center asked a federal judge to dismiss the criminal charges filed against it by the Justice Department, saying the..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 26 May 2026 17:12:55 -0400",
-      "age_hours": "2.82",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -316,18 +316,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 26 May 2026 20:33:10 +0000",
-      "age_hours": "3.49",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Biden sues Justice Department to block release of files from biographer interviews",
     "House NDAA draft would limit Trump's troop cuts, battleship plans",
-    "South Carolina Senate rejects Trump's call to redraw congressional map",
-    "House Democrats label GOP reconciliation push 'political malpractice'"
+    "Trump: 'Critically important' CFTC has exclusive authority over prediction markets"
   ],
   "sections": [
+    {
+      "headline": "Biden sues Justice Department to block release of files from biographer interviews",
+      "url": "https://www.cbsnews.com/news/biden-sues-justice-department-to-block-release-of-audio-files-from-biographer-interview/",
+      "snapshot": "Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer that later became a central part of a special counsel investigation into his handling of classified documents. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+      "key_data": [
+        "Key people or organizations: Biden, Justice Department, Former President Joe Biden",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Biden sues Justice Department to block release of files from biographer interviews",
+        "Source context: Former President Joe Biden has sued the Justice Department seeking to block the release of files related to interviews he conducted with a biographer..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Biden.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 26 May 2026 23:50:46 -0400",
+      "age_hours": "1.29",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "House NDAA draft would limit Trump's troop cuts, battleship plans",
       "url": "https://thehill.com/policy/defense/5896228-ndaa-house-trump-troops-battleship/",
@@ -353,10 +383,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 26 May 2026 22:06:53 +0000",
-      "age_hours": "1.92",
+      "age_hours": "7.02",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump: 'Critically important' CFTC has exclusive authority over prediction markets",
+      "url": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+      "snapshot": "President Trump on Tuesday said it was \"critically important\" for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority over prediction markets, following several lawsuits against states for attempting to either ban or enact regulations for betting... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, Critically, CFTC, President Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump",
+        "Source context: President Trump on Tuesday said it was \"critically important\" for the Commodity Futures Trading Commission (CFTC) to maintain exclusive authority..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 26 May 2026 23:54:40 +0000",
+      "age_hours": "5.23",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "South Carolina Senate rejects Trump's call to redraw congressional map",
@@ -383,69 +443,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 26 May 2026 14:27:54 -0400",
-      "age_hours": "5.57",
+      "age_hours": "10.67",
       "freshness_status": "fresh",
       "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "House Democrats label GOP reconciliation push 'political malpractice'",
-      "url": "https://thehill.com/homenews/campaign/5895184-dccc-democrats-gop-reconciliation-dhs-ice-iran-war/",
-      "snapshot": "The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \"committing political malpractice\" by pushing a bill that would fund federal immigration agencies through the reconciliation process. The DCCC predicted in... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: House Democrats, GOP, Committee, DCCC",
-        "Politics desk signal: congress, house, campaign, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House Democrats label GOP reconciliation push 'political malpractice'",
-        "Source context: The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \"committing political..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 26 May 2026 15:34:50 +0000",
-      "age_hours": "8.46",
-      "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": ""
-    },
-    {
-      "headline": "SPLC seeks dismissal of criminal charges, saying prosecution is vindictive",
-      "url": "https://www.cbsnews.com/news/southern-poverty-law-center-seeks-dismissal-criminal-charges-vindictive/",
-      "snapshot": "The Southern Poverty Law Center asked a federal judge to dismiss the criminal charges filed against it by the Justice Department, saying the indictment represents a \"top-down, retributive campaign\" directed by President Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives...",
-      "key_data": [
-        "Key people or organizations: SPLC, Center, Justice Department, President Trump",
-        "Politics desk signal: court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: SPLC seeks dismissal of criminal charges, saying prosecution is vindictive",
-        "Source context: The Southern Poverty Law Center asked a federal judge to dismiss the criminal charges filed against it by the Justice Department, saying the..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving SPLC.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 26 May 2026 17:12:55 -0400",
-      "age_hours": "2.82",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 26 May 2026 20:33:10 +0000",
-      "age_hours": "3.49",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "DEVELOPING"
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 26 May 2026 19:32:41 +0000",
-      "age_hours": "4.49",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
