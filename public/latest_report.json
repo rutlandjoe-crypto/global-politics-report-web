@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Bipartisan group of former judges asks court to investigate Trump's IRS deal",
   "snapshot": "A group of former federal judges on Wednesday asked a federal court to reopen President Trump's lawsuit against the Internal Revenue Service (IRS), arguing that the administration circumvented the court by negotiating a settlement with the president and creating a $1.776... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-05-28 05:48:44 AM ET",
-  "generated_at": "2026-05-28 05:48:44 AM ET",
+  "updated_at": "2026-05-28 09:01:27 AM ET",
+  "generated_at": "2026-05-28 09:01:27 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 39,
-    "editor_fresh_items": 148,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 109,
+    "total_items_checked": 151,
+    "live_fresh_items": 46,
+    "editor_fresh_items": 151,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 105,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-28 05:48:44 AM ET"
+    "last_checked": "2026-05-28 09:01:27 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,21 +44,50 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 28 May 2026 02:32:17 +0000",
-      "age_hours": "7.27",
+      "age_hours": "10.49",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-      "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-      "snapshot": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+      "snapshot": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: US, Palestinian, Francesca Albanese, Trump",
+        "Key people or organizations: Israel, Gaza, Eid, As Muslims",
+        "Politics desk signal: gaza",
+        "Story focus: Israel kills children in strikes on Gaza as fear taints Eid joy",
+        "Source context: As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 28 May 2026 10:47:19 +0000",
+      "age_hours": "2.24",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "'Donald Trump' buffalo in Bangladesh will be spared sacrifice",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/donald-trump-buffalo-in-bangladesh-will-be-spared-sacrifice?traffic_source=rss",
+      "snapshot": "An albino buffalo with a blond forelock has shot to fame in Bangladesh as people say it resembles Donald Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Donald Trump, Bangladesh, An",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US returns Palestinian rights expert Francesca Albanese to sanctions list",
-        "Source context: Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces. The election angle is whether..."
+        "Story focus: 'Donald Trump' buffalo in Bangladesh will be spared sacrifice",
+        "Source context: An albino buffalo with a blond forelock has shot to fame in Bangladesh as people say it resembles Donald Trump. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,17 +95,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Donald Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 00:03:18 +0000",
-      "age_hours": "9.76",
+      "published": "Thu, 28 May 2026 12:40:55 +0000",
+      "age_hours": "0.34",
       "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "84",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,51 +133,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 28 May 2026 01:27:32 +0000",
-      "age_hours": "8.35",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Ken Paxton to face James Talarico in Texas Senate race",
-      "url": "https://www.cbsnews.com/video/ken-paxton-face-james-talarico-texas-senate-race/",
-      "snapshot": "In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month after failing to earn President Trump's endorsement. Ed O'Keefe spoke with Paxton's Democratic opponent, James Talarico. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
+      "headline": "5/27: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/052726-the-takeout-with-major-garrett/",
+      "snapshot": "Takeaways from Texas primary runoffs; Trump paints murky picture of Iran peace talks. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Ken Paxton, James Talarico, Texas Senate, In Texas",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ken Paxton to face James Talarico in Texas Senate race",
-        "Source context: In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ken Paxton.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 19:46:19 -0400",
-      "age_hours": "10.04",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-      "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-      "snapshot": "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, US, Trump, Hormuz",
+        "Key people or organizations: Major Garrett, Takeaways, Texas, Trump",
+        "Specific figures mentioned: 5, 27",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-        "Source context: IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas. The election angle is whether this changes voter..."
+        "Story focus: 5/27"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,18 +155,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Major Garrett.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 07:32:32 +0000",
-      "age_hours": "2.27",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 27 May 2026 22:10:59 -0400",
+      "age_hours": "10.84",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "74",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -196,40 +195,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 28 May 2026 01:27:32 +0000",
-      "age_hours": "8.35",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Political signal: Ken Paxton to face James Talarico in Texas Senate race",
-      "url": "https://www.cbsnews.com/video/ken-paxton-face-james-talarico-texas-senate-race/",
-      "snapshot": "In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month after failing to earn President Trump's endorsement. Ed O'Keefe spoke with Paxton's Democratic opponent, James Talarico. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
-      "key_data": [
-        "Key people or organizations: Political, Ken Paxton, James Talarico, Texas Senate",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 19:46:19 -0400",
-      "age_hours": "10.04",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
     },
     {
       "headline": "Political signal: DOJ launches investigation into Trump accuser E. Jean Carroll",
@@ -256,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 28 May 2026 02:32:17 +0000",
-      "age_hours": "7.27",
+      "age_hours": "10.49",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "DEVELOPING"
@@ -286,21 +255,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 27 May 2026 16:14:08 -0400",
-      "age_hours": "13.58",
+      "age_hours": "16.79",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: US returns Palestinian rights expert Francesca Albanese to sanctions list",
-      "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-      "snapshot": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Political signal: Ken Paxton to face James Talarico in Texas Senate race",
+      "url": "https://www.cbsnews.com/video/ken-paxton-face-james-talarico-texas-senate-race/",
+      "snapshot": "In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month after failing to earn President Trump's endorsement. Ed O'Keefe spoke with Paxton's Democratic opponent, James Talarico. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
       "key_data": [
-        "Key people or organizations: Political, US, Palestinian, Francesca Albanese",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Political, Ken Paxton, James Talarico, Texas Senate",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces. The election angle is whether..."
+        "Source context: In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -313,19 +282,48 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 27 May 2026 19:46:19 -0400",
+      "age_hours": "13.25",
+      "freshness_status": "stale",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Israel kills children in strikes on Gaza as fear taints Eid joy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+      "snapshot": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Political, Israel, Gaza, Eid",
+        "Politics desk signal: gaza",
+        "Story focus: Political signal",
+        "Source context: As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 00:03:18 +0000",
-      "age_hours": "9.76",
+      "published": "Thu, 28 May 2026 10:47:19 +0000",
+      "age_hours": "2.24",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
     "Bipartisan group of former judges asks court to investigate Trump's IRS deal",
-    "Ken Paxton to face James Talarico in Texas Senate race",
-    "DOJ launches investigation into Trump accuser E. Jean Carroll: Reports"
+    "DOJ launches investigation into Trump accuser E. Jean Carroll: Reports",
+    "Israel kills children in strikes on Gaza as fear taints Eid joy"
   ],
   "sections": [
     {
@@ -353,40 +351,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 28 May 2026 01:27:32 +0000",
-      "age_hours": "8.35",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ken Paxton to face James Talarico in Texas Senate race",
-      "url": "https://www.cbsnews.com/video/ken-paxton-face-james-talarico-texas-senate-race/",
-      "snapshot": "In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month after failing to earn President Trump's endorsement. Ed O'Keefe spoke with Paxton's Democratic opponent, James Talarico. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
-      "key_data": [
-        "Key people or organizations: Ken Paxton, James Talarico, Texas Senate, In Texas",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ken Paxton to face James Talarico in Texas Senate race",
-        "Source context: In Texas, the state's Attorney General Ken Paxton ousted four-term Senator John Cornyn, making him the third Republican incumbent to lose this month..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ken Paxton.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 19:46:19 -0400",
-      "age_hours": "10.04",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
     },
     {
       "headline": "DOJ launches investigation into Trump accuser E. Jean Carroll: Reports",
@@ -413,21 +381,50 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 28 May 2026 02:32:17 +0000",
-      "age_hours": "7.27",
+      "age_hours": "10.49",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Paxton projected to win Texas Senate GOP runoff, defeating incumbent Cornyn",
-      "url": "https://www.cbsnews.com/news/texas-senate-gop-runoff-results-paxton-cornyn-trump-talarico/",
-      "snapshot": "President Trump had endorsed Texas Attorney General Ken Paxton in the primary runoff. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+      "snapshot": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Paxton, Texas Senate GOP, Cornyn, President Trump",
-        "Politics desk signal: senate",
+        "Key people or organizations: Israel, Gaza, Eid, As Muslims",
+        "Politics desk signal: gaza",
+        "Story focus: Israel kills children in strikes on Gaza as fear taints Eid joy",
+        "Source context: As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 28 May 2026 10:47:19 +0000",
+      "age_hours": "2.24",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "'Donald Trump' buffalo in Bangladesh will be spared sacrifice",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/donald-trump-buffalo-in-bangladesh-will-be-spared-sacrifice?traffic_source=rss",
+      "snapshot": "An albino buffalo with a blond forelock has shot to fame in Bangladesh as people say it resembles Donald Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Donald Trump, Bangladesh, An",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Paxton projected to win Texas Senate GOP runoff, defeating incumbent Cornyn",
-        "Source context: President Trump had endorsed Texas Attorney General Ken Paxton in the primary runoff. The key question is leverage: the next votes, negotiations and..."
+        "Story focus: 'Donald Trump' buffalo in Bangladesh will be spared sacrifice",
+        "Source context: An albino buffalo with a blond forelock has shot to fame in Bangladesh as people say it resembles Donald Trump. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,29 +432,59 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Paxton.",
+        "Watch for the next official action involving Donald Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 28 May 2026 12:40:55 +0000",
+      "age_hours": "0.34",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "5/27: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/052726-the-takeout-with-major-garrett/",
+      "snapshot": "Takeaways from Texas primary runoffs; Trump paints murky picture of Iran peace talks. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, Takeaways, Texas, Trump",
+        "Specific figures mentioned: 5, 27",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 5/27"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 27 May 2026 20:06:31 -0400",
-      "age_hours": "9.70",
+      "published": "Wed, 27 May 2026 22:10:59 -0400",
+      "age_hours": "10.84",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "74",
       "urgency": ""
     },
     {
-      "headline": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-      "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-      "snapshot": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "5/27: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/052726-cbs-evening-news/",
+      "snapshot": "Latest details on Washington state chemical tank rupture; Trump's optimism on an Iran peace deal seems to waver. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: US, Palestinian, Francesca Albanese, Trump",
+        "Key people or organizations: CBS Evening News, Latest, Washington, Trump",
+        "Specific figures mentioned: 5, 27",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US returns Palestinian rights expert Francesca Albanese to sanctions list",
-        "Source context: Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces. The election angle is whether..."
+        "Story focus: 5/27"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,48 +492,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving CBS Evening News.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 00:03:18 +0000",
-      "age_hours": "9.76",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 27 May 2026 23:00:00 -0400",
+      "age_hours": "10.02",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-      "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-      "snapshot": "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, US, Trump, Hormuz",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-        "Source context: IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas. The election angle is whether this changes voter..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 07:32:32 +0000",
-      "age_hours": "2.27",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "71",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
