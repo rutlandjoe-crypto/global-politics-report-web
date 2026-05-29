@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Democrats argue ballroom construction shouldn't continue without Congress' consent",
-  "snapshot": "Democratic lawmakers argue the Trump administration must get express consent from Congress before continuing construction on the White House ballroom. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-05-29 02:03:30 AM ET",
-  "generated_at": "2026-05-29 02:03:30 AM ET",
+  "headline": "Criminal probe of E. Jean Carroll creates major headache for Senate GOP",
+  "snapshot": "Media reports that the Department of Justice (DOJ) is investigating E. Jean Carroll — who won an $83 million lawsuit against President Trump in 2024 — is creating a major headache for Senate Republicans, who will likely be forced to defend the controversial probe on the Senate... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-05-29 06:38:29 AM ET",
+  "generated_at": "2026-05-29 06:38:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 66,
-    "editor_fresh_items": 146,
+    "live_fresh_items": 45,
+    "editor_fresh_items": 140,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 80,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-29 02:03:30 AM ET"
+    "last_checked": "2026-05-29 06:38:29 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Criminal probe of E. Jean Carroll creates major headache for Senate GOP",
+      "url": "https://thehill.com/homenews/senate/5900370-trump-carroll-investigation-senate-republicans/",
+      "snapshot": "Media reports that the Department of Justice (DOJ) is investigating E. Jean Carroll — who won an $83 million lawsuit against President Trump in 2024 — is creating a major headache for Senate Republicans, who will likely be forced to defend the controversial probe on the Senate... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Criminal, Jean Carroll, Senate GOP, Media",
+        "Specific figures mentioned: $83 million, 2024",
+        "Politics desk signal: senate, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Criminal probe of E. Jean Carroll creates major headache for Senate GOP"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Criminal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "age_hours": "0.64",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "DOJ probing outside funding E. Jean Carroll received for Trump civil lawsuits",
       "url": "https://www.cbsnews.com/news/justice-dept-reid-hoffman-e-jean-carroll-trump-lawsuits/",
@@ -44,81 +74,81 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 28 May 2026 18:48:00 -0400",
-      "age_hours": "7.26",
+      "age_hours": "11.84",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Bessent blasts Washington Post reporting on Trump appearing on $250 banknote",
-      "url": "https://thehill.com/homenews/5900065-trump-bessent-250-bill-treasury-department/",
-      "snapshot": "Treasury Secretary Scott Bessent was the latest host of the White House press briefing, where on Thursday he took aim at reporting from The Washington Post about a planned commemorative $250 bill with President Trump's face on it. \"I don't really understand this Washington... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Ebola, hantavirus outbreaks raise questions about Trump's health agency cuts",
+      "url": "https://www.cbsnews.com/news/ebola-hantavirus-outbreak-trump-health-agency-cuts/",
+      "snapshot": "Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health response. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Bessent, Washington Post, Trump, Treasury Secretary Scott Bessent",
-        "Specific figures mentioned: $250",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent blasts Washington Post reporting on Trump appearing on $250 banknote"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Bessent.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 28 May 2026 20:11:25 +0000",
-      "age_hours": "9.87",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "House Dems seek GAO probe on Trump's disaster declarations after high-profile denials",
-      "url": "https://thehill.com/policy/energy-environment/5900081-trump-fema-disaster-aid-gao/",
-      "snapshot": "A pair of House Democrats is asking a congressional watchdog to probe the Trump administration's disaster declarations after high-profile denials of disaster aid requests. Reps. Bennie Thompson (D-Miss.) and Timothy Kennedy (D-N.Y.) asked the Government Accountability Office... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: House Dems, GAO, Trump, House Democrats",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House Dems seek GAO probe on Trump's disaster declarations after high-profile denials",
-        "Source context: A pair of House Democrats is asking a congressional watchdog to probe the Trump administration's disaster declarations after high-profile denials of..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 28 May 2026 19:59:51 +0000",
-      "age_hours": "10.06",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump administration sues states for denying ICE agents undercover plates",
-      "url": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss",
-      "snapshot": "The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, ICE, Justice",
+        "Key people or organizations: Ebola, Trump, Infectious",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sues states for denying ICE agents undercover plates",
-        "Source context: The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates. The election angle is whether this..."
+        "Story focus: Ebola, hantavirus outbreaks raise questions about Trump's health agency cuts",
+        "Source context: Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ebola.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 29 May 2026 05:00:12 -0400",
+      "age_hours": "1.64",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "How Indian PM Modi's efforts to isolate Pakistan 'backfired'",
+      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "snapshot": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Pakistan, Trump, China, Indian",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How Indian PM Modi's efforts to isolate Pakistan 'backfired'",
+        "Source context: Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Pakistan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 29 May 2026 07:22:06 +0000",
+      "age_hours": "3.27",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump's Hail Mary on Abraham Accords falls flat",
+      "url": "https://thehill.com/policy/international/5900367-abraham-accords-iran-talks-trump/",
+      "snapshot": "President Trump's surprise demand for Gulf and Arab countries to normalize ties with Israel as part of Iran peace talks has run into a complicated reality in the Middle East. Pakistan, which has been mediating talks between the U.S. and Iran, outright rejected the idea of... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Hail Mary, Abraham Accords, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's Hail Mary on Abraham Accords falls flat",
+        "Source context: President Trump's surprise demand for Gulf and Arab countries to normalize ties with Israel as part of Iran peace talks has run into a complicated..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -130,76 +160,46 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 20:03:31 +0000",
-      "age_hours": "10.00",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "age_hours": "0.64",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "91",
       "urgency": ""
-    },
-    {
-      "headline": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-      "snapshot": "Lebanese PM Nawaf Salam says 'nothing can justify' Israel's military onslaught against 'peaceful people' in Lebanon. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Tehran, Trump, Lebanese PM Nawaf Salam",
-        "Specific figures mentioned: 60",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 29 May 2026 00:00:00 +0000",
-      "age_hours": "6.06",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Political signal: Democrats argue ballroom construction shouldn't continue without Congress' consent",
-      "url": "https://www.cbsnews.com/news/congressional-democrats-white-house-ballroom-construction/",
-      "snapshot": "Democratic lawmakers argue the Trump administration must get express consent from Congress before continuing construction on the White House ballroom. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Political signal: Criminal probe of E. Jean Carroll creates major headache for Senate GOP",
+      "url": "https://thehill.com/homenews/senate/5900370-trump-carroll-investigation-senate-republicans/",
+      "snapshot": "Media reports that the Department of Justice (DOJ) is investigating E. Jean Carroll — who won an $83 million lawsuit against President Trump in 2024 — is creating a major headache for Senate Republicans, who will likely be forced to defend the controversial probe on the Senate... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Political, Democrats, Congress, Democratic",
-        "Politics desk signal: congress, house, white house",
+        "Key people or organizations: Political, Criminal, Jean Carroll, Senate GOP",
+        "Specific figures mentioned: $83 million, 2024",
+        "Politics desk signal: senate, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: Democratic lawmakers argue the Trump administration must get express consent from Congress before continuing construction on the White House..."
+        "Story focus: Political signal"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 28 May 2026 16:50:57 -0400",
-      "age_hours": "9.21",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "age_hours": "0.64",
       "freshness_status": "fresh",
-      "editorial_score": "132",
-      "urgency": ""
+      "editorial_score": "141",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Political signal: DOJ probing outside funding E. Jean Carroll received for Trump civil lawsuits",
@@ -226,51 +226,81 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 28 May 2026 18:48:00 -0400",
-      "age_hours": "7.26",
+      "age_hours": "11.84",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: Bessent blasts Washington Post reporting on Trump appearing on $250 banknote",
-      "url": "https://thehill.com/homenews/5900065-trump-bessent-250-bill-treasury-department/",
-      "snapshot": "Treasury Secretary Scott Bessent was the latest host of the White House press briefing, where on Thursday he took aim at reporting from The Washington Post about a planned commemorative $250 bill with President Trump's face on it. \"I don't really understand this Washington... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: Ebola, hantavirus outbreaks raise questions about Trump's health agency cuts",
+      "url": "https://www.cbsnews.com/news/ebola-hantavirus-outbreak-trump-health-agency-cuts/",
+      "snapshot": "Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health response. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Political, Bessent, Washington Post, Trump",
-        "Specific figures mentioned: $250",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Political, Ebola, Trump, Infectious",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Political signal",
+        "Source context: Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Political.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 29 May 2026 05:00:12 -0400",
+      "age_hours": "1.64",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Political signal: Bipartisan group of former judges asks court to investigate Trump's IRS deal",
+      "url": "https://thehill.com/regulation/court-battles/5898575-trump-lawsuit-irs-fund-reopen/",
+      "snapshot": "A group of former federal judges on Wednesday asked a federal court to reopen President Trump's lawsuit against the Internal Revenue Service (IRS), arguing that the administration circumvented the court by negotiating a settlement with the president and creating a $1.776... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Political, Bipartisan, Trump, IRS",
+        "Specific figures mentioned: $1.776",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 28 May 2026 20:11:25 +0000",
-      "age_hours": "9.87",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
+      "published": "Thu, 28 May 2026 01:27:32 +0000",
+      "age_hours": "33.18",
+      "freshness_status": "stale",
+      "editorial_score": "105",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Political signal: House Dems seek GAO probe on Trump's disaster declarations after high-profile denials",
-      "url": "https://thehill.com/policy/energy-environment/5900081-trump-fema-disaster-aid-gao/",
-      "snapshot": "A pair of House Democrats is asking a congressional watchdog to probe the Trump administration's disaster declarations after high-profile denials of disaster aid requests. Reps. Bennie Thompson (D-Miss.) and Timothy Kennedy (D-N.Y.) asked the Government Accountability Office... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Political signal: US Treasury secretary confirms plans for $250 bill featuring Trump's face",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss",
+      "snapshot": "Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Political, House Dems, GAO, Trump",
-        "Politics desk signal: congress, house",
+        "Key people or organizations: Political, US Treasury, Trump, Proposed",
+        "Specific figures mentioned: $250",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Political signal",
-        "Source context: A pair of House Democrats is asking a congressional watchdog to probe the Trump administration's disaster declarations after high-profile denials of..."
+        "Source context: Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century. The key question is leverage: the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -279,84 +309,54 @@
       ],
       "what_to_watch": [
         "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 28 May 2026 19:59:51 +0000",
-      "age_hours": "10.06",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Political signal: Trump administration sues states for denying ICE agents undercover plates",
-      "url": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss",
-      "snapshot": "The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Political, Trump, ICE, Justice",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Political signal",
-        "Source context: The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Political.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 20:03:31 +0000",
-      "age_hours": "10.00",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Democrats argue ballroom construction shouldn't continue without Congress' consent",
-    "DOJ probing outside funding E. Jean Carroll received for Trump civil lawsuits",
-    "Bessent blasts Washington Post reporting on Trump appearing on $250 banknote"
-  ],
-  "sections": [
-    {
-      "headline": "Democrats argue ballroom construction shouldn't continue without Congress' consent",
-      "url": "https://www.cbsnews.com/news/congressional-democrats-white-house-ballroom-construction/",
-      "snapshot": "Democratic lawmakers argue the Trump administration must get express consent from Congress before continuing construction on the White House ballroom. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Democrats, Congress, Democratic, Trump",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats argue ballroom construction shouldn't continue without Congress' consent",
-        "Source context: Democratic lawmakers argue the Trump administration must get express consent from Congress before continuing construction on the White House..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 28 May 2026 16:50:57 -0400",
-      "age_hours": "9.21",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 29 May 2026 02:13:18 +0000",
+      "age_hours": "8.42",
       "freshness_status": "fresh",
-      "editorial_score": "132",
+      "editorial_score": "78",
       "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Criminal probe of E. Jean Carroll creates major headache for Senate GOP",
+    "DOJ probing outside funding E. Jean Carroll received for Trump civil lawsuits",
+    "Ebola, hantavirus outbreaks raise questions about Trump's health agency cuts"
+  ],
+  "sections": [
+    {
+      "headline": "Criminal probe of E. Jean Carroll creates major headache for Senate GOP",
+      "url": "https://thehill.com/homenews/senate/5900370-trump-carroll-investigation-senate-republicans/",
+      "snapshot": "Media reports that the Department of Justice (DOJ) is investigating E. Jean Carroll — who won an $83 million lawsuit against President Trump in 2024 — is creating a major headache for Senate Republicans, who will likely be forced to defend the controversial probe on the Senate... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Criminal, Jean Carroll, Senate GOP, Media",
+        "Specific figures mentioned: $83 million, 2024",
+        "Politics desk signal: senate, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Criminal probe of E. Jean Carroll creates major headache for Senate GOP"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Criminal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "age_hours": "0.64",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "DOJ probing outside funding E. Jean Carroll received for Trump civil lawsuits",
@@ -383,81 +383,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 28 May 2026 18:48:00 -0400",
-      "age_hours": "7.26",
+      "age_hours": "11.84",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Bessent blasts Washington Post reporting on Trump appearing on $250 banknote",
-      "url": "https://thehill.com/homenews/5900065-trump-bessent-250-bill-treasury-department/",
-      "snapshot": "Treasury Secretary Scott Bessent was the latest host of the White House press briefing, where on Thursday he took aim at reporting from The Washington Post about a planned commemorative $250 bill with President Trump's face on it. \"I don't really understand this Washington... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Ebola, hantavirus outbreaks raise questions about Trump's health agency cuts",
+      "url": "https://www.cbsnews.com/news/ebola-hantavirus-outbreak-trump-health-agency-cuts/",
+      "snapshot": "Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health response. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Bessent, Washington Post, Trump, Treasury Secretary Scott Bessent",
-        "Specific figures mentioned: $250",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent blasts Washington Post reporting on Trump appearing on $250 banknote"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Bessent.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 28 May 2026 20:11:25 +0000",
-      "age_hours": "9.87",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "House Dems seek GAO probe on Trump's disaster declarations after high-profile denials",
-      "url": "https://thehill.com/policy/energy-environment/5900081-trump-fema-disaster-aid-gao/",
-      "snapshot": "A pair of House Democrats is asking a congressional watchdog to probe the Trump administration's disaster declarations after high-profile denials of disaster aid requests. Reps. Bennie Thompson (D-Miss.) and Timothy Kennedy (D-N.Y.) asked the Government Accountability Office... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: House Dems, GAO, Trump, House Democrats",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House Dems seek GAO probe on Trump's disaster declarations after high-profile denials",
-        "Source context: A pair of House Democrats is asking a congressional watchdog to probe the Trump administration's disaster declarations after high-profile denials of..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 28 May 2026 19:59:51 +0000",
-      "age_hours": "10.06",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump administration sues states for denying ICE agents undercover plates",
-      "url": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates?traffic_source=rss",
-      "snapshot": "The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, ICE, Justice",
+        "Key people or organizations: Ebola, Trump, Infectious",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sues states for denying ICE agents undercover plates",
-        "Source context: The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates. The election angle is whether this..."
+        "Story focus: Ebola, hantavirus outbreaks raise questions about Trump's health agency cuts",
+        "Source context: Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ebola.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 29 May 2026 05:00:12 -0400",
+      "age_hours": "1.64",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump's Hail Mary on Abraham Accords falls flat",
+      "url": "https://thehill.com/policy/international/5900367-abraham-accords-iran-talks-trump/",
+      "snapshot": "President Trump's surprise demand for Gulf and Arab countries to normalize ties with Israel as part of Iran peace talks has run into a complicated reality in the Middle East. Pakistan, which has been mediating talks between the U.S. and Iran, outright rejected the idea of... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Hail Mary, Abraham Accords, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's Hail Mary on Abraham Accords falls flat",
+        "Source context: President Trump's surprise demand for Gulf and Arab countries to normalize ties with Israel as part of Iran peace talks has run into a complicated..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -469,25 +439,25 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 28 May 2026 20:03:31 +0000",
-      "age_hours": "10.00",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "age_hours": "0.64",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "91",
       "urgency": ""
     },
     {
-      "headline": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-      "snapshot": "Lebanese PM Nawaf Salam says 'nothing can justify' Israel's military onslaught against 'peaceful people' in Lebanon. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "US Treasury secretary confirms plans for $250 bill featuring Trump's face",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss",
+      "snapshot": "Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Iran, Tehran, Trump, Lebanese PM Nawaf Salam",
-        "Specific figures mentioned: 60",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: US Treasury, Trump, Proposed, US",
+        "Specific figures mentioned: $250",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live"
+        "Story focus: US Treasury secretary confirms plans for $250 bill featuring Trump's face",
+        "Source context: Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century. The key question is leverage: the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,18 +465,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving US Treasury.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 29 May 2026 02:13:18 +0000",
+      "age_hours": "8.42",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
+    },
+    {
+      "headline": "How Indian PM Modi's efforts to isolate Pakistan 'backfired'",
+      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "snapshot": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Pakistan, Trump, China, Indian",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How Indian PM Modi's efforts to isolate Pakistan 'backfired'",
+        "Source context: Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Pakistan.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 29 May 2026 00:00:00 +0000",
-      "age_hours": "6.06",
+      "published": "Fri, 29 May 2026 07:22:06 +0000",
+      "age_hours": "3.27",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
+      "editorial_score": "74",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
