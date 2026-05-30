@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump blasts judge over Kennedy Center ruling in angry statement",
   "snapshot": "President Trump said on Friday that a federal judge should be \"ashamed of himself\" for blocking his administration's move to add Trump's name to the Kennedy Center and ruling that board members improperly voted to close the iconic performing arts center for renovations this... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-05-30 12:52:54 PM ET",
-  "generated_at": "2026-05-30 12:52:54 PM ET",
+  "updated_at": "2026-05-30 01:56:43 PM ET",
+  "generated_at": "2026-05-30 01:56:43 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 49,
-    "editor_fresh_items": 136,
+    "live_fresh_items": 53,
+    "editor_fresh_items": 140,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 102,
+    "stale_or_blocked_items": 98,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-30 12:52:54 PM ET"
+    "last_checked": "2026-05-30 01:56:43 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 29 May 2026 10:00:00 +0000",
-      "age_hours": "30.88",
+      "age_hours": "31.94",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -73,39 +73,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 30 May 2026 10:57:48 +0000",
-      "age_hours": "5.92",
+      "age_hours": "6.98",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-      "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows?traffic_source=rss",
-      "snapshot": "Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Ukraine, Russian, Kyiv, Moscow",
-        "Specific figures mentioned: 13, 000",
-        "Politics desk signal: ukraine",
-        "Story focus: Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-        "Source context: Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ukraine.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 30 May 2026 08:54:31 +0000",
-      "age_hours": "7.97",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -133,7 +103,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 30 May 2026 13:59:53 +0000",
-      "age_hours": "2.88",
+      "age_hours": "3.95",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -163,9 +133,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 30 May 2026 07:57:37 -0400",
-      "age_hours": "4.92",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Rubio says Trump envoy Barrack to step down from Syria post",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+      "snapshot": "Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Rubio, Trump, Barrack, Syria",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Rubio says Trump envoy Barrack to step down from Syria post",
+        "Source context: Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Rubio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 30 May 2026 10:34:54 +0000",
+      "age_hours": "7.36",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
@@ -195,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 29 May 2026 10:00:00 +0000",
-      "age_hours": "30.88",
+      "age_hours": "31.94",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -225,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 30 May 2026 13:59:53 +0000",
-      "age_hours": "2.88",
+      "age_hours": "3.95",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -255,7 +255,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 30 May 2026 07:57:37 -0400",
-      "age_hours": "4.92",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -285,7 +285,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 29 May 2026 10:00:12 -0400",
-      "age_hours": "26.88",
+      "age_hours": "27.94",
       "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -314,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 30 May 2026 10:57:48 +0000",
-      "age_hours": "5.92",
+      "age_hours": "6.98",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -323,7 +323,7 @@
   "key_storylines": [
     "Trump blasts judge over Kennedy Center ruling in angry statement",
     "Trump call with Taiwanese president on hold",
-    "Hegseth says Iran blockade 'very much still in place' as Trump mulls deal"
+    "Trump decries 'rigged' court system after Kennedy Center, tariff rulings"
   ],
   "sections": [
     {
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 30 May 2026 13:59:53 +0000",
-      "age_hours": "2.88",
+      "age_hours": "3.95",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -381,40 +381,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 30 May 2026 07:57:37 -0400",
-      "age_hours": "4.92",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Hegseth says Iran blockade 'very much still in place' as Trump mulls deal",
-      "url": "https://thehill.com/policy/international/5902453-pete-hegseth-iran-war-naval-blockade-strait-of-hormuz/",
-      "snapshot": "Defense Secretary Pete Hegseth on Saturday said the U.S. naval blockade in the Strait of Hormuz is \"very much still in place,\" as President Trump weighs a ceasefire extension with Iran that would unlock the critical energy corridor. Hegseth told NewsNation's Kellie Meyer that... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump decries 'rigged' court system after Kennedy Center, tariff rulings",
+      "url": "https://thehill.com/homenews/administration/5902534-donald-trump-criticism-court-system-kennedy-center-tariff-rulings/",
+      "snapshot": "President Trump described the U.S. court system as \"rigged\" on Saturday in the wake of recent decisions blocking a cornerstone of his economic policy agenda and the addition of his name to the renowned Kennedy Center. Trump, in a in a lengthy post on Truth Social, claimed,... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Hegseth, Iran, Trump, Defense Secretary Pete Hegseth",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Kennedy Center, President Trump, Truth Social",
+        "Politics desk signal: court, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hegseth says Iran blockade 'very much still in place' as Trump mulls deal",
-        "Source context: Defense Secretary Pete Hegseth on Saturday said the U.S. naval blockade in the Strait of Hormuz is \"very much still in place,\" as President Trump..."
+        "Story focus: Trump decries 'rigged' court system after Kennedy Center, tariff rulings",
+        "Source context: President Trump described the U.S. court system as \"rigged\" on Saturday in the wake of recent decisions blocking a cornerstone of his economic policy..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Hegseth.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 30 May 2026 15:39:40 +0000",
-      "age_hours": "1.22",
+      "published": "Sat, 30 May 2026 17:34:46 +0000",
+      "age_hours": "0.37",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
+      "editorial_score": "99",
+      "urgency": ""
     },
     {
       "headline": "Israel launches more than 10 strikes across southern Lebanon",
@@ -440,40 +440,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 30 May 2026 10:57:48 +0000",
-      "age_hours": "5.92",
+      "age_hours": "6.98",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-      "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows?traffic_source=rss",
-      "snapshot": "Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Rubio says Trump envoy Barrack to step down from Syria post",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+      "snapshot": "Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Ukraine, Russian, Kyiv, Moscow",
-        "Specific figures mentioned: 13, 000",
-        "Politics desk signal: ukraine",
-        "Story focus: Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-        "Source context: Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks. The geopolitical angle is how the..."
+        "Key people or organizations: Rubio, Trump, Barrack, Syria",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Rubio says Trump envoy Barrack to step down from Syria post",
+        "Source context: Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ukraine.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Rubio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 30 May 2026 08:54:31 +0000",
-      "age_hours": "7.97",
+      "published": "Sat, 30 May 2026 10:34:54 +0000",
+      "age_hours": "7.36",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     },
     {
       "headline": "Criminal probe of E. Jean Carroll creates major headache for Senate GOP",
@@ -500,7 +500,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 29 May 2026 10:00:00 +0000",
-      "age_hours": "30.88",
+      "age_hours": "31.94",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
