@@ -3,50 +3,22 @@
   "vertical": "Politics",
   "headline": "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
   "snapshot": "Senate Democrats are launching a coordinated effort to kill the Trump administration's $1.7+ billion \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-06-01 03:50:30 PM ET",
-  "generated_at": "2026-06-01 03:50:30 PM ET",
+  "updated_at": "2026-06-01 06:29:11 PM ET",
+  "generated_at": "2026-06-01 06:29:11 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 100,
+    "live_fresh_items": 106,
     "editor_fresh_items": 143,
     "public_fallback_items": 145,
-    "stale_or_blocked_items": 46,
+    "stale_or_blocked_items": 40,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-01 03:50:30 PM ET"
+    "last_checked": "2026-06-01 06:29:11 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Israeli strike damages hospital in southern Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
-      "snapshot": "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon, An Israeli, Jabal Amel Hospital",
-        "Story focus: Israeli strike damages hospital in southern Lebanon",
-        "Source context: An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment. The geopolitical angle is how the decision affects..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 01 Jun 2026 18:05:12 +0000",
-      "age_hours": "1.75",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Divided appeals court rules transgender military ban is unconstitutional",
       "url": "https://www.cbsnews.com/news/trump-transgender-military-ban-appeals-court-unconstitutional/",
@@ -71,8 +43,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 14:15:51 -0400",
-      "age_hours": "1.58",
+      "published": "Mon, 01 Jun 2026 18:06:28 -0400",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -101,7 +73,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 01 Jun 2026 16:15:28 +0000",
-      "age_hours": "3.58",
+      "age_hours": "6.23",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
@@ -131,10 +103,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "6.11",
+      "age_hours": "8.75",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump administration walks away from anti-weaponization fund",
+      "url": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
+      "snapshot": "The Trump administration will scrap its nearly $1.8 billion \"anti-weaponization\" fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangement. The move comes after a federal judge in Florida on Friday reopened... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, Congress, Florida",
+        "Specific figures mentioned: $1.8 billion",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration walks away from anti-weaponization fund"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 01 Jun 2026 20:00:40 +0000",
+      "age_hours": "2.47",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Senate GOP divided over budget reconciliation amid Trump pressure",
@@ -161,7 +163,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 01 Jun 2026 13:56:36 +0000",
-      "age_hours": "5.90",
+      "age_hours": "8.54",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -193,10 +195,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "6.11",
+      "age_hours": "8.75",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump administration walks away from anti-weaponization fund",
+      "url": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
+      "snapshot": "The Trump administration will scrap its nearly $1.8 billion \"anti-weaponization\" fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangement. The move comes after a federal judge in Florida on Friday reopened... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, Congress, Florida",
+        "Specific figures mentioned: $1.8 billion",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration walks away from anti-weaponization fund"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 01 Jun 2026 20:00:40 +0000",
+      "age_hours": "2.47",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Senate GOP divided over budget reconciliation amid Trump pressure",
@@ -223,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 01 Jun 2026 13:56:36 +0000",
-      "age_hours": "5.90",
+      "age_hours": "8.54",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -252,41 +284,11 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 14:15:51 -0400",
-      "age_hours": "1.58",
+      "published": "Mon, 01 Jun 2026 18:06:28 -0400",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Thune calls on White House to ditch $1.8B anti-weaponization fund",
-      "url": "https://thehill.com/homenews/senate/5904547-thune-opposes-anti-weaponization-fund/",
-      "snapshot": "Senate Majority Leader John Thune (R-S.D.) told reporters at the Capitol on Monday that his preference would be that the White House shut down the proposed $1.8 billion anti-weaponization fund if Congress is to pass a budget reconciliation package anytime soon. \"I made my... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Thune, White House, Senate Majority Leader John, Capitol",
-        "Specific figures mentioned: $1.8B, $1.8 billion",
-        "Politics desk signal: congress, senate, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Thune calls on White House to ditch $1.8B anti-weaponization fund"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Thune.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 01 Jun 2026 19:30:35 +0000",
-      "age_hours": "0.33",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
     },
     {
       "headline": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
@@ -312,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 01 Jun 2026 16:15:28 +0000",
-      "age_hours": "3.58",
+      "age_hours": "6.23",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
@@ -320,8 +322,8 @@
   ],
   "key_storylines": [
     "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
-    "Senate GOP divided over budget reconciliation amid Trump pressure",
-    "Divided appeals court rules transgender military ban is unconstitutional"
+    "Trump administration walks away from anti-weaponization fund",
+    "Senate GOP divided over budget reconciliation amid Trump pressure"
   ],
   "sections": [
     {
@@ -349,10 +351,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "6.11",
+      "age_hours": "8.75",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump administration walks away from anti-weaponization fund",
+      "url": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
+      "snapshot": "The Trump administration will scrap its nearly $1.8 billion \"anti-weaponization\" fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangement. The move comes after a federal judge in Florida on Friday reopened... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, Congress, Florida",
+        "Specific figures mentioned: $1.8 billion",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration walks away from anti-weaponization fund"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 01 Jun 2026 20:00:40 +0000",
+      "age_hours": "2.47",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Senate GOP divided over budget reconciliation amid Trump pressure",
@@ -379,7 +411,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 01 Jun 2026 13:56:36 +0000",
-      "age_hours": "5.90",
+      "age_hours": "8.54",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -408,41 +440,11 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 14:15:51 -0400",
-      "age_hours": "1.58",
+      "published": "Mon, 01 Jun 2026 18:06:28 -0400",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Thune calls on White House to ditch $1.8B anti-weaponization fund",
-      "url": "https://thehill.com/homenews/senate/5904547-thune-opposes-anti-weaponization-fund/",
-      "snapshot": "Senate Majority Leader John Thune (R-S.D.) told reporters at the Capitol on Monday that his preference would be that the White House shut down the proposed $1.8 billion anti-weaponization fund if Congress is to pass a budget reconciliation package anytime soon. \"I made my... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Thune, White House, Senate Majority Leader John, Capitol",
-        "Specific figures mentioned: $1.8B, $1.8 billion",
-        "Politics desk signal: congress, senate, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Thune calls on White House to ditch $1.8B anti-weaponization fund"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Thune.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 01 Jun 2026 19:30:35 +0000",
-      "age_hours": "0.33",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
     },
     {
       "headline": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
@@ -468,38 +470,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 01 Jun 2026 16:15:28 +0000",
-      "age_hours": "3.58",
+      "age_hours": "6.23",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Israeli strike damages hospital in southern Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
-      "snapshot": "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump halts $1.8bn 'anti-weaponisation' fund amid bipartisan backlash",
+      "url": "https://www.aljazeera.com/news/2026/6/1/trump-halts-1-8bn-anti-weaponisation-fund-amid-bipartisan-backlash?traffic_source=rss",
+      "snapshot": "The announcement comes after Trump met with congressional Republicans over concerns about his settlement with the IRS. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Israeli, Lebanon, An Israeli, Jabal Amel Hospital",
-        "Story focus: Israeli strike damages hospital in southern Lebanon",
-        "Source context: An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment. The geopolitical angle is how the decision affects..."
+        "Key people or organizations: Trump, Republicans, IRS",
+        "Specific figures mentioned: $1, 8",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump halts $1.8bn 'anti-weaponisation' fund amid bipartisan backlash"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 01 Jun 2026 18:05:12 +0000",
-      "age_hours": "1.75",
+      "published": "Mon, 01 Jun 2026 20:07:26 +0000",
+      "age_hours": "2.36",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     }
   ],
   "editorial_brain": {
