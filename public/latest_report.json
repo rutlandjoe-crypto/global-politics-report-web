@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Optimism over US-Iran deal fades; Trump scrambles to secure Lebanon truce",
-  "snapshot": "The optimism that President Trump projected last week toward securing a deal with Iran to reopen the Strait of Hormuz has quickly faded, with Tehran on Monday suspending talks in protest of Israel's punishing strikes on Lebanon. Trump sent varying messages as he scrambled... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-  "updated_at": "2026-06-01 08:04:47 PM ET",
-  "generated_at": "2026-06-01 08:04:47 PM ET",
+  "headline": "Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+  "snapshot": "Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military ban to the Supreme Court. Earlier in the day, a divided federal appeals court panel ruled that the Trump administration, under a... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-06-02 01:21:23 AM ET",
+  "generated_at": "2026-06-02 01:21:23 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 145,
-    "live_fresh_items": 107,
+    "live_fresh_items": 73,
     "editor_fresh_items": 144,
-    "public_fallback_items": 144,
-    "stale_or_blocked_items": 38,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 72,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-01 08:04:47 PM ET"
+    "last_checked": "2026-06-02 01:21:23 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 01 Jun 2026 22:34:35 +0000",
-      "age_hours": "1.50",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "125",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+      "url": "https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/",
+      "snapshot": "Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military ban to the Supreme Court. Earlier in the day, a divided federal appeals court panel ruled that the Trump administration, under a... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Hegseth, SCOTUS, Trump, Defense Secretary Pete Hegseth",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+        "Source context: Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hegseth.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 02 Jun 2026 02:49:06 +0000",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 01 Jun 2026 18:06:28 -0400",
-      "age_hours": "1.97",
+      "age_hours": "7.25",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -104,21 +134,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 01 Jun 2026 23:22:10 +0000",
-      "age_hours": "0.71",
+      "age_hours": "5.99",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
-      "url": "https://www.cbsnews.com/news/anti-weaponization-fund-senate-democrats-campaign-kill-it/",
-      "snapshot": "Senate Democrats are launching a coordinated effort to kill the Trump administration's $1.7+ billion \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "President Trump attempts to end hostilities in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
+      "snapshot": "US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Senate Democrats, DOJ, Trump",
-        "Specific figures mentioned: $1.7",
-        "Politics desk signal: senate, campaign",
+        "Key people or organizations: President Trump, Lebanon, US President Trump, Israeli PM",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund"
+        "Story focus: President Trump attempts to end hostilities in Lebanon",
+        "Source context: US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -126,52 +156,52 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate Democrats.",
+        "Watch for the next official action involving President Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "10.35",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 02 Jun 2026 01:48:49 +0000",
+      "age_hours": "3.54",
       "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration walks away from anti-weaponization fund",
-      "url": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
-      "snapshot": "The Trump administration will scrap its nearly $1.8 billion \"anti-weaponization\" fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangement. The move comes after a federal judge in Florida on Friday reopened... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Congress, Florida",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: congress, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration walks away from anti-weaponization fund"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 01 Jun 2026 20:00:40 +0000",
-      "age_hours": "4.07",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
     {
+      "headline": "Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+      "url": "https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/",
+      "snapshot": "Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military ban to the Supreme Court. Earlier in the day, a divided federal appeals court panel ruled that the Trump administration, under a... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Hegseth, SCOTUS, Trump, Defense Secretary Pete Hegseth",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+        "Source context: Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hegseth.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 02 Jun 2026 02:49:06 +0000",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Optimism over US-Iran deal fades; Trump scrambles to secure Lebanon truce",
       "url": "https://thehill.com/homenews/administration/5904862-trump-iran-deal-fades-lebanon/",
       "snapshot": "The optimism that President Trump projected last week toward securing a deal with Iran to reopen the Strait of Hormuz has quickly faded, with Tehran on Monday suspending talks in protest of Israel's punishing strikes on Lebanon. Trump sent varying messages as he scrambled... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
@@ -196,70 +226,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 01 Jun 2026 22:34:35 +0000",
-      "age_hours": "1.50",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "125",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
-      "url": "https://www.cbsnews.com/news/anti-weaponization-fund-senate-democrats-campaign-kill-it/",
-      "snapshot": "Senate Democrats are launching a coordinated effort to kill the Trump administration's $1.7+ billion \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate Democrats, DOJ, Trump",
-        "Specific figures mentioned: $1.7",
-        "Politics desk signal: senate, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "10.35",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration walks away from anti-weaponization fund",
-      "url": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
-      "snapshot": "The Trump administration will scrap its nearly $1.8 billion \"anti-weaponization\" fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangement. The move comes after a federal judge in Florida on Friday reopened... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Congress, Florida",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: congress, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration walks away from anti-weaponization fund"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 01 Jun 2026 20:00:40 +0000",
-      "age_hours": "4.07",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
     },
     {
       "headline": "Divided appeals court rules transgender military ban is unconstitutional",
@@ -286,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 01 Jun 2026 18:06:28 -0400",
-      "age_hours": "1.97",
+      "age_hours": "7.25",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -316,18 +286,78 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 01 Jun 2026 23:22:10 +0000",
-      "age_hours": "0.71",
+      "age_hours": "5.99",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "President Trump attempts to end hostilities in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
+      "snapshot": "US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: President Trump, Lebanon, US President Trump, Israeli PM",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: President Trump attempts to end hostilities in Lebanon",
+        "Source context: US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving President Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 02 Jun 2026 01:48:49 +0000",
+      "age_hours": "3.54",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
     "Optimism over US-Iran deal fades; Trump scrambles to secure Lebanon truce",
-    "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
-    "Trump administration walks away from anti-weaponization fund"
+    "Divided appeals court rules transgender military ban is unconstitutional"
   ],
   "sections": [
+    {
+      "headline": "Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+      "url": "https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/",
+      "snapshot": "Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military ban to the Supreme Court. Earlier in the day, a divided federal appeals court panel ruled that the Trump administration, under a... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Hegseth, SCOTUS, Trump, Defense Secretary Pete Hegseth",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Hegseth says 'see you at SCOTUS' after appeals court rules Trump admin illegally banned active transgender troops",
+        "Source context: Defense Secretary Pete Hegseth on Monday indicated that he is willing to take a federal appeals court decision restricting his transgender military..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hegseth.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 02 Jun 2026 02:49:06 +0000",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Optimism over US-Iran deal fades; Trump scrambles to secure Lebanon truce",
       "url": "https://thehill.com/homenews/administration/5904862-trump-iran-deal-fades-lebanon/",
@@ -353,70 +383,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 01 Jun 2026 22:34:35 +0000",
-      "age_hours": "1.50",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "125",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
-      "url": "https://www.cbsnews.com/news/anti-weaponization-fund-senate-democrats-campaign-kill-it/",
-      "snapshot": "Senate Democrats are launching a coordinated effort to kill the Trump administration's $1.7+ billion \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate Democrats, DOJ, Trump",
-        "Specific figures mentioned: $1.7",
-        "Politics desk signal: senate, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "10.35",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration walks away from anti-weaponization fund",
-      "url": "https://thehill.com/homenews/administration/5904594-trump-administration-scraps-anti-weaponization-fund/",
-      "snapshot": "The Trump administration will scrap its nearly $1.8 billion \"anti-weaponization\" fund amid pushback from GOP members of Congress and a lingering court battle demanding an explanation for the arrangement. The move comes after a federal judge in Florida on Friday reopened... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Congress, Florida",
-        "Specific figures mentioned: $1.8 billion",
-        "Politics desk signal: congress, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration walks away from anti-weaponization fund"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 01 Jun 2026 20:00:40 +0000",
-      "age_hours": "4.07",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
     },
     {
       "headline": "Divided appeals court rules transgender military ban is unconstitutional",
@@ -443,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 01 Jun 2026 18:06:28 -0400",
-      "age_hours": "1.97",
+      "age_hours": "7.25",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -473,21 +443,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 01 Jun 2026 23:22:10 +0000",
-      "age_hours": "0.71",
+      "age_hours": "5.99",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump halts $1.8bn 'anti-weaponisation' fund amid bipartisan backlash",
-      "url": "https://www.aljazeera.com/news/2026/6/1/trump-halts-1-8bn-anti-weaponisation-fund-amid-bipartisan-backlash?traffic_source=rss",
-      "snapshot": "The announcement comes after Trump met with congressional Republicans over concerns about his settlement with the IRS. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "President Trump attempts to end hostilities in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
+      "snapshot": "US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Republicans, IRS",
-        "Specific figures mentioned: $1, 8",
-        "Politics desk signal: congress",
+        "Key people or organizations: President Trump, Lebanon, US President Trump, Israeli PM",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump halts $1.8bn 'anti-weaponisation' fund amid bipartisan backlash"
+        "Story focus: President Trump attempts to end hostilities in Lebanon",
+        "Source context: US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +465,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving President Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 02 Jun 2026 01:48:49 +0000",
+      "age_hours": "3.54",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Sexting scandal latest controversy for Democratic Senate candidate Graham Platner",
+      "url": "https://www.cbsnews.com/video/sexting-scandal-latest-controversy-for-democratic-senate-candidate-graham-platner/",
+      "snapshot": "The likely Democratic nominee for Senate in Maine, Graham Platner, is under fire after he sent sexually explicit text messages to at least half a dozen women after he got married in 2023. Caitlin Huey-Burns reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Sexting, Democratic Senate, Graham Platner, Democratic",
+        "Specific figures mentioned: 2023",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Sexting scandal latest controversy for Democratic Senate candidate Graham Platner"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Sexting.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 01 Jun 2026 20:07:26 +0000",
-      "age_hours": "3.96",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 01 Jun 2026 20:19:50 -0400",
+      "age_hours": "5.03",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "92",
       "urgency": ""
     }
   ],
