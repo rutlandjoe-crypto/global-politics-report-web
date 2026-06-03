@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Watch live: Mullin testifies before Senate on DHS budget amid GOP reconciliation battle",
   "snapshot": "Department of Homeland Security Secretary Markwayne Mullin will testify before the Senate Appropriations Committee on President Trump's fiscal 2027 budget request as GOP lawmakers eye a reconciliation bill to fund DHS. Senate Republicans hit a roadblock on advancing the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-02 06:55:11 PM ET",
-  "generated_at": "2026-06-02 06:55:11 PM ET",
+  "updated_at": "2026-06-02 08:23:18 PM ET",
+  "generated_at": "2026-06-02 08:23:18 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 137,
-    "live_fresh_items": 116,
-    "editor_fresh_items": 133,
-    "public_fallback_items": 137,
-    "stale_or_blocked_items": 21,
+    "total_items_checked": 138,
+    "live_fresh_items": 120,
+    "editor_fresh_items": 136,
+    "public_fallback_items": 138,
+    "stale_or_blocked_items": 18,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-02 06:55:11 PM ET"
+    "last_checked": "2026-06-02 08:23:18 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 02 Jun 2026 17:19:52 +0000",
-      "age_hours": "5.59",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 02 Jun 2026 12:52:02 -0400",
-      "age_hours": "6.05",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": "WATCH"
@@ -104,21 +104,50 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 02 Jun 2026 17:44:00 +0000",
-      "age_hours": "5.19",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
     },
     {
-      "headline": "Trump administration scrapping $1.8bn 'anti-weaponisation fund'",
+      "headline": "Trump's appointment of housing chief as intelligence director raises eyebrows from both parties",
+      "url": "https://www.cbsnews.com/video/trumps-appointment-housing-chief-intelligence-director-raises-eyebrows-both-parties/",
+      "snapshot": "President Trump appointed a new intelligence chief. Bill Pulte will serve as acting Director of National Intelligence, overseeing a major wartime role. But the appointment has raised questions from both parties. Ed O'Keefe has the details. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Bill Pulte, Director",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's appointment of housing chief as intelligence director raises eyebrows from both parties",
+        "Source context: President Trump appointed a new intelligence chief. Bill Pulte will serve as acting Director of National Intelligence, overseeing a major wartime..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 02 Jun 2026 19:48:44 -0400",
+      "age_hours": "0.58",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump administration scraps $1.8bn 'anti-weaponisation fund'",
       "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "snapshot": "US Justice Department agreement with president to bar future audits of his or his family's past tax records will remain. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "US Justice Department, however, plans to keep a settlement provision to bar audits of Trump's past tax records. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
         "Key people or organizations: Trump, US Justice Department",
         "Specific figures mentioned: $1, 8",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration scrapping $1.8bn 'anti-weaponisation fund'"
+        "Story focus: Trump administration scraps $1.8bn 'anti-weaponisation fund'"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -134,39 +163,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 02 Jun 2026 21:44:08 +0000",
-      "age_hours": "1.18",
+      "age_hours": "2.65",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP Rep. Kean returning to in-person work in \"matter of weeks\" after absence",
-      "url": "https://www.cbsnews.com/news/tom-kean-absent-washington-return-to-work-within-weeks/",
-      "snapshot": "The New Jersey congressman last voted on March 5. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: GOP Rep, Kean, March",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP Rep. Kean returning to in-person work in \"matter of weeks\" after absence"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP Rep.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 02 Jun 2026 17:32:26 -0400",
-      "age_hours": "1.38",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "86",
       "urgency": ""
     }
   ],
@@ -196,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 02 Jun 2026 17:44:00 +0000",
-      "age_hours": "5.19",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -226,10 +225,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 02 Jun 2026 17:19:52 +0000",
-      "age_hours": "5.59",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump's appointment of housing chief as intelligence director raises eyebrows from both parties",
+      "url": "https://www.cbsnews.com/video/trumps-appointment-housing-chief-intelligence-director-raises-eyebrows-both-parties/",
+      "snapshot": "President Trump appointed a new intelligence chief. Bill Pulte will serve as acting Director of National Intelligence, overseeing a major wartime role. But the appointment has raised questions from both parties. Ed O'Keefe has the details. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Bill Pulte, Director",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's appointment of housing chief as intelligence director raises eyebrows from both parties",
+        "Source context: President Trump appointed a new intelligence chief. Bill Pulte will serve as acting Director of National Intelligence, overseeing a major wartime..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 02 Jun 2026 19:48:44 -0400",
+      "age_hours": "0.58",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
       "headline": "Trump signs AI executive order to give government early look at new models",
@@ -256,51 +284,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 02 Jun 2026 12:52:02 -0400",
-      "age_hours": "6.05",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": "WATCH"
     },
     {
-      "headline": "Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund",
-      "url": "https://www.cbsnews.com/news/anti-weaponization-fund-senate-democrats-campaign-kill-it/",
-      "snapshot": "Senate Democrats are launching a coordinated effort to kill the Trump administration's $1.7+ billion \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate Democrats, DOJ, Trump",
-        "Specific figures mentioned: $1.7",
-        "Politics desk signal: senate, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Democrats launch campaign to kill DOJ's \"anti-weaponization\" fund"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 01 Jun 2026 09:44:00 -0400",
-      "age_hours": "33.19",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration scrapping $1.8bn 'anti-weaponisation fund'",
+      "headline": "Trump administration scraps $1.8bn 'anti-weaponisation fund'",
       "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "snapshot": "US Justice Department agreement with president to bar future audits of his or his family's past tax records will remain. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "US Justice Department, however, plans to keep a settlement provision to bar audits of Trump's past tax records. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
         "Key people or organizations: Trump, US Justice Department",
         "Specific figures mentioned: $1, 8",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration scrapping $1.8bn 'anti-weaponisation fund'"
+        "Story focus: Trump administration scraps $1.8bn 'anti-weaponisation fund'"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -316,16 +314,16 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 02 Jun 2026 21:44:08 +0000",
-      "age_hours": "1.18",
+      "age_hours": "2.65",
       "freshness_status": "fresh",
-      "editorial_score": "94",
+      "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Watch live: Mullin testifies before Senate on DHS budget amid GOP reconciliation battle",
     "Jill Biden says her husband 'would have' beaten Trump in 2024 election",
-    "Trump signs AI executive order to give government early look at new models"
+    "Trump's appointment of housing chief as intelligence director raises eyebrows from both parties"
   ],
   "sections": [
     {
@@ -353,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 02 Jun 2026 17:44:00 +0000",
-      "age_hours": "5.19",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -383,10 +381,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 02 Jun 2026 17:19:52 +0000",
-      "age_hours": "5.59",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump's appointment of housing chief as intelligence director raises eyebrows from both parties",
+      "url": "https://www.cbsnews.com/video/trumps-appointment-housing-chief-intelligence-director-raises-eyebrows-both-parties/",
+      "snapshot": "President Trump appointed a new intelligence chief. Bill Pulte will serve as acting Director of National Intelligence, overseeing a major wartime role. But the appointment has raised questions from both parties. Ed O'Keefe has the details. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Bill Pulte, Director",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's appointment of housing chief as intelligence director raises eyebrows from both parties",
+        "Source context: President Trump appointed a new intelligence chief. Bill Pulte will serve as acting Director of National Intelligence, overseeing a major wartime..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 02 Jun 2026 19:48:44 -0400",
+      "age_hours": "0.58",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
       "headline": "Trump signs AI executive order to give government early look at new models",
@@ -413,21 +440,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 02 Jun 2026 12:52:02 -0400",
-      "age_hours": "6.05",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump administration scrapping $1.8bn 'anti-weaponisation fund'",
+      "headline": "Trump administration scraps $1.8bn 'anti-weaponisation fund'",
       "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "snapshot": "US Justice Department agreement with president to bar future audits of his or his family's past tax records will remain. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "US Justice Department, however, plans to keep a settlement provision to bar audits of Trump's past tax records. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
         "Key people or organizations: Trump, US Justice Department",
         "Specific figures mentioned: $1, 8",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration scrapping $1.8bn 'anti-weaponisation fund'"
+        "Story focus: Trump administration scraps $1.8bn 'anti-weaponisation fund'"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -443,39 +470,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 02 Jun 2026 21:44:08 +0000",
-      "age_hours": "1.18",
+      "age_hours": "2.65",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP Rep. Kean returning to in-person work in \"matter of weeks\" after absence",
-      "url": "https://www.cbsnews.com/news/tom-kean-absent-washington-return-to-work-within-weeks/",
-      "snapshot": "The New Jersey congressman last voted on March 5. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: GOP Rep, Kean, March",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP Rep. Kean returning to in-person work in \"matter of weeks\" after absence"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP Rep.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 02 Jun 2026 17:32:26 -0400",
-      "age_hours": "1.38",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -503,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 02 Jun 2026 18:47:16 +0000",
-      "age_hours": "4.13",
+      "age_hours": "5.60",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
