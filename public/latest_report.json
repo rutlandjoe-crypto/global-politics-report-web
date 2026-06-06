@@ -3,30 +3,32 @@
   "vertical": "Politics",
   "headline": "Tensions grow between Trump and Senate GOP: Five takeaways",
   "snapshot": "Tensions are rising between President Trump and Senate Republicans, and their disagreements spilled into public view this week when GOP senators repeatedly used amendment votes on a $70 billion budget reconciliation bill to create distance from the president. Three Republican... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-06-06 10:22:53 AM ET",
-  "generated_at": "2026-06-06 10:22:53 AM ET",
+  "updated_at": "2026-06-06 12:00:07 PM ET",
+  "generated_at": "2026-06-06 12:00:07 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 41,
-    "editor_fresh_items": 126,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 104,
+    "total_items_checked": 146,
+    "live_fresh_items": 43,
+    "editor_fresh_items": 131,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 103,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-06 10:22:53 AM ET"
+    "last_checked": "2026-06-06 12:00:07 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
-      "snapshot": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Israeli strike kills at least six people at wedding in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "snapshot": "At least 15 people have been injured in the attack, according to local medical sources. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: US, Iranian, Israel, Lebanon",
-        "Story focus: US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-        "Source context: US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The geopolitical angle is how the decision affects alliances,..."
+        "Key people or organizations: Israeli, Gaza, At",
+        "Specific figures mentioned: 15",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli strike kills at least six people at wedding in Gaza",
+        "Source context: At least 15 people have been injured in the attack, according to local medical sources. The geopolitical angle is how the decision affects alliances,..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -34,47 +36,17 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 06 Jun 2026 07:51:28 +0000",
-      "age_hours": "6.52",
+      "published": "Sat, 06 Jun 2026 14:38:50 +0000",
+      "age_hours": "1.35",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Senate passes bill to fund ICE for 3 years, without DOJ fund ban",
-      "url": "https://www.cbsnews.com/news/senate-vote-a-rama-ice-funding-reconciliation/",
-      "snapshot": "Senate Republicans passed funding for the Department of Homeland Security's immigration enforcement agencies following a \"vote-a-rama.\" The measure didn't ban the administration's \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate, ICE, DOJ, Senate Republicans",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: senate, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate passes bill to fund ICE for 3 years, without DOJ fund ban"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 05 Jun 2026 10:03:03 -0400",
-      "age_hours": "24.33",
-      "freshness_status": "stale",
-      "editorial_score": "116",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,7 +74,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 06 Jun 2026 10:52:07 +0000",
-      "age_hours": "3.51",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -132,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 10:00:00 +0000",
-      "age_hours": "4.38",
+      "age_hours": "6.00",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -162,9 +134,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 12:08:07 +0000",
-      "age_hours": "2.25",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump announces TrumpRx expansion, adding 160 more drugs",
+      "url": "https://thehill.com/policy/healthcare/5913129-donald-trump-trumprx-expansion-160-drugs/",
+      "snapshot": "President Trump on Friday announced that over 100 prescription medications would be added to his administration's direct-to-consumer drug platform, TrumpRx, the second expansion of the initiative in as many months. \"I am pleased to announce that TrumpRx.gov is adding another... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, TrumpRx, President Trump",
+        "Specific figures mentioned: 160, 100",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump announces TrumpRx expansion, adding 160 more drugs"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 06 Jun 2026 13:01:30 +0000",
+      "age_hours": "2.98",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
       "urgency": ""
     }
   ],
@@ -194,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 10:00:00 +0000",
-      "age_hours": "4.38",
+      "age_hours": "6.00",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -224,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 05 Jun 2026 10:03:03 -0400",
-      "age_hours": "24.33",
+      "age_hours": "25.95",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -254,49 +256,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 12:08:07 +0000",
-      "age_hours": "2.25",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
-      "snapshot": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Senate fails to extend key surveillance program as deadline nears",
+      "url": "https://www.cbsnews.com/news/senate-fisa-vote-extension/",
+      "snapshot": "A procedural vote failed in the Senate early Friday, and a provision of the spy powers law is set to expire June 12. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: US, Iranian, Israel, Lebanon",
-        "Story focus: US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-        "Source context: US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The geopolitical angle is how the decision affects alliances,..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 06 Jun 2026 07:51:28 +0000",
-      "age_hours": "6.52",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Graham Platner faces another controversy days ahead of Maine Senate primary",
-      "url": "https://www.cbsnews.com/news/graham-platner-faces-another-controversy-days-ahead-of-maine-senate-primary/",
-      "snapshot": "This week, the New York Times reported allegations of Platner's \"unsettling\" behavior toward women he dated, including one claim that he was physically abusive, which Platner denies. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Graham Platner, Maine Senate, New York Times, Platner",
+        "Key people or organizations: Senate, June",
+        "Specific figures mentioned: 12",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Graham Platner faces another controversy days ahead of Maine Senate primary",
-        "Source context: This week, the New York Times reported allegations of Platner's \"unsettling\" behavior toward women he dated, including one claim that he was..."
+        "Story focus: Senate fails to extend key surveillance program as deadline nears"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -304,24 +278,54 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Graham Platner.",
+        "Watch for the next official action involving Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 05 Jun 2026 22:33:20 -0400",
-      "age_hours": "11.83",
-      "freshness_status": "fresh",
+      "published": "Fri, 05 Jun 2026 12:55:57 -0400",
+      "age_hours": "23.07",
+      "freshness_status": "stale",
       "editorial_score": "84",
-      "urgency": ""
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Israeli strike kills at least six people at wedding in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "snapshot": "At least 15 people have been injured in the attack, according to local medical sources. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Gaza, At",
+        "Specific figures mentioned: 15",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli strike kills at least six people at wedding in Gaza",
+        "Source context: At least 15 people have been injured in the attack, according to local medical sources. The geopolitical angle is how the decision affects alliances,..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 06 Jun 2026 14:38:50 +0000",
+      "age_hours": "1.35",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Tensions grow between Trump and Senate GOP: Five takeaways",
     "Cornyn signals Trump highway bill may not be priority after primary loss",
-    "US intercepts Iranian attacks as Israel continues to bomb Lebanon"
+    "Israeli strike kills at least six people at wedding in Gaza"
   ],
   "sections": [
     {
@@ -349,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 10:00:00 +0000",
-      "age_hours": "4.38",
+      "age_hours": "6.00",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -379,19 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 12:08:07 +0000",
-      "age_hours": "2.25",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
-      "snapshot": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Israeli strike kills at least six people at wedding in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "snapshot": "At least 15 people have been injured in the attack, according to local medical sources. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: US, Iranian, Israel, Lebanon",
-        "Story focus: US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-        "Source context: US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The geopolitical angle is how the decision affects alliances,..."
+        "Key people or organizations: Israeli, Gaza, At",
+        "Specific figures mentioned: 15",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli strike kills at least six people at wedding in Gaza",
+        "Source context: At least 15 people have been injured in the attack, according to local medical sources. The geopolitical angle is how the decision affects alliances,..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -399,48 +405,18 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 06 Jun 2026 07:51:28 +0000",
-      "age_hours": "6.52",
+      "published": "Sat, 06 Jun 2026 14:38:50 +0000",
+      "age_hours": "1.35",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Graham Platner faces another controversy days ahead of Maine Senate primary",
-      "url": "https://www.cbsnews.com/news/graham-platner-faces-another-controversy-days-ahead-of-maine-senate-primary/",
-      "snapshot": "This week, the New York Times reported allegations of Platner's \"unsettling\" behavior toward women he dated, including one claim that he was physically abusive, which Platner denies. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Graham Platner, Maine Senate, New York Times, Platner",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Graham Platner faces another controversy days ahead of Maine Senate primary",
-        "Source context: This week, the New York Times reported allegations of Platner's \"unsettling\" behavior toward women he dated, including one claim that he was..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Graham Platner.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 05 Jun 2026 22:33:20 -0400",
-      "age_hours": "11.83",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
@@ -467,21 +443,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 06 Jun 2026 10:52:07 +0000",
-      "age_hours": "3.51",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate passes bill to fund ICE for 3 years, without DOJ fund ban",
-      "url": "https://www.cbsnews.com/news/senate-vote-a-rama-ice-funding-reconciliation/",
-      "snapshot": "Senate Republicans passed funding for the Department of Homeland Security's immigration enforcement agencies following a \"vote-a-rama.\" The measure didn't ban the administration's \"anti-weaponization\" fund. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump announces TrumpRx expansion, adding 160 more drugs",
+      "url": "https://thehill.com/policy/healthcare/5913129-donald-trump-trumprx-expansion-160-drugs/",
+      "snapshot": "President Trump on Friday announced that over 100 prescription medications would be added to his administration's direct-to-consumer drug platform, TrumpRx, the second expansion of the initiative in as many months. \"I am pleased to announce that TrumpRx.gov is adding another... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Senate, ICE, DOJ, Senate Republicans",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: senate, immigration",
+        "Key people or organizations: Trump, TrumpRx, President Trump",
+        "Specific figures mentioned: 160, 100",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate passes bill to fund ICE for 3 years, without DOJ fund ban"
+        "Story focus: Trump announces TrumpRx expansion, adding 160 more drugs"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -489,18 +465,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 05 Jun 2026 10:03:03 -0400",
-      "age_hours": "24.33",
-      "freshness_status": "stale",
-      "editorial_score": "116",
-      "urgency": "DEVELOPING"
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 06 Jun 2026 13:01:30 +0000",
+      "age_hours": "2.98",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump's DC beautification fixation worries some Republicans as midterms loom",
+      "url": "https://thehill.com/homenews/campaign/5912744-trump-dc-beautification-midterms/",
+      "snapshot": "President Trump's focus on repair and beautification projects around Washington, D.C., risks backfiring on Republicans ahead of the midterms as the issue of affordability takes center stage across the country. Just this week, Trump began an unrelated executive order signing... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, DC, Republicans, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's DC beautification fixation worries some Republicans as midterms loom",
+        "Source context: President Trump's focus on repair and beautification projects around Washington, D.C., risks backfiring on Republicans ahead of the midterms as the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 06 Jun 2026 10:00:00 +0000",
+      "age_hours": "6.00",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
