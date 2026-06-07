@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Senate fails to extend key surveillance program as deadline nears",
   "snapshot": "A procedural vote failed in the Senate early Friday, and a provision of the spy powers law is set to expire June 12. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-06-06 07:53:43 PM ET",
-  "generated_at": "2026-06-06 07:53:43 PM ET",
+  "updated_at": "2026-06-06 10:02:59 PM ET",
+  "generated_at": "2026-06-06 10:02:59 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 55,
-    "editor_fresh_items": 136,
+    "live_fresh_items": 49,
+    "editor_fresh_items": 127,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 93,
+    "stale_or_blocked_items": 99,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-06 07:53:43 PM ET"
+    "last_checked": "2026-06-06 10:02:59 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 06 Jun 2026 20:55:31 +0000",
-      "age_hours": "2.97",
+      "age_hours": "5.12",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": "BREAKING"
@@ -72,19 +72,19 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 06 Jun 2026 17:53:41 -0400",
-      "age_hours": "2.00",
+      "age_hours": "4.15",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-      "snapshot": "A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+      "snapshot": "Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Palestinian, Israeli, West Bank, Hebron",
-        "Story focus: Palestinian father buries baby killed by Israeli gunfire in West Bank",
-        "Source context: A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire The geopolitical angle is how the..."
+        "Key people or organizations: Iran, Israel, Lebanon, Pakistan",
+        "Story focus: Iran war live",
+        "Source context: Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait. The geopolitical angle is how..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -92,18 +92,48 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Palestinian.",
+        "Watch for the next official action involving Iran.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 06 Jun 2026 19:38:13 +0000",
-      "age_hours": "4.26",
+      "published": "Sun, 07 Jun 2026 00:00:00 +0000",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "66",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
+      "snapshot": "President Trump is sitting down for an interview Sunday on NBC's \"Meet the Press\" following a turbulent week marked by new lows in his approval ratings and growing tensions with Senate Republicans that have spilled into public view. As midterm elections loom, the president has... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, President Trump, NBC",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Sunday shows preview",
+        "Source context: President Trump is sitting down for an interview Sunday on NBC's \"Meet the Press\" following a turbulent week marked by new lows in his approval..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 06 Jun 2026 23:31:40 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Trump pardons ex-GOP lawmaker convicted in insider trading scheme",
@@ -130,39 +160,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 16:48:55 +0000",
-      "age_hours": "7.08",
+      "age_hours": "9.23",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Cornyn signals Trump highway bill may not be priority after primary loss",
-      "url": "https://thehill.com/homenews/state-watch/5913104-john-cornyn-donald-trump-primary-loss-texas-highway/",
-      "snapshot": "Sen. John Cornyn (R-Texas) is backing off a push to dedicate a Texas highway after President Trump, signaling that it may no longer be high on his priority list following his defeat in last month's GOP Senate primary runoff. Cornyn introduced legislation in May to rename U.S.... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Cornyn, Trump, Sen, John Cornyn",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cornyn signals Trump highway bill may not be priority after primary loss",
-        "Source context: Sen. John Cornyn (R-Texas) is backing off a push to dedicate a Texas highway after President Trump, signaling that it may no longer be high on his..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cornyn.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 06 Jun 2026 12:08:07 +0000",
-      "age_hours": "11.76",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
       "urgency": ""
     }
   ],
@@ -192,7 +192,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 05 Jun 2026 10:03:03 -0400",
-      "age_hours": "33.84",
+      "age_hours": "36.00",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -222,10 +222,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 06 Jun 2026 17:53:41 -0400",
-      "age_hours": "2.00",
+      "age_hours": "4.15",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
+      "snapshot": "President Trump is sitting down for an interview Sunday on NBC's \"Meet the Press\" following a turbulent week marked by new lows in his approval ratings and growing tensions with Senate Republicans that have spilled into public view. As midterm elections loom, the president has... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, President Trump, NBC",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Sunday shows preview",
+        "Source context: President Trump is sitting down for an interview Sunday on NBC's \"Meet the Press\" following a turbulent week marked by new lows in his approval..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 06 Jun 2026 23:31:40 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Trump pardons ex-GOP lawmaker convicted in insider trading scheme",
@@ -252,74 +282,44 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 16:48:55 +0000",
-      "age_hours": "7.08",
+      "age_hours": "9.23",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Cornyn signals Trump highway bill may not be priority after primary loss",
-      "url": "https://thehill.com/homenews/state-watch/5913104-john-cornyn-donald-trump-primary-loss-texas-highway/",
-      "snapshot": "Sen. John Cornyn (R-Texas) is backing off a push to dedicate a Texas highway after President Trump, signaling that it may no longer be high on his priority list following his defeat in last month's GOP Senate primary runoff. Cornyn introduced legislation in May to rename U.S.... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+      "snapshot": "Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Cornyn, Trump, Sen, John Cornyn",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cornyn signals Trump highway bill may not be priority after primary loss",
-        "Source context: Sen. John Cornyn (R-Texas) is backing off a push to dedicate a Texas highway after President Trump, signaling that it may no longer be high on his..."
+        "Key people or organizations: Iran, Israel, Lebanon, Pakistan",
+        "Story focus: Iran war live",
+        "Source context: Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Cornyn.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 06 Jun 2026 12:08:07 +0000",
-      "age_hours": "11.76",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Cuba's Raul Castro makes first public appearance since US charges",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss",
-      "snapshot": "Former Cuban president Raul Castro made his first public appearance in Havana since being indicted by the United States",
-      "key_data": [
-        "Key people or organizations: Cuba, Raul Castro, US, Former Cuban",
-        "Story focus: Cuba's Raul Castro makes first public appearance since US charges",
-        "Source context: Former Cuban president Raul Castro made his first public appearance in Havana since being indicted by the United States"
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cuba.",
+        "Watch for the next official action involving Iran.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 06 Jun 2026 20:55:31 +0000",
-      "age_hours": "2.97",
+      "published": "Sun, 07 Jun 2026 00:00:00 +0000",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "68",
-      "urgency": "BREAKING"
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Senate fails to extend key surveillance program as deadline nears",
-    "Trump pardons ex-GOP lawmaker convicted in insider trading scheme",
-    "Cornyn signals Trump highway bill may not be priority after primary loss"
+    "Sunday shows preview: Trump faces GOP headwinds as midterms near",
+    "Trump pardons ex-GOP lawmaker convicted in insider trading scheme"
   ],
   "sections": [
     {
@@ -347,10 +347,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 06 Jun 2026 17:53:41 -0400",
-      "age_hours": "2.00",
+      "age_hours": "4.15",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Sunday shows preview: Trump faces GOP headwinds as midterms near",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5913448-trump-gop-tensions-midterm-pressure/",
+      "snapshot": "President Trump is sitting down for an interview Sunday on NBC's \"Meet the Press\" following a turbulent week marked by new lows in his approval ratings and growing tensions with Senate Republicans that have spilled into public view. As midterm elections loom, the president has... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, President Trump, NBC",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Sunday shows preview",
+        "Source context: President Trump is sitting down for an interview Sunday on NBC's \"Meet the Press\" following a turbulent week marked by new lows in his approval..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 06 Jun 2026 23:31:40 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Trump pardons ex-GOP lawmaker convicted in insider trading scheme",
@@ -377,21 +407,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 16:48:55 +0000",
-      "age_hours": "7.08",
+      "age_hours": "9.23",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Cornyn signals Trump highway bill may not be priority after primary loss",
-      "url": "https://thehill.com/homenews/state-watch/5913104-john-cornyn-donald-trump-primary-loss-texas-highway/",
-      "snapshot": "Sen. John Cornyn (R-Texas) is backing off a push to dedicate a Texas highway after President Trump, signaling that it may no longer be high on his priority list following his defeat in last month's GOP Senate primary runoff. Cornyn introduced legislation in May to rename U.S.... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Democrat Xavier Becerra advances in California governor's race as he awaits runoff challenger",
+      "url": "https://www.cbsnews.com/video/democrat-xavier-becerra-advances-california-governors-race-awaits-runoff-challenger/",
+      "snapshot": "Democrat Xavier Becerra has advanced to the general election for California governor, CBS News projects. As of Saturday, it is still unclear who Becerra will face, as ballots are still being counted. Kelsi Thorud reports from San Francisco. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Cornyn, Trump, Sen, John Cornyn",
-        "Politics desk signal: senate",
+        "Key people or organizations: Democrat Xavier Becerra, California, CBS News, As",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cornyn signals Trump highway bill may not be priority after primary loss",
-        "Source context: Sen. John Cornyn (R-Texas) is backing off a push to dedicate a Texas highway after President Trump, signaling that it may no longer be high on his..."
+        "Story focus: Democrat Xavier Becerra advances in California governor's race as he awaits runoff challenger",
+        "Source context: Democrat Xavier Becerra has advanced to the general election for California governor, CBS News projects. As of Saturday, it is still unclear who..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -399,27 +429,27 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Cornyn.",
+        "Watch for the next official action involving Democrat Xavier Becerra.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 06 Jun 2026 12:08:07 +0000",
-      "age_hours": "11.76",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 06 Jun 2026 18:33:00 -0400",
+      "age_hours": "3.50",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "82",
       "urgency": ""
     },
     {
-      "headline": "Treasury Department plans to use Iranian assets to help U.S. Gulf allies recover",
-      "url": "https://www.cbsnews.com/news/treasury-department-iranian-assets-gulf-allies-recovery/",
-      "snapshot": "The Treasury Department will use Iranian assets to help U.S. Gulf allies recover from damage caused by Tehran's regime, a source familiar with Treasury Secretary Scott Bessent's thinking told CBS News. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+      "snapshot": "Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Treasury Department, Iranian, Gulf, Tehran",
-        "Story focus: Treasury Department plans to use Iranian assets to help U.S. Gulf allies recover",
-        "Source context: The Treasury Department will use Iranian assets to help U.S. Gulf allies recover from damage caused by Tehran's regime, a source familiar with..."
+        "Key people or organizations: Iran, Israel, Lebanon, Pakistan",
+        "Story focus: Iran war live",
+        "Source context: Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait. The geopolitical angle is how..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -427,18 +457,18 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Treasury Department.",
+        "Watch for the next official action involving Iran.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 06 Jun 2026 18:22:16 -0400",
-      "age_hours": "1.52",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 07 Jun 2026 00:00:00 +0000",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
       "editorial_score": "74",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Cuba's Raul Castro makes first public appearance since US charges",
@@ -463,38 +493,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 06 Jun 2026 20:55:31 +0000",
-      "age_hours": "2.97",
+      "age_hours": "5.12",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-      "snapshot": "A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Palestinian, Israeli, West Bank, Hebron",
-        "Story focus: Palestinian father buries baby killed by Israeli gunfire in West Bank",
-        "Source context: A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Palestinian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 06 Jun 2026 19:38:13 +0000",
-      "age_hours": "4.26",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
