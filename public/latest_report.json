@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
-  "snapshot": "The top Democrat on the House Intelligence Committee said the timing of the appointment takes FISA Section 702 reauthorization \"off the table.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-06-07 01:01:04 PM ET",
-  "generated_at": "2026-06-07 01:01:04 PM ET",
+  "headline": "Lawsuit seeks to block Trump's UFC fight at White House",
+  "snapshot": "A lawsuit filed Saturday is seeking to block the Trump administration's UFC fight scheduled to take place at the White House next week on President Trump's birthday, June 14. Plaintiffs' attorneys argue the event is \"deeply corrupt\" and have accused Trump of benefitting from... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-06-07 03:01:02 PM ET",
+  "generated_at": "2026-06-07 03:01:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 146,
-    "live_fresh_items": 50,
-    "editor_fresh_items": 93,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 96,
+    "total_items_checked": 144,
+    "live_fresh_items": 55,
+    "editor_fresh_items": 98,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 89,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-07 01:01:04 PM ET"
+    "last_checked": "2026-06-07 03:01:02 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,40 +42,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:00:05 +0000",
-      "age_hours": "3.02",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump cuts off interview with Welker: 'I've had enough'",
-      "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
-      "snapshot": "President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the California gubernatorial primary was \"rigged.\" During a lengthy interview in Wisconsin that aired Sunday on \"Meet the Press,\" Trump... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "Lawsuit seeks to block Trump's UFC fight at White House",
+      "url": "https://thehill.com/homenews/administration/5913941-trump-ufc-whitehouse-lawsuit/",
+      "snapshot": "A lawsuit filed Saturday is seeking to block the Trump administration's UFC fight scheduled to take place at the White House next week on President Trump's birthday, June 14. Plaintiffs' attorneys argue the event is \"deeply corrupt\" and have accused Trump of benefitting from... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, Welker, President Trump, NBC News",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Lawsuit, Trump, UFC, White House",
+        "Specific figures mentioned: 14",
+        "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump cuts off interview with Welker",
-        "Source context: President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the..."
+        "Story focus: Lawsuit seeks to block Trump's UFC fight at White House"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Lawsuit.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 16:38:54 +0000",
-      "age_hours": "0.37",
+      "published": "Sun, 07 Jun 2026 18:38:19 +0000",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": ""
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
@@ -100,7 +100,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:58:17 +0000",
-      "age_hours": "2.05",
+      "age_hours": "4.05",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -130,43 +130,73 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 07 Jun 2026 11:16:01 -0400",
-      "age_hours": "1.75",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Senate Republican casts doubt on Pulte as long-term DNI pick",
-      "url": "https://thehill.com/homenews/senate/5913759-lankford-questions-pulte-qualifications/",
-      "snapshot": "Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as Director of National Intelligence pointing to his lack of experience in the realm of national security. \"He's not qualified for the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump defends 'anti-weaponization' fund: 'Great idea'",
+      "url": "https://thehill.com/homenews/administration/5913795-trump-defends-anti-weaponization-fund/",
+      "snapshot": "President Trump on Friday defended his administration's short-lived nearly $1.8 billion \"anti-weaponization\" fund, days after acting Attorney General Todd Blanche said that the Justice Department was not moving ahead with it. \"So, me, personally, I think the weaponization fund... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Senate Republican, Pulte, DNI, Sen",
-        "Politics desk signal: senate",
+        "Key people or organizations: Trump, Great, President Trump, Attorney General Todd Blanche",
+        "Specific figures mentioned: $1.8 billion",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Republican casts doubt on Pulte as long-term DNI pick",
-        "Source context: Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as..."
+        "Story focus: Trump defends 'anti-weaponization' fund"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 15:26:46 +0000",
-      "age_hours": "1.57",
+      "published": "Sun, 07 Jun 2026 16:14:36 +0000",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "99",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Lawsuit seeks to block Trump's UFC fight at White House",
+      "url": "https://thehill.com/homenews/administration/5913941-trump-ufc-whitehouse-lawsuit/",
+      "snapshot": "A lawsuit filed Saturday is seeking to block the Trump administration's UFC fight scheduled to take place at the White House next week on President Trump's birthday, June 14. Plaintiffs' attorneys argue the event is \"deeply corrupt\" and have accused Trump of benefitting from... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Lawsuit, Trump, UFC, White House",
+        "Specific figures mentioned: 14",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lawsuit seeks to block Trump's UFC fight at White House"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lawsuit.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 18:38:19 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
       "url": "https://www.cbsnews.com/news/jim-himes-bill-pulte-director-of-national-intelligence-fisa-702-reauthorization/",
@@ -192,69 +222,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 07 Jun 2026 11:16:01 -0400",
-      "age_hours": "1.75",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump cuts off interview with Welker: 'I've had enough'",
-      "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
-      "snapshot": "President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the California gubernatorial primary was \"rigged.\" During a lengthy interview in Wisconsin that aired Sunday on \"Meet the Press,\" Trump... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "Trump defends 'anti-weaponization' fund: 'Great idea'",
+      "url": "https://thehill.com/homenews/administration/5913795-trump-defends-anti-weaponization-fund/",
+      "snapshot": "President Trump on Friday defended his administration's short-lived nearly $1.8 billion \"anti-weaponization\" fund, days after acting Attorney General Todd Blanche said that the Justice Department was not moving ahead with it. \"So, me, personally, I think the weaponization fund... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, Welker, President Trump, NBC News",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Great, President Trump, Attorney General Todd Blanche",
+        "Specific figures mentioned: $1.8 billion",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump cuts off interview with Welker",
-        "Source context: President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the..."
+        "Story focus: Trump defends 'anti-weaponization' fund"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 16:38:54 +0000",
-      "age_hours": "0.37",
+      "published": "Sun, 07 Jun 2026 16:14:36 +0000",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": ""
-    },
-    {
-      "headline": "Tensions grow between Trump and Senate GOP: Five takeaways",
-      "url": "https://thehill.com/homenews/senate/5912799-trump-gop-tensions-rising/",
-      "snapshot": "Tensions are rising between President Trump and Senate Republicans, and their disagreements spilled into public view this week when GOP senators repeatedly used amendment votes on a $70 billion budget reconciliation bill to create distance from the president. Three Republican... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Tensions, Trump, Senate GOP, Five",
-        "Specific figures mentioned: $70 billion",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Tensions grow between Trump and Senate GOP"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Tensions.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 06 Jun 2026 10:00:00 +0000",
-      "age_hours": "31.02",
-      "freshness_status": "stale",
-      "editorial_score": "93",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -282,7 +282,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 06 Jun 2026 17:53:41 -0400",
-      "age_hours": "19.12",
+      "age_hours": "21.12",
       "freshness_status": "stale",
       "editorial_score": "84",
       "urgency": "BREAKING"
@@ -310,18 +310,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:00:05 +0000",
-      "age_hours": "3.02",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Lawsuit seeks to block Trump's UFC fight at White House",
     "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
-    "Trump cuts off interview with Welker: 'I've had enough'",
-    "Senate Republican casts doubt on Pulte as long-term DNI pick"
+    "Trump defends 'anti-weaponization' fund: 'Great idea'"
   ],
   "sections": [
+    {
+      "headline": "Lawsuit seeks to block Trump's UFC fight at White House",
+      "url": "https://thehill.com/homenews/administration/5913941-trump-ufc-whitehouse-lawsuit/",
+      "snapshot": "A lawsuit filed Saturday is seeking to block the Trump administration's UFC fight scheduled to take place at the White House next week on President Trump's birthday, June 14. Plaintiffs' attorneys argue the event is \"deeply corrupt\" and have accused Trump of benefitting from... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Lawsuit, Trump, UFC, White House",
+        "Specific figures mentioned: 14",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lawsuit seeks to block Trump's UFC fight at White House"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lawsuit.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 18:38:19 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
       "url": "https://www.cbsnews.com/news/jim-himes-bill-pulte-director-of-national-intelligence-fisa-702-reauthorization/",
@@ -347,69 +377,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 07 Jun 2026 11:16:01 -0400",
-      "age_hours": "1.75",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump cuts off interview with Welker: 'I've had enough'",
-      "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
-      "snapshot": "President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the California gubernatorial primary was \"rigged.\" During a lengthy interview in Wisconsin that aired Sunday on \"Meet the Press,\" Trump... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "Trump defends 'anti-weaponization' fund: 'Great idea'",
+      "url": "https://thehill.com/homenews/administration/5913795-trump-defends-anti-weaponization-fund/",
+      "snapshot": "President Trump on Friday defended his administration's short-lived nearly $1.8 billion \"anti-weaponization\" fund, days after acting Attorney General Todd Blanche said that the Justice Department was not moving ahead with it. \"So, me, personally, I think the weaponization fund... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, Welker, President Trump, NBC News",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Great, President Trump, Attorney General Todd Blanche",
+        "Specific figures mentioned: $1.8 billion",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump cuts off interview with Welker",
-        "Source context: President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the..."
+        "Story focus: Trump defends 'anti-weaponization' fund"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 16:38:54 +0000",
-      "age_hours": "0.37",
+      "published": "Sun, 07 Jun 2026 16:14:36 +0000",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate Republican casts doubt on Pulte as long-term DNI pick",
-      "url": "https://thehill.com/homenews/senate/5913759-lankford-questions-pulte-qualifications/",
-      "snapshot": "Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as Director of National Intelligence pointing to his lack of experience in the realm of national security. \"He's not qualified for the... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Senate Republican, Pulte, DNI, Sen",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Republican casts doubt on Pulte as long-term DNI pick",
-        "Source context: Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 15:26:46 +0000",
-      "age_hours": "1.57",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -435,20 +435,20 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:00:05 +0000",
-      "age_hours": "3.02",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Pratt's lead over Raman further erodes in new L.A. mayoral race results",
+      "headline": "Pratt's lead over Raman in jeopardy in latest L.A. mayoral race results",
       "url": "https://www.cbsnews.com/news/california-governor-la-mayor-results-hilton-steyer-pratt-raman/",
       "snapshot": "Political newcomer Spencer Pratt's lead over Los Angeles City Councilwoman Nithya Raman in the race for L.A. mayor has continued to diminish since election night. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
         "Key people or organizations: Pratt, Raman, Political, Spencer Pratt",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Pratt's lead over Raman further erodes in new L.A. mayoral race results",
+        "Story focus: Pratt's lead over Raman in jeopardy in latest L.A. mayoral race results",
         "Source context: Political newcomer Spencer Pratt's lead over Los Angeles City Councilwoman Nithya Raman in the race for L.A. mayor has continued to diminish since..."
       ],
       "why_it_matters": [
@@ -464,8 +464,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 07 Jun 2026 11:10:09 -0400",
-      "age_hours": "1.85",
+      "published": "Sun, 07 Jun 2026 11:10:00 -0400",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -493,7 +493,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:58:17 +0000",
-      "age_hours": "2.05",
+      "age_hours": "4.05",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
