@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump denies campaign push to finish endless wars: 'I didn't promise anything'",
-  "snapshot": "President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't promise anything. I don't like these endless wars. This is not an endless war,\" he told host Kristen Welker on NBC's \"Meet the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-  "updated_at": "2026-06-07 11:15:55 AM ET",
-  "generated_at": "2026-06-07 11:15:55 AM ET",
+  "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
+  "snapshot": "The top Democrat on the House Intelligence Committee said the timing of the appointment takes FISA Section 702 reauthorization \"off the table.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-06-07 01:01:04 PM ET",
+  "generated_at": "2026-06-07 01:01:04 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 42,
-    "editor_fresh_items": 86,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 107,
+    "total_items_checked": 146,
+    "live_fresh_items": 50,
+    "editor_fresh_items": 93,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 96,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-07 11:15:55 AM ET"
+    "last_checked": "2026-06-07 01:01:04 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,20 +42,49 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:00:05 +0000",
-      "age_hours": "1.26",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Russian drone strike damages site near Chornobyl nuclear plant",
-      "url": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss",
-      "snapshot": "Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump cuts off interview with Welker: 'I've had enough'",
+      "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
+      "snapshot": "President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the California gubernatorial primary was \"rigged.\" During a lengthy interview in Wisconsin that aired Sunday on \"Meet the Press,\" Trump... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: Russian, Chornobyl, Ukraine, President Volodymyr Zelenskyy",
-        "Politics desk signal: ukraine",
-        "Story focus: Russian drone strike damages site near Chornobyl nuclear plant",
-        "Source context: Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation. The geopolitical angle is how the..."
+        "Key people or organizations: Trump, Welker, President Trump, NBC News",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump cuts off interview with Welker",
+        "Source context: President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 16:38:54 +0000",
+      "age_hours": "0.37",
+      "freshness_status": "fresh",
+      "editorial_score": "97",
+      "urgency": ""
+    },
+    {
+      "headline": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss",
+      "snapshot": "It's hard to assume that 'anything positive' for Lebanon can come from its talks with Israel, argues analyst Imad Harb. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Does Israel, Hezbollah, Lebanon, It",
+        "Story focus: Does Israel really think it can get rid of Hezbollah in Lebanon?",
+        "Source context: It's hard to assume that 'anything positive' for Lebanon can come from its talks with Israel, argues analyst Imad Harb. The geopolitical angle is how..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -63,29 +92,29 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Russian.",
+        "Watch for the next official action involving Does Israel.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 07 Jun 2026 12:47:23 +0000",
-      "age_hours": "2.48",
+      "published": "Sun, 07 Jun 2026 14:58:17 +0000",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump denies campaign push to finish endless wars: 'I didn't promise anything'",
-      "url": "https://thehill.com/homenews/administration/5913750-trump-denies-endless-wars/",
-      "snapshot": "President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't promise anything. I don't like these endless wars. This is not an endless war,\" he told host Kristen Welker on NBC's \"Meet the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
+      "url": "https://www.cbsnews.com/news/jim-himes-bill-pulte-director-of-national-intelligence-fisa-702-reauthorization/",
+      "snapshot": "The top Democrat on the House Intelligence Committee said the timing of the appointment takes FISA Section 702 reauthorization \"off the table.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump, Iran, Kristen Welker",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Himes, Pulte, Trump, Democrat",
+        "Specific figures mentioned: 702",
+        "Politics desk signal: house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump denies campaign push to finish endless wars",
-        "Source context: President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't..."
+        "Story focus: Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -93,81 +122,111 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 14:52:33 +0000",
-      "age_hours": "0.39",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump drags feet on drone deal with Ukraine, mystifying experts",
-      "url": "https://thehill.com/policy/defense/5911039-trump-drone-deal-ukraine/",
-      "snapshot": "The Trump administration's hesitancy in signing a major drone deal with Ukraine is slowing the U.S. military down in an area where it's already trying to play catch-up. Even as Ukrainian President Volodymyr Zelensky has urged Washington to make a deal, with talks between the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Ukraine, Even, Ukrainian President Volodymyr Zelensky",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump drags feet on drone deal with Ukraine, mystifying experts",
-        "Source context: The Trump administration's hesitancy in signing a major drone deal with Ukraine is slowing the U.S. military down in an area where it's already..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 10:00:00 +0000",
-      "age_hours": "5.26",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Pratt's lead over Raman further erodes in new L.A. mayoral race results",
-      "url": "https://www.cbsnews.com/news/california-governor-la-mayor-results-hilton-steyer-pratt-raman/",
-      "snapshot": "Political newcomer Spencer Pratt's lead over Los Angeles City Councilwoman Nithya Raman in the race for L.A. mayor has continued to diminish since election night. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Pratt, Raman, Political, Spencer Pratt",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Pratt's lead over Raman further erodes in new L.A. mayoral race results",
-        "Source context: Political newcomer Spencer Pratt's lead over Los Angeles City Councilwoman Nithya Raman in the race for L.A. mayor has continued to diminish since..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Pratt.",
+        "Watch for the next official action involving Himes.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 07 Jun 2026 11:10:09 -0400",
-      "age_hours": "0.10",
+      "published": "Sun, 07 Jun 2026 11:16:01 -0400",
+      "age_hours": "1.75",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate Republican casts doubt on Pulte as long-term DNI pick",
+      "url": "https://thehill.com/homenews/senate/5913759-lankford-questions-pulte-qualifications/",
+      "snapshot": "Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as Director of National Intelligence pointing to his lack of experience in the realm of national security. \"He's not qualified for the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Senate Republican, Pulte, DNI, Sen",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Republican casts doubt on Pulte as long-term DNI pick",
+        "Source context: Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Republican.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 15:26:46 +0000",
+      "age_hours": "1.57",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
+      "url": "https://www.cbsnews.com/news/jim-himes-bill-pulte-director-of-national-intelligence-fisa-702-reauthorization/",
+      "snapshot": "The top Democrat on the House Intelligence Committee said the timing of the appointment takes FISA Section 702 reauthorization \"off the table.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Himes, Pulte, Trump, Democrat",
+        "Specific figures mentioned: 702",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Himes.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 07 Jun 2026 11:16:01 -0400",
+      "age_hours": "1.75",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump cuts off interview with Welker: 'I've had enough'",
+      "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
+      "snapshot": "President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the California gubernatorial primary was \"rigged.\" During a lengthy interview in Wisconsin that aired Sunday on \"Meet the Press,\" Trump... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Welker, President Trump, NBC News",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump cuts off interview with Welker",
+        "Source context: President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 16:38:54 +0000",
+      "age_hours": "0.37",
+      "freshness_status": "fresh",
+      "editorial_score": "97",
+      "urgency": ""
+    },
     {
       "headline": "Tensions grow between Trump and Senate GOP: Five takeaways",
       "url": "https://thehill.com/homenews/senate/5912799-trump-gop-tensions-rising/",
@@ -193,40 +252,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 06 Jun 2026 10:00:00 +0000",
-      "age_hours": "29.26",
+      "age_hours": "31.02",
       "freshness_status": "stale",
       "editorial_score": "93",
       "urgency": ""
-    },
-    {
-      "headline": "Trump denies campaign push to finish endless wars: 'I didn't promise anything'",
-      "url": "https://thehill.com/homenews/administration/5913750-trump-denies-endless-wars/",
-      "snapshot": "President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't promise anything. I don't like these endless wars. This is not an endless war,\" he told host Kristen Welker on NBC's \"Meet the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Iran, Kristen Welker",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump denies campaign push to finish endless wars",
-        "Source context: President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 14:52:33 +0000",
-      "age_hours": "0.39",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
     },
     {
       "headline": "Senate fails to extend key surveillance program as deadline nears",
@@ -253,39 +282,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 06 Jun 2026 17:53:41 -0400",
-      "age_hours": "17.37",
+      "age_hours": "19.12",
       "freshness_status": "stale",
       "editorial_score": "84",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Russian drone strike damages site near Chornobyl nuclear plant",
-      "url": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss",
-      "snapshot": "Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Russian, Chornobyl, Ukraine, President Volodymyr Zelenskyy",
-        "Politics desk signal: ukraine",
-        "Story focus: Russian drone strike damages site near Chornobyl nuclear plant",
-        "Source context: Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 07 Jun 2026 12:47:23 +0000",
-      "age_hours": "2.48",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Israel strikes southern suburbs of Lebanon's capital Beirut",
@@ -310,28 +310,58 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:00:05 +0000",
-      "age_hours": "1.26",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Trump denies campaign push to finish endless wars: 'I didn't promise anything'",
-    "Trump drags feet on drone deal with Ukraine, mystifying experts",
-    "Russian drone strike damages site near Chornobyl nuclear plant"
+    "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
+    "Trump cuts off interview with Welker: 'I've had enough'",
+    "Senate Republican casts doubt on Pulte as long-term DNI pick"
   ],
   "sections": [
     {
-      "headline": "Trump denies campaign push to finish endless wars: 'I didn't promise anything'",
-      "url": "https://thehill.com/homenews/administration/5913750-trump-denies-endless-wars/",
-      "snapshot": "President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't promise anything. I don't like these endless wars. This is not an endless war,\" he told host Kristen Welker on NBC's \"Meet the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment",
+      "url": "https://www.cbsnews.com/news/jim-himes-bill-pulte-director-of-national-intelligence-fisa-702-reauthorization/",
+      "snapshot": "The top Democrat on the House Intelligence Committee said the timing of the appointment takes FISA Section 702 reauthorization \"off the table.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump, Iran, Kristen Welker",
+        "Key people or organizations: Himes, Pulte, Trump, Democrat",
+        "Specific figures mentioned: 702",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Himes says Pulte in intelligence role is Trump's \"worst and most dangerous\" appointment"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Himes.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 07 Jun 2026 11:16:01 -0400",
+      "age_hours": "1.75",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump cuts off interview with Welker: 'I've had enough'",
+      "url": "https://thehill.com/homenews/administration/5913804-trump-walks-out-welker-interview/",
+      "snapshot": "President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the California gubernatorial primary was \"rigged.\" During a lengthy interview in Wisconsin that aired Sunday on \"Meet the Press,\" Trump... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Welker, President Trump, NBC News",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump denies campaign push to finish endless wars",
-        "Source context: President Trump denied Friday that he campaigned on avoiding \"endless\" wars, as he seeks to reach a deal to end hostilities with Iran. \"I didn't..."
+        "Story focus: Trump cuts off interview with Welker",
+        "Source context: President Trump abruptly ended his interview with NBC News's Kristen Welker on Friday, after the two discussed his unfounded claim that the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -341,75 +371,46 @@
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 14:52:33 +0000",
-      "age_hours": "0.39",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump drags feet on drone deal with Ukraine, mystifying experts",
-      "url": "https://thehill.com/policy/defense/5911039-trump-drone-deal-ukraine/",
-      "snapshot": "The Trump administration's hesitancy in signing a major drone deal with Ukraine is slowing the U.S. military down in an area where it's already trying to play catch-up. Even as Ukrainian President Volodymyr Zelensky has urged Washington to make a deal, with talks between the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Ukraine, Even, Ukrainian President Volodymyr Zelensky",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump drags feet on drone deal with Ukraine, mystifying experts",
-        "Source context: The Trump administration's hesitancy in signing a major drone deal with Ukraine is slowing the U.S. military down in an area where it's already..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 07 Jun 2026 10:00:00 +0000",
-      "age_hours": "5.26",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Russian drone strike damages site near Chornobyl nuclear plant",
-      "url": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss",
-      "snapshot": "Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Russian, Chornobyl, Ukraine, President Volodymyr Zelenskyy",
-        "Politics desk signal: ukraine",
-        "Story focus: Russian drone strike damages site near Chornobyl nuclear plant",
-        "Source context: Ukraine's President Volodymyr Zelenskyy condemns 'extremely vile' attack that did not lead to spike in radiation. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 07 Jun 2026 12:47:23 +0000",
-      "age_hours": "2.48",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 16:38:54 +0000",
+      "age_hours": "0.37",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "97",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate Republican casts doubt on Pulte as long-term DNI pick",
+      "url": "https://thehill.com/homenews/senate/5913759-lankford-questions-pulte-qualifications/",
+      "snapshot": "Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as Director of National Intelligence pointing to his lack of experience in the realm of national security. \"He's not qualified for the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Senate Republican, Pulte, DNI, Sen",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Republican casts doubt on Pulte as long-term DNI pick",
+        "Source context: Sen. James Lankford (R-Okla.) on Sunday said Federal Housing Finance Agency (FHFA) Director Bill Pulte is \"not qualified\" to permanently serve as..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Republican.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 07 Jun 2026 15:26:46 +0000",
+      "age_hours": "1.57",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
     },
     {
       "headline": "Israel strikes southern suburbs of Lebanon's capital Beirut",
@@ -434,7 +435,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 07 Jun 2026 14:00:05 +0000",
-      "age_hours": "1.26",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -464,39 +465,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 07 Jun 2026 11:10:09 -0400",
-      "age_hours": "0.10",
+      "age_hours": "1.85",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
     },
     {
-      "headline": "Transcript: Rep. Jim Himes on \"Face the Nation with Margaret Brennan,\" June 7, 2026",
-      "url": "https://www.cbsnews.com/news/jim-himes-connecticut-democrat-face-the-nation-transcript-06-07-2026/",
-      "snapshot": "The following is the transcript of the interview with Rep. Jim Himes, Democrat of Connecticut, that aired on \"Face the Nation with Margaret Brennan\" on June 7, 2026.",
+      "headline": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss",
+      "snapshot": "It's hard to assume that 'anything positive' for Lebanon can come from its talks with Israel, argues analyst Imad Harb. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Transcript, Rep, Jim Himes, Face",
-        "Specific figures mentioned: 7, 2026",
-        "Story focus: Transcript",
-        "Source context: The following is the transcript of the interview with Rep. Jim Himes, Democrat of Connecticut, that aired on \"Face the Nation with Margaret Brennan\"..."
+        "Key people or organizations: Does Israel, Hezbollah, Lebanon, It",
+        "Story focus: Does Israel really think it can get rid of Hezbollah in Lebanon?",
+        "Source context: It's hard to assume that 'anything positive' for Lebanon can come from its talks with Israel, argues analyst Imad Harb. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Transcript.",
+        "Watch for the next official action involving Does Israel.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Power, policy or public-trust angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 07 Jun 2026 11:08:07 -0400",
-      "age_hours": "0.13",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 07 Jun 2026 14:58:17 +0000",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
       "editorial_score": "66",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
