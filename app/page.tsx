@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import EditorialStandard from "@/components/EditorialStandard";
+import SocialIconLinks from "@/app/SocialIconLinks";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -494,21 +495,7 @@ export default function Page() {
       <div className="border-b border-neutral-800 bg-neutral-950 text-white">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-5 py-2 text-xs font-bold uppercase tracking-wide">
           <span className="text-neutral-400">Follow GSR:</span>
-          <a href="https://www.youtube.com/@TheGSRNetwork" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300">
-            YouTube
-          </a>
-          <span className="text-neutral-600">•</span>
-          <a href="https://open.spotify.com/show/033twUpbE3ukspgx0T3XNq?si=CilT1aEXRJ2OEFTMdtvF2A" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300">
-            Spotify
-          </a>
-          <span className="text-neutral-600">•</span>
-          <a href="https://www.tiktok.com/@thegsrnetwork" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300">
-            TikTok
-          </a>
-          <span className="text-neutral-600">•</span>
-          <a href="https://gsr-network-news.beehiiv.com/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300">
-            Beehiiv
-          </a>
+          <SocialIconLinks hoverClassName="hover:border-blue-300" />
         </div>
       </div>
 
