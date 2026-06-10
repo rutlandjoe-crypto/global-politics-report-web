@@ -3,22 +3,51 @@
   "vertical": "Politics",
   "headline": "House sends reconciliation bill funding immigration enforcement to Trump's desk",
   "snapshot": "House Republicans on Tuesday passed a package to fund Immigration and Customs Enforcement (ICE) and Border Patrol through 2029, marking a victory for President Trump and GOP leaders. The nearly $70 billion budget reconciliation package that had stalled in the Senate for weeks... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-06-09 07:07:06 PM ET",
-  "generated_at": "2026-06-09 07:07:06 PM ET",
+  "updated_at": "2026-06-09 09:56:55 PM ET",
+  "generated_at": "2026-06-09 09:56:55 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 126,
-    "editor_fresh_items": 144,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 24,
+    "total_items_checked": 151,
+    "live_fresh_items": 129,
+    "editor_fresh_items": 151,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 22,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-09 07:07:06 PM ET"
+    "last_checked": "2026-06-09 09:56:55 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+      "snapshot": "Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Iran, Tehran, US, Bahrain",
+        "Specific figures mentioned: 2, 3, 666",
+        "Story focus: Iran war live",
+        "Source context: Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 10 Jun 2026 00:00:00 +0000",
+      "age_hours": "1.95",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "The White House blocked a study on alcohol consumption. This is what it said",
       "url": "https://thehill.com/policy/healthcare/5916395-alcohol-guidelines-new-study/",
@@ -44,39 +73,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 19:14:12 +0000",
-      "age_hours": "3.88",
+      "age_hours": "6.71",
       "freshness_status": "fresh",
       "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump says in 'final throes' of peace deal but Israel kills 17 in Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-      "snapshot": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Israel, Lebanon, Netanyahu",
-        "Specific figures mentioned: 17",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says in 'final throes' of peace deal but Israel kills 17 in Lebanon"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 09 Jun 2026 13:41:52 +0000",
-      "age_hours": "9.42",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +103,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 21:25:29 +0000",
-      "age_hours": "1.69",
+      "age_hours": "4.52",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "WATCH"
@@ -134,7 +133,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 09 Jun 2026 18:25:22 -0400",
-      "age_hours": "0.70",
+      "age_hours": "3.53",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -142,13 +141,13 @@
     {
       "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
       "url": "https://www.cbsnews.com/news/trump-decision-bill-pulte-odni-intelligence-congress-fisa-spy-powers-renewal/",
-      "snapshot": "Bill Pulte will begin serving as acting director of national intelligence in a week and a half, President Trump said, effectively standing by his decision to name the housing regulator and Trump loyalist. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his decision to name the housing regulator and Trump loyalist. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Trump, Pulte, Congress, Bill Pulte",
         "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump stands by decision to name Pulte to intel role despite revolt in Congress",
-        "Source context: Bill Pulte will begin serving as acting director of national intelligence in a week and a half, President Trump said, effectively standing by his..."
+        "Source context: Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -163,8 +162,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 09 Jun 2026 18:49:28 -0400",
-      "age_hours": "0.29",
+      "published": "Tue, 09 Jun 2026 19:57:30 -0400",
+      "age_hours": "1.99",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -196,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 21:25:29 +0000",
-      "age_hours": "1.69",
+      "age_hours": "4.52",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "WATCH"
@@ -226,7 +225,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 09 Jun 2026 18:25:22 -0400",
-      "age_hours": "0.70",
+      "age_hours": "3.53",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -256,51 +255,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 19:14:12 +0000",
-      "age_hours": "3.88",
+      "age_hours": "6.71",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Breaking down Iran and Israel's flare-up as Trump insists peace talks are proceeding",
-      "url": "https://www.cbsnews.com/video/breaking-down-iran-and-israels-flare-up-as-trump-insists-peace-talks-are-proceeding/",
-      "snapshot": "President Trump urged both Israel and Iran to immediately stop attacking other Monday after an exchange of strikes on Sunday. The president insists that final negotiations for peace are ongoing, subject to what he called \"ignorance or stupidity\" getting in the way. Charlie... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
+      "url": "https://www.cbsnews.com/news/trump-decision-bill-pulte-odni-intelligence-congress-fisa-spy-powers-renewal/",
+      "snapshot": "Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his decision to name the housing regulator and Trump loyalist. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Iran, Israel, Trump, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Pulte, Congress, Bill Pulte",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Breaking down Iran and Israel's flare-up as Trump insists peace talks are proceeding",
-        "Source context: President Trump urged both Israel and Iran to immediately stop attacking other Monday after an exchange of strikes on Sunday. The president insists..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 08 Jun 2026 20:16:13 -0400",
-      "age_hours": "22.85",
-      "freshness_status": "stale",
-      "editorial_score": "112",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump says in 'final throes' of peace deal but Israel kills 17 in Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-      "snapshot": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Israel, Lebanon, Netanyahu",
-        "Specific figures mentioned: 17",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says in 'final throes' of peace deal but Israel kills 17 in Lebanon"
+        "Story focus: Trump stands by decision to name Pulte to intel role despite revolt in Congress",
+        "Source context: Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -312,13 +281,42 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 09 Jun 2026 19:57:30 -0400",
+      "age_hours": "1.99",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+      "snapshot": "Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Iran, Tehran, US, Bahrain",
+        "Specific figures mentioned: 2, 3, 666",
+        "Story focus: Iran war live",
+        "Source context: Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 09 Jun 2026 13:41:52 +0000",
-      "age_hours": "9.42",
+      "published": "Wed, 10 Jun 2026 00:00:00 +0000",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
     }
   ],
@@ -353,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 21:25:29 +0000",
-      "age_hours": "1.69",
+      "age_hours": "4.52",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "WATCH"
@@ -383,7 +381,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 09 Jun 2026 18:25:22 -0400",
-      "age_hours": "0.70",
+      "age_hours": "3.53",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -413,7 +411,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 19:14:12 +0000",
-      "age_hours": "3.88",
+      "age_hours": "6.71",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -421,13 +419,13 @@
     {
       "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
       "url": "https://www.cbsnews.com/news/trump-decision-bill-pulte-odni-intelligence-congress-fisa-spy-powers-renewal/",
-      "snapshot": "Bill Pulte will begin serving as acting director of national intelligence in a week and a half, President Trump said, effectively standing by his decision to name the housing regulator and Trump loyalist. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his decision to name the housing regulator and Trump loyalist. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Trump, Pulte, Congress, Bill Pulte",
         "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump stands by decision to name Pulte to intel role despite revolt in Congress",
-        "Source context: Bill Pulte will begin serving as acting director of national intelligence in a week and a half, President Trump said, effectively standing by his..."
+        "Source context: Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -442,40 +440,39 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 09 Jun 2026 18:49:28 -0400",
-      "age_hours": "0.29",
+      "published": "Tue, 09 Jun 2026 19:57:30 -0400",
+      "age_hours": "1.99",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump says in 'final throes' of peace deal but Israel kills 17 in Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-      "snapshot": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+      "snapshot": "Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Israel, Lebanon, Netanyahu",
-        "Specific figures mentioned: 17",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says in 'final throes' of peace deal but Israel kills 17 in Lebanon"
+        "Key people or organizations: Iran, Tehran, US, Bahrain",
+        "Specific figures mentioned: 2, 3, 666",
+        "Story focus: Iran war live",
+        "Source context: Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 09 Jun 2026 13:41:52 +0000",
-      "age_hours": "9.42",
+      "published": "Wed, 10 Jun 2026 00:00:00 +0000",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
@@ -503,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 09 Jun 2026 21:01:01 +0000",
-      "age_hours": "2.10",
+      "age_hours": "4.93",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
