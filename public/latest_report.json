@@ -1,142 +1,81 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "House sends reconciliation bill funding immigration enforcement to Trump's desk",
-  "snapshot": "House Republicans on Tuesday passed a package to fund Immigration and Customs Enforcement (ICE) and Border Patrol through 2029, marking a victory for President Trump and GOP leaders. The nearly $70 billion budget reconciliation package that had stalled in the Senate for weeks... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-06-10 02:13:11 AM ET",
-  "generated_at": "2026-06-10 02:13:11 AM ET",
+  "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
+  "snapshot": "Bill Pulte will begin serving as acting director of national intelligence in a week-and-a-half, President Trump said, effectively standing by his decision to name the housing regulator and Trump loyalist. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-06-10 06:45:48 AM ET",
+  "generated_at": "2026-06-10 06:45:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 152,
-    "live_fresh_items": 96,
-    "editor_fresh_items": 151,
+    "live_fresh_items": 64,
+    "editor_fresh_items": 150,
     "public_fallback_items": 152,
-    "stale_or_blocked_items": 56,
+    "stale_or_blocked_items": 88,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-10 02:13:11 AM ET"
+    "last_checked": "2026-06-10 06:45:48 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Afghanistan says Pakistan air raids killed 13 people, including children",
-      "url": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss",
-      "snapshot": "No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces.",
+      "headline": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+      "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
+      "snapshot": "The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Afghanistan, Pakistan, No, Taliban",
-        "Specific figures mentioned: 13, 11",
-        "Story focus: Afghanistan says Pakistan air raids killed 13 people, including children",
-        "Source context: No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces."
+        "Key people or organizations: Ukrainian, Sevastopol, Russian, Chongar",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+        "Source context: The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Afghanistan.",
+        "Watch for the next official action involving Ukrainian.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 10 Jun 2026 07:22:22 +0000",
+      "age_hours": "3.39",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "A four-year-old's recovery from the trauma of war in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
+      "snapshot": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Lebanon, Four, Malika, Israeli",
+        "Story focus: A four-year-old's recovery from the trauma of war in Lebanon",
+        "Source context: Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother. The geopolitical angle is how the decision affects alliances,..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lebanon.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 10 Jun 2026 05:04:26 +0000",
-      "age_hours": "1.15",
+      "published": "Wed, 10 Jun 2026 10:09:41 +0000",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "The White House blocked a study on alcohol consumption. This is what it said",
-      "url": "https://thehill.com/policy/healthcare/5916395-alcohol-guidelines-new-study/",
-      "snapshot": "In 2022, the Biden administration set in motion a study on the effects of drinking, with extensive international participation by researchers from the U.S., Canada and the U.K. After years of research, the study authors were informed by the Trump administration last year that... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: In, Biden, Canada, Trump",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The White House blocked a study on alcohol consumption. This is what it said"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving In.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 09 Jun 2026 19:14:12 +0000",
-      "age_hours": "10.98",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "House sends reconciliation bill funding immigration enforcement to Trump's desk",
-      "url": "https://thehill.com/homenews/house/5916924-reconciliation-ice-border-patrol-funding/",
-      "snapshot": "House Republicans on Tuesday passed a package to fund Immigration and Customs Enforcement (ICE) and Border Patrol through 2029, marking a victory for President Trump and GOP leaders. The nearly $70 billion budget reconciliation package that had stalled in the Senate for weeks... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: House, Trump, House Republicans, Immigration",
-        "Specific figures mentioned: 2029, $70 billion",
-        "Politics desk signal: senate, house, budget, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House sends reconciliation bill funding immigration enforcement to Trump's desk"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 09 Jun 2026 21:25:29 +0000",
-      "age_hours": "8.79",
-      "freshness_status": "fresh",
-      "editorial_score": "139",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "House passes $70 billion bill to fund ICE for rest of Trump's term",
-      "url": "https://www.cbsnews.com/news/house-vote-ice-funding-reconciliation/",
-      "snapshot": "The House passed Republicans' $70 billion bill to fund immigration enforcement agencies for the rest of the Trump administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: House, ICE, Trump, Republicans",
-        "Specific figures mentioned: $70 billion",
-        "Politics desk signal: house, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House passes $70 billion bill to fund ICE for rest of Trump's term"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 09 Jun 2026 18:25:22 -0400",
-      "age_hours": "7.80",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
     },
     {
       "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
@@ -163,9 +102,68 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 09 Jun 2026 19:57:30 -0400",
-      "age_hours": "6.26",
+      "age_hours": "10.80",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump notches win in Nevada GOP House primary for Amodei's seat",
+      "url": "https://thehill.com/homenews/campaign/5915258-flippo-wins-nevada-gop-primary/",
+      "snapshot": "Retired Lt. Col. David Flippo, who was endorsed by President Trump, is projected to win Nevada's GOP primary for the state's only Republican congressional seat, according to Decision Desk HQ (DDHQ). His Tuesday victory in the open 2nd Congressional District — which retiring... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Nevada GOP House, Amodei, Retired Lt",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: congress, house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump notches win in Nevada GOP House primary for Amodei's seat"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 10 Jun 2026 05:18:06 +0000",
+      "age_hours": "5.46",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Democrats need to revamp message following Trump foreign policy moves: Think tank",
+      "url": "https://thehill.com/homenews/campaign/5917386-third-way-memo-democratic-foreign-policy/",
+      "snapshot": "A think tank has recommended that Democratic messaging on foreign policy needs to be revamped following drastic moves by the Trump administration. \"Voters are increasingly uncomfortable with Republicans' chaos and escalation, but many remain unconvinced that Democrats project... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Democrats, Trump, Think, Democratic",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats need to revamp message following Trump foreign policy moves",
+        "Source context: A think tank has recommended that Democratic messaging on foreign policy needs to be revamped following drastic moves by the Trump administration...."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 09 Jun 2026 23:53:15 +0000",
+      "age_hours": "10.88",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     }
   ],
@@ -195,70 +193,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 09 Jun 2026 21:25:29 +0000",
-      "age_hours": "8.79",
-      "freshness_status": "fresh",
-      "editorial_score": "139",
+      "age_hours": "13.34",
+      "freshness_status": "stale",
+      "editorial_score": "109",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "House passes $70 billion bill to fund ICE for rest of Trump's term",
-      "url": "https://www.cbsnews.com/news/house-vote-ice-funding-reconciliation/",
-      "snapshot": "The House passed Republicans' $70 billion bill to fund immigration enforcement agencies for the rest of the Trump administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: House, ICE, Trump, Republicans",
-        "Specific figures mentioned: $70 billion",
-        "Politics desk signal: house, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House passes $70 billion bill to fund ICE for rest of Trump's term"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 09 Jun 2026 18:25:22 -0400",
-      "age_hours": "7.80",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "The White House blocked a study on alcohol consumption. This is what it said",
-      "url": "https://thehill.com/policy/healthcare/5916395-alcohol-guidelines-new-study/",
-      "snapshot": "In 2022, the Biden administration set in motion a study on the effects of drinking, with extensive international participation by researchers from the U.S., Canada and the U.K. After years of research, the study authors were informed by the Trump administration last year that... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: In, Biden, Canada, Trump",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The White House blocked a study on alcohol consumption. This is what it said"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving In.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 09 Jun 2026 19:14:12 +0000",
-      "age_hours": "10.98",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
@@ -285,137 +223,108 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 09 Jun 2026 19:57:30 -0400",
-      "age_hours": "6.26",
+      "age_hours": "10.80",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Afghanistan says Pakistan air raids killed 13 people, including children",
-      "url": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss",
-      "snapshot": "No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces.",
+      "headline": "Trump notches win in Nevada GOP House primary for Amodei's seat",
+      "url": "https://thehill.com/homenews/campaign/5915258-flippo-wins-nevada-gop-primary/",
+      "snapshot": "Retired Lt. Col. David Flippo, who was endorsed by President Trump, is projected to win Nevada's GOP primary for the state's only Republican congressional seat, according to Decision Desk HQ (DDHQ). His Tuesday victory in the open 2nd Congressional District — which retiring... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Afghanistan, Pakistan, No, Taliban",
-        "Specific figures mentioned: 13, 11",
-        "Story focus: Afghanistan says Pakistan air raids killed 13 people, including children",
-        "Source context: No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces."
+        "Key people or organizations: Trump, Nevada GOP House, Amodei, Retired Lt",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: congress, house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump notches win in Nevada GOP House primary for Amodei's seat"
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Afghanistan.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 10 Jun 2026 05:18:06 +0000",
+      "age_hours": "5.46",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Graham Platner's race for Senate in Maine and more primaries to watch tonight",
+      "url": "https://www.cbsnews.com/news/maine-senate-primary-graham-platner-susan-collins-south-carolina-nevada-north-dakota/",
+      "snapshot": "Maine Democrat Graham Platner clinched the nomination to take on Republican Sen. Susan Collins in November. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Graham Platner, Senate, Maine, Maine Democrat Graham Platner",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Graham Platner's race for Senate in Maine and more primaries to watch tonight",
+        "Source context: Maine Democrat Graham Platner clinched the nomination to take on Republican Sen. Susan Collins in November. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Graham Platner.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 09 Jun 2026 22:12:48 -0400",
+      "age_hours": "8.55",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+      "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
+      "snapshot": "The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Ukrainian, Sevastopol, Russian, Chongar",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+        "Source context: The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ukrainian.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 10 Jun 2026 05:04:26 +0000",
-      "age_hours": "1.15",
+      "published": "Wed, 10 Jun 2026 07:22:22 +0000",
+      "age_hours": "3.39",
       "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "BREAKING"
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "House sends reconciliation bill funding immigration enforcement to Trump's desk",
-    "House passes $70 billion bill to fund ICE for rest of Trump's term",
-    "The White House blocked a study on alcohol consumption. This is what it said"
+    "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
+    "Trump notches win in Nevada GOP House primary for Amodei's seat",
+    "Democrats need to revamp message following Trump foreign policy moves: Think tank"
   ],
   "sections": [
-    {
-      "headline": "House sends reconciliation bill funding immigration enforcement to Trump's desk",
-      "url": "https://thehill.com/homenews/house/5916924-reconciliation-ice-border-patrol-funding/",
-      "snapshot": "House Republicans on Tuesday passed a package to fund Immigration and Customs Enforcement (ICE) and Border Patrol through 2029, marking a victory for President Trump and GOP leaders. The nearly $70 billion budget reconciliation package that had stalled in the Senate for weeks... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: House, Trump, House Republicans, Immigration",
-        "Specific figures mentioned: 2029, $70 billion",
-        "Politics desk signal: senate, house, budget, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House sends reconciliation bill funding immigration enforcement to Trump's desk"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 09 Jun 2026 21:25:29 +0000",
-      "age_hours": "8.79",
-      "freshness_status": "fresh",
-      "editorial_score": "139",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "House passes $70 billion bill to fund ICE for rest of Trump's term",
-      "url": "https://www.cbsnews.com/news/house-vote-ice-funding-reconciliation/",
-      "snapshot": "The House passed Republicans' $70 billion bill to fund immigration enforcement agencies for the rest of the Trump administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: House, ICE, Trump, Republicans",
-        "Specific figures mentioned: $70 billion",
-        "Politics desk signal: house, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House passes $70 billion bill to fund ICE for rest of Trump's term"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 09 Jun 2026 18:25:22 -0400",
-      "age_hours": "7.80",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "The White House blocked a study on alcohol consumption. This is what it said",
-      "url": "https://thehill.com/policy/healthcare/5916395-alcohol-guidelines-new-study/",
-      "snapshot": "In 2022, the Biden administration set in motion a study on the effects of drinking, with extensive international participation by researchers from the U.S., Canada and the U.K. After years of research, the study authors were informed by the Trump administration last year that... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: In, Biden, Canada, Trump",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The White House blocked a study on alcohol consumption. This is what it said"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving In.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 09 Jun 2026 19:14:12 +0000",
-      "age_hours": "10.98",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Trump stands by decision to name Pulte to intel role despite revolt in Congress",
       "url": "https://www.cbsnews.com/news/trump-decision-bill-pulte-odni-intelligence-congress-fisa-spy-powers-renewal/",
@@ -441,50 +350,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 09 Jun 2026 19:57:30 -0400",
-      "age_hours": "6.26",
+      "age_hours": "10.80",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Afghanistan says Pakistan air raids killed 13 people, including children",
-      "url": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss",
-      "snapshot": "No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces.",
+      "headline": "Trump notches win in Nevada GOP House primary for Amodei's seat",
+      "url": "https://thehill.com/homenews/campaign/5915258-flippo-wins-nevada-gop-primary/",
+      "snapshot": "Retired Lt. Col. David Flippo, who was endorsed by President Trump, is projected to win Nevada's GOP primary for the state's only Republican congressional seat, according to Decision Desk HQ (DDHQ). His Tuesday victory in the open 2nd Congressional District — which retiring... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Afghanistan, Pakistan, No, Taliban",
-        "Specific figures mentioned: 13, 11",
-        "Story focus: Afghanistan says Pakistan air raids killed 13 people, including children",
-        "Source context: No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Afghanistan.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 10 Jun 2026 05:04:26 +0000",
-      "age_hours": "1.15",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Canada confirms opening of Gordie Howe Bridge, despite Trump's threats",
-      "url": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss",
-      "snapshot": "Trump had threatened to halt the opening of the cross-border bridge, which is jointly owned by Michigan and Canada. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Canada, Gordie Howe Bridge, Trump, Michigan",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Nevada GOP House, Amodei, Retired Lt",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: congress, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Canada confirms opening of Gordie Howe Bridge, despite Trump's threats",
-        "Source context: Trump had threatened to halt the opening of the cross-border bridge, which is jointly owned by Michigan and Canada. The election angle is whether..."
+        "Story focus: Trump notches win in Nevada GOP House primary for Amodei's seat"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -492,18 +372,135 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Canada.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 10 Jun 2026 05:18:06 +0000",
+      "age_hours": "5.46",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Democrats need to revamp message following Trump foreign policy moves: Think tank",
+      "url": "https://thehill.com/homenews/campaign/5917386-third-way-memo-democratic-foreign-policy/",
+      "snapshot": "A think tank has recommended that Democratic messaging on foreign policy needs to be revamped following drastic moves by the Trump administration. \"Voters are increasingly uncomfortable with Republicans' chaos and escalation, but many remain unconvinced that Democrats project... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Democrats, Trump, Think, Democratic",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats need to revamp message following Trump foreign policy moves",
+        "Source context: A think tank has recommended that Democratic messaging on foreign policy needs to be revamped following drastic moves by the Trump administration...."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 09 Jun 2026 23:53:15 +0000",
+      "age_hours": "10.88",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Graham Platner's race for Senate in Maine and more primaries to watch tonight",
+      "url": "https://www.cbsnews.com/news/maine-senate-primary-graham-platner-susan-collins-south-carolina-nevada-north-dakota/",
+      "snapshot": "Maine Democrat Graham Platner clinched the nomination to take on Republican Sen. Susan Collins in November. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Graham Platner, Senate, Maine, Maine Democrat Graham Platner",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Graham Platner's race for Senate in Maine and more primaries to watch tonight",
+        "Source context: Maine Democrat Graham Platner clinched the nomination to take on Republican Sen. Susan Collins in November. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Graham Platner.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 09 Jun 2026 22:12:48 -0400",
+      "age_hours": "8.55",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+      "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
+      "snapshot": "The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Ukrainian, Sevastopol, Russian, Chongar",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+        "Source context: The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ukrainian.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 09 Jun 2026 21:01:01 +0000",
-      "age_hours": "9.20",
+      "published": "Wed, 10 Jun 2026 07:22:22 +0000",
+      "age_hours": "3.39",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "A four-year-old's recovery from the trauma of war in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
+      "snapshot": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Lebanon, Four, Malika, Israeli",
+        "Story focus: A four-year-old's recovery from the trauma of war in Lebanon",
+        "Source context: Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother. The geopolitical angle is how the decision affects alliances,..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lebanon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 10 Jun 2026 10:09:41 +0000",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
