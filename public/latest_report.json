@@ -1,24 +1,53 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+  "headline": "Workers begin removing Trump's name from Kennedy Center",
   "snapshot": "A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy Center on Friday. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-13 04:41:54 AM ET",
-  "generated_at": "2026-06-13 04:41:54 AM ET",
+  "updated_at": "2026-06-13 07:06:19 AM ET",
+  "generated_at": "2026-06-13 07:06:19 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 146,
-    "live_fresh_items": 38,
-    "editor_fresh_items": 122,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 108,
+    "total_items_checked": 147,
+    "live_fresh_items": 37,
+    "editor_fresh_items": 109,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 110,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-13 04:41:54 AM ET"
+    "last_checked": "2026-06-13 07:06:19 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
+      "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
+      "snapshot": "The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Five, Israel, Lebanon, Lebanese",
+        "Specific figures mentioned: 20",
+        "Story focus: Five killed as Israel hits south Lebanon, issues forced displacement orders",
+        "Source context: The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Five.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 13 Jun 2026 07:33:14 +0000",
+      "age_hours": "3.55",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump says U.S. killed Tren de Aragua leader in airstrike in Venezuela",
       "url": "https://www.cbsnews.com/news/trump-says-u-s-killed-tren-de-aragua-leader-airstrike-nino-guerrero/",
@@ -44,39 +73,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 12 Jun 2026 23:36:47 -0400",
-      "age_hours": "5.08",
+      "age_hours": "7.49",
       "freshness_status": "fresh",
       "editorial_score": "114",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iran war live: US, Iran signal deal within reach; Israel bombs Lebanon",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-      "snapshot": "Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Iran, US, Israel, Lebanon",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live",
-        "Source context: Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 13 Jun 2026 00:00:00 +0000",
-      "age_hours": "8.70",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,20 +103,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 12 Jun 2026 23:53:20 +0000",
-      "age_hours": "8.81",
+      "age_hours": "11.22",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "BREAKING"
     },
     {
-      "headline": "DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+      "headline": "Workers begin removing Trump's name from Kennedy Center",
       "url": "https://www.cbsnews.com/news/kennedy-center-trump-name-judge/",
       "snapshot": "A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy Center on Friday. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: DOJ, Trump, Kennedy Center, President Trump",
+        "Key people or organizations: Workers, Trump, Kennedy Center, President Trump",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+        "Story focus: Workers begin removing Trump's name from Kennedy Center",
         "Source context: A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy..."
       ],
       "why_it_matters": [
@@ -126,29 +125,29 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DOJ.",
+        "Watch for the next official action involving Workers.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 13 Jun 2026 00:37:40 -0400",
-      "age_hours": "4.07",
+      "published": "Sat, 13 Jun 2026 06:56:58 -0400",
+      "age_hours": "0.16",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
-      "url": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
-      "snapshot": "A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for testimony following an explosive report on the White House's purported efforts to contain the scandal surrounding convicted sex... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Marjorie Taylor Greene: UFC fights don't belong on White House lawn",
+      "url": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
+      "snapshot": "President Trump's plan to celebrate his 80th birthday with a UFC viewing on the White House lawn is drawing skepticism from former Rep. Marjorie Taylor Greene (R-Ga.), who says the location is inappropriate. \"I think UFC fights are great. I enjoy watching them, but to be... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Democrat, Comer, Vance, White House",
+        "Key people or organizations: Marjorie Taylor Greene, UFC, White House, President Trump",
+        "Specific figures mentioned: 80",
         "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
-        "Source context: A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for..."
+        "Story focus: Marjorie Taylor Greene"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,30 +155,30 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Democrat.",
+        "Watch for the next official action involving Marjorie Taylor Greene.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 12 Jun 2026 21:44:13 +0000",
-      "age_hours": "10.96",
+      "published": "Sat, 13 Jun 2026 01:04:39 +0000",
+      "age_hours": "10.03",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "91",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+      "headline": "Workers begin removing Trump's name from Kennedy Center",
       "url": "https://www.cbsnews.com/news/kennedy-center-trump-name-judge/",
       "snapshot": "A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy Center on Friday. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: DOJ, Trump, Kennedy Center, President Trump",
+        "Key people or organizations: Workers, Trump, Kennedy Center, President Trump",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+        "Story focus: Workers begin removing Trump's name from Kennedy Center",
         "Source context: A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy..."
       ],
       "why_it_matters": [
@@ -188,15 +187,15 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DOJ.",
+        "Watch for the next official action involving Workers.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 13 Jun 2026 00:37:40 -0400",
-      "age_hours": "4.07",
+      "published": "Sat, 13 Jun 2026 06:56:58 -0400",
+      "age_hours": "0.16",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -226,7 +225,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 12 Jun 2026 23:36:47 -0400",
-      "age_hours": "5.08",
+      "age_hours": "7.49",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
@@ -256,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 12 Jun 2026 23:53:20 +0000",
-      "age_hours": "8.81",
+      "age_hours": "11.22",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "BREAKING"
@@ -286,7 +285,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "age_hours": "22.70",
+      "age_hours": "25.10",
       "freshness_status": "stale",
       "editorial_score": "109",
       "urgency": "WATCH"
@@ -316,27 +315,27 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 08:14:40 +0000",
-      "age_hours": "0.45",
+      "age_hours": "2.86",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+    "Workers begin removing Trump's name from Kennedy Center",
     "Trump says U.S. killed Tren de Aragua leader in airstrike in Venezuela",
     "Appeals panel denies last-ditch effort to keep Trump's name on Kennedy Center"
   ],
   "sections": [
     {
-      "headline": "DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+      "headline": "Workers begin removing Trump's name from Kennedy Center",
       "url": "https://www.cbsnews.com/news/kennedy-center-trump-name-judge/",
       "snapshot": "A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy Center on Friday. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: DOJ, Trump, Kennedy Center, President Trump",
+        "Key people or organizations: Workers, Trump, Kennedy Center, President Trump",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ says Trump's name will be removed from Kennedy Center early Saturday morning",
+        "Story focus: Workers begin removing Trump's name from Kennedy Center",
         "Source context: A federal appellate court denied a last-minute attempt by the Trump administration to stop the removal of President Trump's name from the Kennedy..."
       ],
       "why_it_matters": [
@@ -345,15 +344,15 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DOJ.",
+        "Watch for the next official action involving Workers.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 13 Jun 2026 00:37:40 -0400",
-      "age_hours": "4.07",
+      "published": "Sat, 13 Jun 2026 06:56:58 -0400",
+      "age_hours": "0.16",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -383,7 +382,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 12 Jun 2026 23:36:47 -0400",
-      "age_hours": "5.08",
+      "age_hours": "7.49",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
@@ -413,21 +412,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 12 Jun 2026 23:53:20 +0000",
-      "age_hours": "8.81",
+      "age_hours": "11.22",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
-      "url": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
-      "snapshot": "A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for testimony following an explosive report on the White House's purported efforts to contain the scandal surrounding convicted sex... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Marjorie Taylor Greene: UFC fights don't belong on White House lawn",
+      "url": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
+      "snapshot": "President Trump's plan to celebrate his 80th birthday with a UFC viewing on the White House lawn is drawing skepticism from former Rep. Marjorie Taylor Greene (R-Ga.), who says the location is inappropriate. \"I think UFC fights are great. I enjoy watching them, but to be... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Democrat, Comer, Vance, White House",
+        "Key people or organizations: Marjorie Taylor Greene, UFC, White House, President Trump",
+        "Specific figures mentioned: 80",
         "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
-        "Source context: A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for..."
+        "Story focus: Marjorie Taylor Greene"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,17 +434,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Democrat.",
+        "Watch for the next official action involving Marjorie Taylor Greene.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 12 Jun 2026 21:44:13 +0000",
-      "age_hours": "10.96",
+      "published": "Sat, 13 Jun 2026 01:04:39 +0000",
+      "age_hours": "10.03",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -473,39 +472,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 08:14:40 +0000",
-      "age_hours": "0.45",
+      "age_hours": "2.86",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "Iran war live: US, Iran signal deal within reach; Israel bombs Lebanon",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-      "snapshot": "Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
+      "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
+      "snapshot": "The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Iran, US, Israel, Lebanon",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live",
-        "Source context: Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK. The broader significance is..."
+        "Key people or organizations: Five, Israel, Lebanon, Lebanese",
+        "Specific figures mentioned: 20",
+        "Story focus: Five killed as Israel hits south Lebanon, issues forced displacement orders",
+        "Source context: The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Five.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 13 Jun 2026 00:00:00 +0000",
-      "age_hours": "8.70",
+      "published": "Sat, 13 Jun 2026 07:33:14 +0000",
+      "age_hours": "3.55",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
