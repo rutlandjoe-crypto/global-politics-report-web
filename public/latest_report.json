@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump name stripped from Kennedy Center after court ruling, rain delay",
   "snapshot": "Workers removed President Trump's name from the exterior of the Kennedy Center on Saturday morning, hours past a court-ordered deadline that was later extended. Justice Department (DOJ) attorneys representing the historic performing arts center asked a district court late... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-06-13 05:59:09 PM ET",
-  "generated_at": "2026-06-13 05:59:09 PM ET",
+  "updated_at": "2026-06-13 07:00:59 PM ET",
+  "generated_at": "2026-06-13 07:00:59 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 54,
-    "editor_fresh_items": 123,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 91,
+    "total_items_checked": 146,
+    "live_fresh_items": 53,
+    "editor_fresh_items": 120,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 93,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-13 05:59:09 PM ET"
+    "last_checked": "2026-06-13 07:00:59 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 20:40:06 +0000",
-      "age_hours": "1.32",
+      "age_hours": "2.35",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -72,7 +72,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 18:54:09 +0000",
-      "age_hours": "3.08",
+      "age_hours": "4.11",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -102,7 +102,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 13 Jun 2026 12:07:46 +0000",
-      "age_hours": "9.86",
+      "age_hours": "10.89",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
@@ -131,7 +131,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 13 Jun 2026 21:00:00 +0000",
-      "age_hours": "0.99",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -161,43 +161,13 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 13 Jun 2026 17:43:58 -0400",
-      "age_hours": "0.25",
+      "age_hours": "1.28",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Senate GOP balks at Trump demand to boost defense funding in third reconciliation bill",
-      "url": "https://thehill.com/homenews/senate/5920947-gop-senators-oppose-third-reconciliation/",
-      "snapshot": "Senate Republicans say they are in no mood to back President Trump's demand that Congress use the budget reconciliation process a third time to provide another $350 billion to the Pentagon. The GOP senators, who just slogged through an overnight 18-hour series of votes last... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate GOP, Trump, Senate Republicans, President Trump",
-        "Specific figures mentioned: $350 billion, 18",
-        "Politics desk signal: congress, senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate GOP balks at Trump demand to boost defense funding in third reconciliation bill"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "age_hours": "35.99",
-      "freshness_status": "stale",
-      "editorial_score": "109",
-      "urgency": "WATCH"
-    },
     {
       "headline": "Trump name stripped from Kennedy Center after court ruling, rain delay",
       "url": "https://thehill.com/homenews/administration/5922781-kennedy-center-workers-trump-name-court-ruling/",
@@ -223,10 +193,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 13 Jun 2026 12:07:46 +0000",
-      "age_hours": "9.86",
+      "age_hours": "10.89",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump creates tricky terrain for Hilton in California governor's race",
+      "url": "https://thehill.com/homenews/campaign/5920912-steve-hilton-trump-endorsement-california-governor-race/",
+      "snapshot": "President Trump's voter fraud accusations in California are already highlighting the tricky terrain facing gubernatorial nominee Steve Hilton as he navigates running as a Trump-endorsed Republican in a state where the president is hugely unpopular. The British political... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Hilton, California, President Trump",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump creates tricky terrain for Hilton in California governor's race",
+        "Source context: President Trump's voter fraud accusations in California are already highlighting the tricky terrain facing gubernatorial nominee Steve Hilton as he..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 13 Jun 2026 21:00:00 +0000",
+      "age_hours": "2.02",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
     },
     {
       "headline": "A key spy tool expired due to inaction in Congress. Here's what that means.",
@@ -253,7 +252,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 13 Jun 2026 17:43:58 -0400",
-      "age_hours": "0.25",
+      "age_hours": "1.28",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -283,7 +282,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 12 Jun 2026 23:36:47 -0400",
-      "age_hours": "18.37",
+      "age_hours": "19.40",
       "freshness_status": "stale",
       "editorial_score": "84",
       "urgency": "DEVELOPING"
@@ -311,7 +310,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 20:40:06 +0000",
-      "age_hours": "1.32",
+      "age_hours": "2.35",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -348,7 +347,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 13 Jun 2026 12:07:46 +0000",
-      "age_hours": "9.86",
+      "age_hours": "10.89",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
@@ -377,7 +376,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 13 Jun 2026 21:00:00 +0000",
-      "age_hours": "0.99",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -407,7 +406,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 13 Jun 2026 17:43:58 -0400",
-      "age_hours": "0.25",
+      "age_hours": "1.28",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -437,7 +436,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 13 Jun 2026 13:27:02 -0400",
-      "age_hours": "4.53",
+      "age_hours": "5.57",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -465,7 +464,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 20:40:06 +0000",
-      "age_hours": "1.32",
+      "age_hours": "2.35",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -495,7 +494,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 13 Jun 2026 18:54:09 +0000",
-      "age_hours": "3.08",
+      "age_hours": "4.11",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
