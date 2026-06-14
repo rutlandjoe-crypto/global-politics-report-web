@@ -1,34 +1,64 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Vance: Trump \"very supportive\" as vice president moves closer to 2028 decision",
-  "snapshot": "Vice President JD Vance tells \"CBS Sunday Morning\" that he and his wife, Usha, will make a decision whether to enter the 2028 presidential race following the 2026 midterm elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-06-14 11:02:08 AM ET",
-  "generated_at": "2026-06-14 11:02:08 AM ET",
+  "headline": "Trump, Hegseth lean on GOP to move defense dollars",
+  "snapshot": "President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's budget. Hegseth this past week spoke with senior House Republicans in at least two separate conversations to discuss military... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-06-14 01:04:37 PM ET",
+  "generated_at": "2026-06-14 01:04:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 41,
-    "editor_fresh_items": 82,
-    "public_fallback_items": 144,
-    "stale_or_blocked_items": 104,
+    "total_items_checked": 141,
+    "live_fresh_items": 50,
+    "editor_fresh_items": 89,
+    "public_fallback_items": 141,
+    "stale_or_blocked_items": 91,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-14 11:02:08 AM ET"
+    "last_checked": "2026-06-14 01:04:37 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Supreme Court's docket loaded as decision season nears climax",
-      "url": "https://thehill.com/regulation/court-battles/5922350-supreme-court-final-opinions-trump-agenda/",
-      "snapshot": "The Supreme Court is in its final sprint. President Trump's agenda is on the line as the justices dash to hand down their remaining decisions by their self-imposed deadline of the end of June. With 20 argued cases left, the court's pace is exactly on par with this time last... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Trump warns Israel, Iran to 'not blow' emerging peace deal",
+      "url": "https://thehill.com/homenews/administration/5923441-trump-israel-iran-lebanon-strikes/",
+      "snapshot": "President Trump on Sunday warned Israel and Iran to \"not blow\" the finalization of an emerging peace deal amid strikes in Lebanon. \"We are very close to a Deal that will bring peace to the region, including to Lebanon, and all sides should stand down,\" Trump wrote on Truth... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Supreme Court, President Trump, June",
-        "Specific figures mentioned: 20",
-        "Politics desk signal: supreme court, court",
+        "Key people or organizations: Trump, Israel, Iran, President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court's docket loaded as decision season nears climax"
+        "Story focus: Trump warns Israel, Iran to 'not blow' emerging peace deal",
+        "Source context: President Trump on Sunday warned Israel and Iran to \"not blow\" the finalization of an emerging peace deal amid strikes in Lebanon. \"We are very close..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 14 Jun 2026 16:03:49 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump, Hegseth lean on GOP to move defense dollars",
+      "url": "https://thehill.com/policy/defense/5922413-defense-budget-trump-reconciliation/",
+      "snapshot": "President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's budget. Hegseth this past week spoke with senior House Republicans in at least two separate conversations to discuss military... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, Hegseth, GOP, President Trump",
+        "Politics desk signal: house, court, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, Hegseth lean on GOP to move defense dollars",
+        "Source context: President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -36,18 +66,18 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Trump.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 14 Jun 2026 10:00:00 +0000",
-      "age_hours": "5.03",
+      "published": "Sun, 14 Jun 2026 16:00:00 +0000",
+      "age_hours": "1.08",
       "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "BREAKING"
+      "editorial_score": "139",
+      "urgency": "WATCH"
     },
     {
       "headline": "Vance: Trump \"very supportive\" as vice president moves closer to 2028 decision",
@@ -74,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 14 Jun 2026 10:12:59 -0400",
-      "age_hours": "0.82",
+      "age_hours": "2.86",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -104,21 +134,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 14 Jun 2026 06:18:03 -0400",
-      "age_hours": "4.73",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump endorses Collins in Georgia Republican Senate runoff",
-      "url": "https://thehill.com/homenews/campaign/5923238-trump-endorses-mike-collins-georgia-senate/",
-      "snapshot": "President Trump early on Sunday endorsed Rep. Mike Collins (R-Ga.) over former college football coach Derek Dooley in Tuesday's Georgia GOP Senate runoff. \"Mike is strongly supported by the most Highly Respected MAGA Patriots in Georgia and beyond, and many Republicans in the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump condemns Israel's attack on Beirut, says Iran deal still close",
+      "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+      "snapshot": "Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Collins, Georgia Republican Senate, President Trump",
-        "Politics desk signal: senate",
+        "Key people or organizations: Trump, Israel, Beirut, Iran",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump endorses Collins in Georgia Republican Senate runoff",
-        "Source context: President Trump early on Sunday endorsed Rep. Mike Collins (R-Ga.) over former college football coach Derek Dooley in Tuesday's Georgia GOP Senate..."
+        "Story focus: Trump condemns Israel's attack on Beirut, says Iran deal still close",
+        "Source context: Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -131,40 +161,10 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 14 Jun 2026 11:49:39 +0000",
-      "age_hours": "3.21",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-      "snapshot": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah 'infrastructure'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Israel, Beirut, Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Israel attacks Beirut on same day Trump says Iran deal to be signed",
-        "Source context: Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah 'infrastructure'. The election angle is whether this changes voter..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 14 Jun 2026 11:15:23 +0000",
-      "age_hours": "3.78",
+      "published": "Sun, 14 Jun 2026 15:22:36 +0000",
+      "age_hours": "1.70",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
@@ -172,6 +172,66 @@
   ],
   "editor_signals": [
     {
+      "headline": "Trump, Hegseth lean on GOP to move defense dollars",
+      "url": "https://thehill.com/policy/defense/5922413-defense-budget-trump-reconciliation/",
+      "snapshot": "President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's budget. Hegseth this past week spoke with senior House Republicans in at least two separate conversations to discuss military... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, Hegseth, GOP, President Trump",
+        "Politics desk signal: house, court, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, Hegseth lean on GOP to move defense dollars",
+        "Source context: President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 14 Jun 2026 16:00:00 +0000",
+      "age_hours": "1.08",
+      "freshness_status": "fresh",
+      "editorial_score": "139",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump warns Israel, Iran to 'not blow' emerging peace deal",
+      "url": "https://thehill.com/homenews/administration/5923441-trump-israel-iran-lebanon-strikes/",
+      "snapshot": "President Trump on Sunday warned Israel and Iran to \"not blow\" the finalization of an emerging peace deal amid strikes in Lebanon. \"We are very close to a Deal that will bring peace to the region, including to Lebanon, and all sides should stand down,\" Trump wrote on Truth... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Israel, Iran, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump warns Israel, Iran to 'not blow' emerging peace deal",
+        "Source context: President Trump on Sunday warned Israel and Iran to \"not blow\" the finalization of an emerging peace deal amid strikes in Lebanon. \"We are very close..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 14 Jun 2026 16:03:49 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Vance: Trump \"very supportive\" as vice president moves closer to 2028 decision",
       "url": "https://www.cbsnews.com/news/vance-trump-very-supportive-as-vice-president-moves-closer-to-2028-decision/",
       "snapshot": "Vice President JD Vance tells \"CBS Sunday Morning\" that he and his wife, Usha, will make a decision whether to enter the 2028 presidential race following the 2026 midterm elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -196,40 +256,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 14 Jun 2026 10:12:59 -0400",
-      "age_hours": "0.82",
+      "age_hours": "2.86",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
-    },
-    {
-      "headline": "Supreme Court's docket loaded as decision season nears climax",
-      "url": "https://thehill.com/regulation/court-battles/5922350-supreme-court-final-opinions-trump-agenda/",
-      "snapshot": "The Supreme Court is in its final sprint. President Trump's agenda is on the line as the justices dash to hand down their remaining decisions by their self-imposed deadline of the end of June. With 20 argued cases left, the court's pace is exactly on par with this time last... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, President Trump, June",
-        "Specific figures mentioned: 20",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court's docket loaded as decision season nears climax"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 14 Jun 2026 10:00:00 +0000",
-      "age_hours": "5.03",
-      "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "BREAKING"
     },
     {
       "headline": "White House hosting UFC fight tonight on Trump's 80th birthday",
@@ -256,21 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 14 Jun 2026 06:18:03 -0400",
-      "age_hours": "4.73",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump endorses Collins in Georgia Republican Senate runoff",
-      "url": "https://thehill.com/homenews/campaign/5923238-trump-endorses-mike-collins-georgia-senate/",
-      "snapshot": "President Trump early on Sunday endorsed Rep. Mike Collins (R-Ga.) over former college football coach Derek Dooley in Tuesday's Georgia GOP Senate runoff. \"Mike is strongly supported by the most Highly Respected MAGA Patriots in Georgia and beyond, and many Republicans in the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump condemns Israel's attack on Beirut, says Iran deal still close",
+      "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+      "snapshot": "Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Collins, Georgia Republican Senate, President Trump",
-        "Politics desk signal: senate",
+        "Key people or organizations: Trump, Israel, Beirut, Iran",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump endorses Collins in Georgia Republican Senate runoff",
-        "Source context: President Trump early on Sunday endorsed Rep. Mike Collins (R-Ga.) over former college football coach Derek Dooley in Tuesday's Georgia GOP Senate..."
+        "Story focus: Trump condemns Israel's attack on Beirut, says Iran deal still close",
+        "Source context: Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -283,51 +313,81 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 14 Jun 2026 11:49:39 +0000",
-      "age_hours": "3.21",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-      "snapshot": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah 'infrastructure'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Israel, Beirut, Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Israel attacks Beirut on same day Trump says Iran deal to be signed",
-        "Source context: Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah 'infrastructure'. The election angle is whether this changes voter..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 14 Jun 2026 11:15:23 +0000",
-      "age_hours": "3.78",
+      "published": "Sun, 14 Jun 2026 15:22:36 +0000",
+      "age_hours": "1.70",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "Vance: Trump \"very supportive\" as vice president moves closer to 2028 decision",
-    "Supreme Court's docket loaded as decision season nears climax",
-    "White House hosting UFC fight tonight on Trump's 80th birthday"
+    "Trump, Hegseth lean on GOP to move defense dollars",
+    "Trump warns Israel, Iran to 'not blow' emerging peace deal",
+    "Vance: Trump \"very supportive\" as vice president moves closer to 2028 decision"
   ],
   "sections": [
+    {
+      "headline": "Trump, Hegseth lean on GOP to move defense dollars",
+      "url": "https://thehill.com/policy/defense/5922413-defense-budget-trump-reconciliation/",
+      "snapshot": "President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's budget. Hegseth this past week spoke with senior House Republicans in at least two separate conversations to discuss military... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, Hegseth, GOP, President Trump",
+        "Politics desk signal: house, court, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, Hegseth lean on GOP to move defense dollars",
+        "Source context: President Trump and Defense Secretary Pete Hegseth are in a full court press to sell GOP lawmakers on a massive funding injection for the Pentagon's..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 14 Jun 2026 16:00:00 +0000",
+      "age_hours": "1.08",
+      "freshness_status": "fresh",
+      "editorial_score": "139",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump warns Israel, Iran to 'not blow' emerging peace deal",
+      "url": "https://thehill.com/homenews/administration/5923441-trump-israel-iran-lebanon-strikes/",
+      "snapshot": "President Trump on Sunday warned Israel and Iran to \"not blow\" the finalization of an emerging peace deal amid strikes in Lebanon. \"We are very close to a Deal that will bring peace to the region, including to Lebanon, and all sides should stand down,\" Trump wrote on Truth... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Israel, Iran, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump warns Israel, Iran to 'not blow' emerging peace deal",
+        "Source context: President Trump on Sunday warned Israel and Iran to \"not blow\" the finalization of an emerging peace deal amid strikes in Lebanon. \"We are very close..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 14 Jun 2026 16:03:49 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Vance: Trump \"very supportive\" as vice president moves closer to 2028 decision",
       "url": "https://www.cbsnews.com/news/vance-trump-very-supportive-as-vice-president-moves-closer-to-2028-decision/",
@@ -353,40 +413,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 14 Jun 2026 10:12:59 -0400",
-      "age_hours": "0.82",
+      "age_hours": "2.86",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
-    },
-    {
-      "headline": "Supreme Court's docket loaded as decision season nears climax",
-      "url": "https://thehill.com/regulation/court-battles/5922350-supreme-court-final-opinions-trump-agenda/",
-      "snapshot": "The Supreme Court is in its final sprint. President Trump's agenda is on the line as the justices dash to hand down their remaining decisions by their self-imposed deadline of the end of June. With 20 argued cases left, the court's pace is exactly on par with this time last... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, President Trump, June",
-        "Specific figures mentioned: 20",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court's docket loaded as decision season nears climax"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 14 Jun 2026 10:00:00 +0000",
-      "age_hours": "5.03",
-      "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "BREAKING"
     },
     {
       "headline": "White House hosting UFC fight tonight on Trump's 80th birthday",
@@ -413,21 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 14 Jun 2026 06:18:03 -0400",
-      "age_hours": "4.73",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump endorses Collins in Georgia Republican Senate runoff",
-      "url": "https://thehill.com/homenews/campaign/5923238-trump-endorses-mike-collins-georgia-senate/",
-      "snapshot": "President Trump early on Sunday endorsed Rep. Mike Collins (R-Ga.) over former college football coach Derek Dooley in Tuesday's Georgia GOP Senate runoff. \"Mike is strongly supported by the most Highly Respected MAGA Patriots in Georgia and beyond, and many Republicans in the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump condemns Israel's attack on Beirut, says Iran deal still close",
+      "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+      "snapshot": "Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Collins, Georgia Republican Senate, President Trump",
-        "Politics desk signal: senate",
+        "Key people or organizations: Trump, Israel, Beirut, Iran",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump endorses Collins in Georgia Republican Senate runoff",
-        "Source context: President Trump early on Sunday endorsed Rep. Mike Collins (R-Ga.) over former college football coach Derek Dooley in Tuesday's Georgia GOP Senate..."
+        "Story focus: Trump condemns Israel's attack on Beirut, says Iran deal still close",
+        "Source context: Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -440,13 +470,13 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 14 Jun 2026 11:49:39 +0000",
-      "age_hours": "3.21",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 14 Jun 2026 15:22:36 +0000",
+      "age_hours": "1.70",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
+      "editorial_score": "78",
+      "urgency": "WATCH"
     },
     {
       "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
@@ -473,39 +503,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 14 Jun 2026 11:15:23 +0000",
-      "age_hours": "3.78",
+      "age_hours": "5.82",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Signing of US-Iran deal not on Trump's public schedule",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
-      "snapshot": "Signing of US-Iran deal not on Trump's public schedule. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Signing, US, Iran, Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Signing of US-Iran deal not on Trump's public schedule",
-        "Source context: Signing of US-Iran deal not on Trump's public schedule. The election angle is whether this changes voter attention, campaign strategy or party..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Signing.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 14 Jun 2026 07:56:10 +0000",
-      "age_hours": "7.10",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
       "urgency": "WATCH"
     }
   ],
