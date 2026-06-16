@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Judge who attended Fani Willis campaign event recuses from DOJ voting lawsuit",
   "snapshot": "A federal judge agreed to step aside on Monday from a major voting lawsuit brought by the Trump administration after an investigation discovered the judge attended a campaign event for Fulton County, Ga., District Attorney Fani Willis (D), who prosecuted Trump after the 2020... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-06-16 02:23:54 PM ET",
-  "generated_at": "2026-06-16 02:23:54 PM ET",
+  "updated_at": "2026-06-16 05:37:57 PM ET",
+  "generated_at": "2026-06-16 05:37:57 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 97,
+    "total_items_checked": 152,
+    "live_fresh_items": 128,
     "editor_fresh_items": 144,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 52,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 24,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-16 02:23:54 PM ET"
+    "last_checked": "2026-06-16 05:37:57 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 16 Jun 2026 14:32:37 +0000",
-      "age_hours": "3.85",
+      "age_hours": "7.09",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
@@ -72,7 +72,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 16 Jun 2026 17:42:12 +0000",
-      "age_hours": "0.69",
+      "age_hours": "3.93",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -102,39 +102,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 16 Jun 2026 07:59:00 -0400",
-      "age_hours": "6.41",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
       "editorial_score": "130",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Newsom-Trump feud explodes over investigation",
-      "url": "https://thehill.com/homenews/campaign/fight-for-2028/5925895-newsom-trump-ossoff-democrats-2028-live-discussion/",
-      "snapshot": "Gavin Newsom says he's under investigation by Trump. Is that actually helpful for him? And Democrats are searching for the next Obama. Is there a contender? Meanwhile, Sen. Jon Ossoff (D-Ga.) is seeing growing presidential buzz among Democrats. Does he have a chance for the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Newsom, Trump, Gavin Newsom, Is",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Newsom-Trump feud explodes over investigation",
-        "Source context: Gavin Newsom says he's under investigation by Trump. Is that actually helpful for him? And Democrats are searching for the next Obama. Is there a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Newsom.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 16 Jun 2026 13:12:39 +0000",
-      "age_hours": "5.19",
-      "freshness_status": "fresh",
-      "editorial_score": "113",
       "urgency": "DEVELOPING"
     },
     {
@@ -162,10 +132,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 16 Jun 2026 16:55:31 +0000",
-      "age_hours": "1.47",
+      "age_hours": "4.71",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Hillary Clinton: Biden reelection campaign a 'terrible mistake'",
+      "url": "https://thehill.com/homenews/campaign/5926819-biden-hillary-clinton-2024-election/",
+      "snapshot": "Former Secretary of State Hillary Clinton on Monday criticized former President Biden's decision to go for another White House term in 2024. \"He made a terrible mistake. He made a terrible mistake for himself, his legacy, and for the country. He had said that he would not run... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Hillary Clinton, Biden, Former Secretary, State Hillary Clinton",
+        "Specific figures mentioned: 2024",
+        "Politics desk signal: house, white house, election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Hillary Clinton"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hillary Clinton.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 16 Jun 2026 20:33:16 +0000",
+      "age_hours": "1.08",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -194,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 16 Jun 2026 14:32:37 +0000",
-      "age_hours": "3.85",
+      "age_hours": "7.09",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
@@ -224,21 +224,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 16 Jun 2026 07:59:00 -0400",
-      "age_hours": "6.41",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Newsom-Trump feud explodes over investigation",
-      "url": "https://thehill.com/homenews/campaign/fight-for-2028/5925895-newsom-trump-ossoff-democrats-2028-live-discussion/",
-      "snapshot": "Gavin Newsom says he's under investigation by Trump. Is that actually helpful for him? And Democrats are searching for the next Obama. Is there a contender? Meanwhile, Sen. Jon Ossoff (D-Ga.) is seeing growing presidential buzz among Democrats. Does he have a chance for the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Hillary Clinton: Biden reelection campaign a 'terrible mistake'",
+      "url": "https://thehill.com/homenews/campaign/5926819-biden-hillary-clinton-2024-election/",
+      "snapshot": "Former Secretary of State Hillary Clinton on Monday criticized former President Biden's decision to go for another White House term in 2024. \"He made a terrible mistake. He made a terrible mistake for himself, his legacy, and for the country. He had said that he would not run... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Newsom, Trump, Gavin Newsom, Is",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Hillary Clinton, Biden, Former Secretary, State Hillary Clinton",
+        "Specific figures mentioned: 2024",
+        "Politics desk signal: house, white house, election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Newsom-Trump feud explodes over investigation",
-        "Source context: Gavin Newsom says he's under investigation by Trump. Is that actually helpful for him? And Democrats are searching for the next Obama. Is there a..."
+        "Story focus: Hillary Clinton"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -246,18 +246,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Newsom.",
+        "Watch for the next official action involving Hillary Clinton.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 16 Jun 2026 13:12:39 +0000",
-      "age_hours": "5.19",
+      "published": "Tue, 16 Jun 2026 20:33:16 +0000",
+      "age_hours": "1.08",
       "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": ""
     },
     {
       "headline": "Feds reveal new details of alleged plot to attack White House UFC event",
@@ -283,8 +283,8 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 16 Jun 2026 14:00:27 -0400",
-      "age_hours": "0.39",
+      "published": "Tue, 16 Jun 2026 16:55:20 -0400",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -314,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 16 Jun 2026 16:55:31 +0000",
-      "age_hours": "1.47",
+      "age_hours": "4.71",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -323,7 +323,7 @@
   "key_storylines": [
     "Judge who attended Fani Willis campaign event recuses from DOJ voting lawsuit",
     "Israel's recent attack in Lebanon was \"too much,\" Trump says",
-    "Newsom-Trump feud explodes over investigation"
+    "Hillary Clinton: Biden reelection campaign a 'terrible mistake'"
   ],
   "sections": [
     {
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 16 Jun 2026 14:32:37 +0000",
-      "age_hours": "3.85",
+      "age_hours": "7.09",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
@@ -381,21 +381,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 16 Jun 2026 07:59:00 -0400",
-      "age_hours": "6.41",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Newsom-Trump feud explodes over investigation",
-      "url": "https://thehill.com/homenews/campaign/fight-for-2028/5925895-newsom-trump-ossoff-democrats-2028-live-discussion/",
-      "snapshot": "Gavin Newsom says he's under investigation by Trump. Is that actually helpful for him? And Democrats are searching for the next Obama. Is there a contender? Meanwhile, Sen. Jon Ossoff (D-Ga.) is seeing growing presidential buzz among Democrats. Does he have a chance for the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Hillary Clinton: Biden reelection campaign a 'terrible mistake'",
+      "url": "https://thehill.com/homenews/campaign/5926819-biden-hillary-clinton-2024-election/",
+      "snapshot": "Former Secretary of State Hillary Clinton on Monday criticized former President Biden's decision to go for another White House term in 2024. \"He made a terrible mistake. He made a terrible mistake for himself, his legacy, and for the country. He had said that he would not run... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Newsom, Trump, Gavin Newsom, Is",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Hillary Clinton, Biden, Former Secretary, State Hillary Clinton",
+        "Specific figures mentioned: 2024",
+        "Politics desk signal: house, white house, election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Newsom-Trump feud explodes over investigation",
-        "Source context: Gavin Newsom says he's under investigation by Trump. Is that actually helpful for him? And Democrats are searching for the next Obama. Is there a..."
+        "Story focus: Hillary Clinton"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -403,18 +403,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Newsom.",
+        "Watch for the next official action involving Hillary Clinton.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 16 Jun 2026 13:12:39 +0000",
-      "age_hours": "5.19",
+      "published": "Tue, 16 Jun 2026 20:33:16 +0000",
+      "age_hours": "1.08",
       "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": ""
     },
     {
       "headline": "Feds reveal new details of alleged plot to attack White House UFC event",
@@ -440,8 +440,8 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 16 Jun 2026 14:00:27 -0400",
-      "age_hours": "0.39",
+      "published": "Tue, 16 Jun 2026 16:55:20 -0400",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -471,7 +471,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 16 Jun 2026 16:55:31 +0000",
-      "age_hours": "1.47",
+      "age_hours": "4.71",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -499,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 16 Jun 2026 17:42:12 +0000",
-      "age_hours": "0.69",
+      "age_hours": "3.93",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
