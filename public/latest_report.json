@@ -3,22 +3,50 @@
   "vertical": "Politics",
   "headline": "Newsom sees Trump DOJ investigation as a political gift",
   "snapshot": "An investigation by the Department of Justice (DOJ) could have put California Gov. Gavin Newsom (D) on defense. Instead, it is giving Newsom, seen as a leading Democratic White House contender in 2028, a new political opening. Newsom is embracing the DOJ investigation, using... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-17 08:43:15 AM ET",
-  "generated_at": "2026-06-17 08:43:15 AM ET",
+  "updated_at": "2026-06-17 12:32:06 PM ET",
+  "generated_at": "2026-06-17 12:32:06 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 144,
-    "live_fresh_items": 54,
-    "editor_fresh_items": 142,
-    "public_fallback_items": 143,
-    "stale_or_blocked_items": 90,
+    "total_items_checked": 142,
+    "live_fresh_items": 77,
+    "editor_fresh_items": 141,
+    "public_fallback_items": 142,
+    "stale_or_blocked_items": 65,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-17 08:43:15 AM ET"
+    "last_checked": "2026-06-17 12:32:06 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Israeli air strikes on Lebanon continue despite US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
+      "snapshot": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Lebanon, US, Iran",
+        "Story focus: Israeli air strikes on Lebanon continue despite US-Iran deal",
+        "Source context: There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 17 Jun 2026 13:15:42 +0000",
+      "age_hours": "3.27",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Newsom sees Trump DOJ investigation as a political gift",
       "url": "https://thehill.com/homenews/5926724-newsom-embraces-trump-investigation/",
@@ -44,21 +72,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.72",
+      "age_hours": "6.53",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-      "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
-      "snapshot": "Iran warns of a 'harsh response' as Lebanon attacks test the US deal and strain Trump-Netanyahu ties. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+      "url": "https://www.cbsnews.com/news/jd-vance-interview-iran-deal-text/",
+      "snapshot": "Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Iran, Tehran, Israeli, Lebanon",
-        "Specific figures mentioned: 110",
+        "Key people or organizations: Vance, Iran, Vice President JD Vance, CBS Monrings",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 110"
+        "Story focus: Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+        "Source context: Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,46 +94,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Vance.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 07:24:12 +0000",
-      "age_hours": "5.32",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 17 Jun 2026 09:54:43 -0400",
+      "age_hours": "2.62",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "120",
+      "urgency": "WATCH"
     },
     {
-      "headline": "China pledges new humanitarian aid packages for Lebanon and Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
-      "snapshot": "China pledges new humanitarian aid packages for Lebanon and Iran. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump administration asks judge to halt first reparations program for Black people in US",
+      "url": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
+      "snapshot": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb's housing reparations program for Black residents, arguing it is \"racially discriminatory\" and unconstitutional. The city council in Evanston, Ill., earmarked $10 million in... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
       "key_data": [
-        "Key people or organizations: China, Lebanon, Iran",
-        "Politics desk signal: china",
-        "Story focus: China pledges new humanitarian aid packages for Lebanon and Iran",
-        "Source context: China pledges new humanitarian aid packages for Lebanon and Iran. The geopolitical angle is how the decision affects alliances, economic pressure,..."
+        "Key people or organizations: Trump, Black, US, Chicago",
+        "Specific figures mentioned: $10 million",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration asks judge to halt first reparations program for Black people in US"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving China.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 12:26:57 +0000",
-      "age_hours": "0.27",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 17 Jun 2026 13:18:21 +0000",
+      "age_hours": "3.23",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -132,38 +161,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 08:14:21 -0400",
-      "age_hours": "0.48",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff",
-      "url": "https://www.cbsnews.com/news/georgia-senate-republican-runoff-primary-results-mike-collins-derek-dooley-trump-ossoff/",
-      "snapshot": "Rep. Mike Collins will face off against Democratic Sen. Jon Ossoff in November as Republicans look to Georgia to deliver a key GOP victory that could determine control of the Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Rep, Mike Collins, Georgia GOP Senate",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff",
-        "Source context: Rep. Mike Collins will face off against Democratic Sen. Jon Ossoff in November as Republicans look to Georgia to deliver a key GOP victory that could..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 16 Jun 2026 22:20:00 -0400",
-      "age_hours": "10.39",
+      "published": "Wed, 17 Jun 2026 08:14:00 -0400",
+      "age_hours": "4.30",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -195,9 +194,69 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.72",
+      "age_hours": "6.53",
       "freshness_status": "fresh",
       "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+      "url": "https://www.cbsnews.com/news/jd-vance-interview-iran-deal-text/",
+      "snapshot": "Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Vance, Iran, Vice President JD Vance, CBS Monrings",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+        "Source context: Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vance.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 17 Jun 2026 09:54:43 -0400",
+      "age_hours": "2.62",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump administration asks judge to halt first reparations program for Black people in US",
+      "url": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
+      "snapshot": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb's housing reparations program for Black residents, arguing it is \"racially discriminatory\" and unconstitutional. The city council in Evanston, Ill., earmarked $10 million in... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Trump, Black, US, Chicago",
+        "Specific figures mentioned: $10 million",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration asks judge to halt first reparations program for Black people in US"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 17 Jun 2026 13:18:21 +0000",
+      "age_hours": "3.23",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -224,107 +283,45 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 08:14:21 -0400",
-      "age_hours": "0.48",
+      "published": "Wed, 17 Jun 2026 08:14:00 -0400",
+      "age_hours": "4.30",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff",
-      "url": "https://www.cbsnews.com/news/georgia-senate-republican-runoff-primary-results-mike-collins-derek-dooley-trump-ossoff/",
-      "snapshot": "Rep. Mike Collins will face off against Democratic Sen. Jon Ossoff in November as Republicans look to Georgia to deliver a key GOP victory that could determine control of the Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Israeli air strikes on Lebanon continue despite US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
+      "snapshot": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Rep, Mike Collins, Georgia GOP Senate",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff",
-        "Source context: Rep. Mike Collins will face off against Democratic Sen. Jon Ossoff in November as Republicans look to Georgia to deliver a key GOP victory that could..."
+        "Key people or organizations: Israeli, Lebanon, US, Iran",
+        "Story focus: Israeli air strikes on Lebanon continue despite US-Iran deal",
+        "Source context: There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 16 Jun 2026 22:20:00 -0400",
-      "age_hours": "10.39",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump delaying Clayton nomination in voting bill push",
-      "url": "https://thehill.com/homenews/administration/5927665-donald-trump-pauses-clayton-dni-nomination/",
-      "snapshot": "President Trump announced on Wednesday morning that he is pausing the confirmation process for federal prosecutor Jay Clayton's nomination to be Director of National Intelligence (DNI) until Congress approves the nation's warrantless spy powers and a voter ID bill. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Clayton, President Trump, Jay Clayton",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump delaying Clayton nomination in voting bill push",
-        "Source context: President Trump announced on Wednesday morning that he is pausing the confirmation process for federal prosecutor Jay Clayton's nomination to be..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 17 Jun 2026 11:33:33 +0000",
-      "age_hours": "1.16",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-      "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
-      "snapshot": "Iran warns of a 'harsh response' as Lebanon attacks test the US deal and strain Trump-Netanyahu ties. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Tehran, Israeli, Lebanon",
-        "Specific figures mentioned: 110",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 110"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 07:24:12 +0000",
-      "age_hours": "5.32",
+      "published": "Wed, 17 Jun 2026 13:15:42 +0000",
+      "age_hours": "3.27",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Newsom sees Trump DOJ investigation as a political gift",
-    "Trump puts Jay Clayton's nomination for intel chief on hold",
-    "Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff"
+    "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+    "Trump administration asks judge to halt first reparations program for Black people in US"
   ],
   "sections": [
     {
@@ -352,9 +349,69 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.72",
+      "age_hours": "6.53",
       "freshness_status": "fresh",
       "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+      "url": "https://www.cbsnews.com/news/jd-vance-interview-iran-deal-text/",
+      "snapshot": "Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Vance, Iran, Vice President JD Vance, CBS Monrings",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
+        "Source context: Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vance.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 17 Jun 2026 09:54:43 -0400",
+      "age_hours": "2.62",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump administration asks judge to halt first reparations program for Black people in US",
+      "url": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
+      "snapshot": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb's housing reparations program for Black residents, arguing it is \"racially discriminatory\" and unconstitutional. The city council in Evanston, Ill., earmarked $10 million in... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Trump, Black, US, Chicago",
+        "Specific figures mentioned: $10 million",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration asks judge to halt first reparations program for Black people in US"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 17 Jun 2026 13:18:21 +0000",
+      "age_hours": "3.23",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -381,111 +438,20 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 08:14:21 -0400",
-      "age_hours": "0.48",
+      "published": "Wed, 17 Jun 2026 08:14:00 -0400",
+      "age_hours": "4.30",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff",
-      "url": "https://www.cbsnews.com/news/georgia-senate-republican-runoff-primary-results-mike-collins-derek-dooley-trump-ossoff/",
-      "snapshot": "Rep. Mike Collins will face off against Democratic Sen. Jon Ossoff in November as Republicans look to Georgia to deliver a key GOP victory that could determine control of the Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Israeli air strikes on Lebanon continue despite US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
+      "snapshot": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Rep, Mike Collins, Georgia GOP Senate",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff",
-        "Source context: Rep. Mike Collins will face off against Democratic Sen. Jon Ossoff in November as Republicans look to Georgia to deliver a key GOP victory that could..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 16 Jun 2026 22:20:00 -0400",
-      "age_hours": "10.39",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump delaying Clayton nomination in voting bill push",
-      "url": "https://thehill.com/homenews/administration/5927665-donald-trump-pauses-clayton-dni-nomination/",
-      "snapshot": "President Trump announced on Wednesday morning that he is pausing the confirmation process for federal prosecutor Jay Clayton's nomination to be Director of National Intelligence (DNI) until Congress approves the nation's warrantless spy powers and a voter ID bill. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Clayton, President Trump, Jay Clayton",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump delaying Clayton nomination in voting bill push",
-        "Source context: President Trump announced on Wednesday morning that he is pausing the confirmation process for federal prosecutor Jay Clayton's nomination to be..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 17 Jun 2026 11:33:33 +0000",
-      "age_hours": "1.16",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-      "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
-      "snapshot": "Iran warns of a 'harsh response' as Lebanon attacks test the US deal and strain Trump-Netanyahu ties. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Tehran, Israeli, Lebanon",
-        "Specific figures mentioned: 110",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war day 110"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 07:24:12 +0000",
-      "age_hours": "5.32",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "China pledges new humanitarian aid packages for Lebanon and Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
-      "snapshot": "China pledges new humanitarian aid packages for Lebanon and Iran. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: China, Lebanon, Iran",
-        "Politics desk signal: china",
-        "Story focus: China pledges new humanitarian aid packages for Lebanon and Iran",
-        "Source context: China pledges new humanitarian aid packages for Lebanon and Iran. The geopolitical angle is how the decision affects alliances, economic pressure,..."
+        "Key people or organizations: Israeli, Lebanon, US, Iran",
+        "Story focus: Israeli air strikes on Lebanon continue despite US-Iran deal",
+        "Source context: There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -493,18 +459,48 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving China.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 12:26:57 +0000",
-      "age_hours": "0.27",
+      "published": "Wed, 17 Jun 2026 13:15:42 +0000",
+      "age_hours": "3.27",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump accuses Obama of 'bribing' Iran in 2015 nuclear deal at G7 summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss",
+      "snapshot": "US President Donald Trump has accused his predecessor Barack Obama of 'bribing' Iran to agree to the 2015 nuclear deal. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Obama, Iran, US President Donald Trump",
+        "Specific figures mentioned: 2015",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump accuses Obama of 'bribing' Iran in 2015 nuclear deal at G7 summit"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 17 Jun 2026 13:21:19 +0000",
+      "age_hours": "3.18",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
