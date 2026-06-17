@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Newsom sees Trump DOJ investigation as a political gift",
-  "snapshot": "An investigation by the Department of Justice (DOJ) could have put California Gov. Gavin Newsom (D) on defense. Instead, it is giving Newsom, seen as a leading Democratic White House contender in 2028, a new political opening. Newsom is embracing the DOJ investigation, using... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-17 03:16:12 PM ET",
-  "generated_at": "2026-06-17 03:16:12 PM ET",
+  "headline": "Trump settles lawsuit against niece over tax records leak",
+  "snapshot": "President Trump settled a $100 million lawsuit against his niece, Mary Trump, whom he accused of engaging \"in an insidious plot\" with The New York Times to leak confidential information for its Pulitzer Prize-winning 2018 investigation into his tax and financial records. Both... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-06-17 05:49:30 PM ET",
+  "generated_at": "2026-06-17 05:49:30 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 106,
-    "editor_fresh_items": 144,
-    "public_fallback_items": 144,
-    "stale_or_blocked_items": 39,
+    "total_items_checked": 148,
+    "live_fresh_items": 127,
+    "editor_fresh_items": 148,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 21,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-17 03:16:12 PM ET"
+    "last_checked": "2026-06-17 05:49:30 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Trump settles lawsuit against niece over tax records leak",
+      "url": "https://thehill.com/regulation/court-battles/5928915-trump-settles-lawsuit-niece/",
+      "snapshot": "President Trump settled a $100 million lawsuit against his niece, Mary Trump, whom he accused of engaging \"in an insidious plot\" with The New York Times to leak confidential information for its Pulitzer Prize-winning 2018 investigation into his tax and financial records. Both... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Mary Trump, Pulitzer Prize",
+        "Specific figures mentioned: $100 million, 2018",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump settles lawsuit against niece over tax records leak"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 17 Jun 2026 19:33:16 +0000",
+      "age_hours": "2.27",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Newsom sees Trump DOJ investigation as a political gift",
       "url": "https://thehill.com/homenews/5926724-newsom-embraces-trump-investigation/",
@@ -44,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "age_hours": "9.27",
+      "age_hours": "11.82",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -74,40 +104,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 17 Jun 2026 09:54:43 -0400",
-      "age_hours": "5.36",
+      "age_hours": "7.91",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration asks judge to halt first reparations program for Black people in US",
-      "url": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
-      "snapshot": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb's housing reparations program for Black residents, arguing it is \"racially discriminatory\" and unconstitutional. The city council in Evanston, Ill., earmarked $10 million in... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, Black, US, Chicago",
-        "Specific figures mentioned: $10 million",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks judge to halt first reparations program for Black people in US"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 17 Jun 2026 13:18:21 +0000",
-      "age_hours": "5.96",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump puts Jay Clayton's nomination for intel chief on hold",
@@ -134,20 +134,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 17 Jun 2026 08:14:00 -0400",
-      "age_hours": "7.04",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump pushes to delay appointment of new spy chief in legislative standoff",
-      "url": "https://www.aljazeera.com/news/2026/6/17/trump-pushes-to-delay-appointment-of-new-spy-chief-in-legislative-standoff?traffic_source=rss",
-      "snapshot": "Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "'Don't meddle': Lula calls on Trump to stay out of Brazil's elections",
+      "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+      "snapshot": "Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, DNI, Bill Pulte, ID",
+        "Key people or organizations: Don, Lula, Trump, Brazil",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pushes to delay appointment of new spy chief in legislative standoff",
-        "Source context: Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law. The key question is leverage:..."
+        "Story focus: 'Don't meddle'",
+        "Source context: Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -155,22 +156,52 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Don.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "age_hours": "2.54",
+      "published": "Wed, 17 Jun 2026 20:14:52 +0000",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Trump settles lawsuit against niece over tax records leak",
+      "url": "https://thehill.com/regulation/court-battles/5928915-trump-settles-lawsuit-niece/",
+      "snapshot": "President Trump settled a $100 million lawsuit against his niece, Mary Trump, whom he accused of engaging \"in an insidious plot\" with The New York Times to leak confidential information for its Pulitzer Prize-winning 2018 investigation into his tax and financial records. Both... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Mary Trump, Pulitzer Prize",
+        "Specific figures mentioned: $100 million, 2018",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump settles lawsuit against niece over tax records leak"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 17 Jun 2026 19:33:16 +0000",
+      "age_hours": "2.27",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Newsom sees Trump DOJ investigation as a political gift",
       "url": "https://thehill.com/homenews/5926724-newsom-embraces-trump-investigation/",
       "snapshot": "An investigation by the Department of Justice (DOJ) could have put California Gov. Gavin Newsom (D) on defense. Instead, it is giving Newsom, seen as a leading Democratic White House contender in 2028, a new political opening. Newsom is embracing the DOJ investigation, using... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
@@ -195,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "age_hours": "9.27",
+      "age_hours": "11.82",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -225,40 +256,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 17 Jun 2026 09:54:43 -0400",
-      "age_hours": "5.36",
+      "age_hours": "7.91",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration asks judge to halt first reparations program for Black people in US",
-      "url": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
-      "snapshot": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb's housing reparations program for Black residents, arguing it is \"racially discriminatory\" and unconstitutional. The city council in Evanston, Ill., earmarked $10 million in... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, Black, US, Chicago",
-        "Specific figures mentioned: $10 million",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks judge to halt first reparations program for Black people in US"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 17 Jun 2026 13:18:21 +0000",
-      "age_hours": "5.96",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump puts Jay Clayton's nomination for intel chief on hold",
@@ -285,20 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 17 Jun 2026 08:14:00 -0400",
-      "age_hours": "7.04",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump pushes to delay appointment of new spy chief in legislative standoff",
-      "url": "https://www.aljazeera.com/news/2026/6/17/trump-pushes-to-delay-appointment-of-new-spy-chief-in-legislative-standoff?traffic_source=rss",
-      "snapshot": "Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "'Don't meddle': Lula calls on Trump to stay out of Brazil's elections",
+      "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+      "snapshot": "Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, DNI, Bill Pulte, ID",
+        "Key people or organizations: Don, Lula, Trump, Brazil",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pushes to delay appointment of new spy chief in legislative standoff",
-        "Source context: Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law. The key question is leverage:..."
+        "Story focus: 'Don't meddle'",
+        "Source context: Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -306,26 +308,56 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Don.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "age_hours": "2.54",
+      "published": "Wed, 17 Jun 2026 20:14:52 +0000",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Trump settles lawsuit against niece over tax records leak",
     "Newsom sees Trump DOJ investigation as a political gift",
-    "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
-    "Trump administration asks judge to halt first reparations program for Black people in US"
+    "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\""
   ],
   "sections": [
+    {
+      "headline": "Trump settles lawsuit against niece over tax records leak",
+      "url": "https://thehill.com/regulation/court-battles/5928915-trump-settles-lawsuit-niece/",
+      "snapshot": "President Trump settled a $100 million lawsuit against his niece, Mary Trump, whom he accused of engaging \"in an insidious plot\" with The New York Times to leak confidential information for its Pulitzer Prize-winning 2018 investigation into his tax and financial records. Both... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Mary Trump, Pulitzer Prize",
+        "Specific figures mentioned: $100 million, 2018",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump settles lawsuit against niece over tax records leak"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 17 Jun 2026 19:33:16 +0000",
+      "age_hours": "2.27",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Newsom sees Trump DOJ investigation as a political gift",
       "url": "https://thehill.com/homenews/5926724-newsom-embraces-trump-investigation/",
@@ -351,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "age_hours": "9.27",
+      "age_hours": "11.82",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -381,40 +413,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 17 Jun 2026 09:54:43 -0400",
-      "age_hours": "5.36",
+      "age_hours": "7.91",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump administration asks judge to halt first reparations program for Black people in US",
-      "url": "https://thehill.com/regulation/court-battles/5927763-justice-department-evanston-reparations-housing-discrimination/",
-      "snapshot": "The Justice Department is seeking to intervene in a federal lawsuit challenging a Chicago suburb's housing reparations program for Black residents, arguing it is \"racially discriminatory\" and unconstitutional. The city council in Evanston, Ill., earmarked $10 million in... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, Black, US, Chicago",
-        "Specific figures mentioned: $10 million",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks judge to halt first reparations program for Black people in US"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 17 Jun 2026 13:18:21 +0000",
-      "age_hours": "5.96",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump puts Jay Clayton's nomination for intel chief on hold",
@@ -441,20 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 17 Jun 2026 08:14:00 -0400",
-      "age_hours": "7.04",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump pushes to delay appointment of new spy chief in legislative standoff",
-      "url": "https://www.aljazeera.com/news/2026/6/17/trump-pushes-to-delay-appointment-of-new-spy-chief-in-legislative-standoff?traffic_source=rss",
-      "snapshot": "Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "'Don't meddle': Lula calls on Trump to stay out of Brazil's elections",
+      "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+      "snapshot": "Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, DNI, Bill Pulte, ID",
+        "Key people or organizations: Don, Lula, Trump, Brazil",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pushes to delay appointment of new spy chief in legislative standoff",
-        "Source context: Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law. The key question is leverage:..."
+        "Story focus: 'Don't meddle'",
+        "Source context: Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -462,29 +465,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Don.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "age_hours": "2.54",
+      "published": "Wed, 17 Jun 2026 20:14:52 +0000",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "70",
       "urgency": ""
     },
     {
-      "headline": "Trump: 'Very strong' Iran deal is a 'wall to a nuclear weapon'",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear?traffic_source=rss",
-      "snapshot": "US President Donald Trump claimed that the scheduled signing of his Iran \"peace deal\" in Geneva on Friday would be succe The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump eyes US-Iran 'peace deal' signing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss",
+      "snapshot": "A US-Iran agreement aimed at ending hostilities and reopening the Strait of Hormuz is set to be signed Friday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Very, Iran, US President Donald Trump",
+        "Key people or organizations: Trump, US, Iran, Strait",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump",
-        "Source context: US President Donald Trump claimed that the scheduled signing of his Iran \"peace deal\" in Geneva on Friday would be succe The election angle is..."
+        "Story focus: Trump eyes US-Iran 'peace deal' signing",
+        "Source context: A US-Iran agreement aimed at ending hostilities and reopening the Strait of Hormuz is set to be signed Friday. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -499,10 +502,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 17 Jun 2026 16:30:29 +0000",
-      "age_hours": "2.76",
+      "published": "Wed, 17 Jun 2026 19:14:45 +0000",
+      "age_hours": "2.58",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "70",
       "urgency": "WATCH"
     }
   ],
