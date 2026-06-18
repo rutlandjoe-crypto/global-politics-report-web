@@ -3,22 +3,52 @@
   "vertical": "Politics",
   "headline": "Senate Republicans raise alarm over Trump's deal with Iran",
   "snapshot": "President Trump's deal to reopen the Strait of Hormuz in exchange for lifting sanctions on Iran is getting strong pushback from Senate Republicans on Capitol Hill who warn that giving Iran's theocratic regime access to billions of dollars in economic relief would be a major... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-18 07:41:59 AM ET",
-  "generated_at": "2026-06-18 07:41:59 AM ET",
+  "updated_at": "2026-06-18 10:36:41 AM ET",
+  "generated_at": "2026-06-18 10:36:41 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 39,
-    "editor_fresh_items": 150,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 111,
+    "total_items_checked": 151,
+    "live_fresh_items": 63,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 88,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-18 07:41:59 AM ET"
+    "last_checked": "2026-06-18 10:36:41 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
+      "url": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
+      "snapshot": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, Lebanon, Hormuz",
+        "Specific figures mentioned: 14",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: What the Trump-Iran agreement says about Lebanon, Hormuz and uranium"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 18 Jun 2026 11:50:22 +0000",
+      "age_hours": "2.77",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Senate Republicans raise alarm over Trump's deal with Iran",
       "url": "https://thehill.com/homenews/senate/5929430-trump-iran-deal-republican-backlash/",
@@ -44,21 +74,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.70",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Senate GOP frustrations grow as Trump blocks Republican victories",
-      "url": "https://thehill.com/homenews/senate/5929341-republican-senators-frustrated-trump-moves/",
-      "snapshot": "Republican senators are growing tired of the White House throwing curveballs into things they want to get done. For example, many Republican senators want a now-lapsed surveillance law that allows intelligence agencies to spy on foreign threats to be reauthorized. The problem?... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump upends Senate GOP's plans once again with nomination demands",
+      "url": "https://www.cbsnews.com/news/senate-republicans-trump-nominations/",
+      "snapshot": "A number of poorly timed announcements have forced Senate Republicans to squander carefully laid plans, exposing a widening rift within the party. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Senate GOP, Trump, Republican, White House",
-        "Politics desk signal: senate, house, white house",
+        "Key people or organizations: Trump, Senate GOP, Senate Republicans",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate GOP frustrations grow as Trump blocks Republican victories",
-        "Source context: Republican senators are growing tired of the White House throwing curveballs into things they want to get done. For example, many Republican senators..."
+        "Story focus: Trump upends Senate GOP's plans once again with nomination demands",
+        "Source context: A number of poorly timed announcements have forced Senate Republicans to squander carefully laid plans, exposing a widening rift within the party...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,106 +96,77 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate GOP.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 18 Jun 2026 09:46:19 -0400",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP senator: Trump putting 'American lives at risk' by blocking DNI nominee",
+      "url": "https://thehill.com/homenews/senate/5930004-cassidy-warns-trump-clayton-hearing/",
+      "snapshot": "Sen. Bill Cassidy (R-La.) implored President Trump on Thursday to allow Jay Clayton to appear before the Senate Intelligence Committee for his confirmation hearing, warning that preventing him from doing so \"puts American lives at risk.\" Trump threw the Senate into turmoil... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, American, DNI",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senator",
+        "Source context: Sen. Bill Cassidy (R-La.) implored President Trump on Thursday to allow Jay Clayton to appear before the Senate Intelligence Committee for his..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.70",
+      "published": "Thu, 18 Jun 2026 14:18:14 +0000",
+      "age_hours": "0.31",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "This law firm has deep ties to Trump. Now a partner is his pick for a top job.",
-      "url": "https://www.cbsnews.com/news/trump-jamie-mcdonald-sullivan-and-cromwell-sdny/",
-      "snapshot": "Jamie McDonald, a partner at the firm Sullivan & Cromwell, is President Trump's choice to helm one of the nation's most prestigious federal prosecutors' offices. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Supreme Court sides with man who challenged law barring drug users from having guns",
+      "url": "https://www.cbsnews.com/news/supreme-court-drug-users-gun-law-us-v-hemani/",
+      "snapshot": "The Supreme Court on Thursday ruled in favor of a Texas man who challenged a federal law that bars certain drug users from having firearms. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Now, Jamie McDonald, Sullivan",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Supreme Court, Texas",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: This law firm has deep ties to Trump. Now a partner is his pick for a top job.",
-        "Source context: Jamie McDonald, a partner at the firm Sullivan & Cromwell, is President Trump's choice to helm one of the nation's most prestigious federal..."
+        "Story focus: Supreme Court sides with man who challenged law barring drug users from having guns",
+        "Source context: The Supreme Court on Thursday ruled in favor of a Texas man who challenged a federal law that bars certain drug users from having firearms. The..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 23:03:40 -0400",
-      "age_hours": "8.64",
+      "published": "Thu, 18 Jun 2026 10:29:53 -0400",
+      "age_hours": "0.11",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's MoU with Iran draws backlash from some Republicans",
-      "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
-      "snapshot": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, MoU, Iran, Republicans",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's MoU with Iran draws backlash from some Republicans",
-        "Source context: Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'. The key question is leverage: the next votes,..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 03:11:41 +0000",
-      "age_hours": "8.50",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Arrests of immigrant parents create mental health crisis for children",
-      "url": "https://www.cbsnews.com/news/arrests-immigrant-parents-mental-health-crisis-children/",
-      "snapshot": "An estimated hundreds of thousands of children, many of them U.S. citizens, have been separated from a parent in the Trump administration's immigration crackdown. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Arrests, An, Trump",
-        "Politics desk signal: election, campaign, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Arrests of immigrant parents create mental health crisis for children",
-        "Source context: An estimated hundreds of thousands of children, many of them U.S. citizens, have been separated from a parent in the Trump administration's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Arrests.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 05:00:19 -0400",
-      "age_hours": "2.69",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": ""
     }
   ],
@@ -195,21 +196,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.70",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Senate GOP frustrations grow as Trump blocks Republican victories",
-      "url": "https://thehill.com/homenews/senate/5929341-republican-senators-frustrated-trump-moves/",
-      "snapshot": "Republican senators are growing tired of the White House throwing curveballs into things they want to get done. For example, many Republican senators want a now-lapsed surveillance law that allows intelligence agencies to spy on foreign threats to be reauthorized. The problem?... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump upends Senate GOP's plans once again with nomination demands",
+      "url": "https://www.cbsnews.com/news/senate-republicans-trump-nominations/",
+      "snapshot": "A number of poorly timed announcements have forced Senate Republicans to squander carefully laid plans, exposing a widening rift within the party. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Senate GOP, Trump, Republican, White House",
-        "Politics desk signal: senate, house, white house",
+        "Key people or organizations: Trump, Senate GOP, Senate Republicans",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate GOP frustrations grow as Trump blocks Republican victories",
-        "Source context: Republican senators are growing tired of the White House throwing curveballs into things they want to get done. For example, many Republican senators..."
+        "Story focus: Trump upends Senate GOP's plans once again with nomination demands",
+        "Source context: A number of poorly timed announcements have forced Senate Republicans to squander carefully laid plans, exposing a widening rift within the party...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -217,58 +218,89 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate GOP.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 18 Jun 2026 09:46:19 -0400",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP senator: Trump putting 'American lives at risk' by blocking DNI nominee",
+      "url": "https://thehill.com/homenews/senate/5930004-cassidy-warns-trump-clayton-hearing/",
+      "snapshot": "Sen. Bill Cassidy (R-La.) implored President Trump on Thursday to allow Jay Clayton to appear before the Senate Intelligence Committee for his confirmation hearing, warning that preventing him from doing so \"puts American lives at risk.\" Trump threw the Senate into turmoil... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, American, DNI",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senator",
+        "Source context: Sen. Bill Cassidy (R-La.) implored President Trump on Thursday to allow Jay Clayton to appear before the Senate Intelligence Committee for his..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.70",
+      "published": "Thu, 18 Jun 2026 14:18:14 +0000",
+      "age_hours": "0.31",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "This law firm has deep ties to Trump. Now a partner is his pick for a top job.",
-      "url": "https://www.cbsnews.com/news/trump-jamie-mcdonald-sullivan-and-cromwell-sdny/",
-      "snapshot": "Jamie McDonald, a partner at the firm Sullivan & Cromwell, is President Trump's choice to helm one of the nation's most prestigious federal prosecutors' offices. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Supreme Court sides with man who challenged law barring drug users from having guns",
+      "url": "https://www.cbsnews.com/news/supreme-court-drug-users-gun-law-us-v-hemani/",
+      "snapshot": "The Supreme Court on Thursday ruled in favor of a Texas man who challenged a federal law that bars certain drug users from having firearms. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Now, Jamie McDonald, Sullivan",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Supreme Court, Texas",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: This law firm has deep ties to Trump. Now a partner is his pick for a top job.",
-        "Source context: Jamie McDonald, a partner at the firm Sullivan & Cromwell, is President Trump's choice to helm one of the nation's most prestigious federal..."
+        "Story focus: Supreme Court sides with man who challenged law barring drug users from having guns",
+        "Source context: The Supreme Court on Thursday ruled in favor of a Texas man who challenged a federal law that bars certain drug users from having firearms. The..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 23:03:40 -0400",
-      "age_hours": "8.64",
+      "published": "Thu, 18 Jun 2026 10:29:53 -0400",
+      "age_hours": "0.11",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump's MoU with Iran draws backlash from some Republicans",
-      "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
-      "snapshot": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
+      "url": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
+      "snapshot": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, MoU, Iran, Republicans",
+        "Key people or organizations: Trump, Iran, Lebanon, Hormuz",
+        "Specific figures mentioned: 14",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's MoU with Iran draws backlash from some Republicans",
-        "Source context: Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'. The key question is leverage: the next votes,..."
+        "Story focus: What the Trump-Iran agreement says about Lebanon, Hormuz and uranium"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -280,50 +312,20 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 03:11:41 +0000",
-      "age_hours": "8.50",
+      "published": "Thu, 18 Jun 2026 11:50:22 +0000",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
-      "url": "https://www.cbsnews.com/news/jd-vance-interview-iran-deal-text/",
-      "snapshot": "Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Vance, Iran, Vice President JD Vance, CBS Monrings",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Vance says text of U.S.-Iran deal will be released Friday \"at the latest\"",
-        "Source context: Vice President JD Vance said on \"CBS Monrings\" that the Trump administration wants \"to tell the American people what's in this deal.\" The election..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Vance.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 09:54:43 -0400",
-      "age_hours": "21.79",
-      "freshness_status": "stale",
-      "editorial_score": "90",
-      "urgency": "WATCH"
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Senate Republicans raise alarm over Trump's deal with Iran",
-    "Senate GOP frustrations grow as Trump blocks Republican victories",
-    "This law firm has deep ties to Trump. Now a partner is his pick for a top job."
+    "Trump upends Senate GOP's plans once again with nomination demands",
+    "GOP senator: Trump putting 'American lives at risk' by blocking DNI nominee"
   ],
   "sections": [
     {
@@ -351,21 +353,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.70",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Senate GOP frustrations grow as Trump blocks Republican victories",
-      "url": "https://thehill.com/homenews/senate/5929341-republican-senators-frustrated-trump-moves/",
-      "snapshot": "Republican senators are growing tired of the White House throwing curveballs into things they want to get done. For example, many Republican senators want a now-lapsed surveillance law that allows intelligence agencies to spy on foreign threats to be reauthorized. The problem?... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump upends Senate GOP's plans once again with nomination demands",
+      "url": "https://www.cbsnews.com/news/senate-republicans-trump-nominations/",
+      "snapshot": "A number of poorly timed announcements have forced Senate Republicans to squander carefully laid plans, exposing a widening rift within the party. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Senate GOP, Trump, Republican, White House",
-        "Politics desk signal: senate, house, white house",
+        "Key people or organizations: Trump, Senate GOP, Senate Republicans",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate GOP frustrations grow as Trump blocks Republican victories",
-        "Source context: Republican senators are growing tired of the White House throwing curveballs into things they want to get done. For example, many Republican senators..."
+        "Story focus: Trump upends Senate GOP's plans once again with nomination demands",
+        "Source context: A number of poorly timed announcements have forced Senate Republicans to squander carefully laid plans, exposing a widening rift within the party...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -373,58 +375,89 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate GOP.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 18 Jun 2026 09:46:19 -0400",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP senator: Trump putting 'American lives at risk' by blocking DNI nominee",
+      "url": "https://thehill.com/homenews/senate/5930004-cassidy-warns-trump-clayton-hearing/",
+      "snapshot": "Sen. Bill Cassidy (R-La.) implored President Trump on Thursday to allow Jay Clayton to appear before the Senate Intelligence Committee for his confirmation hearing, warning that preventing him from doing so \"puts American lives at risk.\" Trump threw the Senate into turmoil... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, American, DNI",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senator",
+        "Source context: Sen. Bill Cassidy (R-La.) implored President Trump on Thursday to allow Jay Clayton to appear before the Senate Intelligence Committee for his..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.70",
+      "published": "Thu, 18 Jun 2026 14:18:14 +0000",
+      "age_hours": "0.31",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "This law firm has deep ties to Trump. Now a partner is his pick for a top job.",
-      "url": "https://www.cbsnews.com/news/trump-jamie-mcdonald-sullivan-and-cromwell-sdny/",
-      "snapshot": "Jamie McDonald, a partner at the firm Sullivan & Cromwell, is President Trump's choice to helm one of the nation's most prestigious federal prosecutors' offices. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Supreme Court sides with man who challenged law barring drug users from having guns",
+      "url": "https://www.cbsnews.com/news/supreme-court-drug-users-gun-law-us-v-hemani/",
+      "snapshot": "The Supreme Court on Thursday ruled in favor of a Texas man who challenged a federal law that bars certain drug users from having firearms. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Now, Jamie McDonald, Sullivan",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Supreme Court, Texas",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: This law firm has deep ties to Trump. Now a partner is his pick for a top job.",
-        "Source context: Jamie McDonald, a partner at the firm Sullivan & Cromwell, is President Trump's choice to helm one of the nation's most prestigious federal..."
+        "Story focus: Supreme Court sides with man who challenged law barring drug users from having guns",
+        "Source context: The Supreme Court on Thursday ruled in favor of a Texas man who challenged a federal law that bars certain drug users from having firearms. The..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 17 Jun 2026 23:03:40 -0400",
-      "age_hours": "8.64",
+      "published": "Thu, 18 Jun 2026 10:29:53 -0400",
+      "age_hours": "0.11",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump's MoU with Iran draws backlash from some Republicans",
-      "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
-      "snapshot": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
+      "url": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
+      "snapshot": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, MoU, Iran, Republicans",
+        "Key people or organizations: Trump, Iran, Lebanon, Hormuz",
+        "Specific figures mentioned: 14",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's MoU with Iran draws backlash from some Republicans",
-        "Source context: Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'. The key question is leverage: the next votes,..."
+        "Story focus: What the Trump-Iran agreement says about Lebanon, Hormuz and uranium"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -436,44 +469,14 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 03:11:41 +0000",
-      "age_hours": "8.50",
+      "published": "Thu, 18 Jun 2026 11:50:22 +0000",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Arrests of immigrant parents create mental health crisis for children",
-      "url": "https://www.cbsnews.com/news/arrests-immigrant-parents-mental-health-crisis-children/",
-      "snapshot": "An estimated hundreds of thousands of children, many of them U.S. citizens, have been separated from a parent in the Trump administration's immigration crackdown. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Arrests, An, Trump",
-        "Politics desk signal: election, campaign, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Arrests of immigrant parents create mental health crisis for children",
-        "Source context: An estimated hundreds of thousands of children, many of them U.S. citizens, have been separated from a parent in the Trump administration's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Arrests.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 05:00:19 -0400",
-      "age_hours": "2.69",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
@@ -500,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 18 Jun 2026 08:11:58 +0000",
-      "age_hours": "3.50",
+      "age_hours": "6.41",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
