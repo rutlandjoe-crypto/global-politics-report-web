@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate Republicans in somber, pessimistic mood over Trump deal with Iran",
-  "snapshot": "President Trump's deal to lift sanctions on Iran and give it access to a $300 billion reconstruction fund has cast a glum mood over the Senate Republican Conference, with GOP senators saying that many of their colleagues are in \"dismay\" and \"somber\" over the cost of the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-19 05:59:56 PM ET",
-  "generated_at": "2026-06-19 05:59:56 PM ET",
+  "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
+  "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-06-19 06:55:01 PM ET",
+  "generated_at": "2026-06-19 06:55:01 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 78,
-    "editor_fresh_items": 148,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 71,
+    "total_items_checked": 150,
+    "live_fresh_items": 74,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 150,
+    "stale_or_blocked_items": 76,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-19 05:59:56 PM ET"
+    "last_checked": "2026-06-19 06:55:01 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Newsom on reported DOJ investigation: 'Go after me'",
+      "url": "https://thehill.com/homenews/administration/5932190-newsom-defiant-trump-investigation/",
+      "snapshot": "California Gov. Gavin Newsom (D) projected defiance Thursday about the Department of Justice (DOJ) probes into him and his wife, Jennifer Siebel Newsom, challenging President Trump to \"go after\" him. \"This is stuff that happens in other countries, that's all I'll say,\" Newsom... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Newsom, DOJ, Go, California Gov",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Newsom on reported DOJ investigation",
+        "Source context: California Gov. Gavin Newsom (D) projected defiance Thursday about the Department of Justice (DOJ) probes into him and his wife, Jennifer Siebel..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Newsom.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 19 Jun 2026 19:00:56 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Israeli air strikes hit Lebanon minutes after new ceasefire",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss",
@@ -42,51 +72,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 16:04:58 +0000",
-      "age_hours": "5.92",
+      "age_hours": "6.83",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate Republicans in somber, pessimistic mood over Trump deal with Iran",
-      "url": "https://thehill.com/homenews/senate/5931398-gop-senators-somber-iran-deal/",
-      "snapshot": "President Trump's deal to lift sanctions on Iran and give it access to a $300 billion reconstruction fund has cast a glum mood over the Senate Republican Conference, with GOP senators saying that many of their colleagues are in \"dismay\" and \"somber\" over the cost of the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Republicans, Trump, Iran, President Trump",
-        "Specific figures mentioned: $300 billion",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Republicans in somber, pessimistic mood over Trump deal with Iran"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Republicans.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "12.00",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Judge won't block DOJ from releasing Biden conversations with biographer",
+      "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
       "url": "https://www.cbsnews.com/news/biden-justice-department-conservations-ghostwriter-heritage-foundation/",
-      "snapshot": "U.S. District Judge Dabney Friedrich cleared the way for the Justice Department to disclose former President Joe Biden's recorded conversations with his biographer to the Heritage Foundation. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Judge, DOJ, Biden, District Judge Dabney Friedrich",
+        "Key people or organizations: Judge, DOJ, Biden, President Joe Biden",
+        "Specific figures mentioned: 3",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge won't block DOJ from releasing Biden conversations with biographer",
-        "Source context: U.S. District Judge Dabney Friedrich cleared the way for the Justice Department to disclose former President Joe Biden's recorded conversations with..."
+        "Story focus: Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -98,25 +98,25 @@
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 16:47:32 -0400",
-      "age_hours": "1.21",
+      "published": "Fri, 19 Jun 2026 18:15:56 -0400",
+      "age_hours": "0.65",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "112",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Latest Trump SAVE America push splits House Republicans",
-      "url": "https://thehill.com/homenews/house/5931298-trump-save-act-fisa-renewal/",
-      "snapshot": "President Trump's latest push to pair the Safeguard American Voter Eligibility (SAVE America) Act with legislation reviving the federal government's warrantless spying powers is dividing House Republicans, with some arguing the gambit is doomed to fail. Trump has repeatedly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
+      "url": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
+      "snapshot": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country readies for its 250th birthday. Carville called the deal an \"instrument of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Latest Trump SAVE America, House Republicans, President Trump, Safeguard American Voter Eligibility",
-        "Politics desk signal: house",
+        "Key people or organizations: James Carville, Trump, Iran MOU, Happy",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Latest Trump SAVE America push splits House Republicans",
-        "Source context: President Trump's latest push to pair the Safeguard American Voter Eligibility (SAVE America) Act with legislation reviving the federal government's..."
+        "Story focus: James Carville on Trump's Iran MOU"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -124,18 +124,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Latest Trump SAVE America.",
+        "Watch for the next official action involving James Carville.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "12.00",
+      "published": "Fri, 19 Jun 2026 14:43:40 +0000",
+      "age_hours": "8.19",
       "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
+      "editorial_score": "103",
+      "urgency": "BREAKING"
     },
     {
       "headline": "How the Iran war united, and then divided Trump and Netanyahu",
@@ -162,7 +162,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 12:28:19 -0400",
-      "age_hours": "5.53",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -170,45 +170,15 @@
   ],
   "editor_signals": [
     {
-      "headline": "Senate Republicans in somber, pessimistic mood over Trump deal with Iran",
-      "url": "https://thehill.com/homenews/senate/5931398-gop-senators-somber-iran-deal/",
-      "snapshot": "President Trump's deal to lift sanctions on Iran and give it access to a $300 billion reconstruction fund has cast a glum mood over the Senate Republican Conference, with GOP senators saying that many of their colleagues are in \"dismay\" and \"somber\" over the cost of the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Republicans, Trump, Iran, President Trump",
-        "Specific figures mentioned: $300 billion",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Republicans in somber, pessimistic mood over Trump deal with Iran"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Republicans.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "12.00",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Judge won't block DOJ from releasing Biden conversations with biographer",
+      "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
       "url": "https://www.cbsnews.com/news/biden-justice-department-conservations-ghostwriter-heritage-foundation/",
-      "snapshot": "U.S. District Judge Dabney Friedrich cleared the way for the Justice Department to disclose former President Joe Biden's recorded conversations with his biographer to the Heritage Foundation. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Judge, DOJ, Biden, District Judge Dabney Friedrich",
+        "Key people or organizations: Judge, DOJ, Biden, President Joe Biden",
+        "Specific figures mentioned: 3",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge won't block DOJ from releasing Biden conversations with biographer",
-        "Source context: U.S. District Judge Dabney Friedrich cleared the way for the Justice Department to disclose former President Joe Biden's recorded conversations with..."
+        "Story focus: Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -220,25 +190,25 @@
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 16:47:32 -0400",
-      "age_hours": "1.21",
+      "published": "Fri, 19 Jun 2026 18:15:56 -0400",
+      "age_hours": "0.65",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "112",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Latest Trump SAVE America push splits House Republicans",
-      "url": "https://thehill.com/homenews/house/5931298-trump-save-act-fisa-renewal/",
-      "snapshot": "President Trump's latest push to pair the Safeguard American Voter Eligibility (SAVE America) Act with legislation reviving the federal government's warrantless spying powers is dividing House Republicans, with some arguing the gambit is doomed to fail. Trump has repeatedly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
+      "url": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
+      "snapshot": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country readies for its 250th birthday. Carville called the deal an \"instrument of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Latest Trump SAVE America, House Republicans, President Trump, Safeguard American Voter Eligibility",
-        "Politics desk signal: house",
+        "Key people or organizations: James Carville, Trump, Iran MOU, Happy",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Latest Trump SAVE America push splits House Republicans",
-        "Source context: President Trump's latest push to pair the Safeguard American Voter Eligibility (SAVE America) Act with legislation reviving the federal government's..."
+        "Story focus: James Carville on Trump's Iran MOU"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -246,18 +216,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Latest Trump SAVE America.",
+        "Watch for the next official action involving James Carville.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "12.00",
+      "published": "Fri, 19 Jun 2026 14:43:40 +0000",
+      "age_hours": "8.19",
       "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
+      "editorial_score": "103",
+      "urgency": "BREAKING"
     },
     {
       "headline": "How the Iran war united, and then divided Trump and Netanyahu",
@@ -284,10 +254,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 12:28:19 -0400",
-      "age_hours": "5.53",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
+    },
+    {
+      "headline": "Newsom on reported DOJ investigation: 'Go after me'",
+      "url": "https://thehill.com/homenews/administration/5932190-newsom-defiant-trump-investigation/",
+      "snapshot": "California Gov. Gavin Newsom (D) projected defiance Thursday about the Department of Justice (DOJ) probes into him and his wife, Jennifer Siebel Newsom, challenging President Trump to \"go after\" him. \"This is stuff that happens in other countries, that's all I'll say,\" Newsom... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Newsom, DOJ, Go, California Gov",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Newsom on reported DOJ investigation",
+        "Source context: California Gov. Gavin Newsom (D) projected defiance Thursday about the Department of Justice (DOJ) probes into him and his wife, Jennifer Siebel..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Newsom.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 19 Jun 2026 19:00:56 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
@@ -314,58 +314,28 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 21:10:56 +0000",
-      "age_hours": "0.82",
+      "age_hours": "1.73",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "Senate Republicans in somber, pessimistic mood over Trump deal with Iran",
-    "Judge won't block DOJ from releasing Biden conversations with biographer",
-    "Latest Trump SAVE America push splits House Republicans"
+    "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
+    "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
+    "How the Iran war united, and then divided Trump and Netanyahu"
   ],
   "sections": [
     {
-      "headline": "Senate Republicans in somber, pessimistic mood over Trump deal with Iran",
-      "url": "https://thehill.com/homenews/senate/5931398-gop-senators-somber-iran-deal/",
-      "snapshot": "President Trump's deal to lift sanctions on Iran and give it access to a $300 billion reconstruction fund has cast a glum mood over the Senate Republican Conference, with GOP senators saying that many of their colleagues are in \"dismay\" and \"somber\" over the cost of the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Republicans, Trump, Iran, President Trump",
-        "Specific figures mentioned: $300 billion",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Republicans in somber, pessimistic mood over Trump deal with Iran"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Republicans.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "12.00",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Judge won't block DOJ from releasing Biden conversations with biographer",
+      "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
       "url": "https://www.cbsnews.com/news/biden-justice-department-conservations-ghostwriter-heritage-foundation/",
-      "snapshot": "U.S. District Judge Dabney Friedrich cleared the way for the Justice Department to disclose former President Joe Biden's recorded conversations with his biographer to the Heritage Foundation. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Judge, DOJ, Biden, District Judge Dabney Friedrich",
+        "Key people or organizations: Judge, DOJ, Biden, President Joe Biden",
+        "Specific figures mentioned: 3",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge won't block DOJ from releasing Biden conversations with biographer",
-        "Source context: U.S. District Judge Dabney Friedrich cleared the way for the Justice Department to disclose former President Joe Biden's recorded conversations with..."
+        "Story focus: Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -377,25 +347,25 @@
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 16:47:32 -0400",
-      "age_hours": "1.21",
+      "published": "Fri, 19 Jun 2026 18:15:56 -0400",
+      "age_hours": "0.65",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "112",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Latest Trump SAVE America push splits House Republicans",
-      "url": "https://thehill.com/homenews/house/5931298-trump-save-act-fisa-renewal/",
-      "snapshot": "President Trump's latest push to pair the Safeguard American Voter Eligibility (SAVE America) Act with legislation reviving the federal government's warrantless spying powers is dividing House Republicans, with some arguing the gambit is doomed to fail. Trump has repeatedly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
+      "url": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
+      "snapshot": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country readies for its 250th birthday. Carville called the deal an \"instrument of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Latest Trump SAVE America, House Republicans, President Trump, Safeguard American Voter Eligibility",
-        "Politics desk signal: house",
+        "Key people or organizations: James Carville, Trump, Iran MOU, Happy",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Latest Trump SAVE America push splits House Republicans",
-        "Source context: President Trump's latest push to pair the Safeguard American Voter Eligibility (SAVE America) Act with legislation reviving the federal government's..."
+        "Story focus: James Carville on Trump's Iran MOU"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -403,18 +373,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Latest Trump SAVE America.",
+        "Watch for the next official action involving James Carville.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "12.00",
+      "published": "Fri, 19 Jun 2026 14:43:40 +0000",
+      "age_hours": "8.19",
       "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
+      "editorial_score": "103",
+      "urgency": "BREAKING"
     },
     {
       "headline": "How the Iran war united, and then divided Trump and Netanyahu",
@@ -441,10 +411,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 12:28:19 -0400",
-      "age_hours": "5.53",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
+    },
+    {
+      "headline": "Newsom on reported DOJ investigation: 'Go after me'",
+      "url": "https://thehill.com/homenews/administration/5932190-newsom-defiant-trump-investigation/",
+      "snapshot": "California Gov. Gavin Newsom (D) projected defiance Thursday about the Department of Justice (DOJ) probes into him and his wife, Jennifer Siebel Newsom, challenging President Trump to \"go after\" him. \"This is stuff that happens in other countries, that's all I'll say,\" Newsom... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Newsom, DOJ, Go, California Gov",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Newsom on reported DOJ investigation",
+        "Source context: California Gov. Gavin Newsom (D) projected defiance Thursday about the Department of Justice (DOJ) probes into him and his wife, Jennifer Siebel..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Newsom.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 19 Jun 2026 19:00:56 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
@@ -471,7 +471,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 21:10:56 +0000",
-      "age_hours": "0.82",
+      "age_hours": "1.73",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
@@ -499,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 16:04:58 +0000",
-      "age_hours": "5.92",
+      "age_hours": "6.83",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
