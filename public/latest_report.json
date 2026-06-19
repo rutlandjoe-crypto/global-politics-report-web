@@ -1,52 +1,78 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-  "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-18 08:17:25 PM ET",
-  "generated_at": "2026-06-18 08:17:25 PM ET",
+  "headline": "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
+  "snapshot": "The top Democrat on the Senate Foreign Relations Committee slammed the reported contents of the deal between the U.S. and Iran, calling them a \"catastrophically bad outcome.\" \"The White House has not released the memorandum of understanding, so neither Congress nor the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-06-19 02:03:45 AM ET",
+  "generated_at": "2026-06-19 02:03:45 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 117,
-    "editor_fresh_items": 148,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 32,
+    "total_items_checked": 150,
+    "live_fresh_items": 72,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 78,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-18 08:17:25 PM ET"
+    "last_checked": "2026-06-19 02:03:45 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-      "url": "https://thehill.com/policy/healthcare/5930493-senate-democrats-investigate-kennedy-vaccine/",
-      "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+      "snapshot": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Senate Dems, RFK Jr, Senate Democrats, Health Secretary Robert",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-        "Source context: Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a..."
+        "Key people or organizations: Israel, Lebanon, Hezbollah, Hezbollah The",
+        "Story focus: Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+        "Source context: Israel strikes southern Lebanon in sudden clash surge with Hezbollah The geopolitical angle is how the decision affects alliances, economic pressure,..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 16:55:07 +0000",
-      "age_hours": "7.37",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 19 Jun 2026 03:44:11 +0000",
+      "age_hours": "2.33",
       "freshness_status": "fresh",
-      "editorial_score": "129",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "url": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
+      "snapshot": "Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.",
+      "key_data": [
+        "Key people or organizations: Brazil, Lula, Left, Senator Jaques Wagner",
+        "Story focus: Brazil executes warrant against Lula ally in widening financial scandal",
+        "Source context: Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Brazil.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 18 Jun 2026 21:13:00 +0000",
+      "age_hours": "8.85",
+      "freshness_status": "fresh",
+      "editorial_score": "68",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,40 +100,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "age_hours": "5.92",
+      "age_hours": "11.69",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "MoU's $300bn Iran reconstruction fund becomes US political flashpoint",
-      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
-      "snapshot": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: MoU, Iran, US, Trump",
-        "Specific figures mentioned: 300",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: MoU's $300bn Iran reconstruction fund becomes US political flashpoint"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving MoU.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 19:52:17 +0000",
-      "age_hours": "4.42",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
     },
     {
       "headline": "Democrats and some Republicans fuming at Trump's Iran deal",
@@ -134,21 +130,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 18 Jun 2026 19:25:20 -0400",
-      "age_hours": "0.87",
+      "age_hours": "6.64",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
     },
     {
-      "headline": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
-      "url": "https://www.cbsnews.com/news/iran-deal-reaction-trump-republicans-democrats/",
-      "snapshot": "Republican Senators Bill Cassidy, Thom Tillis, Ted Cruz and Tom Cotton have been critical of the 14-point memorandum of understanding signed on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Vance hits back at Iran deal critics in GOP, Israel: 5 takeaways",
+      "url": "https://thehill.com/homenews/administration/5930853-vance-defends-trump-iran-deal/",
+      "snapshot": "Vice President Vance took to the White House press briefing podium Thursday to hit back against a growing chorus of critics of the Trump administration's deal with Iran after President Trump signed the agreement. Vance referred to criticism of the preliminary agreement from... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Facing, Iran, Trump, Republican Senators Bill Cassidy",
-        "Specific figures mentioned: 14",
+        "Key people or organizations: Vance, Iran, GOP, Israel",
+        "Specific figures mentioned: 5",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
-        "Source context: Republican Senators Bill Cassidy, Thom Tillis, Ted Cruz and Tom Cotton have been critical of the 14-point memorandum of understanding signed on..."
+        "Story focus: Vance hits back at Iran deal critics in GOP, Israel"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,52 +152,22 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Facing.",
+        "Watch for the next official action involving Vance.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 19:56:34 -0400",
-      "age_hours": "0.35",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 18 Jun 2026 19:17:52 +0000",
+      "age_hours": "10.76",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "113",
       "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-      "url": "https://thehill.com/policy/healthcare/5930493-senate-democrats-investigate-kennedy-vaccine/",
-      "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Dems, RFK Jr, Senate Democrats, Health Secretary Robert",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-        "Source context: Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 16:55:07 +0000",
-      "age_hours": "7.37",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
       "url": "https://thehill.com/policy/international/5930692-senate-democrat-slams-us-iran-deal/",
       "snapshot": "The top Democrat on the Senate Foreign Relations Committee slammed the reported contents of the deal between the U.S. and Iran, calling them a \"catastrophically bad outcome.\" \"The White House has not released the memorandum of understanding, so neither Congress nor the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
@@ -226,7 +192,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "age_hours": "5.92",
+      "age_hours": "11.69",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
@@ -256,9 +222,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 18 Jun 2026 19:25:20 -0400",
-      "age_hours": "0.87",
+      "age_hours": "6.64",
       "freshness_status": "fresh",
       "editorial_score": "124",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Vance hits back at Iran deal critics in GOP, Israel: 5 takeaways",
+      "url": "https://thehill.com/homenews/administration/5930853-vance-defends-trump-iran-deal/",
+      "snapshot": "Vice President Vance took to the White House press briefing podium Thursday to hit back against a growing chorus of critics of the Trump administration's deal with Iran after President Trump signed the agreement. Vance referred to criticism of the preliminary agreement from... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Vance, Iran, GOP, Israel",
+        "Specific figures mentioned: 5",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Vance hits back at Iran deal critics in GOP, Israel"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vance.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 18 Jun 2026 19:17:52 +0000",
+      "age_hours": "10.76",
+      "freshness_status": "fresh",
+      "editorial_score": "113",
       "urgency": "WATCH"
     },
     {
@@ -286,78 +282,46 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 18 Jun 2026 19:56:34 -0400",
-      "age_hours": "0.35",
+      "age_hours": "6.12",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
-      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss",
-      "snapshot": "Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+      "snapshot": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Pro, Israel, US, Iran MoU",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
-        "Source context: Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran. The election angle is whether..."
+        "Key people or organizations: Israel, Lebanon, Hezbollah, Hezbollah The",
+        "Story focus: Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+        "Source context: Israel strikes southern Lebanon in sudden clash surge with Hezbollah The geopolitical angle is how the decision affects alliances, economic pressure,..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pro.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 20:26:45 +0000",
-      "age_hours": "3.84",
+      "published": "Fri, 19 Jun 2026 03:44:11 +0000",
+      "age_hours": "2.33",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
     "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
-    "Democrats and some Republicans fuming at Trump's Iran deal"
+    "Democrats and some Republicans fuming at Trump's Iran deal",
+    "Vance hits back at Iran deal critics in GOP, Israel: 5 takeaways"
   ],
   "sections": [
-    {
-      "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-      "url": "https://thehill.com/policy/healthcare/5930493-senate-democrats-investigate-kennedy-vaccine/",
-      "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Dems, RFK Jr, Senate Democrats, Health Secretary Robert",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-        "Source context: Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 16:55:07 +0000",
-      "age_hours": "7.37",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
       "url": "https://thehill.com/policy/international/5930692-senate-democrat-slams-us-iran-deal/",
@@ -383,7 +347,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "age_hours": "5.92",
+      "age_hours": "11.69",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
@@ -413,9 +377,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 18 Jun 2026 19:25:20 -0400",
-      "age_hours": "0.87",
+      "age_hours": "6.64",
       "freshness_status": "fresh",
       "editorial_score": "124",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Vance hits back at Iran deal critics in GOP, Israel: 5 takeaways",
+      "url": "https://thehill.com/homenews/administration/5930853-vance-defends-trump-iran-deal/",
+      "snapshot": "Vice President Vance took to the White House press briefing podium Thursday to hit back against a growing chorus of critics of the Trump administration's deal with Iran after President Trump signed the agreement. Vance referred to criticism of the preliminary agreement from... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Vance, Iran, GOP, Israel",
+        "Specific figures mentioned: 5",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Vance hits back at Iran deal critics in GOP, Israel"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vance.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 18 Jun 2026 19:17:52 +0000",
+      "age_hours": "10.76",
+      "freshness_status": "fresh",
+      "editorial_score": "113",
       "urgency": "WATCH"
     },
     {
@@ -443,70 +437,66 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 18 Jun 2026 19:56:34 -0400",
-      "age_hours": "0.35",
+      "age_hours": "6.12",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
-      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss",
-      "snapshot": "Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+      "snapshot": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Pro, Israel, US, Iran MoU",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
-        "Source context: Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran. The election angle is whether..."
+        "Key people or organizations: Israel, Lebanon, Hezbollah, Hezbollah The",
+        "Story focus: Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+        "Source context: Israel strikes southern Lebanon in sudden clash surge with Hezbollah The geopolitical angle is how the decision affects alliances, economic pressure,..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pro.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 20:26:45 +0000",
-      "age_hours": "3.84",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "MoU's $300bn Iran reconstruction fund becomes US political flashpoint",
-      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
-      "snapshot": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: MoU, Iran, US, Trump",
-        "Specific figures mentioned: 300",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: MoU's $300bn Iran reconstruction fund becomes US political flashpoint"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving MoU.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 19:52:17 +0000",
-      "age_hours": "4.42",
+      "published": "Fri, 19 Jun 2026 03:44:11 +0000",
+      "age_hours": "2.33",
       "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "url": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
+      "snapshot": "Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.",
+      "key_data": [
+        "Key people or organizations: Brazil, Lula, Left, Senator Jaques Wagner",
+        "Story focus: Brazil executes warrant against Lula ally in widening financial scandal",
+        "Source context: Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Brazil.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 18 Jun 2026 21:13:00 +0000",
+      "age_hours": "8.85",
+      "freshness_status": "fresh",
+      "editorial_score": "68",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
