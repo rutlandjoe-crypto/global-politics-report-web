@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
-  "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-19 06:55:01 PM ET",
-  "generated_at": "2026-06-19 06:55:01 PM ET",
+  "headline": "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+  "snapshot": "Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-06-19 07:55:51 PM ET",
+  "generated_at": "2026-06-19 07:55:51 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 74,
+    "total_items_checked": 149,
+    "live_fresh_items": 71,
     "editor_fresh_items": 149,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 76,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 78,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-19 06:55:01 PM ET"
+    "last_checked": "2026-06-19 07:55:51 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,37 +44,69 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 19:00:56 +0000",
-      "age_hours": "3.90",
+      "age_hours": "4.91",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Israeli air strikes hit Lebanon minutes after new ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss",
-      "snapshot": "Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "6/19: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/061926-the-takeout-with-major-garrett/",
+      "snapshot": "Israel and Hezbollah reach a ceasefire in Lebanon; Reflecting Pool facing new issues despite President Trump's recent renovation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Israeli, Lebanon, Minutes, Israel",
-        "Story focus: Israeli air strikes hit Lebanon minutes after new ceasefire",
-        "Source context: Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon The geopolitical angle is..."
+        "Key people or organizations: Major Garrett, Israel, Hezbollah, Lebanon",
+        "Specific figures mentioned: 6, 19",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 6/19"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 19 Jun 2026 17:00:00 -0400",
+      "age_hours": "2.93",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss",
+      "snapshot": "Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: US, Joe Biden, Biden, Democratic",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+        "Source context: Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 19 Jun 2026 16:04:58 +0000",
-      "age_hours": "6.83",
+      "published": "Fri, 19 Jun 2026 23:11:07 +0000",
+      "age_hours": "0.75",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "116",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "0.65",
+      "age_hours": "1.66",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
@@ -132,44 +164,44 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "age_hours": "8.19",
+      "age_hours": "9.20",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "How the Iran war united, and then divided Trump and Netanyahu",
-      "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
-      "snapshot": "Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Trump, Netanyahu, Israeli Prime Minister Benjamin",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How the Iran war united, and then divided Trump and Netanyahu",
-        "Source context: Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 12:28:19 -0400",
-      "age_hours": "6.44",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss",
+      "snapshot": "Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: US, Joe Biden, Biden, Democratic",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+        "Source context: Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 19 Jun 2026 23:11:07 +0000",
+      "age_hours": "0.75",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
       "url": "https://www.cbsnews.com/news/biden-justice-department-conservations-ghostwriter-heritage-foundation/",
       "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -194,9 +226,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "0.65",
+      "age_hours": "1.66",
       "freshness_status": "fresh",
       "editorial_score": "112",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "6/19: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/061926-the-takeout-with-major-garrett/",
+      "snapshot": "Israel and Hezbollah reach a ceasefire in Lebanon; Reflecting Pool facing new issues despite President Trump's recent renovation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, Israel, Hezbollah, Lebanon",
+        "Specific figures mentioned: 6, 19",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 6/19"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 19 Jun 2026 17:00:00 -0400",
+      "age_hours": "2.93",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": "DEVELOPING"
     },
     {
@@ -224,40 +286,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "age_hours": "8.19",
+      "age_hours": "9.20",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "How the Iran war united, and then divided Trump and Netanyahu",
-      "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
-      "snapshot": "Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Trump, Netanyahu, Israeli Prime Minister Benjamin",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How the Iran war united, and then divided Trump and Netanyahu",
-        "Source context: Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 12:28:19 -0400",
-      "age_hours": "6.44",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
     },
     {
       "headline": "Newsom on reported DOJ investigation: 'Go after me'",
@@ -284,48 +316,48 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 19:00:56 +0000",
-      "age_hours": "3.90",
+      "age_hours": "4.91",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
-      "url": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss",
-      "snapshot": "A 2015 law requiring congressional approval for any Iran nuclear deal is in the spotlight after this week's memo. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Does Trump, Iran, Congress",
-        "Specific figures mentioned: 2015",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Does Trump have to submit the Iran memorandum of understanding to Congress?"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Does Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 19 Jun 2026 21:10:56 +0000",
-      "age_hours": "1.73",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
     "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
-    "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
-    "How the Iran war united, and then divided Trump and Netanyahu"
+    "6/19: The Takeout with Major Garrett"
   ],
   "sections": [
+    {
+      "headline": "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss",
+      "snapshot": "Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: US, Joe Biden, Biden, Democratic",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
+        "Source context: Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 19 Jun 2026 23:11:07 +0000",
+      "age_hours": "0.75",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
       "url": "https://www.cbsnews.com/news/biden-justice-department-conservations-ghostwriter-heritage-foundation/",
@@ -351,9 +383,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "0.65",
+      "age_hours": "1.66",
       "freshness_status": "fresh",
       "editorial_score": "112",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "6/19: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/061926-the-takeout-with-major-garrett/",
+      "snapshot": "Israel and Hezbollah reach a ceasefire in Lebanon; Reflecting Pool facing new issues despite President Trump's recent renovation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, Israel, Hezbollah, Lebanon",
+        "Specific figures mentioned: 6, 19",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 6/19"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 19 Jun 2026 17:00:00 -0400",
+      "age_hours": "2.93",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": "DEVELOPING"
     },
     {
@@ -381,40 +443,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "age_hours": "8.19",
+      "age_hours": "9.20",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "How the Iran war united, and then divided Trump and Netanyahu",
-      "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
-      "snapshot": "Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Trump, Netanyahu, Israeli Prime Minister Benjamin",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How the Iran war united, and then divided Trump and Netanyahu",
-        "Source context: Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 12:28:19 -0400",
-      "age_hours": "6.44",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
     },
     {
       "headline": "Newsom on reported DOJ investigation: 'Go after me'",
@@ -441,7 +473,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 19:00:56 +0000",
-      "age_hours": "3.90",
+      "age_hours": "4.91",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
@@ -471,38 +503,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 21:10:56 +0000",
-      "age_hours": "1.73",
+      "age_hours": "2.75",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Israeli air strikes hit Lebanon minutes after new ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss",
-      "snapshot": "Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon, Minutes, Israel",
-        "Story focus: Israeli air strikes hit Lebanon minutes after new ceasefire",
-        "Source context: Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon The geopolitical angle is..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 19 Jun 2026 16:04:58 +0000",
-      "age_hours": "6.83",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
