@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
   "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-06-18 06:48:59 PM ET",
-  "generated_at": "2026-06-18 06:48:59 PM ET",
+  "updated_at": "2026-06-18 08:17:25 PM ET",
+  "generated_at": "2026-06-18 08:17:25 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 119,
+    "total_items_checked": 149,
+    "live_fresh_items": 117,
     "editor_fresh_items": 148,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 31,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-18 06:48:59 PM ET"
+    "last_checked": "2026-06-18 08:17:25 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 16:55:07 +0000",
-      "age_hours": "5.90",
+      "age_hours": "7.37",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -74,21 +74,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "age_hours": "4.44",
+      "age_hours": "5.92",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars",
-      "url": "https://www.cbsnews.com/news/trump-awards-medal-of-honor-3-veterans-vietnam-afghanistan-wars-james-capers-jr-nicholas-dockery-john-w-ripley/",
-      "snapshot": "In a ceremony at the White House, the president paid tribute to retired Marine Corps Maj. James Capers Jr., retired Army Maj. Nicholas Dockery and Marine Col. John W. Ripley, who died in 2008. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "MoU's $300bn Iran reconstruction fund becomes US political flashpoint",
+      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
+      "snapshot": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Medal, Honor, Vietnam",
-        "Specific figures mentioned: 3, 2008",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: MoU, Iran, US, Trump",
+        "Specific figures mentioned: 300",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars"
+        "Story focus: MoU's $300bn Iran reconstruction fund becomes US political flashpoint"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -96,18 +96,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving MoU.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 18 Jun 2026 19:52:17 +0000",
+      "age_hours": "4.42",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Democrats and some Republicans fuming at Trump's Iran deal",
+      "url": "https://www.cbsnews.com/video/democrats-some-republicans-fuming-trumps-iran-deal/",
+      "snapshot": "Vice President JD Vance defended President Trump's deal with Iran, which he signed on Wednesday at the Palace of Versailles in France. Weijia Jiang has more reaction and details. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Democrats, Republicans, Trump, Iran",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats and some Republicans fuming at Trump's Iran deal",
+        "Source context: Vice President JD Vance defended President Trump's deal with Iran, which he signed on Wednesday at the Palace of Versailles in France. Weijia Jiang..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 18:40:00 -0400",
-      "age_hours": "0.15",
+      "published": "Thu, 18 Jun 2026 19:25:20 -0400",
+      "age_hours": "0.87",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "124",
+      "urgency": "WATCH"
     },
     {
       "headline": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
@@ -133,40 +163,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 17:35:00 -0400",
-      "age_hours": "1.23",
+      "published": "Thu, 18 Jun 2026 19:56:34 -0400",
+      "age_hours": "0.35",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "US vice president slams Israel over criticism of Trump's Iran deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
-      "snapshot": "JD Vance slammed members of Israel's government for criticising US President Donald Trump over his Iran deal efforts. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US, Israel, Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US vice president slams Israel over criticism of Trump's Iran deal",
-        "Source context: JD Vance slammed members of Israel's government for criticising US President Donald Trump over his Iran deal efforts. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 17:35:48 +0000",
-      "age_hours": "5.22",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
       "urgency": "WATCH"
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 16:55:07 +0000",
-      "age_hours": "5.90",
+      "age_hours": "7.37",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -226,21 +226,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "age_hours": "4.44",
+      "age_hours": "5.92",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars",
-      "url": "https://www.cbsnews.com/news/trump-awards-medal-of-honor-3-veterans-vietnam-afghanistan-wars-james-capers-jr-nicholas-dockery-john-w-ripley/",
-      "snapshot": "In a ceremony at the White House, the president paid tribute to retired Marine Corps Maj. James Capers Jr., retired Army Maj. Nicholas Dockery and Marine Col. John W. Ripley, who died in 2008. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Democrats and some Republicans fuming at Trump's Iran deal",
+      "url": "https://www.cbsnews.com/video/democrats-some-republicans-fuming-trumps-iran-deal/",
+      "snapshot": "Vice President JD Vance defended President Trump's deal with Iran, which he signed on Wednesday at the Palace of Versailles in France. Weijia Jiang has more reaction and details. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Medal, Honor, Vietnam",
-        "Specific figures mentioned: 3, 2008",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Democrats, Republicans, Trump, Iran",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars"
+        "Story focus: Democrats and some Republicans fuming at Trump's Iran deal",
+        "Source context: Vice President JD Vance defended President Trump's deal with Iran, which he signed on Wednesday at the Palace of Versailles in France. Weijia Jiang..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -248,18 +248,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 18:40:00 -0400",
-      "age_hours": "0.15",
+      "published": "Thu, 18 Jun 2026 19:25:20 -0400",
+      "age_hours": "0.87",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "124",
+      "urgency": "WATCH"
     },
     {
       "headline": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
@@ -285,197 +285,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 17:35:00 -0400",
-      "age_hours": "1.23",
+      "published": "Thu, 18 Jun 2026 19:56:34 -0400",
+      "age_hours": "0.35",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "US vice president slams Israel over criticism of Trump's Iran deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
-      "snapshot": "JD Vance slammed members of Israel's government for criticising US President Donald Trump over his Iran deal efforts. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US, Israel, Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US vice president slams Israel over criticism of Trump's Iran deal",
-        "Source context: JD Vance slammed members of Israel's government for criticising US President Donald Trump over his Iran deal efforts. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 17:35:48 +0000",
-      "age_hours": "5.22",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-    "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
-    "Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars"
-  ],
-  "sections": [
-    {
-      "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-      "url": "https://thehill.com/policy/healthcare/5930493-senate-democrats-investigate-kennedy-vaccine/",
-      "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Dems, RFK Jr, Senate Democrats, Health Secretary Robert",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Dems launch investigation into RFK Jr. vaccine panel changes",
-        "Source context: Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 16:55:07 +0000",
-      "age_hours": "5.90",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
-      "url": "https://thehill.com/policy/international/5930692-senate-democrat-slams-us-iran-deal/",
-      "snapshot": "The top Democrat on the Senate Foreign Relations Committee slammed the reported contents of the deal between the U.S. and Iran, calling them a \"catastrophically bad outcome.\" \"The White House has not released the memorandum of understanding, so neither Congress nor the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Top Foreign Relations Democrat, Trump, Iran, Catastrophically",
-        "Politics desk signal: congress, senate, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Top Foreign Relations Democrat on Trump's Iran deal",
-        "Source context: The top Democrat on the Senate Foreign Relations Committee slammed the reported contents of the deal between the U.S. and Iran, calling them a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Top Foreign Relations Democrat.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 18 Jun 2026 18:22:15 +0000",
-      "age_hours": "4.44",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars",
-      "url": "https://www.cbsnews.com/news/trump-awards-medal-of-honor-3-veterans-vietnam-afghanistan-wars-james-capers-jr-nicholas-dockery-john-w-ripley/",
-      "snapshot": "In a ceremony at the White House, the president paid tribute to retired Marine Corps Maj. James Capers Jr., retired Army Maj. Nicholas Dockery and Marine Col. John W. Ripley, who died in 2008. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Medal, Honor, Vietnam",
-        "Specific figures mentioned: 3, 2008",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump awards Medal of Honor to 3 veterans of the Vietnam, Afghanistan wars"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 18:40:00 -0400",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
-      "url": "https://www.cbsnews.com/news/iran-deal-reaction-trump-republicans-democrats/",
-      "snapshot": "Republican Senators Bill Cassidy, Thom Tillis, Ted Cruz and Tom Cotton have been critical of the 14-point memorandum of understanding signed on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Facing, Iran, Trump, Republican Senators Bill Cassidy",
-        "Specific figures mentioned: 14",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
-        "Source context: Republican Senators Bill Cassidy, Thom Tillis, Ted Cruz and Tom Cotton have been critical of the 14-point memorandum of understanding signed on..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Facing.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 18 Jun 2026 17:35:00 -0400",
-      "age_hours": "1.23",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "US vice president slams Israel over criticism of Trump's Iran deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
-      "snapshot": "JD Vance slammed members of Israel's government for criticising US President Donald Trump over his Iran deal efforts. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US, Israel, Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US vice president slams Israel over criticism of Trump's Iran deal",
-        "Source context: JD Vance slammed members of Israel's government for criticising US President Donald Trump over his Iran deal efforts. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 18 Jun 2026 17:35:48 +0000",
-      "age_hours": "5.22",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
       "urgency": "WATCH"
     },
     {
@@ -503,9 +316,196 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 18 Jun 2026 20:26:45 +0000",
-      "age_hours": "2.37",
+      "age_hours": "3.84",
       "freshness_status": "fresh",
       "editorial_score": "78",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
+    "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
+    "Democrats and some Republicans fuming at Trump's Iran deal"
+  ],
+  "sections": [
+    {
+      "headline": "Senate Dems launch investigation into RFK Jr. vaccine panel changes",
+      "url": "https://thehill.com/policy/healthcare/5930493-senate-democrats-investigate-kennedy-vaccine/",
+      "snapshot": "Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a federal vaccine advisory panel. In a letter to Kennedy, Sens. Ron Wyden (D-Ore.) and Maggie Hassan (D-N.H.) demanded that he... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate Dems, RFK Jr, Senate Democrats, Health Secretary Robert",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Dems launch investigation into RFK Jr. vaccine panel changes",
+        "Source context: Senate Democrats are launching an investigation into Health Secretary Robert F. Kennedy Jr.'s changes to vaccine policy, including the remaking of a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Dems.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 18 Jun 2026 16:55:07 +0000",
+      "age_hours": "7.37",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Top Foreign Relations Democrat on Trump's Iran deal: 'Catastrophically bad outcome'",
+      "url": "https://thehill.com/policy/international/5930692-senate-democrat-slams-us-iran-deal/",
+      "snapshot": "The top Democrat on the Senate Foreign Relations Committee slammed the reported contents of the deal between the U.S. and Iran, calling them a \"catastrophically bad outcome.\" \"The White House has not released the memorandum of understanding, so neither Congress nor the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Top Foreign Relations Democrat, Trump, Iran, Catastrophically",
+        "Politics desk signal: congress, senate, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Top Foreign Relations Democrat on Trump's Iran deal",
+        "Source context: The top Democrat on the Senate Foreign Relations Committee slammed the reported contents of the deal between the U.S. and Iran, calling them a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Top Foreign Relations Democrat.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 18 Jun 2026 18:22:15 +0000",
+      "age_hours": "5.92",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Democrats and some Republicans fuming at Trump's Iran deal",
+      "url": "https://www.cbsnews.com/video/democrats-some-republicans-fuming-trumps-iran-deal/",
+      "snapshot": "Vice President JD Vance defended President Trump's deal with Iran, which he signed on Wednesday at the Palace of Versailles in France. Weijia Jiang has more reaction and details. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Democrats, Republicans, Trump, Iran",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats and some Republicans fuming at Trump's Iran deal",
+        "Source context: Vice President JD Vance defended President Trump's deal with Iran, which he signed on Wednesday at the Palace of Versailles in France. Weijia Jiang..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 18 Jun 2026 19:25:20 -0400",
+      "age_hours": "0.87",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
+      "url": "https://www.cbsnews.com/news/iran-deal-reaction-trump-republicans-democrats/",
+      "snapshot": "Republican Senators Bill Cassidy, Thom Tillis, Ted Cruz and Tom Cotton have been critical of the 14-point memorandum of understanding signed on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Facing, Iran, Trump, Republican Senators Bill Cassidy",
+        "Specific figures mentioned: 14",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
+        "Source context: Republican Senators Bill Cassidy, Thom Tillis, Ted Cruz and Tom Cotton have been critical of the 14-point memorandum of understanding signed on..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Facing.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 18 Jun 2026 19:56:34 -0400",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss",
+      "snapshot": "Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Pro, Israel, US, Iran MoU",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+        "Source context: Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Pro.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 18 Jun 2026 20:26:45 +0000",
+      "age_hours": "3.84",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
+    },
+    {
+      "headline": "MoU's $300bn Iran reconstruction fund becomes US political flashpoint",
+      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
+      "snapshot": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: MoU, Iran, US, Trump",
+        "Specific figures mentioned: 300",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: MoU's $300bn Iran reconstruction fund becomes US political flashpoint"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving MoU.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 18 Jun 2026 19:52:17 +0000",
+      "age_hours": "4.42",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": ""
     }
   ],
