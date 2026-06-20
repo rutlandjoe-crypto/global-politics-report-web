@@ -3,22 +3,51 @@
   "vertical": "Politics",
   "headline": "Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
   "snapshot": "The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited programming over the coming months. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-20 07:48:28 AM ET",
-  "generated_at": "2026-06-20 07:48:28 AM ET",
+  "updated_at": "2026-06-20 09:18:45 AM ET",
+  "generated_at": "2026-06-20 09:18:45 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 32,
+    "live_fresh_items": 38,
     "editor_fresh_items": 98,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 116,
+    "stale_or_blocked_items": 110,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-20 07:48:28 AM ET"
+    "last_checked": "2026-06-20 09:18:45 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+      "url": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
+      "snapshot": "US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Lebanon, US, Iran",
+        "Specific figures mentioned: 22",
+        "Story focus: Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+        "Source context: US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 20 Jun 2026 07:02:41 +0000",
+      "age_hours": "6.27",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
       "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
@@ -43,7 +72,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 20 Jun 2026 05:58:49 +0000",
-      "age_hours": "5.83",
+      "age_hours": "7.33",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -73,9 +102,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 21:45:00 -0400",
-      "age_hours": "10.06",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "How the Iran war united, and then divided, Trump and Netanyahu",
+      "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
+      "snapshot": "Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, Netanyahu, Israeli Prime Minister Benjamin",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How the Iran war united, and then divided, Trump and Netanyahu",
+        "Source context: Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 20 Jun 2026 08:59:03 -0400",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -103,69 +162,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.81",
+      "age_hours": "3.31",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump's deal lifts oil sanctions on Iran, angering hawks",
-      "url": "https://thehill.com/policy/energy-environment/5932235-trumps-deal-iran-oil-sanctions/",
-      "snapshot": "President Trump's peace deal with Iran offers waivers on U.S. sanctions on Iranian oil, one of multiple facets of the agreement that is angering Iran hawks, including some Trump allies. Critics worry that relaxing the sanctions bolsters the economy of a nation hostile toward... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump, Iranian",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's deal lifts oil sanctions on Iran, angering hawks",
-        "Source context: President Trump's peace deal with Iran offers waivers on U.S. sanctions on Iranian oil, one of multiple facets of the agreement that is angering Iran..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 20 Jun 2026 10:01:30 +0000",
-      "age_hours": "1.78",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump's Iran deal, Israel's meltdown",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
-      "snapshot": "The precarious memorandum of understanding between the US and Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, Israel, US",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's Iran deal, Israel's meltdown",
-        "Source context: The precarious memorandum of understanding between the US and Iran. The election angle is whether this changes voter attention, campaign strategy or..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 20 Jun 2026 09:45:56 +0000",
-      "age_hours": "2.04",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
       "urgency": "WATCH"
     }
   ],
@@ -195,9 +194,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 21:45:00 -0400",
-      "age_hours": "10.06",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "How the Iran war united, and then divided, Trump and Netanyahu",
+      "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
+      "snapshot": "Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, Netanyahu, Israeli Prime Minister Benjamin",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How the Iran war united, and then divided, Trump and Netanyahu",
+        "Source context: Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 20 Jun 2026 08:59:03 -0400",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -225,7 +254,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.81",
+      "age_hours": "3.31",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "WATCH"
@@ -255,20 +284,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "age_hours": "25.81",
+      "age_hours": "27.31",
       "freshness_status": "stale",
       "editorial_score": "93",
       "urgency": "WATCH"
     },
     {
-      "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-      "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-      "snapshot": "Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+      "url": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
+      "snapshot": "US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Iran, Tehran, US, Lebanon",
-        "Specific figures mentioned: 113",
-        "Story focus: Iran war day 113",
-        "Source context: Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts. The geopolitical angle is how the decision affects..."
+        "Key people or organizations: Israeli, Lebanon, US, Iran",
+        "Specific figures mentioned: 22",
+        "Story focus: Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+        "Source context: US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed. The geopolitical angle is how..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -276,54 +305,24 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 20 Jun 2026 05:58:49 +0000",
-      "age_hours": "5.83",
+      "published": "Sat, 20 Jun 2026 07:02:41 +0000",
+      "age_hours": "6.27",
       "freshness_status": "fresh",
       "editorial_score": "86",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
-      "url": "https://www.cbsnews.com/news/biden-justice-department-conservations-ghostwriter-heritage-foundation/",
-      "snapshot": "A judge on Friday cleared the way for the DOJ to disclose former President Joe Biden's conversations with his biographer to the Heritage Foundation. Later in the day, she blocked the release for three weeks. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, DOJ, Biden, President Joe Biden",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "13.54",
-      "freshness_status": "stale",
-      "editorial_score": "82",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
-    "GOP bullish on political impact for Republicans of Trump MOU with Iran",
-    "Trump's deal lifts oil sanctions on Iran, angering hawks"
+    "How the Iran war united, and then divided, Trump and Netanyahu",
+    "GOP bullish on political impact for Republicans of Trump MOU with Iran"
   ],
   "sections": [
     {
@@ -351,9 +350,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 21:45:00 -0400",
-      "age_hours": "10.06",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "How the Iran war united, and then divided, Trump and Netanyahu",
+      "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
+      "snapshot": "Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, Netanyahu, Israeli Prime Minister Benjamin",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How the Iran war united, and then divided, Trump and Netanyahu",
+        "Source context: Trump has appeared during the Iran war to lose patience with Israeli Prime Minister Benjamin Netanyahu, who may now find himself \"stuck.\" The..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 20 Jun 2026 08:59:03 -0400",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -381,40 +410,69 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "age_hours": "1.81",
+      "age_hours": "3.31",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump's deal lifts oil sanctions on Iran, angering hawks",
-      "url": "https://thehill.com/policy/energy-environment/5932235-trumps-deal-iran-oil-sanctions/",
-      "snapshot": "President Trump's peace deal with Iran offers waivers on U.S. sanctions on Iranian oil, one of multiple facets of the agreement that is angering Iran hawks, including some Trump allies. Critics worry that relaxing the sanctions bolsters the economy of a nation hostile toward... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump administration says it's considering 'partial closure' of Kennedy Center despite judge's order",
+      "url": "https://thehill.com/regulation/court-battles/5932572-kennedy-center-partial-closure-lawsuit/",
+      "snapshot": "The Trump administration said in a court filing late Friday that it is still considering a \"partial closure\" at the Kennedy Center, despite a previous ruling requiring that the iconic performing arts center remains open. Last month, U.S. District Judge Christopher Cooper ruled... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump, Iranian",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Kennedy Center, Last, District Judge Christopher Cooper",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's deal lifts oil sanctions on Iran, angering hawks",
-        "Source context: President Trump's peace deal with Iran offers waivers on U.S. sanctions on Iranian oil, one of multiple facets of the agreement that is angering Iran..."
+        "Story focus: Trump administration says it's considering 'partial closure' of Kennedy Center despite judge's order",
+        "Source context: The Trump administration said in a court filing late Friday that it is still considering a \"partial closure\" at the Kennedy Center, despite a..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 20 Jun 2026 10:01:30 +0000",
-      "age_hours": "1.78",
+      "published": "Sat, 20 Jun 2026 13:03:27 +0000",
+      "age_hours": "0.25",
       "freshness_status": "fresh",
       "editorial_score": "91",
-      "urgency": "WATCH"
+      "urgency": ""
+    },
+    {
+      "headline": "Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+      "url": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
+      "snapshot": "US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Lebanon, US, Iran",
+        "Specific figures mentioned: 22",
+        "Story focus: Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+        "Source context: US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 20 Jun 2026 07:02:41 +0000",
+      "age_hours": "6.27",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
@@ -440,70 +498,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 20 Jun 2026 05:58:49 +0000",
-      "age_hours": "5.83",
+      "age_hours": "7.33",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump's Iran deal, Israel's meltdown",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
-      "snapshot": "The precarious memorandum of understanding between the US and Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, Israel, US",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's Iran deal, Israel's meltdown",
-        "Source context: The precarious memorandum of understanding between the US and Iran. The election angle is whether this changes voter attention, campaign strategy or..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 20 Jun 2026 09:45:56 +0000",
-      "age_hours": "2.04",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Rips appear in Reflecting Pool's new sealant after algae turn water green",
-      "url": "https://www.cbsnews.com/news/lincoln-memorial-reflecting-pool-sealant-rips-algae-trump/",
-      "snapshot": "President Trump's efforts to spruce up the Lincoln Memorial Reflecting Pool faced a snag this week, with algae turning the water green while rips appeared in an \"American Flag Blue\" surface picked by the president. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Rips, Reflecting Pool, President Trump, Lincoln Memorial Reflecting Pool",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Rips appear in Reflecting Pool's new sealant after algae turn water green",
-        "Source context: President Trump's efforts to spruce up the Lincoln Memorial Reflecting Pool faced a snag this week, with algae turning the water green while rips..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Rips.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 22:53:06 -0400",
-      "age_hours": "8.92",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
