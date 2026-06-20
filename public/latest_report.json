@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
   "snapshot": "Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-19 07:55:51 PM ET",
-  "generated_at": "2026-06-19 07:55:51 PM ET",
+  "updated_at": "2026-06-20 02:13:42 AM ET",
+  "generated_at": "2026-06-20 02:13:42 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 71,
-    "editor_fresh_items": 149,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 78,
+    "total_items_checked": 147,
+    "live_fresh_items": 41,
+    "editor_fresh_items": 125,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 106,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-19 07:55:51 PM ET"
+    "last_checked": "2026-06-20 02:13:42 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 19:00:56 +0000",
-      "age_hours": "4.91",
+      "age_hours": "11.21",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "6/19: The Takeout with Major Garrett",
-      "url": "https://www.cbsnews.com/video/061926-the-takeout-with-major-garrett/",
-      "snapshot": "Israel and Hezbollah reach a ceasefire in Lebanon; Reflecting Pool facing new issues despite President Trump's recent renovation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Major Garrett, Israel, Hezbollah, Lebanon",
-        "Specific figures mentioned: 6, 19",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 6/19"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Major Garrett.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 17:00:00 -0400",
-      "age_hours": "2.93",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +74,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 23:11:07 +0000",
-      "age_hours": "0.75",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -134,21 +104,50 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "1.66",
+      "age_hours": "7.96",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
-      "url": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
-      "snapshot": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country readies for its 250th birthday. Carville called the deal an \"instrument of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
+      "url": "https://www.cbsnews.com/news/kennedy-center-still-weighing-whether-to-carry-out-partial-closure/",
+      "snapshot": "The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited programming over the coming months. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: James Carville, Trump, Iran MOU, Happy",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Kennedy Center, Trump",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: James Carville on Trump's Iran MOU"
+        "Story focus: Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
+        "Source context: The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Kennedy Center.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 19 Jun 2026 21:45:00 -0400",
+      "age_hours": "4.48",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump endorses both GOP runoff candidates in South Carolina",
+      "url": "https://thehill.com/homenews/campaign/5932424-trump-backs-evette-wilson/",
+      "snapshot": "President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist that comes just days before voters are set to return to the polls for a runoff. Trump initially put his full support behind the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, South Carolina, President Trump",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump endorses both GOP runoff candidates in South Carolina",
+        "Source context: President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,18 +155,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving James Carville.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "age_hours": "9.20",
+      "published": "Fri, 19 Jun 2026 23:24:22 +0000",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "BREAKING"
+      "editorial_score": "107",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -196,7 +195,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 23:11:07 +0000",
-      "age_hours": "0.75",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -226,51 +225,50 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "1.66",
+      "age_hours": "7.96",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "6/19: The Takeout with Major Garrett",
-      "url": "https://www.cbsnews.com/video/061926-the-takeout-with-major-garrett/",
-      "snapshot": "Israel and Hezbollah reach a ceasefire in Lebanon; Reflecting Pool facing new issues despite President Trump's recent renovation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
+      "url": "https://www.cbsnews.com/news/kennedy-center-still-weighing-whether-to-carry-out-partial-closure/",
+      "snapshot": "The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited programming over the coming months. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Major Garrett, Israel, Hezbollah, Lebanon",
-        "Specific figures mentioned: 6, 19",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Kennedy Center, Trump",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 6/19"
+        "Story focus: Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
+        "Source context: The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Major Garrett.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Kennedy Center.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 17:00:00 -0400",
-      "age_hours": "2.93",
+      "published": "Fri, 19 Jun 2026 21:45:00 -0400",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
-      "headline": "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
-      "url": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
-      "snapshot": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country readies for its 250th birthday. Carville called the deal an \"instrument of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump endorses both GOP runoff candidates in South Carolina",
+      "url": "https://thehill.com/homenews/campaign/5932424-trump-backs-evette-wilson/",
+      "snapshot": "President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist that comes just days before voters are set to return to the polls for a runoff. Trump initially put his full support behind the... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: James Carville, Trump, Iran MOU, Happy",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, GOP, South Carolina, President Trump",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: James Carville on Trump's Iran MOU"
+        "Story focus: Trump endorses both GOP runoff candidates in South Carolina",
+        "Source context: President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -278,18 +276,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving James Carville.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "age_hours": "9.20",
+      "published": "Fri, 19 Jun 2026 23:24:22 +0000",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "BREAKING"
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Newsom on reported DOJ investigation: 'Go after me'",
@@ -316,7 +314,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 19:00:56 +0000",
-      "age_hours": "4.91",
+      "age_hours": "11.21",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
@@ -325,7 +323,7 @@
   "key_storylines": [
     "US judge rejects Joe Biden's lawsuit asking to withhold memoir recordings",
     "Judge blocks DOJ from releasing Biden's conversations with biographer for 3 weeks",
-    "6/19: The Takeout with Major Garrett"
+    "Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge"
   ],
   "sections": [
     {
@@ -353,7 +351,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 23:11:07 +0000",
-      "age_hours": "0.75",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -383,51 +381,50 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 19 Jun 2026 18:15:56 -0400",
-      "age_hours": "1.66",
+      "age_hours": "7.96",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "6/19: The Takeout with Major Garrett",
-      "url": "https://www.cbsnews.com/video/061926-the-takeout-with-major-garrett/",
-      "snapshot": "Israel and Hezbollah reach a ceasefire in Lebanon; Reflecting Pool facing new issues despite President Trump's recent renovation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
+      "url": "https://www.cbsnews.com/news/kennedy-center-still-weighing-whether-to-carry-out-partial-closure/",
+      "snapshot": "The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited programming over the coming months. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Major Garrett, Israel, Hezbollah, Lebanon",
-        "Specific figures mentioned: 6, 19",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Kennedy Center, Trump",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 6/19"
+        "Story focus: Kennedy Center still weighing \"partial closure,\" Trump admin. tells judge",
+        "Source context: The Trump administration told a federal judge that the Kennedy Center is still weighing whether to offer a full slate of performances or more limited..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Major Garrett.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Kennedy Center.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 19 Jun 2026 17:00:00 -0400",
-      "age_hours": "2.93",
+      "published": "Fri, 19 Jun 2026 21:45:00 -0400",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
-      "headline": "James Carville on Trump's Iran MOU: 'Happy 250th, America. You just lost a war'",
-      "url": "https://thehill.com/policy/international/5931948-trump-iran-deal-carville-analysis/",
-      "snapshot": "Democratic strategist James Carville mocked the memorandum of understanding reached by the Trump administration with Iran, arguing it effectively shows that the U.S. lost the war just as the country readies for its 250th birthday. Carville called the deal an \"instrument of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump endorses both GOP runoff candidates in South Carolina",
+      "url": "https://thehill.com/homenews/campaign/5932424-trump-backs-evette-wilson/",
+      "snapshot": "President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist that comes just days before voters are set to return to the polls for a runoff. Trump initially put his full support behind the... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: James Carville, Trump, Iran MOU, Happy",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, GOP, South Carolina, President Trump",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: James Carville on Trump's Iran MOU"
+        "Story focus: Trump endorses both GOP runoff candidates in South Carolina",
+        "Source context: President Trump on Friday offered a rare dual endorsement for both Republican contenders in the race for South Carolina governor, an unexpected twist..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,18 +432,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving James Carville.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 19 Jun 2026 14:43:40 +0000",
-      "age_hours": "9.20",
+      "published": "Fri, 19 Jun 2026 23:24:22 +0000",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "BREAKING"
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Newsom on reported DOJ investigation: 'Go after me'",
@@ -473,7 +470,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 19 Jun 2026 19:00:56 +0000",
-      "age_hours": "4.91",
+      "age_hours": "11.21",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
@@ -503,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 19 Jun 2026 21:10:56 +0000",
-      "age_hours": "2.75",
+      "age_hours": "9.05",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
