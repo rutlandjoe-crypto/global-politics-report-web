@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
   "snapshot": "A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with information about voters' citizenship status and other sensitive data. District Judge Sparkle Sooknanan, an appointee of former... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-06-22 06:29:06 PM ET",
-  "generated_at": "2026-06-22 06:29:06 PM ET",
+  "updated_at": "2026-06-22 07:57:44 PM ET",
+  "generated_at": "2026-06-22 07:57:44 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 100,
-    "editor_fresh_items": 143,
-    "public_fallback_items": 144,
+    "total_items_checked": 149,
+    "live_fresh_items": 99,
+    "editor_fresh_items": 141,
+    "public_fallback_items": 142,
     "stale_or_blocked_items": 50,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-22 06:29:06 PM ET"
+    "last_checked": "2026-06-22 07:57:44 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 22 Jun 2026 19:16:20 +0000",
-      "age_hours": "3.21",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "141",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
+      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
+      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
+        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
@@ -73,7 +103,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 22 Jun 2026 20:47:55 +0000",
-      "age_hours": "1.69",
+      "age_hours": "3.16",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -103,40 +133,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 22 Jun 2026 18:28:13 +0000",
-      "age_hours": "4.01",
+      "age_hours": "5.49",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
-    },
-    {
-      "headline": "Hegseth to give classified briefing to GOP lawmakers on military funding goals",
-      "url": "https://thehill.com/policy/defense/5934825-hegseth-briefing-house-republicans/",
-      "snapshot": "Defense Secretary Pete Hegseth will give a classified briefing to a group of House Republicans on military funding goals on Wednesday, as President Trump is pushing Congress to pass a $350 billion reconciliation package for the Pentagon. The Pentagon chief will be at the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Hegseth, GOP, Defense Secretary Pete Hegseth, House Republicans",
-        "Specific figures mentioned: $350 billion",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hegseth to give classified briefing to GOP lawmakers on military funding goals"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hegseth.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 19:43:33 +0000",
-      "age_hours": "2.76",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "WATCH"
     },
     {
       "headline": "Judge blocks Trump administration's database of Americans' personal info",
@@ -163,7 +163,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 22 Jun 2026 15:08:36 -0400",
-      "age_hours": "3.34",
+      "age_hours": "4.82",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -195,21 +195,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 22 Jun 2026 19:16:20 +0000",
-      "age_hours": "3.21",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Hegseth to give classified briefing to GOP lawmakers on military funding goals",
-      "url": "https://thehill.com/policy/defense/5934825-hegseth-briefing-house-republicans/",
-      "snapshot": "Defense Secretary Pete Hegseth will give a classified briefing to a group of House Republicans on military funding goals on Wednesday, as President Trump is pushing Congress to pass a $350 billion reconciliation package for the Pentagon. The Pentagon chief will be at the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
+      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
+      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Hegseth, GOP, Defense Secretary Pete Hegseth, House Republicans",
-        "Specific figures mentioned: $350 billion",
-        "Politics desk signal: congress, house",
+        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hegseth to give classified briefing to GOP lawmakers on military funding goals"
+        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
+        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -217,18 +217,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Hegseth.",
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 19:43:33 +0000",
-      "age_hours": "2.76",
+      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
+      "age_hours": "0.79",
       "freshness_status": "fresh",
       "editorial_score": "121",
-      "urgency": "WATCH"
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge blocks Trump administration's database of Americans' personal info",
@@ -255,21 +255,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 22 Jun 2026 15:08:36 -0400",
-      "age_hours": "3.34",
+      "age_hours": "4.82",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says several people arrested for alleged vandalism of Reflecting Pool",
-      "url": "https://www.cbsnews.com/news/trump-reflecting-pool-vandalism-arrest-washington-dc/",
-      "snapshot": "President Trump claims the problems with the Reflecting Pool in Washington are due to vandalism. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump plan would increase citizenship application fee by $570",
+      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
+      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Reflecting Pool, President Trump, Washington",
+        "Key people or organizations: Trump",
+        "Specific figures mentioned: $570",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says several people arrested for alleged vandalism of Reflecting Pool",
-        "Source context: President Trump claims the problems with the Reflecting Pool in Washington are due to vandalism. The election angle is whether this changes voter..."
+        "Story focus: Trump plan would increase citizenship application fee by $570"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -284,8 +284,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 17:26:03 -0400",
-      "age_hours": "1.05",
+      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
+      "age_hours": "0.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -314,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 22 Jun 2026 20:47:55 +0000",
-      "age_hours": "1.69",
+      "age_hours": "3.16",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -322,7 +322,7 @@
   ],
   "key_storylines": [
     "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-    "Hegseth to give classified briefing to GOP lawmakers on military funding goals",
+    "GOP senator circulates plan to discuss government shutdown strategy with Trump",
     "Judge blocks Trump administration's database of Americans' personal info"
   ],
   "sections": [
@@ -351,21 +351,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 22 Jun 2026 19:16:20 +0000",
-      "age_hours": "3.21",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Hegseth to give classified briefing to GOP lawmakers on military funding goals",
-      "url": "https://thehill.com/policy/defense/5934825-hegseth-briefing-house-republicans/",
-      "snapshot": "Defense Secretary Pete Hegseth will give a classified briefing to a group of House Republicans on military funding goals on Wednesday, as President Trump is pushing Congress to pass a $350 billion reconciliation package for the Pentagon. The Pentagon chief will be at the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
+      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
+      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Hegseth, GOP, Defense Secretary Pete Hegseth, House Republicans",
-        "Specific figures mentioned: $350 billion",
-        "Politics desk signal: congress, house",
+        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hegseth to give classified briefing to GOP lawmakers on military funding goals"
+        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
+        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -373,18 +373,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Hegseth.",
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 19:43:33 +0000",
-      "age_hours": "2.76",
+      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
+      "age_hours": "0.79",
       "freshness_status": "fresh",
       "editorial_score": "121",
-      "urgency": "WATCH"
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge blocks Trump administration's database of Americans' personal info",
@@ -411,21 +411,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 22 Jun 2026 15:08:36 -0400",
-      "age_hours": "3.34",
+      "age_hours": "4.82",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says several people arrested for alleged vandalism of Reflecting Pool",
-      "url": "https://www.cbsnews.com/news/trump-reflecting-pool-vandalism-arrest-washington-dc/",
-      "snapshot": "President Trump claims the problems with the Reflecting Pool in Washington are due to vandalism. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump plan would increase citizenship application fee by $570",
+      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
+      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Reflecting Pool, President Trump, Washington",
+        "Key people or organizations: Trump",
+        "Specific figures mentioned: $570",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says several people arrested for alleged vandalism of Reflecting Pool",
-        "Source context: President Trump claims the problems with the Reflecting Pool in Washington are due to vandalism. The election angle is whether this changes voter..."
+        "Story focus: Trump plan would increase citizenship application fee by $570"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -440,8 +440,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 17:26:03 -0400",
-      "age_hours": "1.05",
+      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
+      "age_hours": "0.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -470,7 +470,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 22 Jun 2026 20:47:55 +0000",
-      "age_hours": "1.69",
+      "age_hours": "3.16",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -500,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 22 Jun 2026 18:28:13 +0000",
-      "age_hours": "4.01",
+      "age_hours": "5.49",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
