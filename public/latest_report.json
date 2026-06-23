@@ -1,52 +1,80 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-  "snapshot": "A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with information about voters' citizenship status and other sensitive data. District Judge Sparkle Sooknanan, an appointee of former... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-06-23 02:36:22 AM ET",
-  "generated_at": "2026-06-23 02:36:22 AM ET",
+  "headline": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+  "snapshot": "President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday. Vance said Monday that \"a very good foundation\" had been laid in the initial... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+  "updated_at": "2026-06-23 06:25:08 AM ET",
+  "generated_at": "2026-06-23 06:25:08 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 65,
+    "total_items_checked": 151,
+    "live_fresh_items": 45,
     "editor_fresh_items": 122,
-    "public_fallback_items": 137,
-    "stale_or_blocked_items": 83,
+    "public_fallback_items": 140,
+    "stale_or_blocked_items": 106,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-23 02:36:22 AM ET"
+    "last_checked": "2026-06-23 06:25:08 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-      "url": "https://thehill.com/regulation/court-battles/5934681-trump-database-blocked-judge/",
-      "snapshot": "A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with information about voters' citizenship status and other sensitive data. District Judge Sparkle Sooknanan, an appointee of former... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "headline": "US gov't investigates New York coffee chain over ban on pro-Israel lawmaker",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+      "snapshot": "Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Judge, Trump, Social Security, District Judge Sparkle Sooknanan",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-        "Source context: A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with..."
+        "Key people or organizations: US, New York, Israel, Top",
+        "Story focus: US gov't investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "Source context: Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 23 Jun 2026 07:49:18 +0000",
+      "age_hours": "2.60",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+      "url": "https://thehill.com/homenews/administration/5935018-strait-hormuz-oil-prices-iran/",
+      "snapshot": "President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday. Vance said Monday that \"a very good foundation\" had been laid in the initial... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Iran, US, Lebanon, Israel",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+        "Source context: President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 19:16:20 +0000",
-      "age_hours": "11.33",
+      "published": "Tue, 23 Jun 2026 10:00:00 +0000",
+      "age_hours": "0.42",
       "freshness_status": "fresh",
-      "editorial_score": "141",
+      "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,38 +102,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 22 Jun 2026 23:10:30 +0000",
-      "age_hours": "7.43",
+      "age_hours": "11.24",
       "freshness_status": "fresh",
       "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Israeli strike kills Palestinian girl on her way to sit exam",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
-      "snapshot": "17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Palestinian, Raghad Ashour",
-        "Specific figures mentioned: 17",
-        "Story focus: Israeli strike kills Palestinian girl on her way to sit exam",
-        "Source context: 17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike. The geopolitical angle is how the decision..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 23 Jun 2026 01:23:08 +0000",
-      "age_hours": "5.22",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -133,71 +132,71 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 22 Jun 2026 20:20:00 -0400",
-      "age_hours": "6.27",
+      "age_hours": "10.09",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Judge blocks Trump administration's database of Americans' personal info",
-      "url": "https://www.cbsnews.com/news/judge-trump-database-save-system-voter-rolls/",
-      "snapshot": "U.S. District Judge Sparkle Sooknanan said the administration violated the law when it created a centralized database of Americans' personal records. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Trump plan would increase citizenship application fee by $570",
+      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
+      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Judge, Trump, Americans, District Judge Sparkle Sooknanan",
-        "Politics desk signal: court",
+        "Key people or organizations: Trump",
+        "Specific figures mentioned: $570",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge blocks Trump administration's database of Americans' personal info",
-        "Source context: U.S. District Judge Sparkle Sooknanan said the administration violated the law when it created a centralized database of Americans' personal records...."
+        "Story focus: Trump plan would increase citizenship application fee by $570"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 15:08:36 -0400",
-      "age_hours": "11.46",
+      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
+      "age_hours": "11.40",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "92",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-      "url": "https://thehill.com/regulation/court-battles/5934681-trump-database-blocked-judge/",
-      "snapshot": "A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with information about voters' citizenship status and other sensitive data. District Judge Sparkle Sooknanan, an appointee of former... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "headline": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+      "url": "https://thehill.com/homenews/administration/5935018-strait-hormuz-oil-prices-iran/",
+      "snapshot": "President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday. Vance said Monday that \"a very good foundation\" had been laid in the initial... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Judge, Trump, Social Security, District Judge Sparkle Sooknanan",
-        "Politics desk signal: court",
+        "Key people or organizations: Iran, US, Lebanon, Israel",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-        "Source context: A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with..."
+        "Story focus: Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+        "Source context: President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 19:16:20 +0000",
-      "age_hours": "11.33",
+      "published": "Tue, 23 Jun 2026 10:00:00 +0000",
+      "age_hours": "0.42",
       "freshness_status": "fresh",
-      "editorial_score": "141",
+      "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
@@ -225,7 +224,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 22 Jun 2026 23:10:30 +0000",
-      "age_hours": "7.43",
+      "age_hours": "11.24",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
@@ -255,237 +254,49 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 22 Jun 2026 20:20:00 -0400",
-      "age_hours": "6.27",
+      "age_hours": "10.09",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Judge blocks Trump administration's database of Americans' personal info",
-      "url": "https://www.cbsnews.com/news/judge-trump-database-save-system-voter-rolls/",
-      "snapshot": "U.S. District Judge Sparkle Sooknanan said the administration violated the law when it created a centralized database of Americans' personal records. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Trump plan would increase citizenship application fee by $570",
+      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
+      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Judge, Trump, Americans, District Judge Sparkle Sooknanan",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge blocks Trump administration's database of Americans' personal info",
-        "Source context: U.S. District Judge Sparkle Sooknanan said the administration violated the law when it created a centralized database of Americans' personal records...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 15:08:36 -0400",
-      "age_hours": "11.46",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Conservative radio host defends Trump, says he's better than Vance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
-      "snapshot": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Conservative, Trump, Vance, Prominent",
+        "Key people or organizations: Trump",
+        "Specific figures mentioned: $570",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Conservative radio host defends Trump, says he's better than Vance",
-        "Source context: Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether..."
+        "Story focus: Trump plan would increase citizenship application fee by $570"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
         "The practical question is whether the development changes votes, negotiations or public pressure.",
         "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Conservative.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 23 Jun 2026 03:42:16 +0000",
-      "age_hours": "2.90",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-    "GOP senator circulates plan to discuss government shutdown strategy with Trump",
-    "Trump says proof that vandals cut Reflecting Pool will be provided in court"
-  ],
-  "sections": [
-    {
-      "headline": "Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-      "url": "https://thehill.com/regulation/court-battles/5934681-trump-database-blocked-judge/",
-      "snapshot": "A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with information about voters' citizenship status and other sensitive data. District Judge Sparkle Sooknanan, an appointee of former... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, Social Security, District Judge Sparkle Sooknanan",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge strikes down Trump administration database of Social Security numbers, citizenship status",
-        "Source context: A federal judge on Monday blocked the Trump administration from creating a centralized database containing Social Security numbers along with..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 19:16:20 +0000",
-      "age_hours": "11.33",
-      "freshness_status": "fresh",
-      "editorial_score": "141",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
-      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
-      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
-        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
-      "age_hours": "7.43",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
-      "url": "https://www.cbsnews.com/news/reflecting-pool-paint-peeling-trump-proof-vandalism-court/",
-      "snapshot": "President Trump has insisted that vandals, rather than questionable craftsmanship, are responsible for the enduring problems following the Reflecting Pool's $14.7 million sealant job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, Reflecting Pool, President Trump",
-        "Specific figures mentioned: $14.7 million",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says proof that vandals cut Reflecting Pool will be provided in court"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 20:20:00 -0400",
-      "age_hours": "6.27",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Judge blocks Trump administration's database of Americans' personal info",
-      "url": "https://www.cbsnews.com/news/judge-trump-database-save-system-voter-rolls/",
-      "snapshot": "U.S. District Judge Sparkle Sooknanan said the administration violated the law when it created a centralized database of Americans' personal records. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, Americans, District Judge Sparkle Sooknanan",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge blocks Trump administration's database of Americans' personal info",
-        "Source context: U.S. District Judge Sparkle Sooknanan said the administration violated the law when it created a centralized database of Americans' personal records...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 15:08:36 -0400",
-      "age_hours": "11.46",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Conservative radio host defends Trump, says he's better than Vance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
-      "snapshot": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Conservative, Trump, Vance, Prominent",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Conservative radio host defends Trump, says he's better than Vance",
-        "Source context: Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Conservative.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 23 Jun 2026 03:42:16 +0000",
-      "age_hours": "2.90",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
+      "age_hours": "11.40",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Israeli strike kills Palestinian girl on her way to sit exam",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
-      "snapshot": "17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "US gov't investigates New York coffee chain over ban on pro-Israel lawmaker",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+      "snapshot": "Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Israeli, Palestinian, Raghad Ashour",
-        "Specific figures mentioned: 17",
-        "Story focus: Israeli strike kills Palestinian girl on her way to sit exam",
-        "Source context: 17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike. The geopolitical angle is how the decision..."
+        "Key people or organizations: US, New York, Israel, Top",
+        "Story focus: US gov't investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "Source context: Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman. The geopolitical angle is how..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -493,18 +304,203 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
+        "Watch for the next official action involving US.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 23 Jun 2026 01:23:08 +0000",
-      "age_hours": "5.22",
+      "published": "Tue, 23 Jun 2026 07:49:18 +0000",
+      "age_hours": "2.60",
       "freshness_status": "fresh",
-      "editorial_score": "66",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
+    }
+  ],
+  "key_storylines": [
+    "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+    "GOP senator circulates plan to discuss government shutdown strategy with Trump",
+    "Trump says proof that vandals cut Reflecting Pool will be provided in court"
+  ],
+  "sections": [
+    {
+      "headline": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+      "url": "https://thehill.com/homenews/administration/5935018-strait-hormuz-oil-prices-iran/",
+      "snapshot": "President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday. Vance said Monday that \"a very good foundation\" had been laid in the initial... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Iran, US, Lebanon, Israel",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
+        "Source context: President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 23 Jun 2026 10:00:00 +0000",
+      "age_hours": "0.42",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
+      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
+      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
+        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
+      "age_hours": "11.24",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
+      "url": "https://www.cbsnews.com/news/reflecting-pool-paint-peeling-trump-proof-vandalism-court/",
+      "snapshot": "President Trump has insisted that vandals, rather than questionable craftsmanship, are responsible for the enduring problems following the Reflecting Pool's $14.7 million sealant job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Reflecting Pool, President Trump",
+        "Specific figures mentioned: $14.7 million",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says proof that vandals cut Reflecting Pool will be provided in court"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 22 Jun 2026 20:20:00 -0400",
+      "age_hours": "10.09",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump plan would increase citizenship application fee by $570",
+      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
+      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Specific figures mentioned: $570",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump plan would increase citizenship application fee by $570"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
+      "age_hours": "11.40",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "US gov't investigates New York coffee chain over ban on pro-Israel lawmaker",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss",
+      "snapshot": "Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, New York, Israel, Top",
+        "Story focus: US gov't investigates New York coffee chain over ban on pro-Israel lawmaker",
+        "Source context: Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 23 Jun 2026 07:49:18 +0000",
+      "age_hours": "2.60",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Conservative radio host defends Trump, says he's better than Vance",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
+      "snapshot": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Conservative, Trump, Vance, Prominent",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Conservative radio host defends Trump, says he's better than Vance",
+        "Source context: Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Conservative.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 23 Jun 2026 03:42:16 +0000",
+      "age_hours": "6.71",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
