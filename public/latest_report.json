@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
   "snapshot": "President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday. Vance said Monday that \"a very good foundation\" had been laid in the initial... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-06-23 06:25:08 AM ET",
-  "generated_at": "2026-06-23 06:25:08 AM ET",
+  "updated_at": "2026-06-23 09:33:35 AM ET",
+  "generated_at": "2026-06-23 09:33:35 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 45,
-    "editor_fresh_items": 122,
+    "live_fresh_items": 51,
+    "editor_fresh_items": 138,
     "public_fallback_items": 140,
-    "stale_or_blocked_items": 106,
+    "stale_or_blocked_items": 100,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-23 06:25:08 AM ET"
+    "last_checked": "2026-06-23 09:33:35 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 23 Jun 2026 07:49:18 +0000",
-      "age_hours": "2.60",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -72,21 +72,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 23 Jun 2026 10:00:00 +0000",
-      "age_hours": "0.42",
+      "age_hours": "3.56",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
-      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
-      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss",
+      "snapshot": "US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Key people or organizations: Iran, US, Israel, Lebanon",
+        "Specific figures mentioned: 116, 60",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war day 116",
+        "Source context: US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections. The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 23 Jun 2026 07:58:51 +0000",
+      "age_hours": "5.58",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
+      "url": "https://thehill.com/homenews/senate/5935140-trump-republican-senators-save-america-act-iran-deal/",
+      "snapshot": "President Trump and Republican senators are headed for a collision Wednesday, when they will be meeting on Capitol Hill to discuss two major sources of strain: the Safeguard American Voter Eligibility (SAVE America) Act and the Iran peace deal. Republican senators are bracing... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Senate GOP, Trump, SAVE America Act, Iran",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
-        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
+        "Story focus: Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
+        "Source context: President Trump and Republican senators are headed for a collision Wednesday, when they will be meeting on Capitol Hill to discuss two major sources..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -94,18 +124,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Senate GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
-      "age_hours": "11.24",
+      "published": "Tue, 23 Jun 2026 10:00:00 +0000",
+      "age_hours": "3.56",
       "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
@@ -131,40 +161,10 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 20:20:00 -0400",
-      "age_hours": "10.09",
+      "published": "Tue, 23 Jun 2026 08:43:00 -0400",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump plan would increase citizenship application fee by $570",
-      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
-      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump",
-        "Specific figures mentioned: $570",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump plan would increase citizenship application fee by $570"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     }
   ],
@@ -194,21 +194,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 23 Jun 2026 10:00:00 +0000",
-      "age_hours": "0.42",
+      "age_hours": "3.56",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
-      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
-      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
+      "url": "https://thehill.com/homenews/senate/5935140-trump-republican-senators-save-america-act-iran-deal/",
+      "snapshot": "President Trump and Republican senators are headed for a collision Wednesday, when they will be meeting on Capitol Hill to discuss two major sources of strain: the Safeguard American Voter Eligibility (SAVE America) Act and the Iran peace deal. Republican senators are bracing... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Key people or organizations: Senate GOP, Trump, SAVE America Act, Iran",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
-        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
+        "Story focus: Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
+        "Source context: President Trump and Republican senators are headed for a collision Wednesday, when they will be meeting on Capitol Hill to discuss two major sources..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -216,18 +216,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Senate GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
-      "age_hours": "11.24",
+      "published": "Tue, 23 Jun 2026 10:00:00 +0000",
+      "age_hours": "3.56",
       "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
@@ -253,40 +253,10 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 20:20:00 -0400",
-      "age_hours": "10.09",
+      "published": "Tue, 23 Jun 2026 08:43:00 -0400",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump plan would increase citizenship application fee by $570",
-      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
-      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump",
-        "Specific figures mentioned: $570",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump plan would increase citizenship application fee by $570"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -312,15 +282,45 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 23 Jun 2026 07:49:18 +0000",
-      "age_hours": "2.60",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss",
+      "snapshot": "US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Iran, US, Israel, Lebanon",
+        "Specific figures mentioned: 116, 60",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war day 116",
+        "Source context: US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections. The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 23 Jun 2026 07:58:51 +0000",
+      "age_hours": "5.58",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump",
-    "GOP senator circulates plan to discuss government shutdown strategy with Trump",
+    "Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
     "Trump says proof that vandals cut Reflecting Pool will be provided in court"
   ],
   "sections": [
@@ -349,21 +349,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 23 Jun 2026 10:00:00 +0000",
-      "age_hours": "0.42",
+      "age_hours": "3.56",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "GOP senator circulates plan to discuss government shutdown strategy with Trump",
-      "url": "https://thehill.com/homenews/senate/5935210-rick-scott-government-shutdown-strategy-trump/",
-      "snapshot": "Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government shutdown later this year so that they can discuss it when President Trump meets with GOP senators Wednesday. Scott, who invited... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
+      "url": "https://thehill.com/homenews/senate/5935140-trump-republican-senators-save-america-act-iran-deal/",
+      "snapshot": "President Trump and Republican senators are headed for a collision Wednesday, when they will be meeting on Capitol Hill to discuss two major sources of strain: the Safeguard American Voter Eligibility (SAVE America) Act and the Iran peace deal. Republican senators are bracing... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: GOP, Trump, Sen, Rick Scott",
+        "Key people or organizations: Senate GOP, Trump, SAVE America Act, Iran",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senator circulates plan to discuss government shutdown strategy with Trump",
-        "Source context: Sen. Rick Scott (R-Fla.), the chairman of the Senate Steering Committee, is circulating a plan among Senate Republicans to avoid another government..."
+        "Story focus: Senate GOP headed for showdown with Trump over SAVE America Act, Iran deal",
+        "Source context: President Trump and Republican senators are headed for a collision Wednesday, when they will be meeting on Capitol Hill to discuss two major sources..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -371,18 +371,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Senate GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 22 Jun 2026 23:10:30 +0000",
-      "age_hours": "11.24",
+      "published": "Tue, 23 Jun 2026 10:00:00 +0000",
+      "age_hours": "3.56",
       "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
@@ -408,40 +408,10 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 20:20:00 -0400",
-      "age_hours": "10.09",
+      "published": "Tue, 23 Jun 2026 08:43:00 -0400",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump plan would increase citizenship application fee by $570",
-      "url": "https://www.cbsnews.com/news/us-citizenship-application-fee-trump-administration-uscis/",
-      "snapshot": "A Trump administration plan would charge legal immigrants seeking citizenship $570 more in application fees while eliminating waivers and fee reductions for low-income applicants. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump",
-        "Specific figures mentioned: $570",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump plan would increase citizenship application fee by $570"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 22 Jun 2026 19:01:00 -0400",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -467,39 +437,69 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 23 Jun 2026 07:49:18 +0000",
-      "age_hours": "2.60",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Conservative radio host defends Trump, says he's better than Vance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
-      "snapshot": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss",
+      "snapshot": "US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Conservative, Trump, Vance, Prominent",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Iran, US, Israel, Lebanon",
+        "Specific figures mentioned: 116, 60",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Conservative radio host defends Trump, says he's better than Vance",
-        "Source context: Prominent conservative radio host, spoke at the International Policy Summit to defend Trump's handling of the Iran war. The election angle is whether..."
+        "Story focus: Iran war day 116",
+        "Source context: US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections. The geopolitical angle is how the decision affects..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Conservative.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 23 Jun 2026 03:42:16 +0000",
-      "age_hours": "6.71",
+      "published": "Tue, 23 Jun 2026 07:58:51 +0000",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Charlie Kirk murder suspect's ex-roommate can't testify at hearing, judge rules",
+      "url": "https://www.cbsnews.com/news/charlie-kirk-murder-suspect-ex-roommate-cant-testify/",
+      "snapshot": "The Utah judge in the murder case of Charlie Kirk's alleged killer has denied a defense request to force Tyler Robinson's former roommate to testify in person during the preliminary hearing. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Charlie Kirk, Tyler Robinson",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Charlie Kirk murder suspect's ex-roommate can't testify at hearing, judge rules",
+        "Source context: The Utah judge in the murder case of Charlie Kirk's alleged killer has denied a defense request to force Tyler Robinson's former roommate to testify..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Charlie Kirk.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 23 Jun 2026 08:04:30 -0400",
+      "age_hours": "1.48",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": ""
     }
   ],
