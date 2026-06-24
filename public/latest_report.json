@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump knocks GOP senators who voted for Iran war powers resolution, making his 'job more difficult'",
-  "snapshot": "President Trump lashed out at the Republican lawmakers who supported an Iran war powers resolution in the Senate on Tuesday. Several GOP lawmakers voted with nearly all Democrats to approve the measure, including Sens. Bill Cassidy (La.), Lisa Murkowski (Alaska), Susan Collins... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-06-24 02:25:20 PM ET",
-  "generated_at": "2026-06-24 02:25:20 PM ET",
+  "headline": "Judge blocks Trump administration from voting proof of citizenship implementation",
+  "snapshot": "A federal judge on Wednesday permanently blocked the Trump administration's executive order requiring proof of citizenship to vote, ruling in favor of 19 states that filed the lawsuit. District Court Judge Denise Casper ruled that President Trump was overstepping his authority... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-06-24 04:25:09 PM ET",
+  "generated_at": "2026-06-24 04:25:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 98,
-    "editor_fresh_items": 149,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 52,
+    "total_items_checked": 151,
+    "live_fresh_items": 110,
+    "editor_fresh_items": 151,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-24 02:25:20 PM ET"
+    "last_checked": "2026-06-24 04:25:09 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Trump says he ordered DOJ to probe gas price 'gouging'",
-      "url": "https://thehill.com/homenews/administration/5937846-trump-directs-doj-gas-probe/",
-      "snapshot": "President Trump said early Wednesday morning that he has directed the Department of Justice (DOJ) to \"immediately\" open an investigation into alleged gas price gouging at the pump amid economic strains resulting from the Iran war. \"The big Oil Companies are not dropping their... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, DOJ, President Trump, Department",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he ordered DOJ to probe gas price 'gouging'",
-        "Source context: President Trump said early Wednesday morning that he has directed the Department of Justice (DOJ) to \"immediately\" open an investigation into alleged..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 24 Jun 2026 13:03:57 +0000",
-      "age_hours": "5.36",
-      "freshness_status": "fresh",
-      "editorial_score": "125",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Alibaba sues Pentagon over blacklist designation",
       "url": "https://www.cbsnews.com/news/alibaba-sues-pentagon-blacklist-designation/",
@@ -74,9 +44,68 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 06:51:37 -0400",
-      "age_hours": "7.56",
+      "age_hours": "9.56",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+      "snapshot": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Palestinian, Israeli, Gaza, An Israeli",
+        "Politics desk signal: gaza",
+        "Story focus: Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+        "Source context: An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Palestinian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 24 Jun 2026 18:03:08 +0000",
+      "age_hours": "2.37",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Judge blocks Trump administration from voting proof of citizenship implementation",
+      "url": "https://thehill.com/homenews/administration/5938796-trump-order-voter-citizenship-blocked/",
+      "snapshot": "A federal judge on Wednesday permanently blocked the Trump administration's executive order requiring proof of citizenship to vote, ruling in favor of 19 states that filed the lawsuit. District Court Judge Denise Casper ruled that President Trump was overstepping his authority... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, District Court Judge Denise, Casper",
+        "Specific figures mentioned: 19",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge blocks Trump administration from voting proof of citizenship implementation"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 24 Jun 2026 19:06:46 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "147",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,38 +133,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 24 Jun 2026 15:21:59 +0000",
-      "age_hours": "3.06",
+      "age_hours": "5.05",
       "freshness_status": "fresh",
       "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
-      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss",
-      "snapshot": "Israeli defence minister says troops won't withdraw from southern Lebanon as attacks slow but do not stop. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon, Washington",
-        "Specific figures mentioned: 2",
-        "Story focus: Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
-        "Source context: Israeli defence minister says troops won't withdraw from southern Lebanon as attacks slow but do not stop. The geopolitical angle is how the decision..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 24 Jun 2026 16:23:56 +0000",
-      "age_hours": "2.02",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -163,7 +163,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 12:36:18 +0000",
-      "age_hours": "5.82",
+      "age_hours": "7.81",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": ""
@@ -171,6 +171,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Judge blocks Trump administration from voting proof of citizenship implementation",
+      "url": "https://thehill.com/homenews/administration/5938796-trump-order-voter-citizenship-blocked/",
+      "snapshot": "A federal judge on Wednesday permanently blocked the Trump administration's executive order requiring proof of citizenship to vote, ruling in favor of 19 states that filed the lawsuit. District Court Judge Denise Casper ruled that President Trump was overstepping his authority... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, District Court Judge Denise, Casper",
+        "Specific figures mentioned: 19",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge blocks Trump administration from voting proof of citizenship implementation"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 24 Jun 2026 19:06:46 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "147",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Trump knocks GOP senators who voted for Iran war powers resolution, making his 'job more difficult'",
       "url": "https://thehill.com/homenews/administration/5937788-donald-trump-gop-senators-iran-war-powers-resolution/",
       "snapshot": "President Trump lashed out at the Republican lawmakers who supported an Iran war powers resolution in the Senate on Tuesday. Several GOP lawmakers voted with nearly all Democrats to approve the measure, including Sens. Bill Cassidy (La.), Lisa Murkowski (Alaska), Susan Collins... The key question is leverage: the next votes, negotiations and public pressure points will...",
@@ -195,50 +225,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 12:36:18 +0000",
-      "age_hours": "5.82",
+      "age_hours": "7.81",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": ""
     },
     {
-      "headline": "Trump says he ordered DOJ to probe gas price 'gouging'",
-      "url": "https://thehill.com/homenews/administration/5937846-trump-directs-doj-gas-probe/",
-      "snapshot": "President Trump said early Wednesday morning that he has directed the Department of Justice (DOJ) to \"immediately\" open an investigation into alleged gas price gouging at the pump amid economic strains resulting from the Iran war. \"The big Oil Companies are not dropping their... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, DOJ, President Trump, Department",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he ordered DOJ to probe gas price 'gouging'",
-        "Source context: President Trump said early Wednesday morning that he has directed the Department of Justice (DOJ) to \"immediately\" open an investigation into alleged..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 24 Jun 2026 13:03:57 +0000",
-      "age_hours": "5.36",
-      "freshness_status": "fresh",
-      "editorial_score": "125",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump's refusal to sign housing bill casts shadow over meeting with GOP senators",
+      "headline": "Trump meets with GOP senators after refusing to sign housing bill",
       "url": "https://www.cbsnews.com/news/trump-senate-republicans-save-america-act/",
-      "snapshot": "President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marks the latest misalignment between him and GOP lawmakers. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marked the latest misalignment between him and GOP lawmakers. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Trump, GOP, President Trump",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's refusal to sign housing bill casts shadow over meeting with GOP senators",
-        "Source context: President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marks the latest misalignment between him and GOP..."
+        "Story focus: Trump meets with GOP senators after refusing to sign housing bill",
+        "Source context: President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marked the latest misalignment between him and GOP..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -253,8 +253,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 24 Jun 2026 13:41:00 -0400",
-      "age_hours": "0.74",
+      "published": "Wed, 24 Jun 2026 16:02:35 -0400",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -284,21 +284,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 06:51:37 -0400",
-      "age_hours": "7.56",
+      "age_hours": "9.56",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
-      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
-      "snapshot": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+      "snapshot": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Israeli, Gaza, West Bank, Health",
-        "Specific figures mentioned: 12",
+        "Key people or organizations: Palestinian, Israeli, Gaza, An Israeli",
         "Politics desk signal: gaza",
-        "Story focus: Israeli attacks on Gaza and occupied West Bank kill two, including child",
-        "Source context: Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza. The geopolitical angle is how the..."
+        "Story focus: Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+        "Source context: An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child. The geopolitical angle is..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -306,26 +305,56 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
+        "Watch for the next official action involving Palestinian.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 24 Jun 2026 15:21:59 +0000",
-      "age_hours": "3.06",
+      "published": "Wed, 24 Jun 2026 18:03:08 +0000",
+      "age_hours": "2.37",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
+    "Judge blocks Trump administration from voting proof of citizenship implementation",
     "Trump knocks GOP senators who voted for Iran war powers resolution, making his 'job more difficult'",
-    "Trump says he ordered DOJ to probe gas price 'gouging'",
-    "Trump's refusal to sign housing bill casts shadow over meeting with GOP senators"
+    "Trump meets with GOP senators after refusing to sign housing bill"
   ],
   "sections": [
+    {
+      "headline": "Judge blocks Trump administration from voting proof of citizenship implementation",
+      "url": "https://thehill.com/homenews/administration/5938796-trump-order-voter-citizenship-blocked/",
+      "snapshot": "A federal judge on Wednesday permanently blocked the Trump administration's executive order requiring proof of citizenship to vote, ruling in favor of 19 states that filed the lawsuit. District Court Judge Denise Casper ruled that President Trump was overstepping his authority... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, District Court Judge Denise, Casper",
+        "Specific figures mentioned: 19",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge blocks Trump administration from voting proof of citizenship implementation"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 24 Jun 2026 19:06:46 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "147",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump knocks GOP senators who voted for Iran war powers resolution, making his 'job more difficult'",
       "url": "https://thehill.com/homenews/administration/5937788-donald-trump-gop-senators-iran-war-powers-resolution/",
@@ -351,50 +380,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 12:36:18 +0000",
-      "age_hours": "5.82",
+      "age_hours": "7.81",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": ""
     },
     {
-      "headline": "Trump says he ordered DOJ to probe gas price 'gouging'",
-      "url": "https://thehill.com/homenews/administration/5937846-trump-directs-doj-gas-probe/",
-      "snapshot": "President Trump said early Wednesday morning that he has directed the Department of Justice (DOJ) to \"immediately\" open an investigation into alleged gas price gouging at the pump amid economic strains resulting from the Iran war. \"The big Oil Companies are not dropping their... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, DOJ, President Trump, Department",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he ordered DOJ to probe gas price 'gouging'",
-        "Source context: President Trump said early Wednesday morning that he has directed the Department of Justice (DOJ) to \"immediately\" open an investigation into alleged..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 24 Jun 2026 13:03:57 +0000",
-      "age_hours": "5.36",
-      "freshness_status": "fresh",
-      "editorial_score": "125",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump's refusal to sign housing bill casts shadow over meeting with GOP senators",
+      "headline": "Trump meets with GOP senators after refusing to sign housing bill",
       "url": "https://www.cbsnews.com/news/trump-senate-republicans-save-america-act/",
-      "snapshot": "President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marks the latest misalignment between him and GOP lawmakers. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marked the latest misalignment between him and GOP lawmakers. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Trump, GOP, President Trump",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's refusal to sign housing bill casts shadow over meeting with GOP senators",
-        "Source context: President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marks the latest misalignment between him and GOP..."
+        "Story focus: Trump meets with GOP senators after refusing to sign housing bill",
+        "Source context: President Trump's decision to abruptly cancel the signing of a landmark bipartisan housing bill marked the latest misalignment between him and GOP..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -409,8 +408,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 24 Jun 2026 13:41:00 -0400",
-      "age_hours": "0.74",
+      "published": "Wed, 24 Jun 2026 16:02:35 -0400",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -440,10 +439,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 06:51:37 -0400",
-      "age_hours": "7.56",
+      "age_hours": "9.56",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+      "snapshot": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Palestinian, Israeli, Gaza, An Israeli",
+        "Politics desk signal: gaza",
+        "Story focus: Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+        "Source context: An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Palestinian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 24 Jun 2026 18:03:08 +0000",
+      "age_hours": "2.37",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
@@ -470,38 +498,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 24 Jun 2026 15:21:59 +0000",
-      "age_hours": "3.06",
+      "age_hours": "5.05",
       "freshness_status": "fresh",
       "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
-      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss",
-      "snapshot": "Israeli defence minister says troops won't withdraw from southern Lebanon as attacks slow but do not stop. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon, Washington",
-        "Specific figures mentioned: 2",
-        "Story focus: Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
-        "Source context: Israeli defence minister says troops won't withdraw from southern Lebanon as attacks slow but do not stop. The geopolitical angle is how the decision..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 24 Jun 2026 16:23:56 +0000",
-      "age_hours": "2.02",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
