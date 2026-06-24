@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Judge blocks Trump administration from voting proof of citizenship implementation",
   "snapshot": "A federal judge on Wednesday permanently blocked the Trump administration's executive order requiring proof of citizenship to vote, ruling in favor of 19 states that filed the lawsuit. District Court Judge Denise Casper ruled that President Trump was overstepping his authority... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-06-24 04:25:09 PM ET",
-  "generated_at": "2026-06-24 04:25:09 PM ET",
+  "updated_at": "2026-06-24 06:05:01 PM ET",
+  "generated_at": "2026-06-24 06:05:01 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 110,
-    "editor_fresh_items": 151,
-    "public_fallback_items": 151,
-    "stale_or_blocked_items": 41,
+    "total_items_checked": 150,
+    "live_fresh_items": 119,
+    "editor_fresh_items": 150,
+    "public_fallback_items": 150,
+    "stale_or_blocked_items": 31,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-24 04:25:09 PM ET"
+    "last_checked": "2026-06-24 06:05:01 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 06:51:37 -0400",
-      "age_hours": "9.56",
+      "age_hours": "11.22",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -73,10 +73,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 24 Jun 2026 18:03:08 +0000",
-      "age_hours": "2.37",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
+      "url": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss",
+      "snapshot": "Lawsuit claims Tesla's Autopilot shortcomings led to fatal crash; family seeks $1m in damages and punitive measures. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Family, Tesla, Autopilot, Texas",
+        "Specific figures mentioned: $1m",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Family sues Tesla for wrongful death in Autopilot crash in Texas, US"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Family.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 24 Jun 2026 20:44:37 +0000",
+      "age_hours": "1.34",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge blocks Trump administration from voting proof of citizenship implementation",
@@ -103,39 +133,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 19:06:46 +0000",
-      "age_hours": "1.31",
+      "age_hours": "2.97",
       "freshness_status": "fresh",
       "editorial_score": "147",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
-      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
-      "snapshot": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Gaza, West Bank, Health",
-        "Specific figures mentioned: 12",
-        "Politics desk signal: gaza",
-        "Story focus: Israeli attacks on Gaza and occupied West Bank kill two, including child",
-        "Source context: Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 24 Jun 2026 15:21:59 +0000",
-      "age_hours": "5.05",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -163,7 +163,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 12:36:18 +0000",
-      "age_hours": "7.81",
+      "age_hours": "9.48",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 19:06:46 +0000",
-      "age_hours": "1.31",
+      "age_hours": "2.97",
       "freshness_status": "fresh",
       "editorial_score": "147",
       "urgency": "DEVELOPING"
@@ -225,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 12:36:18 +0000",
-      "age_hours": "7.81",
+      "age_hours": "9.48",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": ""
@@ -254,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 16:02:35 -0400",
-      "age_hours": "0.38",
+      "age_hours": "2.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -284,7 +284,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 06:51:37 -0400",
-      "age_hours": "9.56",
+      "age_hours": "11.22",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -313,7 +313,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 24 Jun 2026 18:03:08 +0000",
-      "age_hours": "2.37",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "BREAKING"
@@ -350,7 +350,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 19:06:46 +0000",
-      "age_hours": "1.31",
+      "age_hours": "2.97",
       "freshness_status": "fresh",
       "editorial_score": "147",
       "urgency": "DEVELOPING"
@@ -380,7 +380,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 24 Jun 2026 12:36:18 +0000",
-      "age_hours": "7.81",
+      "age_hours": "9.48",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": ""
@@ -409,7 +409,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 16:02:35 -0400",
-      "age_hours": "0.38",
+      "age_hours": "2.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -439,7 +439,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 24 Jun 2026 06:51:37 -0400",
-      "age_hours": "9.56",
+      "age_hours": "11.22",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -468,39 +468,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 24 Jun 2026 18:03:08 +0000",
-      "age_hours": "2.37",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
-      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
-      "snapshot": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
+      "url": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss",
+      "snapshot": "Lawsuit claims Tesla's Autopilot shortcomings led to fatal crash; family seeks $1m in damages and punitive measures. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Israeli, Gaza, West Bank, Health",
-        "Specific figures mentioned: 12",
-        "Politics desk signal: gaza",
-        "Story focus: Israeli attacks on Gaza and occupied West Bank kill two, including child",
-        "Source context: Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza. The geopolitical angle is how the..."
+        "Key people or organizations: Family, Tesla, Autopilot, Texas",
+        "Specific figures mentioned: $1m",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Family sues Tesla for wrongful death in Autopilot crash in Texas, US"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Family.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 24 Jun 2026 15:21:59 +0000",
-      "age_hours": "5.05",
+      "published": "Wed, 24 Jun 2026 20:44:37 +0000",
+      "age_hours": "1.34",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
