@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Raskin aims to force vote on bill barring Trump 'anti-weaponization' fund",
-  "snapshot": "Rep. Jamie Raskin (D-Md.), the ranking member of the House Judiciary Committee, told Democratic leaders Thursday he plans to force a vote on legislation blocking the creation of President Trump's \"anti-weaponization\" fund and a related deal to bar investigation of his and his... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-06-25 06:13:47 PM ET",
-  "generated_at": "2026-06-25 06:13:47 PM ET",
+  "headline": "Supreme Court issues two big wins for Trump's immigration policy",
+  "snapshot": "The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-06-25 08:01:46 PM ET",
+  "generated_at": "2026-06-25 08:01:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 109,
-    "editor_fresh_items": 149,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 42,
+    "total_items_checked": 149,
+    "live_fresh_items": 105,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-25 06:13:47 PM ET"
+    "last_checked": "2026-06-25 08:01:46 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Supreme Court issues two big wins for Trump's immigration policy",
+      "url": "https://www.cbsnews.com/video/supreme-court-issues-two-big-wins-trumps-immigration-policy/",
+      "snapshot": "The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, Jan Crawford",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court issues two big wins for Trump's immigration policy",
+        "Source context: The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 25 Jun 2026 19:43:23 -0400",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
     {
       "headline": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
       "url": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
@@ -44,9 +74,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 25 Jun 2026 17:15:33 +0000",
-      "age_hours": "4.97",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Netanyahu: 'We will remain in Lebanon, Syria, and Gaza as long as required'",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+      "snapshot": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Netanyahu, We, Lebanon, Syria",
+        "Politics desk signal: gaza",
+        "Story focus: Netanyahu",
+        "Source context: Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Netanyahu.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 25 Jun 2026 20:34:02 +0000",
+      "age_hours": "3.46",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 25 Jun 2026 14:07:41 +0000",
-      "age_hours": "8.10",
+      "age_hours": "9.90",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -104,73 +163,44 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 25 Jun 2026 16:12:27 +0000",
-      "age_hours": "6.02",
+      "age_hours": "7.82",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's obsession with SAVE America Act drives Congress into standoff",
-      "url": "https://www.cbsnews.com/news/trump-save-america-act-house-senate-standoff/",
-      "snapshot": "The president and his conservative allies have stymied other legislation as they unsuccessfully try to pass a voting regulations bill that lacks even simple majority support in the Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, SAVE America Act, Congress, Senate",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's obsession with SAVE America Act drives Congress into standoff",
-        "Source context: The president and his conservative allies have stymied other legislation as they unsuccessfully try to pass a voting regulations bill that lacks even..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 25 Jun 2026 15:20:41 -0400",
-      "age_hours": "2.88",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Cassidy says he passed a note to Witkoff during heated Trump meeting",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-trump-senate-meeting-iran-vote-steve-witkoff/",
-      "snapshot": "Sen. Bill Cassidy said that after his exchange with the president, he passed a note to Steve Witkoff, saying he would consider changing his war powers vote. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Cassidy, Witkoff, Trump, Sen",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy says he passed a note to Witkoff during heated Trump meeting",
-        "Source context: Sen. Bill Cassidy said that after his exchange with the president, he passed a note to Steve Witkoff, saying he would consider changing his war..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 25 Jun 2026 13:24:00 -0400",
-      "age_hours": "4.83",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Supreme Court issues two big wins for Trump's immigration policy",
+      "url": "https://www.cbsnews.com/video/supreme-court-issues-two-big-wins-trumps-immigration-policy/",
+      "snapshot": "The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, Jan Crawford",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court issues two big wins for Trump's immigration policy",
+        "Source context: The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 25 Jun 2026 19:43:23 -0400",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
+    {
       "headline": "Raskin aims to force vote on bill barring Trump 'anti-weaponization' fund",
       "url": "https://thehill.com/homenews/house/5940229-raskin-trump-anti-weaponization-fund-vote/",
       "snapshot": "Rep. Jamie Raskin (D-Md.), the ranking member of the House Judiciary Committee, told Democratic leaders Thursday he plans to force a vote on legislation blocking the creation of President Trump's \"anti-weaponization\" fund and a related deal to bar investigation of his and his... The key question is leverage: the next votes, negotiations and public pressure points will...",
@@ -195,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 25 Jun 2026 14:07:41 +0000",
-      "age_hours": "8.10",
+      "age_hours": "9.90",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -225,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 25 Jun 2026 16:12:27 +0000",
-      "age_hours": "6.02",
+      "age_hours": "7.82",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -254,39 +284,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 25 Jun 2026 15:20:41 -0400",
-      "age_hours": "2.88",
+      "published": "Thu, 25 Jun 2026 18:46:27 -0400",
+      "age_hours": "1.25",
       "freshness_status": "fresh",
       "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Cassidy says he passed a note to Witkoff during heated Trump meeting",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-trump-senate-meeting-iran-vote-steve-witkoff/",
-      "snapshot": "Sen. Bill Cassidy said that after his exchange with the president, he passed a note to Steve Witkoff, saying he would consider changing his war powers vote. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Cassidy, Witkoff, Trump, Sen",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy says he passed a note to Witkoff during heated Trump meeting",
-        "Source context: Sen. Bill Cassidy said that after his exchange with the president, he passed a note to Steve Witkoff, saying he would consider changing his war..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 25 Jun 2026 13:24:00 -0400",
-      "age_hours": "4.83",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -314,18 +315,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 25 Jun 2026 17:15:33 +0000",
-      "age_hours": "4.97",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Supreme Court issues two big wins for Trump's immigration policy",
     "Raskin aims to force vote on bill barring Trump 'anti-weaponization' fund",
-    "Sotomayor offers blistering dissent on Supreme Court asylum decision: 'More people will die'",
-    "Trump's obsession with SAVE America Act drives Congress into standoff"
+    "Sotomayor offers blistering dissent on Supreme Court asylum decision: 'More people will die'"
   ],
   "sections": [
+    {
+      "headline": "Supreme Court issues two big wins for Trump's immigration policy",
+      "url": "https://www.cbsnews.com/video/supreme-court-issues-two-big-wins-trumps-immigration-policy/",
+      "snapshot": "The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, Jan Crawford",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court issues two big wins for Trump's immigration policy",
+        "Source context: The Supreme Court handed down rulings in a pair of immigration cases on Thursday. Jan Crawford is following the decisions. The broader significance..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 25 Jun 2026 19:43:23 -0400",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
     {
       "headline": "Raskin aims to force vote on bill barring Trump 'anti-weaponization' fund",
       "url": "https://thehill.com/homenews/house/5940229-raskin-trump-anti-weaponization-fund-vote/",
@@ -351,7 +382,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 25 Jun 2026 14:07:41 +0000",
-      "age_hours": "8.10",
+      "age_hours": "9.90",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -381,7 +412,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 25 Jun 2026 16:12:27 +0000",
-      "age_hours": "6.02",
+      "age_hours": "7.82",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -410,39 +441,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 25 Jun 2026 15:20:41 -0400",
-      "age_hours": "2.88",
+      "published": "Thu, 25 Jun 2026 18:46:27 -0400",
+      "age_hours": "1.25",
       "freshness_status": "fresh",
       "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Cassidy says he passed a note to Witkoff during heated Trump meeting",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-trump-senate-meeting-iran-vote-steve-witkoff/",
-      "snapshot": "Sen. Bill Cassidy said that after his exchange with the president, he passed a note to Steve Witkoff, saying he would consider changing his war powers vote. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Cassidy, Witkoff, Trump, Sen",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy says he passed a note to Witkoff during heated Trump meeting",
-        "Source context: Sen. Bill Cassidy said that after his exchange with the president, he passed a note to Steve Witkoff, saying he would consider changing his war..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 25 Jun 2026 13:24:00 -0400",
-      "age_hours": "4.83",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -470,40 +472,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 25 Jun 2026 17:15:33 +0000",
-      "age_hours": "4.97",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "US Supreme Court paves way for government to block asylum seekers at border",
-      "url": "https://www.aljazeera.com/news/2026/6/25/us-supreme-court-paves-way-for-government-to-block-asylum-seekers-at-border?traffic_source=rss",
-      "snapshot": "Liberal justices say the ruling 'circumvents' US law by allowing agents to prevent asylum seekers from filing a claim. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Netanyahu: 'We will remain in Lebanon, Syria, and Gaza as long as required'",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+      "snapshot": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: US Supreme Court, Liberal, US",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US Supreme Court paves way for government to block asylum seekers at border",
-        "Source context: Liberal justices say the ruling 'circumvents' US law by allowing agents to prevent asylum seekers from filing a claim. The broader significance is..."
+        "Key people or organizations: Netanyahu, We, Lebanon, Syria",
+        "Politics desk signal: gaza",
+        "Story focus: Netanyahu",
+        "Source context: Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Netanyahu.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 25 Jun 2026 16:15:05 +0000",
-      "age_hours": "5.98",
+      "published": "Thu, 25 Jun 2026 20:34:02 +0000",
+      "age_hours": "3.46",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
