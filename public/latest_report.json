@@ -3,22 +3,50 @@
   "vertical": "Politics",
   "headline": "Trump is making a killing as president — ethical norms are among the dead",
   "snapshot": "Never before has a sitting president had such extensive financial interests in an industry whose regulatory environment he controls. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-06-28 11:08:28 AM ET",
-  "generated_at": "2026-06-28 11:08:28 AM ET",
+  "updated_at": "2026-06-28 12:54:02 PM ET",
+  "generated_at": "2026-06-28 12:54:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 45,
-    "editor_fresh_items": 88,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 102,
+    "total_items_checked": 148,
+    "live_fresh_items": 54,
+    "editor_fresh_items": 95,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 94,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-28 11:08:28 AM ET"
+    "last_checked": "2026-06-28 12:54:02 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Israel strikes Lebanon, testing days-old peace deal",
+      "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+      "snapshot": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israel, Lebanon, Hezbollah, Israeli",
+        "Story focus: Israel strikes Lebanon, testing days-old peace deal",
+        "Source context: Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south. The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 28 Jun 2026 15:53:07 +0000",
+      "age_hours": "1.02",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump is making a killing as president — ethical norms are among the dead",
       "url": "https://thehill.com/opinion/white-house/5942783-presidential-corruption-public-trust/",
@@ -44,7 +72,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 28 Jun 2026 12:00:00 +0000",
-      "age_hours": "3.14",
+      "age_hours": "4.90",
       "freshness_status": "fresh",
       "editorial_score": "97",
       "urgency": "BREAKING"
@@ -74,37 +102,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 28 Jun 2026 12:13:18 +0000",
-      "age_hours": "2.92",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "82",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-      "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-      "snapshot": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: IRGC, Iran, US MoU, Hormuz",
-        "Story focus: IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-        "Source context: Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving IRGC.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 28 Jun 2026 14:01:29 +0000",
-      "age_hours": "1.12",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -132,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 28 Jun 2026 12:43:37 +0000",
-      "age_hours": "2.41",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
@@ -161,7 +161,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 28 Jun 2026 09:49:24 -0400",
-      "age_hours": "1.32",
+      "age_hours": "3.08",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -193,7 +193,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 28 Jun 2026 12:00:00 +0000",
-      "age_hours": "3.14",
+      "age_hours": "4.90",
       "freshness_status": "fresh",
       "editorial_score": "97",
       "urgency": "BREAKING"
@@ -223,7 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 28 Jun 2026 12:43:37 +0000",
-      "age_hours": "2.41",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
@@ -252,7 +252,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 28 Jun 2026 09:49:24 -0400",
-      "age_hours": "1.32",
+      "age_hours": "3.08",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -282,40 +282,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 28 Jun 2026 12:13:18 +0000",
-      "age_hours": "2.92",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" June 28, 2026",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-louisiana-senator-face-the-nation-transcript-06-28-2026/",
-      "snapshot": "The following is the full transcript of an interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on \"Face the Nation with Margaret Brennan\" on June 28, 2026. This interview was conducted on June 25, 2026. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "headline": "Israel strikes Lebanon, testing days-old peace deal",
+      "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+      "snapshot": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Transcript, Sen, Bill Cassidy, Face",
-        "Specific figures mentioned: 28, 2026, 25",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Transcript",
-        "Source context: The following is the full transcript of an interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on \"Face the Nation with Margaret..."
+        "Key people or organizations: Israel, Lebanon, Hezbollah, Israeli",
+        "Story focus: Israel strikes Lebanon, testing days-old peace deal",
+        "Source context: Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south. The geopolitical angle is how the decision affects..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Transcript.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 28 Jun 2026 09:51:24 -0400",
-      "age_hours": "1.28",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 28 Jun 2026 15:53:07 +0000",
+      "age_hours": "1.02",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": ""
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -349,7 +347,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 28 Jun 2026 12:00:00 +0000",
-      "age_hours": "3.14",
+      "age_hours": "4.90",
       "freshness_status": "fresh",
       "editorial_score": "97",
       "urgency": "BREAKING"
@@ -379,7 +377,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 28 Jun 2026 12:43:37 +0000",
-      "age_hours": "2.41",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
@@ -408,7 +406,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 28 Jun 2026 09:49:24 -0400",
-      "age_hours": "1.32",
+      "age_hours": "3.08",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -438,9 +436,37 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 28 Jun 2026 12:13:18 +0000",
-      "age_hours": "2.92",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "82",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Israel strikes Lebanon, testing days-old peace deal",
+      "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+      "snapshot": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israel, Lebanon, Hezbollah, Israeli",
+        "Story focus: Israel strikes Lebanon, testing days-old peace deal",
+        "Source context: Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south. The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 28 Jun 2026 15:53:07 +0000",
+      "age_hours": "1.02",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
@@ -468,38 +494,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 28 Jun 2026 09:51:24 -0400",
-      "age_hours": "1.28",
+      "age_hours": "3.04",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
-    },
-    {
-      "headline": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-      "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-      "snapshot": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: IRGC, Iran, US MoU, Hormuz",
-        "Story focus: IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-        "Source context: Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving IRGC.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 28 Jun 2026 14:01:29 +0000",
-      "age_hours": "1.12",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
