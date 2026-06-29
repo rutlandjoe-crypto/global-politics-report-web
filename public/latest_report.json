@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Supreme Court expands presidential firing power, overturning 90-year-old ruling",
   "snapshot": "The Supreme Court overturned a 90-year-old decision that allowed Congress to shield members of certain independent agencies from being fired by the president at will. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-29 02:55:48 PM ET",
-  "generated_at": "2026-06-29 02:55:48 PM ET",
+  "updated_at": "2026-06-29 04:45:46 PM ET",
+  "generated_at": "2026-06-29 04:45:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 143,
-    "live_fresh_items": 88,
+    "live_fresh_items": 99,
     "editor_fresh_items": 137,
     "public_fallback_items": 143,
-    "stale_or_blocked_items": 55,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-29 02:55:48 PM ET"
+    "last_checked": "2026-06-29 04:45:46 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,9 +42,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 29 Jun 2026 15:30:31 +0000",
-      "age_hours": "3.42",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
+      "snapshot": "Israeli rights group B'Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers\" The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Gaza, West Bank, Tselem",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+        "Source context: Israeli rights group B'Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers\" The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 29 Jun 2026 19:08:43 +0000",
+      "age_hours": "1.62",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -72,7 +101,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 29 Jun 2026 14:42:56 -0400",
-      "age_hours": "0.21",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "BREAKING"
@@ -102,7 +131,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 29 Jun 2026 14:26:27 +0000",
-      "age_hours": "4.49",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
@@ -132,39 +161,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 29 Jun 2026 16:36:00 +0000",
-      "age_hours": "2.33",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump-endorsed Julia Letlow projected to win Louisiana GOP Senate runoff",
-      "url": "https://www.cbsnews.com/news/louisiana-gop-senate-primary-runoff-letlow-fleming/",
-      "snapshot": "Rep. Julia Letlow was endorsed by President Trump in the state's Republican Senate runoff to replace Sen. Bill Cassidy, who did not receive enough votes in the primary to advance. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Julia Letlow, Louisiana GOP Senate, Rep",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-endorsed Julia Letlow projected to win Louisiana GOP Senate runoff",
-        "Source context: Rep. Julia Letlow was endorsed by President Trump in the state's Republican Senate runoff to replace Sen. Bill Cassidy, who did not receive enough..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 28 Jun 2026 06:08:00 -0400",
-      "age_hours": "32.80",
-      "freshness_status": "stale",
-      "editorial_score": "102",
       "urgency": ""
     }
   ],
@@ -194,7 +193,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 29 Jun 2026 14:42:56 -0400",
-      "age_hours": "0.21",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "BREAKING"
@@ -224,7 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 29 Jun 2026 14:26:27 +0000",
-      "age_hours": "4.49",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
@@ -254,7 +253,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 29 Jun 2026 16:36:00 +0000",
-      "age_hours": "2.33",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -284,7 +283,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 28 Jun 2026 06:08:00 -0400",
-      "age_hours": "32.80",
+      "age_hours": "34.63",
       "freshness_status": "stale",
       "editorial_score": "102",
       "urgency": ""
@@ -312,7 +311,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 29 Jun 2026 15:30:31 +0000",
-      "age_hours": "3.42",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -349,7 +348,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 29 Jun 2026 14:42:56 -0400",
-      "age_hours": "0.21",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "BREAKING"
@@ -379,7 +378,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 29 Jun 2026 14:26:27 +0000",
-      "age_hours": "4.49",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
@@ -409,7 +408,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 29 Jun 2026 16:36:00 +0000",
-      "age_hours": "2.33",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -439,7 +438,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 29 Jun 2026 11:20:41 -0400",
-      "age_hours": "3.59",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -467,40 +466,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 29 Jun 2026 15:30:31 +0000",
-      "age_hours": "3.42",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump-endorsed Julia Letlow projected to win Louisiana GOP Senate runoff",
-      "url": "https://www.cbsnews.com/news/louisiana-gop-senate-primary-runoff-letlow-fleming/",
-      "snapshot": "Rep. Julia Letlow was endorsed by President Trump in the state's Republican Senate runoff to replace Sen. Bill Cassidy, who did not receive enough votes in the primary to advance. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
+      "snapshot": "Israeli rights group B'Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers\" The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Julia Letlow, Louisiana GOP Senate, Rep",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-endorsed Julia Letlow projected to win Louisiana GOP Senate runoff",
-        "Source context: Rep. Julia Letlow was endorsed by President Trump in the state's Republican Senate runoff to replace Sen. Bill Cassidy, who did not receive enough..."
+        "Key people or organizations: Israeli, Gaza, West Bank, Tselem",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+        "Source context: Israeli rights group B'Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers\" The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 28 Jun 2026 06:08:00 -0400",
-      "age_hours": "32.80",
-      "freshness_status": "stale",
-      "editorial_score": "102",
-      "urgency": ""
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 29 Jun 2026 19:08:43 +0000",
+      "age_hours": "1.62",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
