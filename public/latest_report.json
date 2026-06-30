@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Supreme Court strikes down coordinated campaign spending limits",
   "snapshot": "The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-30 01:44:52 PM ET",
-  "generated_at": "2026-06-30 01:44:52 PM ET",
+  "updated_at": "2026-06-30 03:26:43 PM ET",
+  "generated_at": "2026-06-30 03:26:43 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 146,
-    "live_fresh_items": 86,
-    "editor_fresh_items": 143,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 60,
+    "total_items_checked": 143,
+    "live_fresh_items": 96,
+    "editor_fresh_items": 141,
+    "public_fallback_items": 143,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-30 01:44:52 PM ET"
+    "last_checked": "2026-06-30 03:26:43 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 13:18:03 -0400",
-      "age_hours": "0.45",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+      "url": "https://thehill.com/homenews/house/5947905-vought-clashes-democrats-spending-cuts/",
+      "snapshot": "White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration's spending cuts to foreign aid and grant approvals. The heated exchanges occurred during Vought's testimony before a House Appropriations... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Democrats, Vought, USAID, White House Office",
+        "Politics desk signal: house, white house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+        "Source context: White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration's spending..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 17:51:13 +0000",
+      "age_hours": "1.59",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": ""
     },
     {
       "headline": "Supreme Court takes up challenges to AR-15 bans",
@@ -74,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 12:21:32 -0400",
-      "age_hours": "1.39",
+      "age_hours": "3.09",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
@@ -103,39 +133,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 16:55:22 +0000",
-      "age_hours": "0.82",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "READ: Supreme Court's opinion on birthright citizenship, including Thomas dissent",
-      "url": "https://thehill.com/regulation/court-battles/5947428-read-supreme-court-birthright-citizenship-ruling-thomas-dissent/",
-      "snapshot": "The Supreme Court on Tuesday struck down President Trump's birthright citizenship restrictions, ruling that his banner immigration policy is unconstitutional. The majority ruling, written by Chief Justice John Roberts, was joined by three liberal justices and conservative... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: READ, Supreme Court, Thomas, President Trump",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: READ",
-        "Source context: The Supreme Court on Tuesday struck down President Trump's birthright citizenship restrictions, ruling that his banner immigration policy is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving READ.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 15:24:28 +0000",
-      "age_hours": "2.34",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -163,7 +163,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 15:25:09 +0000",
-      "age_hours": "2.33",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": "DEVELOPING"
@@ -195,7 +195,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 13:18:03 -0400",
-      "age_hours": "0.45",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -225,40 +225,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 30 Jun 2026 14:31:45 +0000",
-      "age_hours": "3.22",
+      "age_hours": "4.92",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "READ: Supreme Court's opinion on birthright citizenship, including Thomas dissent",
-      "url": "https://thehill.com/regulation/court-battles/5947428-read-supreme-court-birthright-citizenship-ruling-thomas-dissent/",
-      "snapshot": "The Supreme Court on Tuesday struck down President Trump's birthright citizenship restrictions, ruling that his banner immigration policy is unconstitutional. The majority ruling, written by Chief Justice John Roberts, was joined by three liberal justices and conservative... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+      "url": "https://thehill.com/homenews/house/5947905-vought-clashes-democrats-spending-cuts/",
+      "snapshot": "White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration's spending cuts to foreign aid and grant approvals. The heated exchanges occurred during Vought's testimony before a House Appropriations... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: READ, Supreme Court, Thomas, President Trump",
-        "Politics desk signal: supreme court, court, immigration",
+        "Key people or organizations: Democrats, Vought, USAID, White House Office",
+        "Politics desk signal: house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: READ",
-        "Source context: The Supreme Court on Tuesday struck down President Trump's birthright citizenship restrictions, ruling that his banner immigration policy is..."
+        "Story focus: Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+        "Source context: White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration's spending..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving READ.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 15:24:28 +0000",
-      "age_hours": "2.34",
+      "published": "Tue, 30 Jun 2026 17:51:13 +0000",
+      "age_hours": "1.59",
       "freshness_status": "fresh",
       "editorial_score": "119",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     },
     {
       "headline": "Supreme Court takes up challenges to AR-15 bans",
@@ -285,7 +285,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 12:21:32 -0400",
-      "age_hours": "1.39",
+      "age_hours": "3.09",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
@@ -315,7 +315,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 15:25:09 +0000",
-      "age_hours": "2.33",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": "DEVELOPING"
@@ -324,7 +324,7 @@
   "key_storylines": [
     "Supreme Court strikes down coordinated campaign spending limits",
     "Supreme Court backs GOP challenge to campaign finance law",
-    "READ: Supreme Court's opinion on birthright citizenship, including Thomas dissent"
+    "Democrats spar with Vought over USAID cuts, federal grants in tense hearing"
   ],
   "sections": [
     {
@@ -352,7 +352,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 13:18:03 -0400",
-      "age_hours": "0.45",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -382,40 +382,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 30 Jun 2026 14:31:45 +0000",
-      "age_hours": "3.22",
+      "age_hours": "4.92",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "READ: Supreme Court's opinion on birthright citizenship, including Thomas dissent",
-      "url": "https://thehill.com/regulation/court-battles/5947428-read-supreme-court-birthright-citizenship-ruling-thomas-dissent/",
-      "snapshot": "The Supreme Court on Tuesday struck down President Trump's birthright citizenship restrictions, ruling that his banner immigration policy is unconstitutional. The majority ruling, written by Chief Justice John Roberts, was joined by three liberal justices and conservative... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+      "url": "https://thehill.com/homenews/house/5947905-vought-clashes-democrats-spending-cuts/",
+      "snapshot": "White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration's spending cuts to foreign aid and grant approvals. The heated exchanges occurred during Vought's testimony before a House Appropriations... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: READ, Supreme Court, Thomas, President Trump",
-        "Politics desk signal: supreme court, court, immigration",
+        "Key people or organizations: Democrats, Vought, USAID, White House Office",
+        "Politics desk signal: house, white house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: READ",
-        "Source context: The Supreme Court on Tuesday struck down President Trump's birthright citizenship restrictions, ruling that his banner immigration policy is..."
+        "Story focus: Democrats spar with Vought over USAID cuts, federal grants in tense hearing",
+        "Source context: White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration's spending..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving READ.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 15:24:28 +0000",
-      "age_hours": "2.34",
+      "published": "Tue, 30 Jun 2026 17:51:13 +0000",
+      "age_hours": "1.59",
       "freshness_status": "fresh",
       "editorial_score": "119",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     },
     {
       "headline": "Supreme Court takes up challenges to AR-15 bans",
@@ -442,7 +442,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 12:21:32 -0400",
-      "age_hours": "1.39",
+      "age_hours": "3.09",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
@@ -472,7 +472,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 15:25:09 +0000",
-      "age_hours": "2.33",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": "DEVELOPING"
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 16:55:22 +0000",
-      "age_hours": "0.82",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
