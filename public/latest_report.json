@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Supreme Court expands presidential firing power, overturning 90-year-old ruling",
-  "snapshot": "The Supreme Court overturned a 90-year-old decision that allowed Congress to shield members of certain independent agencies from being fired by the president at will. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-06-30 08:03:14 AM ET",
-  "generated_at": "2026-06-30 08:03:14 AM ET",
+  "headline": "Supreme Court strikes down coordinated campaign spending limits",
+  "snapshot": "The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-06-30 11:22:21 AM ET",
+  "generated_at": "2026-06-30 11:22:21 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 145,
-    "live_fresh_items": 48,
-    "editor_fresh_items": 142,
+    "live_fresh_items": 70,
+    "editor_fresh_items": 141,
     "public_fallback_items": 145,
-    "stale_or_blocked_items": 97,
+    "stale_or_blocked_items": 75,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-30 08:03:14 AM ET"
+    "last_checked": "2026-06-30 11:22:21 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Supreme Court strikes down coordinated campaign spending limits",
+      "url": "https://www.cbsnews.com/news/supreme-court-nrsc-v-federal-election-commission-coordinated-spending/",
+      "snapshot": "The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court",
+        "Politics desk signal: supreme court, court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court strikes down coordinated campaign spending limits",
+        "Source context: The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 30 Jun 2026 11:11:28 -0400",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Man in Gaza survives double tap Israeli strike on vehicle",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
@@ -43,21 +73,51 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 10:09:27 +0000",
-      "age_hours": "1.90",
+      "age_hours": "5.22",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Supreme Court expands presidential firing power, overturning 90-year-old ruling",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-ftc-slaughter-humphreys-executor/",
-      "snapshot": "The Supreme Court overturned a 90-year-old decision that allowed Congress to shield members of certain independent agencies from being fired by the president at will. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Watch live: Vought testifies before House on federal spending",
+      "url": "https://thehill.com/video-clips/5946869-watch-live-russ-vought-omb-federal-spending-house-appropriations-hearing/",
+      "snapshot": "Office of Management and Budget Director Russ Vought will testify before the House Appropriations Committee on Tuesday morning about federal spending as lawmakers on Capitol Hill look to avoid another shutdown. The hearing comes just months after the Trump administration... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Supreme Court, Congress",
-        "Specific figures mentioned: 90",
-        "Politics desk signal: congress, supreme court, court",
+        "Key people or organizations: Vought, House, Office, Management",
+        "Politics desk signal: house, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court expands presidential firing power, overturning 90-year-old ruling"
+        "Story focus: Watch live",
+        "Source context: Office of Management and Budget Director Russ Vought will testify before the House Appropriations Committee on Tuesday morning about federal spending..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vought.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 13:42:45 +0000",
+      "age_hours": "1.66",
+      "freshness_status": "fresh",
+      "editorial_score": "109",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court backs GOP challenge to campaign finance law",
+      "url": "https://thehill.com/regulation/court-battles/5940100-supreme-court-campaign-finance-spending-limits/",
+      "snapshot": "The Supreme Court agreed with Vice President Vance that federal limits on how much political parties can spend in coordination with their candidates violate his First Amendment rights, siding with Republicans on Tuesday in a campaign finance battle that became a tug-of-war... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, GOP, Vice President Vance, First Amendment",
+        "Politics desk signal: supreme court, court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court backs GOP challenge to campaign finance law",
+        "Source context: The Supreme Court agreed with Vice President Vance that federal limits on how much political parties can spend in coordination with their candidates..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -69,14 +129,14 @@
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 29 Jun 2026 20:14:56 -0400",
-      "age_hours": "11.80",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 14:31:45 +0000",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "BREAKING"
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Second Dan Sullivan can appear on Alaska Senate primary ballot, court rules",
@@ -103,83 +163,23 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 01:56:04 -0400",
-      "age_hours": "6.12",
+      "age_hours": "9.44",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
-    },
-    {
-      "headline": "Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient",
-      "url": "https://thehill.com/regulation/court-battles/5946439-haitian-syrian-tps-end/",
-      "snapshot": "A Supreme Court decision unwinding deportation protections for Haitians and Syrians spells trouble for all recipients of temporary protected status (TPS), regardless of their home country. The Trump administration has been chipping away at TPS, a status prior governments have... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, TPS, Haitians, Syrians",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient",
-        "Source context: A Supreme Court decision unwinding deportation protections for Haitians and Syrians spells trouble for all recipients of temporary protected status..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.05",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump launches midterm offensive against Democrats over 'communism'",
-      "url": "https://thehill.com/homenews/administration/5946435-trump-democrats-communists-midterms/",
-      "snapshot": "President Trump is seizing on a series of far-left wins in Democratic primaries to paint the opposition party as dangerous \"communists\" about four months out from midterm elections. The president has never shied away from painting Democrats as far left, but his recent... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
-      "key_data": [
-        "Key people or organizations: Trump, Democrats, President Trump, Democratic",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump launches midterm offensive against Democrats over 'communism'",
-        "Source context: President Trump is seizing on a series of far-left wins in Democratic primaries to paint the opposition party as dangerous \"communists\" about four..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.05",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Supreme Court expands presidential firing power, overturning 90-year-old ruling",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-ftc-slaughter-humphreys-executor/",
-      "snapshot": "The Supreme Court overturned a 90-year-old decision that allowed Congress to shield members of certain independent agencies from being fired by the president at will. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Supreme Court strikes down coordinated campaign spending limits",
+      "url": "https://www.cbsnews.com/news/supreme-court-nrsc-v-federal-election-commission-coordinated-spending/",
+      "snapshot": "The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Supreme Court, Congress",
-        "Specific figures mentioned: 90",
-        "Politics desk signal: congress, supreme court, court",
+        "Key people or organizations: Supreme Court",
+        "Politics desk signal: supreme court, court, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court expands presidential firing power, overturning 90-year-old ruling"
+        "Story focus: Supreme Court strikes down coordinated campaign spending limits",
+        "Source context: The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -194,11 +194,71 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 29 Jun 2026 20:14:56 -0400",
-      "age_hours": "11.80",
+      "published": "Tue, 30 Jun 2026 11:11:28 -0400",
+      "age_hours": "0.18",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "BREAKING"
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court backs GOP challenge to campaign finance law",
+      "url": "https://thehill.com/regulation/court-battles/5940100-supreme-court-campaign-finance-spending-limits/",
+      "snapshot": "The Supreme Court agreed with Vice President Vance that federal limits on how much political parties can spend in coordination with their candidates violate his First Amendment rights, siding with Republicans on Tuesday in a campaign finance battle that became a tug-of-war... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, GOP, Vice President Vance, First Amendment",
+        "Politics desk signal: supreme court, court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court backs GOP challenge to campaign finance law",
+        "Source context: The Supreme Court agreed with Vice President Vance that federal limits on how much political parties can spend in coordination with their candidates..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 14:31:45 +0000",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Watch live: Vought testifies before House on federal spending",
+      "url": "https://thehill.com/video-clips/5946869-watch-live-russ-vought-omb-federal-spending-house-appropriations-hearing/",
+      "snapshot": "Office of Management and Budget Director Russ Vought will testify before the House Appropriations Committee on Tuesday morning about federal spending as lawmakers on Capitol Hill look to avoid another shutdown. The hearing comes just months after the Trump administration... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Vought, House, Office, Management",
+        "Politics desk signal: house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live",
+        "Source context: Office of Management and Budget Director Russ Vought will testify before the House Appropriations Committee on Tuesday morning about federal spending..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vought.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 13:42:45 +0000",
+      "age_hours": "1.66",
+      "freshness_status": "fresh",
+      "editorial_score": "109",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Second Dan Sullivan can appear on Alaska Senate primary ballot, court rules",
@@ -225,21 +285,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 01:56:04 -0400",
-      "age_hours": "6.12",
+      "age_hours": "9.44",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient",
-      "url": "https://thehill.com/regulation/court-battles/5946439-haitian-syrian-tps-end/",
-      "snapshot": "A Supreme Court decision unwinding deportation protections for Haitians and Syrians spells trouble for all recipients of temporary protected status (TPS), regardless of their home country. The Trump administration has been chipping away at TPS, a status prior governments have... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "US Supreme Court rules against Trump order to end birthright citizenship",
+      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss",
+      "snapshot": "Top court's 6-3 ruling major blow to Trump, affirms nearly all infants born on US soil automatically become citizens. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Supreme Court, TPS, Haitians, Syrians",
+        "Key people or organizations: US Supreme Court, Trump, Top, US",
+        "Specific figures mentioned: 6, 3",
         "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient",
-        "Source context: A Supreme Court decision unwinding deportation protections for Haitians and Syrians spells trouble for all recipients of temporary protected status..."
+        "Story focus: US Supreme Court rules against Trump order to end birthright citizenship"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -247,95 +307,36 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving US Supreme Court.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.05",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump launches midterm offensive against Democrats over 'communism'",
-      "url": "https://thehill.com/homenews/administration/5946435-trump-democrats-communists-midterms/",
-      "snapshot": "President Trump is seizing on a series of far-left wins in Democratic primaries to paint the opposition party as dangerous \"communists\" about four months out from midterm elections. The president has never shied away from painting Democrats as far left, but his recent... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
-      "key_data": [
-        "Key people or organizations: Trump, Democrats, President Trump, Democratic",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump launches midterm offensive against Democrats over 'communism'",
-        "Source context: President Trump is seizing on a series of far-left wins in Democratic primaries to paint the opposition party as dangerous \"communists\" about four..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.05",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Man in Gaza survives double tap Israeli strike on vehicle",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
-      "snapshot": "Man in Gaza survives double tap Israeli strike on vehicle The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Man, Gaza, Israeli",
-        "Politics desk signal: gaza",
-        "Story focus: Man in Gaza survives double tap Israeli strike on vehicle",
-        "Source context: Man in Gaza survives double tap Israeli strike on vehicle The geopolitical angle is how the decision affects alliances, economic pressure, security..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Man.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 30 Jun 2026 10:09:27 +0000",
-      "age_hours": "1.90",
+      "published": "Tue, 30 Jun 2026 14:40:17 +0000",
+      "age_hours": "0.70",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Supreme Court expands presidential firing power, overturning 90-year-old ruling",
-    "Second Dan Sullivan can appear on Alaska Senate primary ballot, court rules",
-    "Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient"
+    "Supreme Court strikes down coordinated campaign spending limits",
+    "Supreme Court backs GOP challenge to campaign finance law",
+    "Watch live: Vought testifies before House on federal spending"
   ],
   "sections": [
     {
-      "headline": "Supreme Court expands presidential firing power, overturning 90-year-old ruling",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-ftc-slaughter-humphreys-executor/",
-      "snapshot": "The Supreme Court overturned a 90-year-old decision that allowed Congress to shield members of certain independent agencies from being fired by the president at will. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Supreme Court strikes down coordinated campaign spending limits",
+      "url": "https://www.cbsnews.com/news/supreme-court-nrsc-v-federal-election-commission-coordinated-spending/",
+      "snapshot": "The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Supreme Court, Congress",
-        "Specific figures mentioned: 90",
-        "Politics desk signal: congress, supreme court, court",
+        "Key people or organizations: Supreme Court",
+        "Politics desk signal: supreme court, court, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court expands presidential firing power, overturning 90-year-old ruling"
+        "Story focus: Supreme Court strikes down coordinated campaign spending limits",
+        "Source context: The Supreme Court struck down federal limits on the amount of money a political committee can spend in coordination with federal candidates. The..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -350,11 +351,71 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 29 Jun 2026 20:14:56 -0400",
-      "age_hours": "11.80",
+      "published": "Tue, 30 Jun 2026 11:11:28 -0400",
+      "age_hours": "0.18",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "BREAKING"
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court backs GOP challenge to campaign finance law",
+      "url": "https://thehill.com/regulation/court-battles/5940100-supreme-court-campaign-finance-spending-limits/",
+      "snapshot": "The Supreme Court agreed with Vice President Vance that federal limits on how much political parties can spend in coordination with their candidates violate his First Amendment rights, siding with Republicans on Tuesday in a campaign finance battle that became a tug-of-war... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, GOP, Vice President Vance, First Amendment",
+        "Politics desk signal: supreme court, court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court backs GOP challenge to campaign finance law",
+        "Source context: The Supreme Court agreed with Vice President Vance that federal limits on how much political parties can spend in coordination with their candidates..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 14:31:45 +0000",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Watch live: Vought testifies before House on federal spending",
+      "url": "https://thehill.com/video-clips/5946869-watch-live-russ-vought-omb-federal-spending-house-appropriations-hearing/",
+      "snapshot": "Office of Management and Budget Director Russ Vought will testify before the House Appropriations Committee on Tuesday morning about federal spending as lawmakers on Capitol Hill look to avoid another shutdown. The hearing comes just months after the Trump administration... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Vought, House, Office, Management",
+        "Politics desk signal: house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live",
+        "Source context: Office of Management and Budget Director Russ Vought will testify before the House Appropriations Committee on Tuesday morning about federal spending..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Vought.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 30 Jun 2026 13:42:45 +0000",
+      "age_hours": "1.66",
+      "freshness_status": "fresh",
+      "editorial_score": "109",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Second Dan Sullivan can appear on Alaska Senate primary ballot, court rules",
@@ -381,21 +442,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 30 Jun 2026 01:56:04 -0400",
-      "age_hours": "6.12",
+      "age_hours": "9.44",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient",
-      "url": "https://thehill.com/regulation/court-battles/5946439-haitian-syrian-tps-end/",
-      "snapshot": "A Supreme Court decision unwinding deportation protections for Haitians and Syrians spells trouble for all recipients of temporary protected status (TPS), regardless of their home country. The Trump administration has been chipping away at TPS, a status prior governments have... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "US Supreme Court rules against Trump order to end birthright citizenship",
+      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss",
+      "snapshot": "Top court's 6-3 ruling major blow to Trump, affirms nearly all infants born on US soil automatically become citizens. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Supreme Court, TPS, Haitians, Syrians",
+        "Key people or organizations: US Supreme Court, Trump, Top, US",
+        "Specific figures mentioned: 6, 3",
         "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court ruling on deportation protections is 'bad news' for every TPS recipient",
-        "Source context: A Supreme Court decision unwinding deportation protections for Haitians and Syrians spells trouble for all recipients of temporary protected status..."
+        "Story focus: US Supreme Court rules against Trump order to end birthright citizenship"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -403,48 +464,18 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving US Supreme Court.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.05",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 30 Jun 2026 14:40:17 +0000",
+      "age_hours": "0.70",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "78",
       "urgency": ""
-    },
-    {
-      "headline": "Trump launches midterm offensive against Democrats over 'communism'",
-      "url": "https://thehill.com/homenews/administration/5946435-trump-democrats-communists-midterms/",
-      "snapshot": "President Trump is seizing on a series of far-left wins in Democratic primaries to paint the opposition party as dangerous \"communists\" about four months out from midterm elections. The president has never shied away from painting Democrats as far left, but his recent... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
-      "key_data": [
-        "Key people or organizations: Trump, Democrats, President Trump, Democratic",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump launches midterm offensive against Democrats over 'communism'",
-        "Source context: President Trump is seizing on a series of far-left wins in Democratic primaries to paint the opposition party as dangerous \"communists\" about four..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "age_hours": "2.05",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "WATCH"
     },
     {
       "headline": "Man in Gaza survives double tap Israeli strike on vehicle",
@@ -470,40 +501,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 30 Jun 2026 10:09:27 +0000",
-      "age_hours": "1.90",
+      "age_hours": "5.22",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Advocacy groups file complaint against Ghana over Trump deportations",
-      "url": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss",
-      "snapshot": "The deportees were sent to Ghana, then to their home countries, despite earlier rulings by US judges that it was unsafe. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Advocacy, Ghana, Trump, US",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Advocacy groups file complaint against Ghana over Trump deportations",
-        "Source context: The deportees were sent to Ghana, then to their home countries, despite earlier rulings by US judges that it was unsafe. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Advocacy.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 30 Jun 2026 10:03:34 +0000",
-      "age_hours": "1.99",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
