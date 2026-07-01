@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "New disease threats follow Trump administration's health program cuts",
-  "snapshot": "From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-07-01 09:29:25 AM ET",
-  "generated_at": "2026-07-01 09:29:25 AM ET",
+  "headline": "Judges strike down Trump administration student loan forgiveness overhaul",
+  "snapshot": "Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would have barred public service workers from receiving debt relief if their employers are deemed to have a \"substantial illegal... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+  "updated_at": "2026-07-01 12:13:26 PM ET",
+  "generated_at": "2026-07-01 12:13:26 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 144,
-    "live_fresh_items": 55,
-    "editor_fresh_items": 140,
-    "public_fallback_items": 142,
-    "stale_or_blocked_items": 89,
+    "total_items_checked": 146,
+    "live_fresh_items": 68,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 78,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-01 09:29:25 AM ET"
+    "last_checked": "2026-07-01 12:13:26 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Judges strike down Trump administration student loan forgiveness overhaul",
+      "url": "https://thehill.com/homenews/administration/5949409-judges-strike-down-trump-administration-student-loan-forgiveness-overhaul/",
+      "snapshot": "Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would have barred public service workers from receiving debt relief if their employers are deemed to have a \"substantial illegal... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Judges, Trump, Two",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judges strike down Trump administration student loan forgiveness overhaul",
+        "Source context: Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judges.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 01 Jul 2026 14:45:17 +0000",
+      "age_hours": "1.47",
+      "freshness_status": "fresh",
+      "editorial_score": "125",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "New disease threats follow Trump administration's health program cuts",
       "url": "https://www.cbsnews.com/news/disease-threats-trump-administration-health-program-cuts/",
@@ -44,10 +74,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "age_hours": "4.49",
+      "age_hours": "7.22",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
+    },
+    {
+      "headline": "'Will not leave': Is Israel killing the US-Iran MoU by staying in Lebanon?",
+      "url": "https://www.aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss",
+      "snapshot": "Analysts say both sides want the MOU to succeed but Israel's actions in Lebanon will prove a formidable obstacle. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Will, Is Israel, US, Iran MoU",
+        "Story focus: 'Will not leave'",
+        "Source context: Analysts say both sides want the MOU to succeed but Israel's actions in Lebanon will prove a formidable obstacle. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Will.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 01 Jul 2026 15:08:05 +0000",
+      "age_hours": "1.09",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
@@ -74,7 +132,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 01 Jul 2026 09:38:06 +0000",
-      "age_hours": "3.86",
+      "age_hours": "6.59",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "DEVELOPING"
@@ -103,75 +161,45 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 01 Jul 2026 09:09:00 -0400",
-      "age_hours": "0.34",
+      "published": "Wed, 01 Jul 2026 09:53:44 -0400",
+      "age_hours": "2.33",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails",
-      "url": "https://thehill.com/regulation/court-battles/5948993-e-jean-carroll-donald-trump-supreme-court/",
-      "snapshot": "Writer E. Jean Carroll asked a federal court on Tuesday to release over $5 million to her per day after the Supreme Court refused President Trump's request to overturn a jury verdict that found he abused her in the mid-1990s and defamed her. Carroll's attorneys filed papers in... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Jean Carroll, Trump, Supreme Court, Writer",
-        "Specific figures mentioned: $5.8M, $5 million, 1990",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jean Carroll.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 01 Jul 2026 11:54:33 +0000",
-      "age_hours": "1.58",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Hurd wins renomination in GOP primary after Trump endorsement reversal",
-      "url": "https://thehill.com/homenews/campaign/5948789-jeff-hurd-wins-gop-primary/",
-      "snapshot": "Rep. Jeff Hurd (R-Colo.) was projected to win the GOP primary for his House seat in the 3rd Congressional District, according to Decision Desk HQ, despite President Trump flip-flopping on his endorsement earlier this year. Trump withdrew his endorsement earlier this year,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Hurd, GOP, Trump, Rep",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hurd wins renomination in GOP primary after Trump endorsement reversal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hurd.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 01 Jul 2026 01:57:19 +0000",
-      "age_hours": "11.53",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Judges strike down Trump administration student loan forgiveness overhaul",
+      "url": "https://thehill.com/homenews/administration/5949409-judges-strike-down-trump-administration-student-loan-forgiveness-overhaul/",
+      "snapshot": "Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would have barred public service workers from receiving debt relief if their employers are deemed to have a \"substantial illegal... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Judges, Trump, Two",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judges strike down Trump administration student loan forgiveness overhaul",
+        "Source context: Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judges.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 01 Jul 2026 14:45:17 +0000",
+      "age_hours": "1.47",
+      "freshness_status": "fresh",
+      "editorial_score": "125",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "New disease threats follow Trump administration's health program cuts",
       "url": "https://www.cbsnews.com/news/disease-threats-trump-administration-health-program-cuts/",
       "snapshot": "From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -196,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "age_hours": "4.49",
+      "age_hours": "7.22",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -225,8 +253,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 01 Jul 2026 09:09:00 -0400",
-      "age_hours": "0.34",
+      "published": "Wed, 01 Jul 2026 09:53:44 -0400",
+      "age_hours": "2.33",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -234,7 +262,7 @@
     {
       "headline": "E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails",
       "url": "https://thehill.com/regulation/court-battles/5948993-e-jean-carroll-donald-trump-supreme-court/",
-      "snapshot": "Writer E. Jean Carroll asked a federal court on Tuesday to release over $5 million to her per day after the Supreme Court refused President Trump's request to overturn a jury verdict that found he abused her in the mid-1990s and defamed her. Carroll's attorneys filed papers in... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "snapshot": "Writer E. Jean Carroll asked a federal court to release more than $5 million to her on Tuesday, one day after the Supreme Court refused President Trump's request to overturn a jury verdict that found he abused her in the mid-1990s and defamed her. Carroll's attorneys filed... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
         "Key people or organizations: Jean Carroll, Trump, Supreme Court, Writer",
         "Specific figures mentioned: $5.8M, $5 million, 1990",
@@ -256,226 +284,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 11:54:33 +0000",
-      "age_hours": "1.58",
+      "age_hours": "4.31",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Hurd wins renomination in GOP primary after Trump endorsement reversal",
-      "url": "https://thehill.com/homenews/campaign/5948789-jeff-hurd-wins-gop-primary/",
-      "snapshot": "Rep. Jeff Hurd (R-Colo.) was projected to win the GOP primary for his House seat in the 3rd Congressional District, according to Decision Desk HQ, despite President Trump flip-flopping on his endorsement earlier this year. Trump withdrew his endorsement earlier this year,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Hurd, GOP, Trump, Rep",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hurd wins renomination in GOP primary after Trump endorsement reversal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hurd.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 01 Jul 2026 01:57:19 +0000",
-      "age_hours": "11.53",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump official says White House will fight birthright citizenship decision",
-      "url": "https://www.aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss",
-      "snapshot": "A White House adviser told Al Jazeera the Trump administration will continue 'fighting' to end birthright citizenship. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Al Jazeera",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump official says White House will fight birthright citizenship decision",
-        "Source context: A White House adviser told Al Jazeera the Trump administration will continue 'fighting' to end birthright citizenship. The key question is leverage:..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 01 Jul 2026 08:20:02 +0000",
-      "age_hours": "5.16",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "New disease threats follow Trump administration's health program cuts",
-    "Trump made over $1 billion on crypto ventures last year, disclosure shows",
-    "E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails"
-  ],
-  "sections": [
-    {
-      "headline": "New disease threats follow Trump administration's health program cuts",
-      "url": "https://www.cbsnews.com/news/disease-threats-trump-administration-health-program-cuts/",
-      "snapshot": "From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: New, Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: New disease threats follow Trump administration's health program cuts",
-        "Source context: From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving New.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "age_hours": "4.49",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
-      "url": "https://www.cbsnews.com/news/trump-over-1-billion-on-crypto-ventures-financial-disclosures/",
-      "snapshot": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family's cryptocurrency firm. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Specific figures mentioned: $1 billion",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump made over $1 billion on crypto ventures last year, disclosure shows",
-        "Source context: President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 01 Jul 2026 09:09:00 -0400",
-      "age_hours": "0.34",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails",
-      "url": "https://thehill.com/regulation/court-battles/5948993-e-jean-carroll-donald-trump-supreme-court/",
-      "snapshot": "Writer E. Jean Carroll asked a federal court on Tuesday to release over $5 million to her per day after the Supreme Court refused President Trump's request to overturn a jury verdict that found he abused her in the mid-1990s and defamed her. Carroll's attorneys filed papers in... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Jean Carroll, Trump, Supreme Court, Writer",
-        "Specific figures mentioned: $5.8M, $5 million, 1990",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jean Carroll.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 01 Jul 2026 11:54:33 +0000",
-      "age_hours": "1.58",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Hurd wins renomination in GOP primary after Trump endorsement reversal",
-      "url": "https://thehill.com/homenews/campaign/5948789-jeff-hurd-wins-gop-primary/",
-      "snapshot": "Rep. Jeff Hurd (R-Colo.) was projected to win the GOP primary for his House seat in the 3rd Congressional District, according to Decision Desk HQ, despite President Trump flip-flopping on his endorsement earlier this year. Trump withdrew his endorsement earlier this year,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Hurd, GOP, Trump, Rep",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hurd wins renomination in GOP primary after Trump endorsement reversal"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hurd.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 01 Jul 2026 01:57:19 +0000",
-      "age_hours": "11.53",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump official says White House will fight birthright citizenship decision",
-      "url": "https://www.aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss",
-      "snapshot": "A White House adviser told Al Jazeera the Trump administration will continue 'fighting' to end birthright citizenship. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Al Jazeera",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump official says White House will fight birthright citizenship decision",
-        "Source context: A White House adviser told Al Jazeera the Trump administration will continue 'fighting' to end birthright citizenship. The key question is leverage:..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 01 Jul 2026 08:20:02 +0000",
-      "age_hours": "5.16",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -503,9 +314,194 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 01 Jul 2026 09:38:06 +0000",
-      "age_hours": "3.86",
+      "age_hours": "6.59",
       "freshness_status": "fresh",
       "editorial_score": "80",
+      "urgency": "DEVELOPING"
+    }
+  ],
+  "key_storylines": [
+    "Judges strike down Trump administration student loan forgiveness overhaul",
+    "New disease threats follow Trump administration's health program cuts",
+    "Trump made over $1 billion on crypto ventures last year, disclosure shows"
+  ],
+  "sections": [
+    {
+      "headline": "Judges strike down Trump administration student loan forgiveness overhaul",
+      "url": "https://thehill.com/homenews/administration/5949409-judges-strike-down-trump-administration-student-loan-forgiveness-overhaul/",
+      "snapshot": "Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would have barred public service workers from receiving debt relief if their employers are deemed to have a \"substantial illegal... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Judges, Trump, Two",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judges strike down Trump administration student loan forgiveness overhaul",
+        "Source context: Two federal judges on Tuesday blocked the Trump administration from implementing new restrictions on a student loan forgiveness program that would..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judges.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 01 Jul 2026 14:45:17 +0000",
+      "age_hours": "1.47",
+      "freshness_status": "fresh",
+      "editorial_score": "125",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "New disease threats follow Trump administration's health program cuts",
+      "url": "https://www.cbsnews.com/news/disease-threats-trump-administration-health-program-cuts/",
+      "snapshot": "From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: New, Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: New disease threats follow Trump administration's health program cuts",
+        "Source context: From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs...."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving New.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "age_hours": "7.22",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
+      "url": "https://www.cbsnews.com/news/trump-over-1-billion-on-crypto-ventures-financial-disclosures/",
+      "snapshot": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family's cryptocurrency firm. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $1 billion",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump made over $1 billion on crypto ventures last year, disclosure shows",
+        "Source context: President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 01 Jul 2026 09:53:44 -0400",
+      "age_hours": "2.33",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails",
+      "url": "https://thehill.com/regulation/court-battles/5948993-e-jean-carroll-donald-trump-supreme-court/",
+      "snapshot": "Writer E. Jean Carroll asked a federal court to release more than $5 million to her on Tuesday, one day after the Supreme Court refused President Trump's request to overturn a jury verdict that found he abused her in the mid-1990s and defamed her. Carroll's attorneys filed... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Jean Carroll, Trump, Supreme Court, Writer",
+        "Specific figures mentioned: $5.8M, $5 million, 1990",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: E. Jean Carroll calls for Trump to pay $5.8M after Supreme Court appeal fails"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jean Carroll.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 01 Jul 2026 11:54:33 +0000",
+      "age_hours": "4.31",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+      "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
+      "snapshot": "President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Russian, Ukraine, Kyiv, President Zelenskyy",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+        "Source context: President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Russian.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 01 Jul 2026 09:38:06 +0000",
+      "age_hours": "6.59",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "'Will not leave': Is Israel killing the US-Iran MoU by staying in Lebanon?",
+      "url": "https://www.aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss",
+      "snapshot": "Analysts say both sides want the MOU to succeed but Israel's actions in Lebanon will prove a formidable obstacle. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Will, Is Israel, US, Iran MoU",
+        "Story focus: 'Will not leave'",
+        "Source context: Analysts say both sides want the MOU to succeed but Israel's actions in Lebanon will prove a formidable obstacle. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Will.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 01 Jul 2026 15:08:05 +0000",
+      "age_hours": "1.09",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     }
   ],
