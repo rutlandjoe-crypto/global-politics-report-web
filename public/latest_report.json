@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
   "snapshot": "Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively singled out for investigation.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-01 10:57:14 PM ET",
-  "generated_at": "2026-07-01 10:57:14 PM ET",
+  "updated_at": "2026-07-02 02:29:50 AM ET",
+  "generated_at": "2026-07-02 02:29:50 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 88,
+    "total_items_checked": 149,
+    "live_fresh_items": 64,
     "editor_fresh_items": 148,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 60,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 85,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-01 10:57:14 PM ET"
+    "last_checked": "2026-07-02 02:29:50 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 15:00:19 -0400",
-      "age_hours": "7.95",
+      "age_hours": "11.49",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 18:35:28 +0000",
-      "age_hours": "8.36",
+      "age_hours": "11.91",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -104,9 +104,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 23:41:43 +0000",
-      "age_hours": "3.26",
+      "age_hours": "6.80",
       "freshness_status": "fresh",
       "editorial_score": "117",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "At least 10 killed in Kyiv as Zelenskyy warns of 'massive Russian strike'",
+      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+      "snapshot": "At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: At, Kyiv, Zelenskyy, Russian",
+        "Specific figures mentioned: 10",
+        "Politics desk signal: ukraine",
+        "Story focus: At least 10 killed in Kyiv as Zelenskyy warns of 'massive Russian strike'",
+        "Source context: At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving At.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
+      "age_hours": "4.25",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
       "urgency": "BREAKING"
     },
     {
@@ -134,39 +164,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 19:45:03 -0400",
-      "age_hours": "3.20",
+      "age_hours": "6.75",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Despite marquee losses, Supreme Court term grows Trump's presidential power",
-      "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-      "snapshot": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Despite, Supreme Court, Trump, Set",
-        "Politics desk signal: supreme court, court, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Despite marquee losses, Supreme Court term grows Trump's presidential power",
-        "Source context: Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Despite.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 01 Jul 2026 20:26:33 +0000",
-      "age_hours": "6.51",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 15:00:19 -0400",
-      "age_hours": "7.95",
+      "age_hours": "11.49",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 18:35:28 +0000",
-      "age_hours": "8.36",
+      "age_hours": "11.91",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 23:41:43 +0000",
-      "age_hours": "3.26",
+      "age_hours": "6.80",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "BREAKING"
@@ -286,40 +286,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 19:45:03 -0400",
-      "age_hours": "3.20",
+      "age_hours": "6.75",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Despite marquee losses, Supreme Court term grows Trump's presidential power",
-      "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-      "snapshot": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "At least 10 killed in Kyiv as Zelenskyy warns of 'massive Russian strike'",
+      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+      "snapshot": "At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Despite, Supreme Court, Trump, Set",
-        "Politics desk signal: supreme court, court, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Despite marquee losses, Supreme Court term grows Trump's presidential power",
-        "Source context: Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump. The broader significance is..."
+        "Key people or organizations: At, Kyiv, Zelenskyy, Russian",
+        "Specific figures mentioned: 10",
+        "Politics desk signal: ukraine",
+        "Story focus: At least 10 killed in Kyiv as Zelenskyy warns of 'massive Russian strike'",
+        "Source context: At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Despite.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving At.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 01 Jul 2026 20:26:33 +0000",
-      "age_hours": "6.51",
+      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
+      "editorial_score": "86",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 15:00:19 -0400",
-      "age_hours": "7.95",
+      "age_hours": "11.49",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 18:35:28 +0000",
-      "age_hours": "8.36",
+      "age_hours": "11.91",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 01 Jul 2026 23:41:43 +0000",
-      "age_hours": "3.26",
+      "age_hours": "6.80",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "BREAKING"
@@ -443,40 +443,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 19:45:03 -0400",
-      "age_hours": "3.20",
+      "age_hours": "6.75",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Despite marquee losses, Supreme Court term grows Trump's presidential power",
-      "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-      "snapshot": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "At least 10 killed in Kyiv as Zelenskyy warns of 'massive Russian strike'",
+      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+      "snapshot": "At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Despite, Supreme Court, Trump, Set",
-        "Politics desk signal: supreme court, court, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Despite marquee losses, Supreme Court term grows Trump's presidential power",
-        "Source context: Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump. The broader significance is..."
+        "Key people or organizations: At, Kyiv, Zelenskyy, Russian",
+        "Specific figures mentioned: 10",
+        "Politics desk signal: ukraine",
+        "Story focus: At least 10 killed in Kyiv as Zelenskyy warns of 'massive Russian strike'",
+        "Source context: At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Despite.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving At.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 01 Jul 2026 20:26:33 +0000",
-      "age_hours": "6.51",
+      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
+      "editorial_score": "86",
+      "urgency": "BREAKING"
     },
     {
       "headline": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 01 Jul 2026 21:45:58 +0000",
-      "age_hours": "5.19",
+      "age_hours": "8.73",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
