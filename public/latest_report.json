@@ -1,34 +1,34 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate votes to halt Iran war, then flips",
-  "snapshot": "The Senate voted for and against ending the war with Iran on two consecutive days, with President Trump lashing out at four GOP senators who had voted for a resolution barring any future U.S. military activities against Iran, and the administration arguing that the resolution... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-07-02 09:54:18 AM ET",
-  "generated_at": "2026-07-02 09:54:18 AM ET",
+  "headline": "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
+  "snapshot": "Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking President Trump. \"They campaign as anti-establishment. Very smartly, if you look at their campaigning, they're not really even... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-07-02 11:58:02 AM ET",
+  "generated_at": "2026-07-02 11:58:02 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 152,
-    "live_fresh_items": 46,
-    "editor_fresh_items": 148,
+    "live_fresh_items": 67,
+    "editor_fresh_items": 146,
     "public_fallback_items": 152,
-    "stale_or_blocked_items": 106,
+    "stale_or_blocked_items": 85,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-02 09:54:18 AM ET"
+    "last_checked": "2026-07-02 11:58:02 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Alibaba to pay $600m to settle illegal drug sales allegations in US probe",
-      "url": "https://www.aljazeera.com/news/2026/7/2/alibaba-to-pay-600mn-to-settle-illegal-drug-sales-allegations-in-us-probe?traffic_source=rss",
-      "snapshot": "E-commerce giant admitted it failed to ⁠prevent 80,000 illegal drug product sales, according to US Justice Department. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+      "url": "https://www.cbsnews.com/news/former-cia-director-john-brennan-sues-justice-dept-trump-officials/",
+      "snapshot": "Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively singled out for investigation.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Alibaba, US, US Justice Department",
-        "Specific figures mentioned: $600m, 80, 000",
+        "Key people or organizations: Former CIA Director John, Brennan, DOJ, Trump",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Alibaba to pay $600m to settle illegal drug sales allegations in US probe"
+        "Story focus: Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+        "Source context: Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -36,18 +36,48 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Alibaba.",
+        "Watch for the next official action involving Former CIA Director John.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 08:54:26 +0000",
-      "age_hours": "5.00",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 01 Jul 2026 15:00:19 -0400",
+      "age_hours": "20.96",
+      "freshness_status": "stale",
+      "editorial_score": "116",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
+      "url": "https://thehill.com/homenews/campaign/5951251-insurgent-left-candidates-rise/",
+      "snapshot": "Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking President Trump. \"They campaign as anti-establishment. Very smartly, if you look at their campaigning, they're not really even... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Bannon, Insurgent, Trump, Former White House",
+        "Politics desk signal: house, white house, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Bannon",
+        "Source context: Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Bannon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 02 Jul 2026 14:51:32 +0000",
+      "age_hours": "1.11",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Senate votes to halt Iran war, then flips",
@@ -74,20 +104,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 13:30:00 +0000",
-      "age_hours": "0.40",
+      "age_hours": "2.47",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
     },
     {
-      "headline": "O'Reilly: MAGA sees Trump as 'bulwark' against communism",
-      "url": "https://thehill.com/homenews/media/5951055-oreilly-maga-sees-trump-as-bulwark-against-communism/",
-      "snapshot": "Political commentator Bill O'Reilly said Wednesday that the 'Make America Great Again' (MAGA) movement views President Trump as a \"bulwark\" against the leftist sect of the Democratic Party. \"The MAGA Trump people feel that what the president is fighting against is infinitely... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
+      "url": "https://www.cbsnews.com/news/trump-over-1-billion-on-crypto-ventures-financial-disclosures/",
+      "snapshot": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family's cryptocurrency firm. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Reilly, MAGA, Trump, Political",
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $1 billion",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: O'Reilly",
-        "Source context: Political commentator Bill O'Reilly said Wednesday that the 'Make America Great Again' (MAGA) movement views President Trump as a \"bulwark\" against..."
+        "Story focus: Trump made over $1 billion on crypto ventures last year, disclosure shows",
+        "Source context: President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -95,59 +126,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Reilly.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 02 Jul 2026 13:35:17 +0000",
-      "age_hours": "0.32",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Shark attack alerts for cellphones authorized by new federal law",
-      "url": "https://www.cbsnews.com/news/shark-attack-alerts-cellphones-lulus-law/",
-      "snapshot": "President Trump has signed \"Lulu's Law,\" which requires the FCC to allow emergency alert messages for shark attacks. It was inspired by shark attack survivor Lulu Gribbin. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Shark, President Trump, Lulu, Law",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Shark attack alerts for cellphones authorized by new federal law",
-        "Source context: President Trump has signed \"Lulu's Law,\" which requires the FCC to allow emergency alert messages for shark attacks. It was inspired by shark attack..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Shark.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 02 Jul 2026 08:43:42 -0400",
-      "age_hours": "1.18",
+      "published": "Thu, 02 Jul 2026 11:18:58 -0400",
+      "age_hours": "0.65",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says record boats leaving Hormuz, calls communism 'biggest threat'",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
-      "snapshot": "US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Why has Trump refused to renew the USMCA, and what will that mean?",
+      "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss",
+      "snapshot": "Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Hormuz, US President Donald Trump, North Dakota",
+        "Key people or organizations: Trump, USMCA, Trade, US",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says record boats leaving Hormuz, calls communism 'biggest threat'",
-        "Source context: US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication. The election angle is whether..."
+        "Story focus: Why has Trump refused to renew the USMCA, and what will that mean?",
+        "Source context: Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -162,14 +163,44 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 08:19:11 +0000",
-      "age_hours": "5.59",
+      "published": "Thu, 02 Jul 2026 13:09:59 +0000",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
+      "url": "https://thehill.com/homenews/campaign/5951251-insurgent-left-candidates-rise/",
+      "snapshot": "Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking President Trump. \"They campaign as anti-establishment. Very smartly, if you look at their campaigning, they're not really even... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Bannon, Insurgent, Trump, Former White House",
+        "Politics desk signal: house, white house, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Bannon",
+        "Source context: Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Bannon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 02 Jul 2026 14:51:32 +0000",
+      "age_hours": "1.11",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
       "url": "https://www.cbsnews.com/news/former-cia-director-john-brennan-sues-justice-dept-trump-officials/",
@@ -195,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 01 Jul 2026 15:00:19 -0400",
-      "age_hours": "18.90",
+      "age_hours": "20.96",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -225,51 +256,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 13:30:00 +0000",
-      "age_hours": "0.40",
+      "age_hours": "2.47",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
     },
     {
-      "headline": "John Brennan sues Trump administration, claiming 'phantom criminal conduct'",
-      "url": "https://thehill.com/homenews/administration/5950137-john-brennan-trump-doj/",
-      "snapshot": "Former CIA Director John Brennan filed suit Wednesday demanding the Justice Department preserve all records related to its ongoing investigation into him, saying they will be needed to defend himself in a \"vindictive\" prosecution. The lawsuit is the first formal legal action... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
+      "url": "https://www.cbsnews.com/news/trump-over-1-billion-on-crypto-ventures-financial-disclosures/",
+      "snapshot": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family's cryptocurrency firm. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: John Brennan, Trump, Former CIA Director John, Brennan",
-        "Politics desk signal: court",
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $1 billion",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: John Brennan sues Trump administration, claiming 'phantom criminal conduct'",
-        "Source context: Former CIA Director John Brennan filed suit Wednesday demanding the Justice Department preserve all records related to its ongoing investigation into..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving John Brennan.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 01 Jul 2026 18:35:28 +0000",
-      "age_hours": "19.31",
-      "freshness_status": "stale",
-      "editorial_score": "115",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "New disease threats follow Trump administration's health program cuts",
-      "url": "https://www.cbsnews.com/news/disease-threats-trump-administration-health-program-cuts/",
-      "snapshot": "From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: New, Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: New disease threats follow Trump administration's health program cuts",
-        "Source context: From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs...."
+        "Story focus: Trump made over $1 billion on crypto ventures last year, disclosure shows",
+        "Source context: President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -277,29 +278,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving New.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "age_hours": "28.90",
-      "freshness_status": "stale",
-      "editorial_score": "92",
+      "published": "Thu, 02 Jul 2026 11:18:58 -0400",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says record boats leaving Hormuz, calls communism 'biggest threat'",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
-      "snapshot": "US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Why has Trump refused to renew the USMCA, and what will that mean?",
+      "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss",
+      "snapshot": "Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Hormuz, US President Donald Trump, North Dakota",
+        "Key people or organizations: Trump, USMCA, Trade, US",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says record boats leaving Hormuz, calls communism 'biggest threat'",
-        "Source context: US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication. The election angle is whether..."
+        "Story focus: Why has Trump refused to renew the USMCA, and what will that mean?",
+        "Source context: Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -314,19 +315,49 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 08:19:11 +0000",
-      "age_hours": "5.59",
+      "published": "Thu, 02 Jul 2026 13:09:59 +0000",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
     "Senate votes to halt Iran war, then flips",
-    "O'Reilly: MAGA sees Trump as 'bulwark' against communism",
-    "Shark attack alerts for cellphones authorized by new federal law"
+    "Trump made over $1 billion on crypto ventures last year, disclosure shows"
   ],
   "sections": [
+    {
+      "headline": "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
+      "url": "https://thehill.com/homenews/campaign/5951251-insurgent-left-candidates-rise/",
+      "snapshot": "Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking President Trump. \"They campaign as anti-establishment. Very smartly, if you look at their campaigning, they're not really even... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Bannon, Insurgent, Trump, Former White House",
+        "Politics desk signal: house, white house, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Bannon",
+        "Source context: Former White House adviser Steve Bannon said the insurgent left candidates in the Democratic party are \"very smart\" not to campaign on bucking..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Bannon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 02 Jul 2026 14:51:32 +0000",
+      "age_hours": "1.11",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Senate votes to halt Iran war, then flips",
       "url": "https://thehill.com/opinion/congress-blog/5949984-senate-votes-to-halt-iran-war-then-flips/",
@@ -352,20 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 13:30:00 +0000",
-      "age_hours": "0.40",
+      "age_hours": "2.47",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
     },
     {
-      "headline": "O'Reilly: MAGA sees Trump as 'bulwark' against communism",
-      "url": "https://thehill.com/homenews/media/5951055-oreilly-maga-sees-trump-as-bulwark-against-communism/",
-      "snapshot": "Political commentator Bill O'Reilly said Wednesday that the 'Make America Great Again' (MAGA) movement views President Trump as a \"bulwark\" against the leftist sect of the Democratic Party. \"The MAGA Trump people feel that what the president is fighting against is infinitely... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
+      "url": "https://www.cbsnews.com/news/trump-over-1-billion-on-crypto-ventures-financial-disclosures/",
+      "snapshot": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family's cryptocurrency firm. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Reilly, MAGA, Trump, Political",
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $1 billion",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: O'Reilly",
-        "Source context: Political commentator Bill O'Reilly said Wednesday that the 'Make America Great Again' (MAGA) movement views President Trump as a \"bulwark\" against..."
+        "Story focus: Trump made over $1 billion on crypto ventures last year, disclosure shows",
+        "Source context: President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -373,17 +405,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Reilly.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 02 Jul 2026 13:35:17 +0000",
-      "age_hours": "0.32",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 02 Jul 2026 11:18:58 -0400",
+      "age_hours": "0.65",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -411,21 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 02 Jul 2026 08:43:42 -0400",
-      "age_hours": "1.18",
+      "age_hours": "3.24",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
     },
     {
-      "headline": "Trump says record boats leaving Hormuz, calls communism 'biggest threat'",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
-      "snapshot": "US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Why has Trump refused to renew the USMCA, and what will that mean?",
+      "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss",
+      "snapshot": "Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Hormuz, US President Donald Trump, North Dakota",
+        "Key people or organizations: Trump, USMCA, Trade, US",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says record boats leaving Hormuz, calls communism 'biggest threat'",
-        "Source context: US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication. The election angle is whether..."
+        "Story focus: Why has Trump refused to renew the USMCA, and what will that mean?",
+        "Source context: Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -440,50 +472,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 08:19:11 +0000",
-      "age_hours": "5.59",
+      "published": "Thu, 02 Jul 2026 13:09:59 +0000",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "62",
       "urgency": ""
     },
     {
-      "headline": "U.S. designates \"Chone Killers\" gang a terrorist organization",
-      "url": "https://www.cbsnews.com/news/us-designates-chone-killers-gang-terrorist-organization-ecuador/",
-      "snapshot": "The gang \"has committed numerous attacks targeting civilians, law enforcement officers, and government officials,\" Secretary of State Marco Rubio said.",
+      "headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+      "url": "https://www.cbsnews.com/news/former-cia-director-john-brennan-sues-justice-dept-trump-officials/",
+      "snapshot": "Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively singled out for investigation.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Chone Killers, Secretary, State Marco Rubio",
-        "Story focus: U.S. designates \"Chone Killers\" gang a terrorist organization",
-        "Source context: The gang \"has committed numerous attacks targeting civilians, law enforcement officers, and government officials,\" Secretary of State Marco Rubio..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Chone Killers.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Power, policy or public-trust angle.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 02 Jul 2026 06:31:17 -0400",
-      "age_hours": "3.38",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Alibaba to pay $600m to settle illegal drug sales allegations in US probe",
-      "url": "https://www.aljazeera.com/news/2026/7/2/alibaba-to-pay-600mn-to-settle-illegal-drug-sales-allegations-in-us-probe?traffic_source=rss",
-      "snapshot": "E-commerce giant admitted it failed to ⁠prevent 80,000 illegal drug product sales, according to US Justice Department. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Alibaba, US, US Justice Department",
-        "Specific figures mentioned: $600m, 80, 000",
+        "Key people or organizations: Former CIA Director John, Brennan, DOJ, Trump",
         "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Alibaba to pay $600m to settle illegal drug sales allegations in US probe"
+        "Story focus: Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+        "Source context: Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -491,17 +495,17 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Alibaba.",
+        "Watch for the next official action involving Former CIA Director John.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 08:54:26 +0000",
-      "age_hours": "5.00",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 01 Jul 2026 15:00:19 -0400",
+      "age_hours": "20.96",
+      "freshness_status": "stale",
+      "editorial_score": "116",
       "urgency": "DEVELOPING"
     }
   ],
