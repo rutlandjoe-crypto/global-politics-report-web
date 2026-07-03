@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Louisiana attorney general indicted over alleged threats; governor pledges swift pardon",
   "snapshot": "Louisiana Attorney General Liz Murrill (R) was indicted by a grand jury in connection with an investigation over alleged threats she made against New Orleans officials, former Judge Laurie White confirmed Thursday. \"The grand jury has returned an indictment, it is now a... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-07-03 01:38:42 AM ET",
-  "generated_at": "2026-07-03 01:38:42 AM ET",
+  "updated_at": "2026-07-03 04:41:55 AM ET",
+  "generated_at": "2026-07-03 04:41:55 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 67,
-    "editor_fresh_items": 147,
+    "live_fresh_items": 47,
+    "editor_fresh_items": 143,
     "public_fallback_items": 151,
-    "stale_or_blocked_items": 84,
+    "stale_or_blocked_items": 104,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-03 01:38:42 AM ET"
+    "last_checked": "2026-07-03 04:41:55 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 22:33:37 +0000",
-      "age_hours": "7.08",
+      "age_hours": "10.14",
       "freshness_status": "fresh",
       "editorial_score": "99",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Man holding Tibetan flag dies after setting himself on fire outside UN",
+      "url": "https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss",
+      "snapshot": "Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Man, Tibetan, UN, Tibet",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Man holding Tibetan flag dies after setting himself on fire outside UN",
+        "Source context: Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital. The election angle is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Man.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 03 Jul 2026 07:31:22 +0000",
+      "age_hours": "1.18",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
       "urgency": "BREAKING"
     },
     {
@@ -73,40 +103,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 02 Jul 2026 19:29:49 -0400",
-      "age_hours": "6.15",
+      "age_hours": "9.20",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump administration aims to cut regulations on US commercial fishing",
-      "url": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
-      "snapshot": "Scallop fishing had been banned in the New England waters since 1994 on account of overfishing. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, US, Scallop, New England",
-        "Specific figures mentioned: 1994",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration aims to cut regulations on US commercial fishing"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 20:20:23 +0000",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Supreme Court's expansion of Trump's firing power heads for new test",
@@ -133,7 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 21:31:28 +0000",
-      "age_hours": "8.12",
+      "age_hours": "11.17",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -163,43 +163,13 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 02 Jul 2026 17:00:00 -0400",
-      "age_hours": "8.64",
+      "age_hours": "11.70",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
-      "url": "https://www.cbsnews.com/news/former-cia-director-john-brennan-sues-justice-dept-trump-officials/",
-      "snapshot": "Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively singled out for investigation.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Former CIA Director John, Brennan, DOJ, Trump",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
-        "Source context: Brennan is seeking a court order to force the preservation of records in the investigations targeting him. His attorneys say he's being \"vindictively..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Former CIA Director John.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 01 Jul 2026 15:00:19 -0400",
-      "age_hours": "34.64",
-      "freshness_status": "stale",
-      "editorial_score": "116",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
       "url": "https://thehill.com/homenews/campaign/5951251-insurgent-left-candidates-rise/",
@@ -225,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 14:51:32 +0000",
-      "age_hours": "14.79",
+      "age_hours": "17.84",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "BREAKING"
@@ -255,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 22:33:37 +0000",
-      "age_hours": "7.08",
+      "age_hours": "10.14",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "BREAKING"
@@ -285,21 +255,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 02 Jul 2026 13:10:00 -0400",
-      "age_hours": "12.48",
+      "age_hours": "15.53",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "Trump administration aims to cut regulations on US commercial fishing",
-      "url": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
-      "snapshot": "Scallop fishing had been banned in the New England waters since 1994 on account of overfishing. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "7/2: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/070226-the-takeout-with-major-garrett/",
+      "snapshot": "Security ramps up for D.C. Fourth of July events; taxes on Trump's $1.4 billion crypto income could total hundreds of millions, sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, US, Scallop, New England",
-        "Specific figures mentioned: 1994",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Major Garrett, Security, Fourth, July",
+        "Specific figures mentioned: 7, 2, $1.4 billion",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration aims to cut regulations on US commercial fishing"
+        "Story focus: 7/2",
+        "Source context: Security ramps up for D.C. Fourth of July events; taxes on Trump's $1.4 billion crypto income could total hundreds of millions, sources say. The key..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -307,18 +277,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 02 Jul 2026 17:00:00 -0400",
+      "age_hours": "11.70",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": ""
+    },
+    {
+      "headline": "Man holding Tibetan flag dies after setting himself on fire outside UN",
+      "url": "https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss",
+      "snapshot": "Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Man, Tibetan, UN, Tibet",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Man holding Tibetan flag dies after setting himself on fire outside UN",
+        "Source context: Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital. The election angle is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Man.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 20:20:23 +0000",
-      "age_hours": "9.31",
+      "published": "Fri, 03 Jul 2026 07:31:22 +0000",
+      "age_hours": "1.18",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
@@ -352,7 +352,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 22:33:37 +0000",
-      "age_hours": "7.08",
+      "age_hours": "10.14",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "BREAKING"
@@ -382,7 +382,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 21:31:28 +0000",
-      "age_hours": "8.12",
+      "age_hours": "11.17",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -412,40 +412,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 02 Jul 2026 17:00:00 -0400",
-      "age_hours": "8.64",
+      "age_hours": "11.70",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
-    },
-    {
-      "headline": "Trump administration aims to cut regulations on US commercial fishing",
-      "url": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
-      "snapshot": "Scallop fishing had been banned in the New England waters since 1994 on account of overfishing. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, US, Scallop, New England",
-        "Specific figures mentioned: 1994",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration aims to cut regulations on US commercial fishing"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 02 Jul 2026 20:20:23 +0000",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Olympian David Hearn charged with destruction of property at Reflecting Pool",
@@ -471,9 +441,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 02 Jul 2026 19:29:49 -0400",
-      "age_hours": "6.15",
+      "age_hours": "9.20",
       "freshness_status": "fresh",
       "editorial_score": "80",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Man holding Tibetan flag dies after setting himself on fire outside UN",
+      "url": "https://www.aljazeera.com/news/2026/7/3/man-holding-tibetan-flag-dies-after-setting-himself-on-fire-outside-un?traffic_source=rss",
+      "snapshot": "Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Man, Tibetan, UN, Tibet",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Man holding Tibetan flag dies after setting himself on fire outside UN",
+        "Source context: Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital. The election angle is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Man.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 03 Jul 2026 07:31:22 +0000",
+      "age_hours": "1.18",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
       "urgency": "BREAKING"
     },
     {
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 02 Jul 2026 23:31:22 +0000",
-      "age_hours": "6.12",
+      "age_hours": "9.18",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
