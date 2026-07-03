@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Democrats seize on Trump earnings to go after GOP on affordability",
   "snapshot": "President Trump raked in billions of dollars while in office over the past year, setting up a split screen ahead of the midterm elections as Americans confront rising prices and a lackluster jobs environment. Financial disclosures released Tuesday show the president made more... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-07-03 01:07:54 PM ET",
-  "generated_at": "2026-07-03 01:07:54 PM ET",
+  "updated_at": "2026-07-03 02:56:13 PM ET",
+  "generated_at": "2026-07-03 02:56:13 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 47,
+    "total_items_checked": 149,
+    "live_fresh_items": 52,
     "editor_fresh_items": 140,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 103,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 97,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-03 01:07:54 PM ET"
+    "last_checked": "2026-07-03 02:56:13 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 14:51:32 +0000",
-      "age_hours": "26.27",
+      "age_hours": "28.08",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "BREAKING"
@@ -74,10 +74,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 13:08:23 +0000",
-      "age_hours": "3.99",
+      "age_hours": "5.80",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+      "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
+      "snapshot": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, West Bank, Palestinians",
+        "Story focus: Israeli settlers intensify attacks in West Bank, targeting water supplies",
+        "Source context: The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 03 Jul 2026 18:34:40 +0000",
+      "age_hours": "0.36",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Bessent on Trump accounts, gas prices and wage growth",
@@ -104,21 +132,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 03 Jul 2026 10:14:12 -0400",
-      "age_hours": "2.89",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Taxes on Trump's $1.4 billion crypto income could total hundreds of millions",
-      "url": "https://www.cbsnews.com/news/taxes-trumps-1-4-billion-crypto-income-could-be-hundreds-of-millions/",
-      "snapshot": "The White House declined to say how much President Trump paid in taxes on his crypto windfall. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
+      "url": "https://www.cbsnews.com/news/nyc-mayor-zohran-mamdani-america-250-speech-city-hall/",
+      "snapshot": "Mayor Zohran Mamdani gave a speech sitting behind the George Washington desk at City Hall on Friday morning to mark America's 250th birthday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Taxes, Trump, President Trump",
-        "Specific figures mentioned: $1.4 billion",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: NYC Mayor Mamdani, Trump, America, Mayor Zohran Mamdani",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Taxes on Trump's $1.4 billion crypto income could total hundreds of millions"
+        "Story focus: NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -126,48 +154,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Taxes.",
+        "Watch for the next official action involving NYC Mayor Mamdani.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 02 Jul 2026 13:10:00 -0400",
-      "age_hours": "23.96",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Democrats seize on Trump earnings to go after GOP on affordability",
-      "url": "https://thehill.com/homenews/administration/5952199-trump-financial-disclosures-criticism/",
-      "snapshot": "President Trump raked in billions of dollars while in office over the past year, setting up a split screen ahead of the midterm elections as Americans confront rising prices and a lackluster jobs environment. Financial disclosures released Tuesday show the president made more... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Democrats, Trump, GOP, President Trump",
-        "Politics desk signal: election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats seize on Trump earnings to go after GOP on affordability",
-        "Source context: President Trump raked in billions of dollars while in office over the past year, setting up a split screen ahead of the midterm elections as..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 03 Jul 2026 16:00:00 +0000",
-      "age_hours": "1.13",
+      "published": "Fri, 03 Jul 2026 13:16:24 -0400",
+      "age_hours": "1.66",
       "freshness_status": "fresh",
-      "editorial_score": "119",
-      "urgency": "WATCH"
+      "editorial_score": "108",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -196,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 16:00:00 +0000",
-      "age_hours": "1.13",
+      "age_hours": "2.94",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
@@ -226,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 03 Jul 2026 10:14:12 -0400",
-      "age_hours": "2.89",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -256,21 +254,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 14:51:32 +0000",
-      "age_hours": "26.27",
+      "age_hours": "28.08",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Taxes on Trump's $1.4 billion crypto income could total hundreds of millions",
-      "url": "https://www.cbsnews.com/news/taxes-trumps-1-4-billion-crypto-income-could-be-hundreds-of-millions/",
-      "snapshot": "The White House declined to say how much President Trump paid in taxes on his crypto windfall. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
+      "url": "https://www.cbsnews.com/news/nyc-mayor-zohran-mamdani-america-250-speech-city-hall/",
+      "snapshot": "Mayor Zohran Mamdani gave a speech sitting behind the George Washington desk at City Hall on Friday morning to mark America's 250th birthday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Taxes, Trump, President Trump",
-        "Specific figures mentioned: $1.4 billion",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: NYC Mayor Mamdani, Trump, America, Mayor Zohran Mamdani",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Taxes on Trump's $1.4 billion crypto income could total hundreds of millions"
+        "Story focus: NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -278,29 +276,27 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Taxes.",
+        "Watch for the next official action involving NYC Mayor Mamdani.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 02 Jul 2026 13:10:00 -0400",
-      "age_hours": "23.96",
-      "freshness_status": "stale",
-      "editorial_score": "94",
+      "published": "Fri, 03 Jul 2026 13:16:24 -0400",
+      "age_hours": "1.66",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Russia's advance collapses in Ukraine, '40,000' troops killed in June",
-      "url": "https://www.aljazeera.com/news/2026/7/3/russian-advance-collapses-in-ukraine-as-anxiety-rises-in-moscow?traffic_source=rss",
-      "snapshot": "Ukraine's long-range strikes hit targets in Russia, where anxiety is rising. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+      "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
+      "snapshot": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Russia, Ukraine, June",
-        "Specific figures mentioned: 40, 000",
-        "Politics desk signal: ukraine",
-        "Story focus: Russia's advance collapses in Ukraine, '40,000' troops killed in June",
-        "Source context: Ukraine's long-range strikes hit targets in Russia, where anxiety is rising. The geopolitical angle is how the decision affects alliances, economic..."
+        "Key people or organizations: Israeli, West Bank, Palestinians",
+        "Story focus: Israeli settlers intensify attacks in West Bank, targeting water supplies",
+        "Source context: The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -308,24 +304,24 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Russia.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 03 Jul 2026 13:57:24 +0000",
-      "age_hours": "3.17",
+      "published": "Fri, 03 Jul 2026 18:34:40 +0000",
+      "age_hours": "0.36",
       "freshness_status": "fresh",
-      "editorial_score": "64",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Democrats seize on Trump earnings to go after GOP on affordability",
     "Bessent on Trump accounts, gas prices and wage growth",
-    "Sources: Trump likely to pardon pollution violators; weighing clemency for Diddy"
+    "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech"
   ],
   "sections": [
     {
@@ -353,7 +349,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 16:00:00 +0000",
-      "age_hours": "1.13",
+      "age_hours": "2.94",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
@@ -383,21 +379,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 03 Jul 2026 10:14:12 -0400",
-      "age_hours": "2.89",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Sources: Trump likely to pardon pollution violators; weighing clemency for Diddy",
-      "url": "https://www.cbsnews.com/news/trump-weighs-pardons-for-sean-diddy-combs-others/",
-      "snapshot": "President Trump hasn't committed to a firm number of people who will receive clemency — he's scheduled to have a meeting on pardons Friday afternoon, sources said. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
+      "url": "https://www.cbsnews.com/news/nyc-mayor-zohran-mamdani-america-250-speech-city-hall/",
+      "snapshot": "Mayor Zohran Mamdani gave a speech sitting behind the George Washington desk at City Hall on Friday morning to mark America's 250th birthday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Sources, Trump, Diddy, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: NYC Mayor Mamdani, Trump, America, Mayor Zohran Mamdani",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sources",
-        "Source context: President Trump hasn't committed to a firm number of people who will receive clemency — he's scheduled to have a meeting on pardons Friday afternoon,..."
+        "Story focus: NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,17 +401,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Sources.",
+        "Watch for the next official action involving NYC Mayor Mamdani.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 03 Jul 2026 12:05:22 -0400",
-      "age_hours": "1.04",
+      "published": "Fri, 03 Jul 2026 13:16:24 -0400",
+      "age_hours": "1.66",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -443,10 +439,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 13:08:23 +0000",
-      "age_hours": "3.99",
+      "age_hours": "5.80",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+      "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
+      "snapshot": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, West Bank, Palestinians",
+        "Story focus: Israeli settlers intensify attacks in West Bank, targeting water supplies",
+        "Source context: The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 03 Jul 2026 18:34:40 +0000",
+      "age_hours": "0.36",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Bannon: Insurgent left candidates 'very smart' not to campaign on Trump",
@@ -473,40 +497,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 02 Jul 2026 14:51:32 +0000",
-      "age_hours": "26.27",
+      "age_hours": "28.08",
       "freshness_status": "stale",
       "editorial_score": "111",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Taxes on Trump's $1.4 billion crypto income could total hundreds of millions",
-      "url": "https://www.cbsnews.com/news/taxes-trumps-1-4-billion-crypto-income-could-be-hundreds-of-millions/",
-      "snapshot": "The White House declined to say how much President Trump paid in taxes on his crypto windfall. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Taxes, Trump, President Trump",
-        "Specific figures mentioned: $1.4 billion",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Taxes on Trump's $1.4 billion crypto income could total hundreds of millions"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Taxes.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 02 Jul 2026 13:10:00 -0400",
-      "age_hours": "23.96",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
