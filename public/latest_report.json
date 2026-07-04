@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Bessent brushes off critics of Trump's crypto haul",
-  "snapshot": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. \"I don't think there's an appearance problem,\" Bessent told CBS News anchor Kelly O'Grady in an exclusive... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-04 01:32:17 AM ET",
-  "generated_at": "2026-07-04 01:32:17 AM ET",
+  "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
+  "snapshot": "New York City Mayor Zohran Mamdani delivered a stinging rebuke of the Trump administration in a speech marking America's 250th birthday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-07-04 04:15:58 AM ET",
+  "generated_at": "2026-07-04 04:15:58 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 50,
-    "editor_fresh_items": 109,
+    "live_fresh_items": 37,
+    "editor_fresh_items": 92,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 100,
+    "stale_or_blocked_items": 113,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-04 01:32:17 AM ET"
+    "last_checked": "2026-07-04 04:15:58 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Lebanon-Israel deal betrays 'victims of war crimes', rights groups say",
-      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-      "snapshot": "Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Lebanon, Israel, Human",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lebanon-Israel deal betrays 'victims of war crimes', rights groups say",
-        "Source context: Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lebanon.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 03 Jul 2026 19:27:15 +0000",
-      "age_hours": "10.08",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Bessent brushes off critics of Trump's crypto haul",
       "url": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
@@ -74,39 +44,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 20:03:43 +0000",
-      "age_hours": "9.48",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
+      "age_hours": "12.20",
+      "freshness_status": "stale",
+      "editorial_score": "89",
       "urgency": ""
-    },
-    {
-      "headline": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-      "snapshot": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Iran, Millions, Tehran, Ali Khamenei",
-        "Politics desk signal: gaza",
-        "Story focus: Iran war live",
-        "Source context: Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 04 Jul 2026 00:00:00 +0000",
-      "age_hours": "5.54",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
@@ -133,7 +74,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 03 Jul 2026 18:02:18 -0400",
-      "age_hours": "7.50",
+      "age_hours": "10.23",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -163,44 +104,74 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 21:00:00 +0000",
-      "age_hours": "8.54",
+      "age_hours": "11.27",
       "freshness_status": "fresh",
       "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump warns of \"communist menace\" in July 4th speech",
+      "url": "https://www.cbsnews.com/news/trump-mount-rushmore-speech-july-4-communism/",
+      "snapshot": "The president kicked off the 250th anniversary of July 4th with a patriotic speech at Mount Rushmore where he warned of a resurgence in communism. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, July, Mount Rushmore",
+        "Specific figures mentioned: 4, 250",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump warns of \"communist menace\" in July 4th speech"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 04 Jul 2026 02:19:12 -0400",
+      "age_hours": "1.95",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump praises army, rails against communism in US 250th anniversary speech",
+      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
+      "snapshot": "At Mount Rushmore Trump warns of 'communist menace', ties rhetoric to immigration ahead of November midterms. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, US, At Mount Rushmore Trump, November",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump praises army, rails against communism in US 250th anniversary speech"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 04 Jul 2026 07:19:57 +0000",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Bessent brushes off critics of Trump's crypto haul",
-      "url": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
-      "snapshot": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. \"I don't think there's an appearance problem,\" Bessent told CBS News anchor Kelly O'Grady in an exclusive... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Bessent, Trump, Treasury Secretary Scott Bessent, President Trump",
-        "Specific figures mentioned: $1 billion",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent brushes off critics of Trump's crypto haul"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Bessent.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 03 Jul 2026 20:03:43 +0000",
-      "age_hours": "9.48",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
-      "urgency": ""
-    },
-    {
       "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
       "url": "https://www.cbsnews.com/news/nyc-mayor-zohran-mamdani-america-250-speech-city-hall/",
       "snapshot": "New York City Mayor Zohran Mamdani delivered a stinging rebuke of the Trump administration in a speech marking America's 250th birthday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -225,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 03 Jul 2026 18:02:18 -0400",
-      "age_hours": "7.50",
+      "age_hours": "10.23",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -255,21 +226,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 21:00:00 +0000",
-      "age_hours": "8.54",
+      "age_hours": "11.27",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
-      "url": "https://www.cbsnews.com/news/trump-announces-pardons-pollution-violators-fixing-their-car/",
-      "snapshot": "CBS News previously reported President Trump was weighing pardons of a slate of people convicted of emissions and clean air-related violations. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump warns of \"communist menace\" in July 4th speech",
+      "url": "https://www.cbsnews.com/news/trump-mount-rushmore-speech-july-4-communism/",
+      "snapshot": "The president kicked off the 250th anniversary of July 4th with a patriotic speech at Mount Rushmore where he warned of a resurgence in communism. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, CBS News, President Trump",
+        "Key people or organizations: Trump, July, Mount Rushmore",
+        "Specific figures mentioned: 4, 250",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
-        "Source context: CBS News previously reported President Trump was weighing pardons of a slate of people convicted of emissions and clean air-related violations. The..."
+        "Story focus: Trump warns of \"communist menace\" in July 4th speech"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -284,79 +255,79 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 03 Jul 2026 19:42:00 -0400",
-      "age_hours": "5.84",
+      "published": "Sat, 04 Jul 2026 02:19:12 -0400",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Lebanon-Israel deal betrays 'victims of war crimes', rights groups say",
-      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-      "snapshot": "Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Bessent brushes off critics of Trump's crypto haul",
+      "url": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
+      "snapshot": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. \"I don't think there's an appearance problem,\" Bessent told CBS News anchor Kelly O'Grady in an exclusive... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Lebanon, Israel, Human",
-        "Politics desk signal: court",
+        "Key people or organizations: Bessent, Trump, Treasury Secretary Scott Bessent, President Trump",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lebanon-Israel deal betrays 'victims of war crimes', rights groups say",
-        "Source context: Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'. The broader significance is..."
+        "Story focus: Bessent brushes off critics of Trump's crypto haul"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Lebanon.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Bessent.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 03 Jul 2026 20:03:43 +0000",
+      "age_hours": "12.20",
+      "freshness_status": "stale",
+      "editorial_score": "89",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump praises army, rails against communism in US 250th anniversary speech",
+      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
+      "snapshot": "At Mount Rushmore Trump warns of 'communist menace', ties rhetoric to immigration ahead of November midterms. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, US, At Mount Rushmore Trump, November",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump praises army, rails against communism in US 250th anniversary speech"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 03 Jul 2026 19:27:15 +0000",
-      "age_hours": "10.08",
+      "published": "Sat, 04 Jul 2026 07:19:57 +0000",
+      "age_hours": "0.93",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Bessent brushes off critics of Trump's crypto haul",
     "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
-    "Venezuela earthquakes deepen rift between GOP hawks and Trump-backed regime"
+    "Venezuela earthquakes deepen rift between GOP hawks and Trump-backed regime",
+    "Trump warns of \"communist menace\" in July 4th speech"
   ],
   "sections": [
-    {
-      "headline": "Bessent brushes off critics of Trump's crypto haul",
-      "url": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
-      "snapshot": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. \"I don't think there's an appearance problem,\" Bessent told CBS News anchor Kelly O'Grady in an exclusive... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Bessent, Trump, Treasury Secretary Scott Bessent, President Trump",
-        "Specific figures mentioned: $1 billion",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent brushes off critics of Trump's crypto haul"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Bessent.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 03 Jul 2026 20:03:43 +0000",
-      "age_hours": "9.48",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
-      "urgency": ""
-    },
     {
       "headline": "NYC Mayor Mamdani talks immigration, Trump administration policies in America 250 speech",
       "url": "https://www.cbsnews.com/news/nyc-mayor-zohran-mamdani-america-250-speech-city-hall/",
@@ -382,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 03 Jul 2026 18:02:18 -0400",
-      "age_hours": "7.50",
+      "age_hours": "10.23",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -412,21 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 03 Jul 2026 21:00:00 +0000",
-      "age_hours": "8.54",
+      "age_hours": "11.27",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
-      "url": "https://www.cbsnews.com/news/trump-announces-pardons-pollution-violators-fixing-their-car/",
-      "snapshot": "CBS News previously reported President Trump was weighing pardons of a slate of people convicted of emissions and clean air-related violations. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump warns of \"communist menace\" in July 4th speech",
+      "url": "https://www.cbsnews.com/news/trump-mount-rushmore-speech-july-4-communism/",
+      "snapshot": "The president kicked off the 250th anniversary of July 4th with a patriotic speech at Mount Rushmore where he warned of a resurgence in communism. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, CBS News, President Trump",
+        "Key people or organizations: Trump, July, Mount Rushmore",
+        "Specific figures mentioned: 4, 250",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump announces pardons for pollution violators prosecuted for \"fixing their car\"",
-        "Source context: CBS News previously reported President Trump was weighing pardons of a slate of people convicted of emissions and clean air-related violations. The..."
+        "Story focus: Trump warns of \"communist menace\" in July 4th speech"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -441,70 +412,101 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 03 Jul 2026 19:42:00 -0400",
-      "age_hours": "5.84",
+      "published": "Sat, 04 Jul 2026 02:19:12 -0400",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Lebanon-Israel deal betrays 'victims of war crimes', rights groups say",
-      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-      "snapshot": "Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Trump at Mount Rushmore warns of Communist 'enemy' in 'optimistic' speech celebrating America's birthday",
+      "url": "https://thehill.com/homenews/administration/5953239-trump-at-mount-rushmore-warns-of-communist-enemy-in-optimistic-speech-celebrating-americas-birthday/",
+      "snapshot": "President Trump on Friday issued a \"fierce rebuke\" of communism as part of his Independence Day kickoff speech, injecting partisan rancor into remarks commemorating America's 250th birthday with Mount Rushmore as the backdrop. Speaking in Keystone, South Dakota, Trump declared... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Lebanon, Israel, Human",
-        "Politics desk signal: court",
+        "Key people or organizations: Trump, Mount Rushmore, Communist, America",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lebanon-Israel deal betrays 'victims of war crimes', rights groups say",
-        "Source context: Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'. The broader significance is..."
+        "Story focus: Trump at Mount Rushmore warns of Communist 'enemy' in 'optimistic' speech celebrating America's birthday"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Lebanon.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 03 Jul 2026 19:27:15 +0000",
-      "age_hours": "10.08",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 04 Jul 2026 03:47:19 +0000",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "75",
+      "urgency": ""
     },
     {
-      "headline": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-      "snapshot": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump praises army, rails against communism in US 250th anniversary speech",
+      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
+      "snapshot": "At Mount Rushmore Trump warns of 'communist menace', ties rhetoric to immigration ahead of November midterms. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Iran, Millions, Tehran, Ali Khamenei",
-        "Politics desk signal: gaza",
-        "Story focus: Iran war live",
-        "Source context: Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence. The geopolitical angle is how..."
+        "Key people or organizations: Trump, US, At Mount Rushmore Trump, November",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump praises army, rails against communism in US 250th anniversary speech"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 04 Jul 2026 07:19:57 +0000",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "Bessent brushes off critics of Trump's crypto haul",
+      "url": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
+      "snapshot": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. \"I don't think there's an appearance problem,\" Bessent told CBS News anchor Kelly O'Grady in an exclusive... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Bessent, Trump, Treasury Secretary Scott Bessent, President Trump",
+        "Specific figures mentioned: $1 billion",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Bessent brushes off critics of Trump's crypto haul"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Bessent.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 04 Jul 2026 00:00:00 +0000",
-      "age_hours": "5.54",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": "DEVELOPING"
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 03 Jul 2026 20:03:43 +0000",
+      "age_hours": "12.20",
+      "freshness_status": "stale",
+      "editorial_score": "89",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
