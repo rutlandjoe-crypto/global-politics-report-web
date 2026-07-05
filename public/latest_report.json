@@ -3,52 +3,22 @@
   "vertical": "Politics",
   "headline": "Trump touts American \"golden age\", attacks communism in July 4th speech",
   "snapshot": "In a speech delayed by a two-hour evacuation of the National Mall due to severe weather, President Trump mixed politics with history. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-07-05 06:55:40 AM ET",
-  "generated_at": "2026-07-05 06:55:40 AM ET",
+  "updated_at": "2026-07-05 08:07:17 AM ET",
+  "generated_at": "2026-07-05 08:07:17 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 27,
-    "editor_fresh_items": 72,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 123,
+    "total_items_checked": 149,
+    "live_fresh_items": 28,
+    "editor_fresh_items": 71,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 121,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-05 06:55:40 AM ET"
+    "last_checked": "2026-07-05 08:07:17 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "snapshot": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Millions, Khamenei, Trump",
-        "Specific figures mentioned: 28",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 05 Jul 2026 00:00:00 +0000",
-      "age_hours": "10.93",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Trump touts American \"golden age\", attacks communism in July 4th speech",
       "url": "https://www.cbsnews.com/news/trump-july-4-speech-washington-dc/",
@@ -74,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 02:13:42 -0400",
-      "age_hours": "4.70",
+      "age_hours": "5.89",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -104,7 +74,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 04 Jul 2026 21:04:06 -0400",
-      "age_hours": "9.86",
+      "age_hours": "11.05",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -134,9 +104,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 05 Jul 2026 08:06:15 +0000",
-      "age_hours": "2.82",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "86",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice",
+      "url": "https://thehill.com/homenews/administration/5953860-trump-fourth-july-speech-equal-justice/",
+      "snapshot": "President Trump on Saturday said in his Fourth of July speech on the National Mall that he \"wasn't treated that well\" in a reference to his legal battles and felony conviction as it relates to the American right to equal justice under the law. The remarks came while the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, July, American, President Trump",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 05 Jul 2026 11:51:34 +0000",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "75",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 05 Jul 2026 05:03:01 +0000",
-      "age_hours": "5.88",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 02:13:42 -0400",
-      "age_hours": "4.70",
+      "age_hours": "5.89",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -226,40 +226,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 04 Jul 2026 21:04:06 -0400",
-      "age_hours": "9.86",
+      "age_hours": "11.05",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "snapshot": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Millions, Khamenei, Trump",
-        "Specific figures mentioned: 28",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 05 Jul 2026 00:00:00 +0000",
-      "age_hours": "10.93",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
@@ -286,9 +256,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 05 Jul 2026 08:06:15 +0000",
-      "age_hours": "2.82",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "86",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice",
+      "url": "https://thehill.com/homenews/administration/5953860-trump-fourth-july-speech-equal-justice/",
+      "snapshot": "President Trump on Saturday said in his Fourth of July speech on the National Mall that he \"wasn't treated that well\" in a reference to his legal battles and felony conviction as it relates to the American right to equal justice under the law. The remarks came while the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, July, American, President Trump",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 05 Jul 2026 11:51:34 +0000",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "75",
       "urgency": ""
     },
     {
@@ -316,7 +316,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 05 Jul 2026 05:03:01 +0000",
-      "age_hours": "5.88",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Trump touts American \"golden age\", attacks communism in July 4th speech",
     "Trump delivers ominous warning to political opponents at America 250 event",
-    "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting"
+    "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 02:13:42 -0400",
-      "age_hours": "4.70",
+      "age_hours": "5.89",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -383,40 +383,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 04 Jul 2026 21:04:06 -0400",
-      "age_hours": "9.86",
+      "age_hours": "11.05",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "snapshot": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Iran, Millions, Khamenei, Trump",
-        "Specific figures mentioned: 28",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iran war live"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 05 Jul 2026 00:00:00 +0000",
-      "age_hours": "10.93",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
@@ -443,9 +413,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 05 Jul 2026 08:06:15 +0000",
-      "age_hours": "2.82",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "86",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice",
+      "url": "https://thehill.com/homenews/administration/5953860-trump-fourth-july-speech-equal-justice/",
+      "snapshot": "President Trump on Saturday said in his Fourth of July speech on the National Mall that he \"wasn't treated that well\" in a reference to his legal battles and felony conviction as it relates to the American right to equal justice under the law. The remarks came while the... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, July, American, President Trump",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 05 Jul 2026 11:51:34 +0000",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "75",
       "urgency": ""
     },
     {
@@ -473,21 +473,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 05 Jul 2026 05:03:01 +0000",
-      "age_hours": "5.88",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
     },
     {
-      "headline": "Trump pardons 11 people ahead of July 4, including Clean Air Act violators: What to know",
-      "url": "https://thehill.com/homenews/administration/5953633-trump-grants-clemency-allies/",
-      "snapshot": "President Donald Trump pardoned 11 people on Friday, including nine people who were convicted of violating a federal air pollution law, a White House official confirmed. It's the latest acts of clemency granted by Trump in his second term, following a slate of pardons granted... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump lauds Americans in storm-delayed 250th anniversary speech",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss",
+      "snapshot": "President Trump has praised Americans as 'a historic and heroic people', in a speech on the nation's 250th anniversary. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, July, Clean Air Act, President Donald Trump",
-        "Specific figures mentioned: 11, 4",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Trump, Americans, President Trump",
+        "Specific figures mentioned: 250",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pardons 11 people ahead of July 4, including Clean Air Act violators"
+        "Story focus: Trump lauds Americans in storm-delayed 250th anniversary speech"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -500,12 +500,12 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 04 Jul 2026 20:14:13 +0000",
-      "age_hours": "14.69",
-      "freshness_status": "stale",
-      "editorial_score": "69",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 05 Jul 2026 05:18:14 +0000",
+      "age_hours": "6.82",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
