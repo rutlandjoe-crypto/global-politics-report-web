@@ -3,22 +3,52 @@
   "vertical": "Politics",
   "headline": "Hegseth goes quiet on Iran as Trump pursues diplomacy",
   "snapshot": "Defense Secretary Pete Hegseth was the Trump administration's frontman for waging war on Iran during weeks of kinetic operations aimed at decimating its nuclear threat. Since President Trump signed a memorandum of understanding (MOU) with Iran to end the war, without securing... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-07-05 05:46:06 PM ET",
-  "generated_at": "2026-07-05 05:46:06 PM ET",
+  "updated_at": "2026-07-05 06:45:15 PM ET",
+  "generated_at": "2026-07-05 06:45:15 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 145,
-    "live_fresh_items": 60,
-    "editor_fresh_items": 98,
+    "live_fresh_items": 61,
+    "editor_fresh_items": 96,
     "public_fallback_items": 145,
-    "stale_or_blocked_items": 85,
+    "stale_or_blocked_items": 84,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-05 05:46:06 PM ET"
+    "last_checked": "2026-07-05 06:45:15 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+      "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
+      "snapshot": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Palestinian, West Bank, Israel, Israeli",
+        "Specific figures mentioned: 16",
+        "Politics desk signal: gaza",
+        "Story focus: Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+        "Source context: Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Palestinian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 05 Jul 2026 22:03:52 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Hegseth goes quiet on Iran as Trump pursues diplomacy",
       "url": "https://thehill.com/policy/defense/5953404-hegseth-trump-iran-war-quiet/",
@@ -44,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 05 Jul 2026 16:01:17 +0000",
-      "age_hours": "5.75",
+      "age_hours": "6.73",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": ""
@@ -74,39 +104,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 05 Jul 2026 18:28:22 +0000",
-      "age_hours": "3.30",
+      "age_hours": "4.28",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Albanian court frees protesters who rallied against Kushner-linked resort",
-      "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-      "snapshot": "The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Albanian, Kushner, US President Donald Trump",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Albanian court frees protesters who rallied against Kushner-linked resort",
-        "Source context: The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Albanian.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 05 Jul 2026 20:50:58 +0000",
-      "age_hours": "0.92",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 10:13:06 -0400",
-      "age_hours": "7.55",
+      "age_hours": "8.54",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 15:45:53 -0400",
-      "age_hours": "2.00",
+      "age_hours": "2.99",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -196,10 +196,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 05 Jul 2026 16:01:17 +0000",
-      "age_hours": "5.75",
+      "age_hours": "6.73",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": ""
+    },
+    {
+      "headline": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+      "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
+      "snapshot": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Palestinian, West Bank, Israel, Israeli",
+        "Specific figures mentioned: 16",
+        "Politics desk signal: gaza",
+        "Story focus: Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+        "Source context: Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Palestinian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 05 Jul 2026 22:03:52 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
@@ -226,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 10:13:06 -0400",
-      "age_hours": "7.55",
+      "age_hours": "8.54",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -256,51 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 15:45:53 -0400",
-      "age_hours": "2.00",
+      "age_hours": "2.99",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Florida Republican: Trump should seek to 'normalize' longtime US immigrants",
-      "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
-      "snapshot": "Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to \"normalize\" longtime U.S. immigrants as his administration grapples with the fallout of mass deportation efforts. \"I don't think anybody wants criminals to be here. I don't think anybody wants gang... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+      "url": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit/",
+      "snapshot": "President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for the annual NATO summit. The president leaves for Ankara on Monday evening for the two-day summit, according to a senior White... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Florida Republican, Trump, US, Florida Rep",
+        "Key people or organizations: Trump, Zelensky, Syrian, NATO Summit",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Florida Republican",
-        "Source context: Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to \"normalize\" longtime U.S. immigrants as his administration grapples..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Florida Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 05 Jul 2026 21:05:22 +0000",
-      "age_hours": "0.68",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump thanks FIFA as it suspends Balogun's ban for Belgium World Cup match",
-      "url": "https://www.aljazeera.com/sports/2026/7/5/trump-thanks-fifa-as-it-suspends-baloguns-ban-for-belgium-world-cup-match?traffic_source=rss",
-      "snapshot": "Balogun was set to miss USA vs Belgium last 16 tie but will now be available as FIFA surprisingly ends his suspension. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, FIFA, Balogun, Belgium World Cup",
-        "Specific figures mentioned: 16",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump thanks FIFA as it suspends Balogun's ban for Belgium World Cup match"
+        "Story focus: Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+        "Source context: President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -312,20 +312,20 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 05 Jul 2026 18:28:22 +0000",
-      "age_hours": "3.30",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 05 Jul 2026 21:39:10 +0000",
+      "age_hours": "1.10",
       "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "DEVELOPING"
+      "editorial_score": "91",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Hegseth goes quiet on Iran as Trump pursues diplomacy",
-    "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
-    "Trump touts American \"golden age,\" attacks communism in July 4th speech"
+    "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+    "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war"
   ],
   "sections": [
     {
@@ -353,10 +353,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 05 Jul 2026 16:01:17 +0000",
-      "age_hours": "5.75",
+      "age_hours": "6.73",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": ""
+    },
+    {
+      "headline": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+      "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
+      "snapshot": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Palestinian, West Bank, Israel, Israeli",
+        "Specific figures mentioned: 16",
+        "Politics desk signal: gaza",
+        "Story focus: Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+        "Source context: Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Palestinian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 05 Jul 2026 22:03:52 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
@@ -383,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 10:13:06 -0400",
-      "age_hours": "7.55",
+      "age_hours": "8.54",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -413,21 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 05 Jul 2026 15:45:53 -0400",
-      "age_hours": "2.00",
+      "age_hours": "2.99",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Florida Republican: Trump should seek to 'normalize' longtime US immigrants",
-      "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
-      "snapshot": "Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to \"normalize\" longtime U.S. immigrants as his administration grapples with the fallout of mass deportation efforts. \"I don't think anybody wants criminals to be here. I don't think anybody wants gang... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+      "url": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit/",
+      "snapshot": "President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for the annual NATO summit. The president leaves for Ankara on Monday evening for the two-day summit, according to a senior White... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Florida Republican, Trump, US, Florida Rep",
+        "Key people or organizations: Trump, Zelensky, Syrian, NATO Summit",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Florida Republican",
-        "Source context: Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to \"normalize\" longtime U.S. immigrants as his administration grapples..."
+        "Story focus: Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+        "Source context: President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,15 +465,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Florida Republican.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 05 Jul 2026 21:05:22 +0000",
-      "age_hours": "0.68",
+      "published": "Sun, 05 Jul 2026 21:39:10 +0000",
+      "age_hours": "1.10",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -473,39 +503,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 05 Jul 2026 18:28:22 +0000",
-      "age_hours": "3.30",
+      "age_hours": "4.28",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Albanian court frees protesters who rallied against Kushner-linked resort",
-      "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-      "snapshot": "The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Albanian, Kushner, US President Donald Trump",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Albanian court frees protesters who rallied against Kushner-linked resort",
-        "Source context: The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Albanian.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 05 Jul 2026 20:50:58 +0000",
-      "age_hours": "0.92",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": "DEVELOPING"
     }
   ],
