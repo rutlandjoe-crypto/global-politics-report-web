@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Johnson: House GOP 'looking at all angles' after Supreme Court birthright citizenship ruling",
   "snapshot": "Speaker Mike Johnson (R-La.) said Sunday his conference is \"looking at all angles\" to legislatively address birthright citizenship, after the Supreme Court ruled against President Trump's executive order restricting it. \"We do need to address it. We're looking at all angles,\"... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-07-06 03:26:10 PM ET",
-  "generated_at": "2026-07-06 03:26:10 PM ET",
+  "updated_at": "2026-07-06 05:17:20 PM ET",
+  "generated_at": "2026-07-06 05:17:20 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 142,
-    "live_fresh_items": 64,
-    "editor_fresh_items": 111,
-    "public_fallback_items": 140,
-    "stale_or_blocked_items": 78,
+    "total_items_checked": 138,
+    "live_fresh_items": 70,
+    "editor_fresh_items": 116,
+    "public_fallback_items": 137,
+    "stale_or_blocked_items": 68,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-06 03:26:10 PM ET"
+    "last_checked": "2026-07-06 05:17:20 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 06 Jul 2026 16:10:09 +0000",
-      "age_hours": "3.27",
+      "age_hours": "5.12",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -72,21 +72,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 13:05:07 +0000",
-      "age_hours": "6.35",
+      "age_hours": "8.20",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
+      "headline": "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
+      "url": "https://www.cbsnews.com/news/judge-alleged-d-c-pipe-bomber-brian-cole-jr-isnt-covered-by-trump-jan-6-pardons/",
+      "snapshot": "A judge ruled that that President Trump's pardons of the rioters were \"expressly limited\" to those who were convicted of their actions on Jan. 6, 2021, and did not apply to Brian Cole Jr. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, Jan, President Trump",
+        "Specific figures mentioned: 6, 2021",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 06 Jul 2026 17:00:01 -0400",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
       "headline": "Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
       "url": "https://thehill.com/homenews/house/5955458-comer-criticizes-senate-republicans-save-act/",
-      "snapshot": "House Oversight Chair James Comer (R-Ky.) on Sunday bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Act. \"Are you that weak? That's my question to any Republican senator — are you that weak? To where if you vote... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "snapshot": "On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Act. \"Are you that weak? That's my question to any Republican senator — are you... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
         "Key people or organizations: Comer, Republicans, Trump, SAVE America Act",
         "Politics desk signal: senate, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
-        "Source context: House Oversight Chair James Comer (R-Ky.) on Sunday bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility..."
+        "Source context: On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -102,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 19:00:51 +0000",
-      "age_hours": "0.42",
+      "age_hours": "2.27",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -132,39 +162,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 12:28:29 -0400",
-      "age_hours": "2.96",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-      "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
-      "snapshot": "President Lula accuses Jair Bolsonaro's son, now a presidential hopeful, of helping trigger proposed US tariffs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Flavio Bolsonaro, Trump, Brazil, President Lula",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-        "Source context: President Lula accuses Jair Bolsonaro's son, now a presidential hopeful, of helping trigger proposed US tariffs. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Flavio Bolsonaro.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 06 Jul 2026 18:02:40 +0000",
-      "age_hours": "1.39",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
       "urgency": ""
     }
   ],
@@ -194,21 +194,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 13:05:07 +0000",
-      "age_hours": "6.35",
+      "age_hours": "8.20",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
+      "headline": "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
+      "url": "https://www.cbsnews.com/news/judge-alleged-d-c-pipe-bomber-brian-cole-jr-isnt-covered-by-trump-jan-6-pardons/",
+      "snapshot": "A judge ruled that that President Trump's pardons of the rioters were \"expressly limited\" to those who were convicted of their actions on Jan. 6, 2021, and did not apply to Brian Cole Jr. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, Jan, President Trump",
+        "Specific figures mentioned: 6, 2021",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 06 Jul 2026 17:00:01 -0400",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
       "headline": "Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
       "url": "https://thehill.com/homenews/house/5955458-comer-criticizes-senate-republicans-save-act/",
-      "snapshot": "House Oversight Chair James Comer (R-Ky.) on Sunday bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Act. \"Are you that weak? That's my question to any Republican senator — are you that weak? To where if you vote... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "snapshot": "On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Act. \"Are you that weak? That's my question to any Republican senator — are you... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
         "Key people or organizations: Comer, Republicans, Trump, SAVE America Act",
         "Politics desk signal: senate, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
-        "Source context: House Oversight Chair James Comer (R-Ky.) on Sunday bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility..."
+        "Source context: On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -224,7 +254,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 19:00:51 +0000",
-      "age_hours": "0.42",
+      "age_hours": "2.27",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -254,7 +284,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 12:28:29 -0400",
-      "age_hours": "2.96",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -284,46 +314,16 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 06 Jul 2026 18:02:40 +0000",
-      "age_hours": "1.39",
+      "age_hours": "3.24",
       "freshness_status": "fresh",
       "editorial_score": "86",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
-      "url": "https://www.cbsnews.com/news/trump-putin-zelenskyy-war-ukraine-russia-call/",
-      "snapshot": "President Trump held separate calls with Russia's Vladimir Putin and Ukraine's Volodymyr Zelenskyy to discuss ending the war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Putin, Zelenskyy, Ukraine",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
-        "Source context: President Trump held separate calls with Russia's Vladimir Putin and Ukraine's Volodymyr Zelenskyy to discuss ending the war. The election angle is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 05 Jul 2026 10:13:06 -0400",
-      "age_hours": "29.22",
-      "freshness_status": "stale",
-      "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Johnson: House GOP 'looking at all angles' after Supreme Court birthright citizenship ruling",
-    "Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
-    "Trump says he saw play that led to red card and asked FIFA president for review"
+    "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
+    "Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act"
   ],
   "sections": [
     {
@@ -351,21 +351,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 13:05:07 +0000",
-      "age_hours": "6.35",
+      "age_hours": "8.20",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
+      "headline": "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
+      "url": "https://www.cbsnews.com/news/judge-alleged-d-c-pipe-bomber-brian-cole-jr-isnt-covered-by-trump-jan-6-pardons/",
+      "snapshot": "A judge ruled that that President Trump's pardons of the rioters were \"expressly limited\" to those who were convicted of their actions on Jan. 6, 2021, and did not apply to Brian Cole Jr. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, Jan, President Trump",
+        "Specific figures mentioned: 6, 2021",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 06 Jul 2026 17:00:01 -0400",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
       "headline": "Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
       "url": "https://thehill.com/homenews/house/5955458-comer-criticizes-senate-republicans-save-act/",
-      "snapshot": "House Oversight Chair James Comer (R-Ky.) on Sunday bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Act. \"Are you that weak? That's my question to any Republican senator — are you that weak? To where if you vote... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "snapshot": "On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility (SAVE America) Act. \"Are you that weak? That's my question to any Republican senator — are you... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
         "Key people or organizations: Comer, Republicans, Trump, SAVE America Act",
         "Politics desk signal: senate, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
-        "Source context: House Oversight Chair James Comer (R-Ky.) on Sunday bashed his counterparts in the Senate for not supporting the Safeguard American Voter Eligibility..."
+        "Source context: On Sunday, House Oversight and Government Reform Committee Chair James Comer (R-Ky.) bashed his counterparts in the Senate for not supporting the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -381,7 +411,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 19:00:51 +0000",
-      "age_hours": "0.42",
+      "age_hours": "2.27",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -411,7 +441,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 12:28:29 -0400",
-      "age_hours": "2.96",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -441,7 +471,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 06 Jul 2026 18:02:40 +0000",
-      "age_hours": "1.39",
+      "age_hours": "3.24",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -469,40 +499,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 06 Jul 2026 16:10:09 +0000",
-      "age_hours": "3.27",
+      "age_hours": "5.12",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "From the courthouse to the White House: How corruption becomes routine",
-      "url": "https://thehill.com/opinion/criminal-justice/5954044-trump-presidency-corruption-chicago-court/",
-      "snapshot": "It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of President Donald Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: White House, It, Cook County, President Donald Trump",
-        "Politics desk signal: house, white house, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: From the courthouse to the White House",
-        "Source context: It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 06 Jul 2026 15:30:00 +0000",
-      "age_hours": "3.94",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
