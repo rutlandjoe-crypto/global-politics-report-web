@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate Democrats push Trump-affiliated companies for answers about IRS settlement",
-  "snapshot": "Democratic Sens. Elizabeth Warren, Chuck Schumer and Ron Wyden are probing whether companies affiliated with the Trump family are included in a DOJ deal to resolve a lawsuit brought by President Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-07 07:43:32 AM ET",
-  "generated_at": "2026-07-07 07:43:32 AM ET",
+  "headline": "Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+  "snapshot": "A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit challenging her removal in the wake of a Supreme Court ruling that strengthened the president's firing power. Jocelyn Samuels... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-07-07 09:58:34 AM ET",
+  "generated_at": "2026-07-07 09:58:34 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 143,
-    "live_fresh_items": 40,
-    "editor_fresh_items": 102,
+    "total_items_checked": 142,
+    "live_fresh_items": 54,
+    "editor_fresh_items": 115,
     "public_fallback_items": 141,
-    "stale_or_blocked_items": 103,
+    "stale_or_blocked_items": 88,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-07 07:43:32 AM ET"
+    "last_checked": "2026-07-07 09:58:34 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+      "url": "https://thehill.com/regulation/court-battles/5956513-samuels-lawsuit-trump-eeoc/",
+      "snapshot": "A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit challenging her removal in the wake of a Supreme Court ruling that strengthened the president's firing power. Jocelyn Samuels... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Former EEOC, Supreme Court, Democratic, Equal Employment Opportunity Commission",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+        "Source context: A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Former EEOC.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 07 Jul 2026 13:44:29 +0000",
+      "age_hours": "0.23",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Senate Democrats push Trump-affiliated companies for answers about IRS settlement",
       "url": "https://www.cbsnews.com/news/senate-democrats-push-trump-affiliated-companies-irs-settlement/",
@@ -44,51 +74,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 07 Jul 2026 06:00:15 -0400",
-      "age_hours": "1.72",
+      "age_hours": "3.97",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "NATO summit in Turkey begins as Trump pushes for more defense spending",
+      "headline": "France appeals court opens door for Le Pen presidential run, with ankle tag",
+      "url": "https://www.aljazeera.com/news/2026/7/7/france-appeals-court-opens-door-for-le-pen-presidential-run-with-ankle-tag?traffic_source=rss",
+      "snapshot": "Paris appeals court rules Le Pen guilty of misusing public funds but reduces the ban on her holding public office. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: France, Le Pen, Paris",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: France appeals court opens door for Le Pen presidential run, with ankle tag",
+        "Source context: Paris appeals court rules Le Pen guilty of misusing public funds but reduces the ban on her holding public office. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving France.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 07 Jul 2026 12:22:17 +0000",
+      "age_hours": "1.60",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump lauds Erdogan, announces lifting sanctions as NATO summit begins",
       "url": "https://www.cbsnews.com/news/nato-summit-begins-in-turkey-as-trump-pushes-for-more-defense-spending/",
       "snapshot": "Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to boost defense spending. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: NATO, Turkey, Trump, Amid",
+        "Key people or organizations: Trump, Erdogan, NATO, Amid",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: NATO summit in Turkey begins as Trump pushes for more defense spending",
+        "Story focus: Trump lauds Erdogan, announces lifting sanctions as NATO summit begins",
         "Source context: Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving NATO.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 07:11:16 -0400",
-      "age_hours": "0.54",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit",
-      "url": "https://thehill.com/policy/defense/5955871-trump-turkey-nato-f35-pushback/",
-      "snapshot": "As President Trump heads to Turkey for this week's NATO summit, he is facing growing pushback from Republicans — and Israel — who oppose admitting the ally back into the F-35 fighter jet program, as long as Ankara holds Russian air defense systems. The president has said he is... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Turkey, NATO, As President Trump",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -101,77 +131,77 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 07 Jul 2026 09:54:58 -0400",
+      "age_hours": "0.06",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "White House on Balogun birthright citizenship: 'Asinine observation'",
+      "url": "https://thehill.com/homenews/administration/5956310-white-house-fifa-folarin-balogun-birthright-citizenship-world-cup/",
+      "snapshot": "White House deputy press secretary Kush Desai on Monday dismissed the irony of President Trump advocating for FIFA to overturn the suspension of U.S. soccer player Folarin Balogun, given the 25-year-old would not be able to compete for the U.S. men's team without birthright... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: White House, Balogun, Asinine, Kush Desai",
+        "Specific figures mentioned: 25",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House on Balogun birthright citizenship"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.72",
+      "published": "Tue, 07 Jul 2026 13:21:04 +0000",
+      "age_hours": "0.62",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "The Memo: Sea of tensions await Trump at NATO summit",
-      "url": "https://thehill.com/homenews/administration/5955905-trump-nato-summit-tensions/",
-      "snapshot": "President Trump will arrive in Ankara on Tuesday for a NATO summit that comes amid a sea of troubles for the alliance. The war in Ukraine has no end in sight, regardless of Trump's campaign-trail pledge to solve it on Day One when he returned to power. Washington's... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
-      "key_data": [
-        "Key people or organizations: Sea, Trump, NATO, President Trump",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The Memo",
-        "Source context: President Trump will arrive in Ankara on Tuesday for a NATO summit that comes amid a sea of troubles for the alliance. The war in Ukraine has no end..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Sea.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.72",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "NATO's Turkiye summit live: Trump, leaders to meet in Ankara",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-      "snapshot": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: NATO, Turkiye, Trump, Ankara",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: NATO's Turkiye summit live",
-        "Source context: Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving NATO.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 07 Jul 2026 07:09:27 +0000",
-      "age_hours": "4.57",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+      "url": "https://thehill.com/regulation/court-battles/5956513-samuels-lawsuit-trump-eeoc/",
+      "snapshot": "A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit challenging her removal in the wake of a Supreme Court ruling that strengthened the president's firing power. Jocelyn Samuels... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Former EEOC, Supreme Court, Democratic, Equal Employment Opportunity Commission",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+        "Source context: A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Former EEOC.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 07 Jul 2026 13:44:29 +0000",
+      "age_hours": "0.23",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "BREAKING"
+    },
+    {
       "headline": "Senate Democrats push Trump-affiliated companies for answers about IRS settlement",
       "url": "https://www.cbsnews.com/news/senate-democrats-push-trump-affiliated-companies-irs-settlement/",
       "snapshot": "Democratic Sens. Elizabeth Warren, Chuck Schumer and Ron Wyden are probing whether companies affiliated with the Trump family are included in a DOJ deal to resolve a lawsuit brought by President Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -196,51 +226,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 07 Jul 2026 06:00:15 -0400",
-      "age_hours": "1.72",
+      "age_hours": "3.97",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "NATO summit in Turkey begins as Trump pushes for more defense spending",
+      "headline": "Trump lauds Erdogan, announces lifting sanctions as NATO summit begins",
       "url": "https://www.cbsnews.com/news/nato-summit-begins-in-turkey-as-trump-pushes-for-more-defense-spending/",
       "snapshot": "Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to boost defense spending. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: NATO, Turkey, Trump, Amid",
+        "Key people or organizations: Trump, Erdogan, NATO, Amid",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: NATO summit in Turkey begins as Trump pushes for more defense spending",
+        "Story focus: Trump lauds Erdogan, announces lifting sanctions as NATO summit begins",
         "Source context: Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving NATO.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 07:11:16 -0400",
-      "age_hours": "0.54",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit",
-      "url": "https://thehill.com/policy/defense/5955871-trump-turkey-nato-f35-pushback/",
-      "snapshot": "As President Trump heads to Turkey for this week's NATO summit, he is facing growing pushback from Republicans — and Israel — who oppose admitting the ally back into the F-35 fighter jet program, as long as Ankara holds Russian air defense systems. The president has said he is... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Turkey, NATO, As President Trump",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -253,24 +253,24 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.72",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 07 Jul 2026 09:54:58 -0400",
+      "age_hours": "0.06",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "The Memo: Sea of tensions await Trump at NATO summit",
-      "url": "https://thehill.com/homenews/administration/5955905-trump-nato-summit-tensions/",
-      "snapshot": "President Trump will arrive in Ankara on Tuesday for a NATO summit that comes amid a sea of troubles for the alliance. The war in Ukraine has no end in sight, regardless of Trump's campaign-trail pledge to solve it on Day One when he returned to power. Washington's... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
+      "headline": "White House on Balogun birthright citizenship: 'Asinine observation'",
+      "url": "https://thehill.com/homenews/administration/5956310-white-house-fifa-folarin-balogun-birthright-citizenship-world-cup/",
+      "snapshot": "White House deputy press secretary Kush Desai on Monday dismissed the irony of President Trump advocating for FIFA to overturn the suspension of U.S. soccer player Folarin Balogun, given the 25-year-old would not be able to compete for the U.S. men's team without birthright... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Sea, Trump, NATO, President Trump",
-        "Politics desk signal: election, campaign, ukraine",
+        "Key people or organizations: White House, Balogun, Asinine, Kush Desai",
+        "Specific figures mentioned: 25",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The Memo",
-        "Source context: President Trump will arrive in Ankara on Tuesday for a NATO summit that comes amid a sea of troubles for the alliance. The war in Ukraine has no end..."
+        "Story focus: White House on Balogun birthright citizenship"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -278,28 +278,28 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Sea.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.72",
+      "published": "Tue, 07 Jul 2026 13:21:04 +0000",
+      "age_hours": "0.62",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "NATO's Turkiye summit live: Trump, leaders to meet in Ankara",
+      "headline": "LIVE: Trump, NATO leaders in Turkiye's Ankara as defence tops summit agenda",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
       "snapshot": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: NATO, Turkiye, Trump, Ankara",
+        "Key people or organizations: LIVE, Trump, NATO, Turkiye",
         "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: NATO's Turkiye summit live",
+        "Story focus: LIVE",
         "Source context: Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital. The election angle is whether..."
       ],
       "why_it_matters": [
@@ -308,7 +308,7 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving NATO.",
+        "Watch for the next official action involving LIVE.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
@@ -316,18 +316,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 07 Jul 2026 07:09:27 +0000",
-      "age_hours": "4.57",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
     "Senate Democrats push Trump-affiliated companies for answers about IRS settlement",
-    "NATO summit in Turkey begins as Trump pushes for more defense spending",
-    "Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit"
+    "Trump lauds Erdogan, announces lifting sanctions as NATO summit begins"
   ],
   "sections": [
+    {
+      "headline": "Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+      "url": "https://thehill.com/regulation/court-battles/5956513-samuels-lawsuit-trump-eeoc/",
+      "snapshot": "A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit challenging her removal in the wake of a Supreme Court ruling that strengthened the president's firing power. Jocelyn Samuels... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Former EEOC, Supreme Court, Democratic, Equal Employment Opportunity Commission",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
+        "Source context: A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Former EEOC.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 07 Jul 2026 13:44:29 +0000",
+      "age_hours": "0.23",
+      "freshness_status": "fresh",
+      "editorial_score": "141",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Senate Democrats push Trump-affiliated companies for answers about IRS settlement",
       "url": "https://www.cbsnews.com/news/senate-democrats-push-trump-affiliated-companies-irs-settlement/",
@@ -353,20 +383,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 07 Jul 2026 06:00:15 -0400",
-      "age_hours": "1.72",
+      "age_hours": "3.97",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "NATO summit in Turkey begins as Trump pushes for more defense spending",
+      "headline": "Trump lauds Erdogan, announces lifting sanctions as NATO summit begins",
       "url": "https://www.cbsnews.com/news/nato-summit-begins-in-turkey-as-trump-pushes-for-more-defense-spending/",
       "snapshot": "Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to boost defense spending. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: NATO, Turkey, Trump, Amid",
+        "Key people or organizations: Trump, Erdogan, NATO, Amid",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: NATO summit in Turkey begins as Trump pushes for more defense spending",
+        "Story focus: Trump lauds Erdogan, announces lifting sanctions as NATO summit begins",
         "Source context: Amid simmering tensions between the U.S. and some NATO allies over Iran and Greenland, President Trump will continue to press other countries to..."
       ],
       "why_it_matters": [
@@ -375,29 +405,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving NATO.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 07:11:16 -0400",
-      "age_hours": "0.54",
+      "published": "Tue, 07 Jul 2026 09:54:58 -0400",
+      "age_hours": "0.06",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit",
-      "url": "https://thehill.com/policy/defense/5955871-trump-turkey-nato-f35-pushback/",
-      "snapshot": "As President Trump heads to Turkey for this week's NATO summit, he is facing growing pushback from Republicans — and Israel — who oppose admitting the ally back into the F-35 fighter jet program, as long as Ankara holds Russian air defense systems. The president has said he is... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "White House on Balogun birthright citizenship: 'Asinine observation'",
+      "url": "https://thehill.com/homenews/administration/5956310-white-house-fifa-folarin-balogun-birthright-citizenship-world-cup/",
+      "snapshot": "White House deputy press secretary Kush Desai on Monday dismissed the irony of President Trump advocating for FIFA to overturn the suspension of U.S. soccer player Folarin Balogun, given the 25-year-old would not be able to compete for the U.S. men's team without birthright... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Turkey, NATO, As President Trump",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: White House, Balogun, Asinine, Kush Desai",
+        "Specific figures mentioned: 25",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, eyeing F-35 reversal for Turkey, faces growing pressure ahead of NATO summit"
+        "Story focus: White House on Balogun birthright citizenship"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,58 +435,28 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.72",
+      "published": "Tue, 07 Jul 2026 13:21:04 +0000",
+      "age_hours": "0.62",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "The Memo: Sea of tensions await Trump at NATO summit",
-      "url": "https://thehill.com/homenews/administration/5955905-trump-nato-summit-tensions/",
-      "snapshot": "President Trump will arrive in Ankara on Tuesday for a NATO summit that comes amid a sea of troubles for the alliance. The war in Ukraine has no end in sight, regardless of Trump's campaign-trail pledge to solve it on Day One when he returned to power. Washington's... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
-      "key_data": [
-        "Key people or organizations: Sea, Trump, NATO, President Trump",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The Memo",
-        "Source context: President Trump will arrive in Ankara on Tuesday for a NATO summit that comes amid a sea of troubles for the alliance. The war in Ukraine has no end..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Sea.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.72",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "NATO's Turkiye summit live: Trump, leaders to meet in Ankara",
+      "headline": "LIVE: Trump, NATO leaders in Turkiye's Ankara as defence tops summit agenda",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
       "snapshot": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: NATO, Turkiye, Trump, Ankara",
+        "Key people or organizations: LIVE, Trump, NATO, Turkiye",
         "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: NATO's Turkiye summit live",
+        "Story focus: LIVE",
         "Source context: Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital. The election angle is whether..."
       ],
       "why_it_matters": [
@@ -465,7 +465,7 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving NATO.",
+        "Watch for the next official action involving LIVE.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
@@ -473,40 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 07 Jul 2026 07:09:27 +0000",
-      "age_hours": "4.57",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
     },
     {
-      "headline": "What does Trump want from his NATO allies?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss",
-      "snapshot": "What does Trump want from his NATO allies? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "France appeals court opens door for Le Pen presidential run, with ankle tag",
+      "url": "https://www.aljazeera.com/news/2026/7/7/france-appeals-court-opens-door-for-le-pen-presidential-run-with-ankle-tag?traffic_source=rss",
+      "snapshot": "Paris appeals court rules Le Pen guilty of misusing public funds but reduces the ban on her holding public office. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, NATO",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: France, Le Pen, Paris",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What does Trump want from his NATO allies?",
-        "Source context: What does Trump want from his NATO allies? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond..."
+        "Story focus: France appeals court opens door for Le Pen presidential run, with ankle tag",
+        "Source context: Paris appeals court rules Le Pen guilty of misusing public funds but reduces the ban on her holding public office. The broader significance is..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving France.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 07 Jul 2026 11:23:53 +0000",
-      "age_hours": "0.33",
+      "published": "Tue, 07 Jul 2026 12:22:17 +0000",
+      "age_hours": "1.60",
       "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
+      "editorial_score": "64",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
