@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Former EEOC commissioner drops lawsuit challenging dismissal after Supreme Court ruling",
   "snapshot": "A former Democratic appointee to the Equal Employment Opportunity Commission (EEOC) who was fired by President Trump last year has dropped a lawsuit challenging her removal in the wake of a Supreme Court ruling that strengthened the president's firing power. Jocelyn Samuels... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-07-07 06:02:53 PM ET",
-  "generated_at": "2026-07-07 06:02:53 PM ET",
+  "updated_at": "2026-07-07 07:42:15 PM ET",
+  "generated_at": "2026-07-07 07:42:15 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 108,
-    "editor_fresh_items": 136,
+    "live_fresh_items": 116,
+    "editor_fresh_items": 138,
     "public_fallback_items": 145,
-    "stale_or_blocked_items": 38,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-07 06:02:53 PM ET"
+    "last_checked": "2026-07-07 07:42:15 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,19 +44,50 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 07 Jul 2026 13:44:29 +0000",
-      "age_hours": "8.31",
+      "age_hours": "9.96",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
     },
     {
-      "headline": "US says strikes launched as explosions heard in southern Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
-      "snapshot": "This is a breaking news story. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+      "url": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
+      "snapshot": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: US, Iran",
-        "Story focus: US says strikes launched as explosions heard in southern Iran",
-        "Source context: This is a breaking news story. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S...."
+        "Key people or organizations: Canadian, OpenAI, ChatGPT, Lawsuit",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+        "Source context: Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Canadian.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 07 Jul 2026 20:14:53 +0000",
+      "age_hours": "3.46",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Russian missiles strike Ukraine's capital, Kyiv, for third time in a week",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "snapshot": "The attacks have triggered fires in two districts of Kyiv, according to the city's mayor. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Russian, Ukraine, Kyiv",
+        "Politics desk signal: ukraine",
+        "Story focus: Russian missiles strike Ukraine's capital, Kyiv, for third time in a week",
+        "Source context: The attacks have triggered fires in two districts of Kyiv, according to the city's mayor. The geopolitical angle is how the decision affects..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -64,18 +95,18 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Russian.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 07 Jul 2026 21:21:16 +0000",
-      "age_hours": "0.69",
+      "published": "Tue, 07 Jul 2026 22:53:35 +0000",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump Jan. 6 pardons don't cover pipe bomb suspect: Judge",
@@ -102,7 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 07 Jul 2026 16:12:13 +0000",
-      "age_hours": "5.84",
+      "age_hours": "7.50",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "BREAKING"
@@ -131,38 +162,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 16:34:03 -0400",
-      "age_hours": "1.48",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate GOP leaders say they've talked with McConnell by phone",
-      "url": "https://www.cbsnews.com/news/mitch-mcconnell-health-gop-senators/",
-      "snapshot": "The top Republicans in the Senate spoke with the Kentucky Republican by phone this week, according to their spokespeople. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate GOP, McConnell, Republicans, Senate",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate GOP leaders say they've talked with McConnell by phone",
-        "Source context: The top Republicans in the Senate spoke with the Kentucky Republican by phone this week, according to their spokespeople. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 14:29:03 -0400",
-      "age_hours": "3.56",
+      "published": "Tue, 07 Jul 2026 19:28:22 -0400",
+      "age_hours": "0.23",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -194,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 07 Jul 2026 13:44:29 +0000",
-      "age_hours": "8.31",
+      "age_hours": "9.96",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -224,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 07 Jul 2026 16:12:13 +0000",
-      "age_hours": "5.84",
+      "age_hours": "7.50",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "BREAKING"
@@ -253,8 +254,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 16:34:03 -0400",
-      "age_hours": "1.48",
+      "published": "Tue, 07 Jul 2026 19:28:22 -0400",
+      "age_hours": "0.23",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -283,41 +284,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 14:29:03 -0400",
-      "age_hours": "3.56",
+      "published": "Tue, 07 Jul 2026 18:44:28 -0400",
+      "age_hours": "0.96",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says will lift sanctions on Turkiye, 'consider' selling F-35s",
-      "url": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss",
-      "snapshot": "Announcement during Ankara meeting suggests pivot in US policy, despite opposition from Israel. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Russian missiles strike Ukraine's capital, Kyiv, for third time in a week",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "snapshot": "The attacks have triggered fires in two districts of Kyiv, according to the city's mayor. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Turkiye, Announcement, Ankara",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says will lift sanctions on Turkiye, 'consider' selling F-35s"
+        "Key people or organizations: Russian, Ukraine, Kyiv",
+        "Politics desk signal: ukraine",
+        "Story focus: Russian missiles strike Ukraine's capital, Kyiv, for third time in a week",
+        "Source context: The attacks have triggered fires in two districts of Kyiv, according to the city's mayor. The geopolitical angle is how the decision affects..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Russian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 07 Jul 2026 16:11:34 +0000",
-      "age_hours": "5.86",
+      "published": "Tue, 07 Jul 2026 22:53:35 +0000",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 07 Jul 2026 13:44:29 +0000",
-      "age_hours": "8.31",
+      "age_hours": "9.96",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -381,7 +381,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 07 Jul 2026 16:12:13 +0000",
-      "age_hours": "5.84",
+      "age_hours": "7.50",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "BREAKING"
@@ -410,8 +410,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 16:34:03 -0400",
-      "age_hours": "1.48",
+      "published": "Tue, 07 Jul 2026 19:28:22 -0400",
+      "age_hours": "0.23",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -440,50 +440,21 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 07 Jul 2026 14:29:03 -0400",
-      "age_hours": "3.56",
+      "published": "Tue, 07 Jul 2026 18:44:28 -0400",
+      "age_hours": "0.96",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says will lift sanctions on Turkiye, 'consider' selling F-35s",
-      "url": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss",
-      "snapshot": "Announcement during Ankara meeting suggests pivot in US policy, despite opposition from Israel. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Russian missiles strike Ukraine's capital, Kyiv, for third time in a week",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "snapshot": "The attacks have triggered fires in two districts of Kyiv, according to the city's mayor. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Turkiye, Announcement, Ankara",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says will lift sanctions on Turkiye, 'consider' selling F-35s"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 07 Jul 2026 16:11:34 +0000",
-      "age_hours": "5.86",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    },
-    {
-      "headline": "US says strikes launched as explosions heard in southern Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
-      "snapshot": "This is a breaking news story. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: US, Iran",
-        "Story focus: US says strikes launched as explosions heard in southern Iran",
-        "Source context: This is a breaking news story. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S...."
+        "Key people or organizations: Russian, Ukraine, Kyiv",
+        "Politics desk signal: ukraine",
+        "Story focus: Russian missiles strike Ukraine's capital, Kyiv, for third time in a week",
+        "Source context: The attacks have triggered fires in two districts of Kyiv, according to the city's mayor. The geopolitical angle is how the decision affects..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -491,18 +462,48 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Russian.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 07 Jul 2026 21:21:16 +0000",
-      "age_hours": "0.69",
+      "published": "Tue, 07 Jul 2026 22:53:35 +0000",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+      "url": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
+      "snapshot": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Canadian, OpenAI, ChatGPT, Lawsuit",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+        "Source context: Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Canadian.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 07 Jul 2026 20:14:53 +0000",
+      "age_hours": "3.46",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "BREAKING"
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
