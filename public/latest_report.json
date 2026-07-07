@@ -3,22 +3,52 @@
   "vertical": "Politics",
   "headline": "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
   "snapshot": "A judge ruled that that President Trump's pardons of the rioters were \"expressly limited\" to those who were convicted of their actions on Jan. 6, 2021, and did not apply to Brian Cole Jr. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-06 09:30:46 PM ET",
-  "generated_at": "2026-07-06 09:30:46 PM ET",
+  "updated_at": "2026-07-07 01:54:42 AM ET",
+  "generated_at": "2026-07-07 01:54:42 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 141,
-    "live_fresh_items": 67,
-    "editor_fresh_items": 119,
+    "live_fresh_items": 51,
+    "editor_fresh_items": 105,
     "public_fallback_items": 140,
-    "stale_or_blocked_items": 74,
+    "stale_or_blocked_items": 90,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-06 09:30:46 PM ET"
+    "last_checked": "2026-07-07 01:54:42 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "When is deadline for Democrats to replace Platner in Maine Senate race?",
+      "url": "https://thehill.com/homenews/campaign/5955769-graham-platner-accused-sexual-assault/",
+      "snapshot": "Despite winning the Democratic primary in Maine last month, Senate candidate Graham Platner could be off the ballot in November after a Politico story published on Monday detailed a woman accusing him of sexual assault. July 13 is the deadline for Platner to withdraw from the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Democrats, Platner, Maine Senate, Despite",
+        "Specific figures mentioned: 13",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: When is deadline for Democrats to replace Platner in Maine Senate race?"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 06 Jul 2026 21:37:34 +0000",
+      "age_hours": "8.28",
+      "freshness_status": "fresh",
+      "editorial_score": "97",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Gambian mothers fear for their daughters as court weighs FGM ban",
       "url": "https://www.aljazeera.com/news/2026/7/7/gambian-mothers-fear-for-their-daughters-as-court-weighs-fgm-ban?traffic_source=rss",
@@ -44,10 +74,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 07 Jul 2026 00:20:34 +0000",
-      "age_hours": "1.17",
+      "age_hours": "5.57",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US budget slashing risks losing global scientific edge to China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss",
+      "snapshot": "Experts warn that cuts to US research funding is weakening the country's scientific and technological capacity. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: US, China, Experts",
+        "Politics desk signal: budget, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US budget slashing risks losing global scientific edge to China",
+        "Source context: Experts warn that cuts to US research funding is weakening the country's scientific and technological capacity. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 07 Jul 2026 04:41:31 +0000",
+      "age_hours": "1.22",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": "WATCH"
     },
     {
       "headline": "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
@@ -74,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 17:00:01 -0400",
-      "age_hours": "4.51",
+      "age_hours": "8.91",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -104,69 +164,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 19:00:51 +0000",
-      "age_hours": "6.50",
+      "age_hours": "10.90",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "From the courthouse to the White House: How corruption becomes routine",
-      "url": "https://thehill.com/opinion/criminal-justice/5954044-trump-presidency-corruption-chicago-court/",
-      "snapshot": "It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of President Donald Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: White House, It, Cook County, President Donald Trump",
-        "Politics desk signal: house, white house, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: From the courthouse to the White House",
-        "Source context: It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 06 Jul 2026 15:30:00 +0000",
-      "age_hours": "10.01",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says he saw play that led to red card and asked FIFA president for review",
-      "url": "https://www.cbsnews.com/news/trump-says-he-saw-world-cup-play-balogun-suspension-spoke-fifa-president/",
-      "snapshot": "President Trump said he spoke to FIFA President Gianni Infantino after seeing the play and asked for a review. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, FIFA, President Trump, FIFA President Gianni Infantino",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he saw play that led to red card and asked FIFA president for review",
-        "Source context: President Trump said he spoke to FIFA President Gianni Infantino after seeing the play and asked for a review. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 06 Jul 2026 18:39:00 -0400",
-      "age_hours": "2.86",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 17:00:01 -0400",
-      "age_hours": "4.51",
+      "age_hours": "8.91",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -226,40 +226,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 19:00:51 +0000",
-      "age_hours": "6.50",
+      "age_hours": "10.90",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "From the courthouse to the White House: How corruption becomes routine",
-      "url": "https://thehill.com/opinion/criminal-justice/5954044-trump-presidency-corruption-chicago-court/",
-      "snapshot": "It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of President Donald Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "When is deadline for Democrats to replace Platner in Maine Senate race?",
+      "url": "https://thehill.com/homenews/campaign/5955769-graham-platner-accused-sexual-assault/",
+      "snapshot": "Despite winning the Democratic primary in Maine last month, Senate candidate Graham Platner could be off the ballot in November after a Politico story published on Monday detailed a woman accusing him of sexual assault. July 13 is the deadline for Platner to withdraw from the... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: White House, It, Cook County, President Donald Trump",
-        "Politics desk signal: house, white house, court",
+        "Key people or organizations: Democrats, Platner, Maine Senate, Despite",
+        "Specific figures mentioned: 13",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: From the courthouse to the White House",
-        "Source context: It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of..."
+        "Story focus: When is deadline for Democrats to replace Platner in Maine Senate race?"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 06 Jul 2026 15:30:00 +0000",
-      "age_hours": "10.01",
+      "published": "Mon, 06 Jul 2026 21:37:34 +0000",
+      "age_hours": "8.28",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
+      "editorial_score": "97",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump says he saw play that led to red card and asked FIFA president for review",
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 18:39:00 -0400",
-      "age_hours": "2.86",
+      "age_hours": "7.26",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 07 Jul 2026 00:20:34 +0000",
-      "age_hours": "1.17",
+      "age_hours": "5.57",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Judge says alleged D.C. pipe bomber isn't covered by Trump's Jan. 6 pardons",
     "Comer knocks 'weak' Republicans who won't support Trump-backed SAVE America Act",
-    "From the courthouse to the White House: How corruption becomes routine"
+    "When is deadline for Democrats to replace Platner in Maine Senate race?"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 17:00:01 -0400",
-      "age_hours": "4.51",
+      "age_hours": "8.91",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -383,40 +383,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 06 Jul 2026 19:00:51 +0000",
-      "age_hours": "6.50",
+      "age_hours": "10.90",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "From the courthouse to the White House: How corruption becomes routine",
-      "url": "https://thehill.com/opinion/criminal-justice/5954044-trump-presidency-corruption-chicago-court/",
-      "snapshot": "It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of President Donald Trump. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "When is deadline for Democrats to replace Platner in Maine Senate race?",
+      "url": "https://thehill.com/homenews/campaign/5955769-graham-platner-accused-sexual-assault/",
+      "snapshot": "Despite winning the Democratic primary in Maine last month, Senate candidate Graham Platner could be off the ballot in November after a Politico story published on Monday detailed a woman accusing him of sexual assault. July 13 is the deadline for Platner to withdraw from the... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: White House, It, Cook County, President Donald Trump",
-        "Politics desk signal: house, white house, court",
+        "Key people or organizations: Democrats, Platner, Maine Senate, Despite",
+        "Specific figures mentioned: 13",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: From the courthouse to the White House",
-        "Source context: It took decades before I appreciated the cultural connection between tawdry corruption in a Cook County courtroom and the breathtaking venality of..."
+        "Story focus: When is deadline for Democrats to replace Platner in Maine Senate race?"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 06 Jul 2026 15:30:00 +0000",
-      "age_hours": "10.01",
+      "published": "Mon, 06 Jul 2026 21:37:34 +0000",
+      "age_hours": "8.28",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
+      "editorial_score": "97",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump says he saw play that led to red card and asked FIFA president for review",
@@ -443,7 +443,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 06 Jul 2026 18:39:00 -0400",
-      "age_hours": "2.86",
+      "age_hours": "7.26",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -473,40 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 07 Jul 2026 00:20:34 +0000",
-      "age_hours": "1.17",
+      "age_hours": "5.57",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "US Supreme Court clears path for Texas to enforce app age verification law",
-      "url": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
-      "snapshot": "Parents must approve app downloads for minors as legal fight over Texas age verification law continues. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "US budget slashing risks losing global scientific edge to China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss",
+      "snapshot": "Experts warn that cuts to US research funding is weakening the country's scientific and technological capacity. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: US Supreme Court, Texas, Parents",
-        "Politics desk signal: supreme court, court",
+        "Key people or organizations: US, China, Experts",
+        "Politics desk signal: budget, china",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US Supreme Court clears path for Texas to enforce app age verification law",
-        "Source context: Parents must approve app downloads for minors as legal fight over Texas age verification law continues. The broader significance is institutional:..."
+        "Story focus: US budget slashing risks losing global scientific edge to China",
+        "Source context: Experts warn that cuts to US research funding is weakening the country's scientific and technological capacity. The key question is leverage: the..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 06 Jul 2026 20:06:22 +0000",
-      "age_hours": "5.41",
+      "published": "Tue, 07 Jul 2026 04:41:31 +0000",
+      "age_hours": "1.22",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "64",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
