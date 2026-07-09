@@ -3,46 +3,106 @@
   "vertical": "Politics",
   "headline": "Renewed war with Iran threatens to derail congressional agenda",
   "snapshot": "The faltering of President Trump's peace deal with Iran throws a wrench into Congress's agenda as Republican leaders' plans to pass a defense authorization bill and an emergency supplemental defense spending package face new hurdles amid threats of new U.S. strikes on Iran.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-09 01:09:50 PM ET",
-  "generated_at": "2026-07-09 01:09:50 PM ET",
+  "updated_at": "2026-07-09 03:15:44 PM ET",
+  "generated_at": "2026-07-09 03:15:44 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 80,
+    "live_fresh_items": 97,
     "editor_fresh_items": 139,
     "public_fallback_items": 142,
-    "stale_or_blocked_items": 68,
+    "stale_or_blocked_items": 51,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-09 01:09:50 PM ET"
+    "last_checked": "2026-07-09 03:15:44 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "EU lawmakers call for probe into FIFA's Infantino",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eu-lawmakers-call-for-probe-into-fifas-infantino?traffic_source=rss",
-      "snapshot": "EU lawmakers call for probe into FIFA's Infantino",
+      "headline": "Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+      "url": "https://www.cbsnews.com/news/doj-abbott-labs-adam-schiff/",
+      "snapshot": "Sen. Adam Schiff is launching a congressional inquiry into why the Justice Department shuttered a long-running criminal investigation into bacteria-tainted infant formula. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: EU, FIFA, Infantino",
-        "Story focus: EU lawmakers call for probe into FIFA's Infantino",
-        "Source context: EU lawmakers call for probe into FIFA's Infantino"
+        "Key people or organizations: Schiff, DOJ, Sen, Adam Schiff",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+        "Source context: Sen. Adam Schiff is launching a congressional inquiry into why the Justice Department shuttered a long-running criminal investigation into..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving EU.",
+        "Watch for the next official action involving Schiff.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 09 Jul 2026 15:05:05 -0400",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Israeli attacks on Gaza kill 10 people in 24 hours despite 'ceasefire'",
+      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
+      "snapshot": "World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israeli, Gaza, World Central Kitchen",
+        "Specific figures mentioned: 10, 24",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli attacks on Gaza kill 10 people in 24 hours despite 'ceasefire'",
+        "Source context: World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 09 Jul 2026 13:11:54 +0000",
-      "age_hours": "3.97",
+      "published": "Thu, 09 Jul 2026 18:04:00 +0000",
+      "age_hours": "1.20",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "US expands Iran strikes Iran hitting fishing piers near nuclear plant",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
+      "snapshot": "Iranian officials say US strikes across Bushehr province damaged civilian infrastructure The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Iran, Iranian, Bushehr",
+        "Story focus: US expands Iran strikes Iran hitting fishing piers near nuclear plant",
+        "Source context: Iranian officials say US strikes across Bushehr province damaged civilian infrastructure The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 09 Jul 2026 18:17:55 +0000",
+      "age_hours": "0.96",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -72,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "age_hours": "7.16",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
@@ -102,69 +162,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 09 Jul 2026 08:57:38 -0400",
-      "age_hours": "4.20",
+      "age_hours": "6.30",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "1 year after Supreme Court limited broad injunctions, groups see shifting landscape",
-      "url": "https://www.cbsnews.com/news/supreme-court-nationwide-injunctions-trump-legal-challenges/",
-      "snapshot": "More than one year after the Supreme Court restricted the use of nationwide injunctions, groups challenging President Trump's agenda have relied on other mechanisms to broadly block his policies. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, More, President Trump",
-        "Specific figures mentioned: 1",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 1 year after Supreme Court limited broad injunctions, groups see shifting landscape"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 09 Jul 2026 06:00:15 -0400",
-      "age_hours": "7.16",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says he'll ask Supreme Court to rehear birthright citizenship case",
-      "url": "https://thehill.com/homenews/administration/5960418-donald-trump-supreme-court-birthright-citizenship/",
-      "snapshot": "President Trump said Wednesday he will ask the Supreme Court to rehear a case on the legality of his executive order restricting birthright citizenship, after the high court struck down the policy last week. \"I will be asking for a Rehearing by the United States Supreme Court,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Trump, Supreme Court, President Trump, Rehearing",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he'll ask Supreme Court to rehear birthright citizenship case",
-        "Source context: President Trump said Wednesday he will ask the Supreme Court to rehear a case on the legality of his executive order restricting birthright..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 09 Jul 2026 12:26:10 +0000",
-      "age_hours": "4.73",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     }
   ],
@@ -194,9 +194,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "age_hours": "7.16",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+      "url": "https://www.cbsnews.com/news/doj-abbott-labs-adam-schiff/",
+      "snapshot": "Sen. Adam Schiff is launching a congressional inquiry into why the Justice Department shuttered a long-running criminal investigation into bacteria-tainted infant formula. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Schiff, DOJ, Sen, Adam Schiff",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+        "Source context: Sen. Adam Schiff is launching a congressional inquiry into why the Justice Department shuttered a long-running criminal investigation into..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Schiff.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 09 Jul 2026 15:05:05 -0400",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": "DEVELOPING"
     },
     {
@@ -224,37 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 09 Jul 2026 08:57:38 -0400",
-      "age_hours": "4.20",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "1 year after Supreme Court limited broad injunctions, groups see shifting landscape",
-      "url": "https://www.cbsnews.com/news/supreme-court-nationwide-injunctions-trump-legal-challenges/",
-      "snapshot": "More than one year after the Supreme Court restricted the use of nationwide injunctions, groups challenging President Trump's agenda have relied on other mechanisms to broadly block his policies. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, More, President Trump",
-        "Specific figures mentioned: 1",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 1 year after Supreme Court limited broad injunctions, groups see shifting landscape"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 09 Jul 2026 06:00:15 -0400",
-      "age_hours": "7.16",
+      "age_hours": "6.30",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -284,46 +284,46 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 09 Jul 2026 12:26:10 +0000",
-      "age_hours": "4.73",
+      "age_hours": "6.83",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
-      "url": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss",
-      "snapshot": "While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Israeli attacks on Gaza kill 10 people in 24 hours despite 'ceasefire'",
+      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
+      "snapshot": "World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Spain, NATO, Ukraine",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump targets Spain, NATO backs Ukraine",
-        "Source context: While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity. The election angle is whether..."
+        "Key people or organizations: Israeli, Gaza, World Central Kitchen",
+        "Specific figures mentioned: 10, 24",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli attacks on Gaza kill 10 people in 24 hours despite 'ceasefire'",
+        "Source context: World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israeli.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 09 Jul 2026 13:02:47 +0000",
-      "age_hours": "4.12",
+      "published": "Thu, 09 Jul 2026 18:04:00 +0000",
+      "age_hours": "1.20",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "76",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
     "Renewed war with Iran threatens to derail congressional agenda",
-    "Graham Platner suspends Maine Senate campaign after sexual assault allegation",
-    "1 year after Supreme Court limited broad injunctions, groups see shifting landscape"
+    "Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+    "Graham Platner suspends Maine Senate campaign after sexual assault allegation"
   ],
   "sections": [
     {
@@ -351,9 +351,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "age_hours": "7.16",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "119",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+      "url": "https://www.cbsnews.com/news/doj-abbott-labs-adam-schiff/",
+      "snapshot": "Sen. Adam Schiff is launching a congressional inquiry into why the Justice Department shuttered a long-running criminal investigation into bacteria-tainted infant formula. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Schiff, DOJ, Sen, Adam Schiff",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Schiff launches inquiry into DOJ's closure of tainted baby formula probe",
+        "Source context: Sen. Adam Schiff is launching a congressional inquiry into why the Justice Department shuttered a long-running criminal investigation into..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Schiff.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 09 Jul 2026 15:05:05 -0400",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": "DEVELOPING"
     },
     {
@@ -381,37 +411,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 09 Jul 2026 08:57:38 -0400",
-      "age_hours": "4.20",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "1 year after Supreme Court limited broad injunctions, groups see shifting landscape",
-      "url": "https://www.cbsnews.com/news/supreme-court-nationwide-injunctions-trump-legal-challenges/",
-      "snapshot": "More than one year after the Supreme Court restricted the use of nationwide injunctions, groups challenging President Trump's agenda have relied on other mechanisms to broadly block his policies. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, More, President Trump",
-        "Specific figures mentioned: 1",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 1 year after Supreme Court limited broad injunctions, groups see shifting landscape"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 09 Jul 2026 06:00:15 -0400",
-      "age_hours": "7.16",
+      "age_hours": "6.30",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -441,65 +441,65 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 09 Jul 2026 12:26:10 +0000",
-      "age_hours": "4.73",
+      "age_hours": "6.83",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
-      "url": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss",
-      "snapshot": "While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Israeli attacks on Gaza kill 10 people in 24 hours despite 'ceasefire'",
+      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
+      "snapshot": "World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Spain, NATO, Ukraine",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump targets Spain, NATO backs Ukraine",
-        "Source context: While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity. The election angle is whether..."
+        "Key people or organizations: Israeli, Gaza, World Central Kitchen",
+        "Specific figures mentioned: 10, 24",
+        "Politics desk signal: gaza",
+        "Story focus: Israeli attacks on Gaza kill 10 people in 24 hours despite 'ceasefire'",
+        "Source context: World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 09 Jul 2026 13:02:47 +0000",
-      "age_hours": "4.12",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
-    },
-    {
-      "headline": "EU lawmakers call for probe into FIFA's Infantino",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eu-lawmakers-call-for-probe-into-fifas-infantino?traffic_source=rss",
-      "snapshot": "EU lawmakers call for probe into FIFA's Infantino",
-      "key_data": [
-        "Key people or organizations: EU, FIFA, Infantino",
-        "Story focus: EU lawmakers call for probe into FIFA's Infantino",
-        "Source context: EU lawmakers call for probe into FIFA's Infantino"
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving EU.",
+        "Watch for the next official action involving Israeli.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 09 Jul 2026 13:11:54 +0000",
-      "age_hours": "3.97",
+      "published": "Thu, 09 Jul 2026 18:04:00 +0000",
+      "age_hours": "1.20",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "US expands Iran strikes Iran hitting fishing piers near nuclear plant",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
+      "snapshot": "Iranian officials say US strikes across Bushehr province damaged civilian infrastructure The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Iran, Iranian, Bushehr",
+        "Story focus: US expands Iran strikes Iran hitting fishing piers near nuclear plant",
+        "Source context: Iranian officials say US strikes across Bushehr province damaged civilian infrastructure The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 09 Jul 2026 18:17:55 +0000",
+      "age_hours": "0.96",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
