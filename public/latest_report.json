@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Watch: Trump slams Iran, calls regime \"scum\" and says he's unsure about deal as NATO summit wraps",
-  "snapshot": "President Trump on Wednesday spoke to reporters about a number of topics as the NATO summit in Turkey came to an end. At one point, Mr. Trump said he wasn't sure if he wants to make a deal with Iran and threatened new strikes against the nation. Watch the full press conference. The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-07-08 07:56:43 PM ET",
-  "generated_at": "2026-07-08 07:56:43 PM ET",
+  "headline": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+  "snapshot": "The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks began to end the war. President Trump also escalated his rhetoric, declaring the ceasefire over. Ed O'Keefe reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
+  "updated_at": "2026-07-08 09:45:50 PM ET",
+  "generated_at": "2026-07-08 09:45:50 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 114,
-    "editor_fresh_items": 149,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 36,
+    "live_fresh_items": 109,
+    "editor_fresh_items": 143,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-08 07:56:43 PM ET"
+    "last_checked": "2026-07-08 09:45:50 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,40 +44,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 08 Jul 2026 22:52:48 +0000",
-      "age_hours": "1.07",
+      "age_hours": "2.88",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Deadly strikes in Gaza leave 5 dead, children wounded",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
-      "snapshot": "Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+      "url": "https://www.cbsnews.com/video/us-announces-new-strikes-iran-trump-declares-ceasefire-over/",
+      "snapshot": "The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks began to end the war. President Trump also escalated his rhetoric, declaring the ceasefire over. Ed O'Keefe reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
       "key_data": [
-        "Key people or organizations: Deadly, Gaza, Israeli, Khan Yunis",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: gaza",
-        "Story focus: Deadly strikes in Gaza leave 5 dead, children wounded",
-        "Source context: Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children. The geopolitical angle is how the decision..."
+        "Key people or organizations: Iran, Trump, President Trump, Ed",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+        "Source context: The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Deadly.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 08 Jul 2026 21:12:50 +0000",
-      "age_hours": "2.73",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 08 Jul 2026 20:07:41 -0400",
+      "age_hours": "1.64",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "BREAKING"
+      "editorial_score": "122",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "US military resumes Iran strikes as Trump ramps up rhetoric",
@@ -104,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 08 Jul 2026 20:41:21 +0000",
-      "age_hours": "3.26",
+      "age_hours": "5.07",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 08 Jul 2026 13:46:52 -0400",
-      "age_hours": "6.16",
+      "age_hours": "7.98",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 08 Jul 2026 17:10:13 +0000",
-      "age_hours": "6.77",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -172,6 +172,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+      "url": "https://www.cbsnews.com/video/us-announces-new-strikes-iran-trump-declares-ceasefire-over/",
+      "snapshot": "The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks began to end the war. President Trump also escalated his rhetoric, declaring the ceasefire over. Ed O'Keefe reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, President Trump, Ed",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+        "Source context: The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 08 Jul 2026 20:07:41 -0400",
+      "age_hours": "1.64",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Watch: Trump slams Iran, calls regime \"scum\" and says he's unsure about deal as NATO summit wraps",
       "url": "https://www.cbsnews.com/video/trump-calls-iranians-evil-sick-people-at-nato-press-conference/",
       "snapshot": "President Trump on Wednesday spoke to reporters about a number of topics as the NATO summit in Turkey came to an end. At one point, Mr. Trump said he wasn't sure if he wants to make a deal with Iran and threatened new strikes against the nation. Watch the full press conference. The election angle is whether this changes voter attention, campaign strategy or party messaging...",
@@ -196,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 08 Jul 2026 13:46:52 -0400",
-      "age_hours": "6.16",
+      "age_hours": "7.98",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
@@ -226,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 08 Jul 2026 17:10:13 +0000",
-      "age_hours": "6.77",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -256,7 +286,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 08 Jul 2026 20:41:21 +0000",
-      "age_hours": "3.26",
+      "age_hours": "5.07",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
@@ -286,48 +316,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 08 Jul 2026 22:52:48 +0000",
-      "age_hours": "1.07",
+      "age_hours": "2.88",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump reacts to rising gas prices after he announces Iran ceasefire is over",
-      "url": "https://www.cbsnews.com/video/trump-takes-questions-on-iran-war-at-nato-summit/",
-      "snapshot": "President Trump addressed the war with Iran and the country's nuclear weapons program while taking questions from reporters on Wednesday at the NATO summit in Turkey. Mr. Trump claimed Iran's nuclear material is so far underground that no country besides the U.S. would be able... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump, NATO",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump reacts to rising gas prices after he announces Iran ceasefire is over",
-        "Source context: President Trump addressed the war with Iran and the country's nuclear weapons program while taking questions from reporters on Wednesday at the NATO..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 08 Jul 2026 12:00:15 -0400",
-      "age_hours": "7.94",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
     }
   ],
   "key_storylines": [
+    "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
     "Watch: Trump slams Iran, calls regime \"scum\" and says he's unsure about deal as NATO summit wraps",
-    "Moore praises Trump Accounts: 'This is actually a smart policy'",
-    "US military resumes Iran strikes as Trump ramps up rhetoric"
+    "Moore praises Trump Accounts: 'This is actually a smart policy'"
   ],
   "sections": [
+    {
+      "headline": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+      "url": "https://www.cbsnews.com/video/us-announces-new-strikes-iran-trump-declares-ceasefire-over/",
+      "snapshot": "The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks began to end the war. President Trump also escalated his rhetoric, declaring the ceasefire over. Ed O'Keefe reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
+      "key_data": [
+        "Key people or organizations: Iran, Trump, President Trump, Ed",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+        "Source context: The U.S. military announced new strikes against Iran on Wednesday, marking the second straight night of fighting and the worst escalation since talks..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 08 Jul 2026 20:07:41 -0400",
+      "age_hours": "1.64",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Watch: Trump slams Iran, calls regime \"scum\" and says he's unsure about deal as NATO summit wraps",
       "url": "https://www.cbsnews.com/video/trump-calls-iranians-evil-sick-people-at-nato-press-conference/",
@@ -353,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 08 Jul 2026 13:46:52 -0400",
-      "age_hours": "6.16",
+      "age_hours": "7.98",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
@@ -383,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 08 Jul 2026 17:10:13 +0000",
-      "age_hours": "6.77",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -413,7 +443,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 08 Jul 2026 20:41:21 +0000",
-      "age_hours": "3.26",
+      "age_hours": "5.07",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
@@ -443,70 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 08 Jul 2026 22:52:48 +0000",
-      "age_hours": "1.07",
+      "age_hours": "2.88",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump reacts to rising gas prices after he announces Iran ceasefire is over",
-      "url": "https://www.cbsnews.com/video/trump-takes-questions-on-iran-war-at-nato-summit/",
-      "snapshot": "President Trump addressed the war with Iran and the country's nuclear weapons program while taking questions from reporters on Wednesday at the NATO summit in Turkey. Mr. Trump claimed Iran's nuclear material is so far underground that no country besides the U.S. would be able... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump to ask US Supreme Court for new hearing on birthright citizenship",
+      "url": "https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss",
+      "snapshot": "In June, the Supreme Court ruled against Trump's order to end birthright citizenship for individuals born in the US. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump, NATO",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, US Supreme Court, In June, Supreme Court",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump reacts to rising gas prices after he announces Iran ceasefire is over",
-        "Source context: President Trump addressed the war with Iran and the country's nuclear weapons program while taking questions from reporters on Wednesday at the NATO..."
+        "Story focus: Trump to ask US Supreme Court for new hearing on birthright citizenship",
+        "Source context: In June, the Supreme Court ruled against Trump's order to end birthright citizenship for individuals born in the US. The broader significance is..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 08 Jul 2026 12:00:15 -0400",
-      "age_hours": "7.94",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Deadly strikes in Gaza leave 5 dead, children wounded",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
-      "snapshot": "Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Deadly, Gaza, Israeli, Khan Yunis",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: gaza",
-        "Story focus: Deadly strikes in Gaza leave 5 dead, children wounded",
-        "Source context: Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children. The geopolitical angle is how the decision..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Deadly.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 08 Jul 2026 21:12:50 +0000",
-      "age_hours": "2.73",
+      "published": "Thu, 09 Jul 2026 00:54:32 +0000",
+      "age_hours": "0.85",
       "freshness_status": "fresh",
       "editorial_score": "86",
-      "urgency": "BREAKING"
+      "urgency": ""
     }
   ],
   "editorial_brain": {
