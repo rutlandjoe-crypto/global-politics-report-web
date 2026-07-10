@@ -3,51 +3,22 @@
   "vertical": "Politics",
   "headline": "Top Democrats bash Trump over cryptocurrency income",
   "snapshot": "Top Senate Democrats slammed President Trump on Friday over the more than $1 billion in cryptocurrency-related income he reported last year, calling for investigations into the national security ramifications of the president's digital asset holdings. The administration... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-10 02:14:33 PM ET",
-  "generated_at": "2026-07-10 02:14:33 PM ET",
+  "updated_at": "2026-07-10 04:10:08 PM ET",
+  "generated_at": "2026-07-10 04:10:08 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 153,
-    "live_fresh_items": 78,
-    "editor_fresh_items": 147,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 75,
+    "live_fresh_items": 87,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 66,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-10 02:14:33 PM ET"
+    "last_checked": "2026-07-10 04:10:08 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Israeli drones strike Lebanon despite US-brokered framework deal",
-      "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
-      "snapshot": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon, US, Amnesty",
-        "Specific figures mentioned: 24",
-        "Story focus: Israeli drones strike Lebanon despite US-brokered framework deal",
-        "Source context: The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians. The geopolitical angle is..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 10 Jul 2026 14:35:36 +0000",
-      "age_hours": "3.65",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Top Democrats bash Trump over cryptocurrency income",
       "url": "https://thehill.com/homenews/senate/5962664-senate-dems-elizabeth-warren-richard-blumenthal-dick-durbin-gary-peters-donald-trump-crypto-criticism/",
@@ -73,9 +44,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 16:02:22 +0000",
-      "age_hours": "2.20",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "139",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Israel bans Jerusalem's grand mufti from Al-Aqsa Mosque for one week",
+      "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
+      "snapshot": "The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israel, Jerusalem, Al, Aqsa Mosque",
+        "Politics desk signal: gaza",
+        "Story focus: Israel bans Jerusalem's grand mufti from Al-Aqsa Mosque for one week",
+        "Source context: The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 10 Jul 2026 15:53:51 +0000",
+      "age_hours": "4.27",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -103,7 +103,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "age_hours": "5.74",
+      "age_hours": "7.67",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -133,7 +133,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 12:33:41 -0400",
-      "age_hours": "1.68",
+      "age_hours": "3.61",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -163,7 +163,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 14:08:43 -0400",
-      "age_hours": "0.10",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 16:02:22 +0000",
-      "age_hours": "2.20",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -225,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "age_hours": "5.74",
+      "age_hours": "7.67",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -255,7 +255,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 12:33:41 -0400",
-      "age_hours": "1.68",
+      "age_hours": "3.61",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -285,39 +285,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 14:08:43 -0400",
-      "age_hours": "0.10",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Israeli drones strike Lebanon despite US-brokered framework deal",
-      "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
-      "snapshot": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump refuses to sign US housing bill over voting act standoff",
+      "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss",
+      "snapshot": "The housing legislation will become US law at midnight with or without President Donald Trump's signature. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Israeli, Lebanon, US, Amnesty",
-        "Specific figures mentioned: 24",
-        "Story focus: Israeli drones strike Lebanon despite US-brokered framework deal",
-        "Source context: The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians. The geopolitical angle is..."
+        "Key people or organizations: Trump, US, President Donald Trump",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump refuses to sign US housing bill over voting act standoff",
+        "Source context: The housing legislation will become US law at midnight with or without President Donald Trump's signature. The key question is leverage: the next..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 10 Jul 2026 14:35:36 +0000",
-      "age_hours": "3.65",
+      "published": "Fri, 10 Jul 2026 15:17:42 +0000",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 16:02:22 +0000",
-      "age_hours": "2.20",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -381,7 +381,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "age_hours": "5.74",
+      "age_hours": "7.67",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
@@ -411,7 +411,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 12:33:41 -0400",
-      "age_hours": "1.68",
+      "age_hours": "3.61",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -441,39 +441,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 14:08:43 -0400",
-      "age_hours": "0.10",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
-    },
-    {
-      "headline": "Israeli drones strike Lebanon despite US-brokered framework deal",
-      "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
-      "snapshot": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon, US, Amnesty",
-        "Specific figures mentioned: 24",
-        "Story focus: Israeli drones strike Lebanon despite US-brokered framework deal",
-        "Source context: The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians. The geopolitical angle is..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 10 Jul 2026 14:35:36 +0000",
-      "age_hours": "3.65",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump refuses to sign US housing bill over voting act standoff",
@@ -499,10 +470,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 10 Jul 2026 15:17:42 +0000",
-      "age_hours": "2.95",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
+    },
+    {
+      "headline": "Israel bans Jerusalem's grand mufti from Al-Aqsa Mosque for one week",
+      "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
+      "snapshot": "The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Israel, Jerusalem, Al, Aqsa Mosque",
+        "Politics desk signal: gaza",
+        "Story focus: Israel bans Jerusalem's grand mufti from Al-Aqsa Mosque for one week",
+        "Source context: The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 10 Jul 2026 15:53:51 +0000",
+      "age_hours": "4.27",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
