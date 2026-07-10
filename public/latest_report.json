@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Top Democrats bash Trump over cryptocurrency income",
   "snapshot": "Top Senate Democrats slammed President Trump on Friday over the more than $1 billion in cryptocurrency-related income he reported last year, calling for investigations into the national security ramifications of the president's digital asset holdings. The administration... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-10 12:10:21 PM ET",
-  "generated_at": "2026-07-10 12:10:21 PM ET",
+  "updated_at": "2026-07-10 02:14:33 PM ET",
+  "generated_at": "2026-07-10 02:14:33 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 152,
-    "live_fresh_items": 65,
-    "editor_fresh_items": 145,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 87,
+    "total_items_checked": 153,
+    "live_fresh_items": 78,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 75,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-10 12:10:21 PM ET"
+    "last_checked": "2026-07-10 02:14:33 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 10 Jul 2026 14:35:36 +0000",
-      "age_hours": "1.58",
+      "age_hours": "3.65",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -73,7 +73,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 16:02:22 +0000",
-      "age_hours": "0.13",
+      "age_hours": "2.20",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -103,20 +103,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "age_hours": "3.67",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump not expected to veto housing bill, U.S. official says",
-      "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto/",
-      "snapshot": "President Trump said Friday he won't sign the law, but a U.S. official said he isn't expected to veto it either. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Appeals court temporarily blocks DOJ release of Biden tapes with biographer",
+      "url": "https://www.cbsnews.com/news/justice-department-biden-transcripts-recordings-biographer/",
+      "snapshot": "An appeals court blocked the Justice Department from disclosing transcripts and recordings of former President Joe Biden's discussions with his biographer for 10 days. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump",
+        "Key people or organizations: Appeals, DOJ, Biden, An",
+        "Specific figures mentioned: 10",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump not expected to veto housing bill, U.S. official says",
-        "Source context: President Trump said Friday he won't sign the law, but a U.S. official said he isn't expected to veto it either. The key question is leverage: the..."
+        "Story focus: Appeals court temporarily blocks DOJ release of Biden tapes with biographer"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 10 Jul 2026 12:33:41 -0400",
+      "age_hours": "1.68",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump admin. to back tariffs on Russian oil in effort to end Ukraine war, sources say",
+      "url": "https://www.cbsnews.com/news/trump-admin-to-support-heavy-tariffs-on-russian-oil-in-effort-to-end-ukraine-war/",
+      "snapshot": "The war in Ukraine is now in its fifth year. A bipartisan bill would impose heavy financial penalties on purchasers of Russian oil, The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Russian, Ukraine",
+        "Politics desk signal: tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump admin. to back tariffs on Russian oil in effort to end Ukraine war, sources say",
+        "Source context: The war in Ukraine is now in its fifth year. A bipartisan bill would impose heavy financial penalties on purchasers of Russian oil, The key question..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -131,40 +162,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 10 Jul 2026 11:43:01 -0400",
-      "age_hours": "0.46",
+      "published": "Fri, 10 Jul 2026 14:08:43 -0400",
+      "age_hours": "0.10",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
-      "url": "https://www.cbsnews.com/news/graham-platner-replacement-maine-democrats/",
-      "snapshot": "Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped out of the race following a sexual assault allegation. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Maine Senate, Graham Platner, Maine Democrats, GOP Sen",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
-        "Source context: Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Maine Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 10 Jul 2026 00:57:28 -0400",
-      "age_hours": "11.21",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "116",
       "urgency": ""
     }
   ],
@@ -194,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 16:02:22 +0000",
-      "age_hours": "0.13",
+      "age_hours": "2.20",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -224,20 +225,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "age_hours": "3.67",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump not expected to veto housing bill, U.S. official says",
-      "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto/",
-      "snapshot": "President Trump said Friday he won't sign the law, but a U.S. official said he isn't expected to veto it either. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Appeals court temporarily blocks DOJ release of Biden tapes with biographer",
+      "url": "https://www.cbsnews.com/news/justice-department-biden-transcripts-recordings-biographer/",
+      "snapshot": "An appeals court blocked the Justice Department from disclosing transcripts and recordings of former President Joe Biden's discussions with his biographer for 10 days. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump",
+        "Key people or organizations: Appeals, DOJ, Biden, An",
+        "Specific figures mentioned: 10",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump not expected to veto housing bill, U.S. official says",
-        "Source context: President Trump said Friday he won't sign the law, but a U.S. official said he isn't expected to veto it either. The key question is leverage: the..."
+        "Story focus: Appeals court temporarily blocks DOJ release of Biden tapes with biographer"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 10 Jul 2026 12:33:41 -0400",
+      "age_hours": "1.68",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump admin. to back tariffs on Russian oil in effort to end Ukraine war, sources say",
+      "url": "https://www.cbsnews.com/news/trump-admin-to-support-heavy-tariffs-on-russian-oil-in-effort-to-end-ukraine-war/",
+      "snapshot": "The war in Ukraine is now in its fifth year. A bipartisan bill would impose heavy financial penalties on purchasers of Russian oil, The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Russian, Ukraine",
+        "Politics desk signal: tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump admin. to back tariffs on Russian oil in effort to end Ukraine war, sources say",
+        "Source context: The war in Ukraine is now in its fifth year. A bipartisan bill would impose heavy financial penalties on purchasers of Russian oil, The key question..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -252,40 +284,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 10 Jul 2026 11:43:01 -0400",
-      "age_hours": "0.46",
+      "published": "Fri, 10 Jul 2026 14:08:43 -0400",
+      "age_hours": "0.10",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
-      "url": "https://www.cbsnews.com/news/graham-platner-replacement-maine-democrats/",
-      "snapshot": "Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped out of the race following a sexual assault allegation. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Maine Senate, Graham Platner, Maine Democrats, GOP Sen",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
-        "Source context: Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Maine Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 10 Jul 2026 00:57:28 -0400",
-      "age_hours": "11.21",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -312,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 10 Jul 2026 14:35:36 +0000",
-      "age_hours": "1.58",
+      "age_hours": "3.65",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -321,7 +323,7 @@
   "key_storylines": [
     "Top Democrats bash Trump over cryptocurrency income",
     "Trump fires election board Democrats",
-    "Trump not expected to veto housing bill, U.S. official says"
+    "Appeals court temporarily blocks DOJ release of Biden tapes with biographer"
   ],
   "sections": [
     {
@@ -349,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 16:02:22 +0000",
-      "age_hours": "0.13",
+      "age_hours": "2.20",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -379,20 +381,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 10 Jul 2026 12:30:03 +0000",
-      "age_hours": "3.67",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump not expected to veto housing bill, U.S. official says",
-      "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto/",
-      "snapshot": "President Trump said Friday he won't sign the law, but a U.S. official said he isn't expected to veto it either. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Appeals court temporarily blocks DOJ release of Biden tapes with biographer",
+      "url": "https://www.cbsnews.com/news/justice-department-biden-transcripts-recordings-biographer/",
+      "snapshot": "An appeals court blocked the Justice Department from disclosing transcripts and recordings of former President Joe Biden's discussions with his biographer for 10 days. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump",
+        "Key people or organizations: Appeals, DOJ, Biden, An",
+        "Specific figures mentioned: 10",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump not expected to veto housing bill, U.S. official says",
-        "Source context: President Trump said Friday he won't sign the law, but a U.S. official said he isn't expected to veto it either. The key question is leverage: the..."
+        "Story focus: Appeals court temporarily blocks DOJ release of Biden tapes with biographer"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 10 Jul 2026 12:33:41 -0400",
+      "age_hours": "1.68",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump admin. to back tariffs on Russian oil in effort to end Ukraine war, sources say",
+      "url": "https://www.cbsnews.com/news/trump-admin-to-support-heavy-tariffs-on-russian-oil-in-effort-to-end-ukraine-war/",
+      "snapshot": "The war in Ukraine is now in its fifth year. A bipartisan bill would impose heavy financial penalties on purchasers of Russian oil, The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Russian, Ukraine",
+        "Politics desk signal: tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump admin. to back tariffs on Russian oil in effort to end Ukraine war, sources say",
+        "Source context: The war in Ukraine is now in its fifth year. A bipartisan bill would impose heavy financial penalties on purchasers of Russian oil, The key question..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -407,40 +440,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 10 Jul 2026 11:43:01 -0400",
-      "age_hours": "0.46",
+      "published": "Fri, 10 Jul 2026 14:08:43 -0400",
+      "age_hours": "0.10",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
-      "url": "https://www.cbsnews.com/news/graham-platner-replacement-maine-democrats/",
-      "snapshot": "Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped out of the race following a sexual assault allegation. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Maine Senate, Graham Platner, Maine Democrats, GOP Sen",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
-        "Source context: Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Maine Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 10 Jul 2026 00:57:28 -0400",
-      "age_hours": "11.21",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -467,7 +470,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 10 Jul 2026 14:35:36 +0000",
-      "age_hours": "1.58",
+      "age_hours": "3.65",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -496,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 10 Jul 2026 15:17:42 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.95",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
