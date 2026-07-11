@@ -1,83 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump election commission firings spark interference concerns ahead of midterms",
-  "snapshot": "President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White House is looking to meddle ahead of the November midterms. Trump fired the remaining two Democratic members on the U.S. Election... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-11 05:36:29 PM ET",
-  "generated_at": "2026-07-11 05:36:29 PM ET",
+  "headline": "Judge awards Hunter Biden $1.7M in defamation suit against ex-Overstock CEO",
+  "snapshot": "Hunter Biden, the son of former President Biden, was awarded $1.7 million in damages on Friday as part of a defamation lawsuit against former Overstock.com CEO Patrick Byrne. Byrne, a known denier of Biden's victory over President Trump in the 2020 presidential election,... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+  "updated_at": "2026-07-11 06:33:57 PM ET",
+  "generated_at": "2026-07-11 06:33:57 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 59,
-    "editor_fresh_items": 137,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 91,
+    "total_items_checked": 149,
+    "live_fresh_items": 55,
+    "editor_fresh_items": 135,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 94,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-11 05:36:29 PM ET"
+    "last_checked": "2026-07-11 06:33:57 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Power cuts plunge Gaza hospitals into darkness as Israel's attacks persist",
-      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "snapshot": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Power, Gaza, Israel, Israeli",
-        "Politics desk signal: gaza",
-        "Story focus: Power cuts plunge Gaza hospitals into darkness as Israel's attacks persist",
-        "Source context: Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Power.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 11 Jul 2026 13:18:29 +0000",
-      "age_hours": "8.30",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump election commission firings spark interference concerns ahead of midterms",
-      "url": "https://thehill.com/homenews/campaign/5963244-trump-fires-election-commissioners-interference-fears/",
-      "snapshot": "President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White House is looking to meddle ahead of the November midterms. Trump fired the remaining two Democratic members on the U.S. Election... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, White House, November",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump election commission firings spark interference concerns ahead of midterms",
-        "Source context: President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "age_hours": "11.61",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Judge awards Hunter Biden $1.7M in defamation suit against ex-Overstock CEO",
       "url": "https://thehill.com/regulation/court-battles/5963916-hunter-biden-awarded-over-1-million-overstock-defamation-case/",
@@ -103,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 11 Jul 2026 15:39:23 +0000",
-      "age_hours": "5.95",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
@@ -133,10 +74,70 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 12:33:41 -0400",
-      "age_hours": "29.05",
+      "age_hours": "30.00",
       "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Ex-White House lawyer: Trump 'stacking every card in the deck' ahead of midterms",
+      "url": "https://thehill.com/homenews/campaign/5963898-ty-cobb-donald-trump-midterm-influence/",
+      "snapshot": "Former White House attorney Ty Cobb warned Friday that President Trump's decision to fire the remaining Democratic members of an independent election administration commission this week is part of a \"deliberate plan\" to put his thumb on the scale of the upcoming midterm... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Ex, White House, Trump, Former White House",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-White House lawyer",
+        "Source context: Former White House attorney Ty Cobb warned Friday that President Trump's decision to fire the remaining Democratic members of an independent election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ex.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 11 Jul 2026 15:18:11 +0000",
+      "age_hours": "7.26",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
+      "snapshot": "The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: US, January, Proud Boys, Trump",
+        "Specific figures mentioned: 6",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US judge dismisses January 6 case against Proud Boys after Trump order"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 11 Jul 2026 21:53:40 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
     },
     {
       "headline": "Trump administration subpoenas New York Times reporters over coverage",
@@ -163,43 +164,13 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 11 Jul 2026 18:46:11 +0000",
-      "age_hours": "2.84",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Trump election commission firings spark interference concerns ahead of midterms",
-      "url": "https://thehill.com/homenews/campaign/5963244-trump-fires-election-commissioners-interference-fears/",
-      "snapshot": "President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White House is looking to meddle ahead of the November midterms. Trump fired the remaining two Democratic members on the U.S. Election... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, White House, November",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump election commission firings spark interference concerns ahead of midterms",
-        "Source context: President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "age_hours": "11.61",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Judge awards Hunter Biden $1.7M in defamation suit against ex-Overstock CEO",
       "url": "https://thehill.com/regulation/court-battles/5963916-hunter-biden-awarded-over-1-million-overstock-defamation-case/",
@@ -225,10 +196,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 11 Jul 2026 15:39:23 +0000",
-      "age_hours": "5.95",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Ex-White House lawyer: Trump 'stacking every card in the deck' ahead of midterms",
+      "url": "https://thehill.com/homenews/campaign/5963898-ty-cobb-donald-trump-midterm-influence/",
+      "snapshot": "Former White House attorney Ty Cobb warned Friday that President Trump's decision to fire the remaining Democratic members of an independent election administration commission this week is part of a \"deliberate plan\" to put his thumb on the scale of the upcoming midterm... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Ex, White House, Trump, Former White House",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-White House lawyer",
+        "Source context: Former White House attorney Ty Cobb warned Friday that President Trump's decision to fire the remaining Democratic members of an independent election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ex.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 11 Jul 2026 15:18:11 +0000",
+      "age_hours": "7.26",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
     },
     {
       "headline": "Appeals court temporarily blocks DOJ release of Biden tapes with biographer",
@@ -255,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 12:33:41 -0400",
-      "age_hours": "29.05",
+      "age_hours": "30.00",
       "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -285,78 +286,48 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 19:53:56 -0400",
-      "age_hours": "21.71",
+      "age_hours": "22.67",
       "freshness_status": "stale",
       "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "Trump administration subpoenas New York Times reporters over coverage",
-      "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
-      "snapshot": "Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
+      "snapshot": "The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, New York Times, Press, Congress",
-        "Politics desk signal: congress",
+        "Key people or organizations: US, January, Proud Boys, Trump",
+        "Specific figures mentioned: 6",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration subpoenas New York Times reporters over coverage",
-        "Source context: Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'. The key question is..."
+        "Story focus: US judge dismisses January 6 case against Proud Boys after Trump order"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving US.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 11 Jul 2026 18:46:11 +0000",
-      "age_hours": "2.84",
+      "published": "Sat, 11 Jul 2026 21:53:40 +0000",
+      "age_hours": "0.67",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump election commission firings spark interference concerns ahead of midterms",
     "Judge awards Hunter Biden $1.7M in defamation suit against ex-Overstock CEO",
-    "Trump administration subpoenas New York Times reporters over coverage"
+    "Ex-White House lawyer: Trump 'stacking every card in the deck' ahead of midterms",
+    "US judge dismisses January 6 case against Proud Boys after Trump order"
   ],
   "sections": [
-    {
-      "headline": "Trump election commission firings spark interference concerns ahead of midterms",
-      "url": "https://thehill.com/homenews/campaign/5963244-trump-fires-election-commissioners-interference-fears/",
-      "snapshot": "President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White House is looking to meddle ahead of the November midterms. Trump fired the remaining two Democratic members on the U.S. Election... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, White House, November",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump election commission firings spark interference concerns ahead of midterms",
-        "Source context: President Trump's decision to fire multiple members of a bipartisan election administration-focused commission is sparking concerns that the White..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "age_hours": "11.61",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Judge awards Hunter Biden $1.7M in defamation suit against ex-Overstock CEO",
       "url": "https://thehill.com/regulation/court-battles/5963916-hunter-biden-awarded-over-1-million-overstock-defamation-case/",
@@ -382,10 +353,70 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 11 Jul 2026 15:39:23 +0000",
-      "age_hours": "5.95",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Ex-White House lawyer: Trump 'stacking every card in the deck' ahead of midterms",
+      "url": "https://thehill.com/homenews/campaign/5963898-ty-cobb-donald-trump-midterm-influence/",
+      "snapshot": "Former White House attorney Ty Cobb warned Friday that President Trump's decision to fire the remaining Democratic members of an independent election administration commission this week is part of a \"deliberate plan\" to put his thumb on the scale of the upcoming midterm... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Ex, White House, Trump, Former White House",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-White House lawyer",
+        "Source context: Former White House attorney Ty Cobb warned Friday that President Trump's decision to fire the remaining Democratic members of an independent election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ex.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 11 Jul 2026 15:18:11 +0000",
+      "age_hours": "7.26",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
+      "snapshot": "The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: US, January, Proud Boys, Trump",
+        "Specific figures mentioned: 6",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US judge dismisses January 6 case against Proud Boys after Trump order"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 11 Jul 2026 21:53:40 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
     },
     {
       "headline": "Trump administration subpoenas New York Times reporters over coverage",
@@ -412,7 +443,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 11 Jul 2026 18:46:11 +0000",
-      "age_hours": "2.84",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -442,36 +473,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 11 Jul 2026 07:43:12 -0400",
-      "age_hours": "9.89",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": ""
-    },
-    {
-      "headline": "Power cuts plunge Gaza hospitals into darkness as Israel's attacks persist",
-      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "snapshot": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Power, Gaza, Israel, Israeli",
-        "Politics desk signal: gaza",
-        "Story focus: Power cuts plunge Gaza hospitals into darkness as Israel's attacks persist",
-        "Source context: Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Power.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 11 Jul 2026 13:18:29 +0000",
-      "age_hours": "8.30",
+      "age_hours": "10.85",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -501,7 +503,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 10 Jul 2026 12:33:41 -0400",
-      "age_hours": "29.05",
+      "age_hours": "30.00",
       "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
