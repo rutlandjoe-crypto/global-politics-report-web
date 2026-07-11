@@ -558,6 +558,38 @@ export default function Page() {
           <NewsroomBriefing items={liveItems} />
         </div>
       </header>
+      <div className="mx-auto max-w-7xl px-5 pb-6">
+        <section className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+          <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-blue-800">
+            Global Politics Report Editorial Standards
+          </h2>
+          <p className="text-sm leading-6 text-slate-700">
+            Global Politics Report exists to report fact-based political data and information, published with the highest standards of ethics and journalistic integrity.
+          </p>
+          <div className="mt-4 grid gap-3 md:grid-cols-2">
+            <div className="rounded-xl bg-slate-50 p-3">
+              <p className="text-sm leading-6 text-slate-800">
+                Ethics: Global Politics Report maintains a high level of ethics, based on journalistic integrity. The Associated Press Stylebook is enforced stringently. This makes sure every story on Global Politics Report follows a trusted guideline when it comes to journalistic ethics.
+              </p>
+            </div>
+            <div className="rounded-xl bg-slate-50 p-3">
+              <p className="text-sm leading-6 text-slate-800">
+                Structure: Global Politics Report has hourly updates on the platform. When a new story appears, data cards providing deeper context and data are used. With a structure like this, Global Politics Report develops trust with its readers.
+              </p>
+            </div>
+            <div className="rounded-xl bg-slate-50 p-3">
+              <p className="text-sm leading-6 text-slate-800">
+                Journalistic Integrity: Every single Global Politics Report update is backed by an Editorial Brain hardwired into every single move that is made on the platform. As a journalist with 30-plus years of experience, maintaining a high level of journalistic integrity matters. Every single day.
+              </p>
+            </div>
+            <div className="rounded-xl bg-slate-50 p-3">
+              <p className="text-sm leading-6 text-slate-800">
+                Trust: This is the most important part of Global Politics Report. Readers who come to the platform over and over again will come to trust the stories and data cards, along with the high ethical standards in place.
+              </p>
+            </div>
+          </div>
+        </section>
+      </div>
       <SponsorPlacementBlock />
 
 
