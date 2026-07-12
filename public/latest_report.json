@@ -3,32 +3,32 @@
   "vertical": "Politics",
   "headline": "Turner says he hopes Senate will pass Russia sanctions as part of Lindsey Graham's legacy",
   "snapshot": "GOP Rep. Mike Turner of Ohio said that he's hopeful the Senate will soon pass a Russia sanctions bill as \"one of the legacies\" of Sen. Lindsey Graham, who died suddenly Saturday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-07-12 04:37:08 PM ET",
-  "generated_at": "2026-07-12 04:37:08 PM ET",
+  "updated_at": "2026-07-12 05:36:20 PM ET",
+  "generated_at": "2026-07-12 05:36:20 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 141,
-    "live_fresh_items": 61,
-    "editor_fresh_items": 104,
-    "public_fallback_items": 141,
-    "stale_or_blocked_items": 80,
+    "total_items_checked": 142,
+    "live_fresh_items": 67,
+    "editor_fresh_items": 110,
+    "public_fallback_items": 142,
+    "stale_or_blocked_items": 75,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-12 04:37:08 PM ET"
+    "last_checked": "2026-07-12 05:36:20 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Meet the Cubans stuck in Mexico under Donald Trump's deportation campaign",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "snapshot": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Sen. Lindsey Graham dies from aortic dissection, medical examiner says",
+      "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/",
+      "snapshot": "President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Meet, Cubans, Mexico, Donald Trump",
+        "Key people or organizations: Sen, Lindsey Graham, President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meet the Cubans stuck in Mexico under Donald Trump's deportation campaign",
-        "Source context: Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump? The election angle is whether this..."
+        "Story focus: Sen. Lindsey Graham dies from aortic dissection, medical examiner says",
+        "Source context: President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,18 +36,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Meet.",
+        "Watch for the next official action involving Sen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 12 Jul 2026 17:28:52 -0400",
+      "age_hours": "0.12",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "snapshot": "US senator Lindsey Graham, a key ally of Israel and one of Washington's most prominent foreign policy hawks, has died. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Lindsey Graham, US, Israeli, Israel",
+        "Specific figures mentioned: 71",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+        "Source context: US senator Lindsey Graham, a key ally of Israel and one of Washington's most prominent foreign policy hawks, has died. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lindsey Graham.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 12 Jul 2026 15:38:03 +0000",
-      "age_hours": "4.98",
+      "published": "Sun, 12 Jul 2026 21:12:54 +0000",
+      "age_hours": "0.39",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
+      "editorial_score": "74",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Turner says he hopes Senate will pass Russia sanctions as part of Lindsey Graham's legacy",
@@ -74,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 12 Jul 2026 12:55:26 -0400",
-      "age_hours": "3.69",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -104,21 +134,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 12 Jul 2026 18:43:07 +0000",
-      "age_hours": "1.90",
+      "age_hours": "2.89",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "What is the process for filling Lindsey Graham's vacancy in the Senate?",
-      "url": "https://www.cbsnews.com/news/lindsey-graham-process-for-filling-vacancy-in-the-senate-south-carolina/",
-      "snapshot": "Sen. Lindsey Graham was running for reelection in November when he died suddenly on Saturday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "McConnell's absence imperils Trump's record defense budget",
+      "url": "https://thehill.com/policy/defense/5961915-mcconnell-absence-trump-defense-spending/",
+      "snapshot": "The ongoing absence of Sen. Mitch McConnell (R-Ky.) from Capitol Hill is throwing another wrench in President Trump's uphill push for a massive $1.5 trillion defense spending package next year. McConnell, who has been in the hospital for more than three weeks, chairs the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Lindsey Graham, Senate, Sen, November",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: McConnell, Trump, Sen, Mitch McConnell",
+        "Specific figures mentioned: $1.5",
+        "Politics desk signal: budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What is the process for filling Lindsey Graham's vacancy in the Senate?",
-        "Source context: Sen. Lindsey Graham was running for reelection in November when he died suddenly on Saturday. The key question is leverage: the next votes,..."
+        "Story focus: McConnell's absence imperils Trump's record defense budget"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -126,45 +156,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Lindsey Graham.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 12 Jul 2026 14:14:27 -0400",
-      "age_hours": "2.38",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Hunter Biden shares memory of Graham from 'time before Donald Trump'",
-      "url": "https://thehill.com/homenews/senate/5964852-hunter-biden-senator-graham-tribute/",
-      "snapshot": "Hunter Biden on Sunday reflected on Sen. Lindsey Graham's (R-S.C.) relationship with his father, former President Biden, and several other lawmakers in a statement that shared memories of a \"time before Donald Trump.\" \"When I heard about Senator Graham's death last night, the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Hunter Biden, Graham, Donald Trump, Sen",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hunter Biden shares memory of Graham from 'time before Donald Trump'",
-        "Source context: Hunter Biden on Sunday reflected on Sen. Lindsey Graham's (R-S.C.) relationship with his father, former President Biden, and several other lawmakers..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hunter Biden.",
+        "Watch for the next official action involving McConnell.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 12 Jul 2026 19:54:30 +0000",
-      "age_hours": "0.71",
+      "published": "Sun, 12 Jul 2026 21:00:00 +0000",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 12 Jul 2026 12:55:26 -0400",
-      "age_hours": "3.69",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 12 Jul 2026 18:43:07 +0000",
-      "age_hours": "1.90",
+      "age_hours": "2.89",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -256,51 +256,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "age_hours": "34.62",
+      "age_hours": "35.61",
       "freshness_status": "stale",
       "editorial_score": "97",
       "urgency": "BREAKING"
     },
     {
-      "headline": "What is the process for filling Lindsey Graham's vacancy in the Senate?",
-      "url": "https://www.cbsnews.com/news/lindsey-graham-process-for-filling-vacancy-in-the-senate-south-carolina/",
-      "snapshot": "Sen. Lindsey Graham was running for reelection in November when he died suddenly on Saturday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Sen. Lindsey Graham dies from aortic dissection, medical examiner says",
+      "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/",
+      "snapshot": "President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Lindsey Graham, Senate, Sen, November",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What is the process for filling Lindsey Graham's vacancy in the Senate?",
-        "Source context: Sen. Lindsey Graham was running for reelection in November when he died suddenly on Saturday. The key question is leverage: the next votes,..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lindsey Graham.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 12 Jul 2026 14:14:27 -0400",
-      "age_hours": "2.38",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Meet the Cubans stuck in Mexico under Donald Trump's deportation campaign",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "snapshot": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Meet, Cubans, Mexico, Donald Trump",
+        "Key people or organizations: Sen, Lindsey Graham, President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meet the Cubans stuck in Mexico under Donald Trump's deportation campaign",
-        "Source context: Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump? The election angle is whether this..."
+        "Story focus: Sen. Lindsey Graham dies from aortic dissection, medical examiner says",
+        "Source context: President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,24 +278,54 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Meet.",
+        "Watch for the next official action involving Sen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 12 Jul 2026 17:28:52 -0400",
+      "age_hours": "0.12",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Who will replace Trump ally Lindsey Graham in the US Senate?",
+      "url": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
+      "snapshot": "The US president suggests he is considering a potential candidate to fill the late senator's seat in South Carolina. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Who, Trump, Lindsey Graham, US Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Who will replace Trump ally Lindsey Graham in the US Senate?",
+        "Source context: The US president suggests he is considering a potential candidate to fill the late senator's seat in South Carolina. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Who.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 12 Jul 2026 15:38:03 +0000",
-      "age_hours": "4.98",
+      "published": "Sun, 12 Jul 2026 17:51:54 +0000",
+      "age_hours": "3.74",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Turner says he hopes Senate will pass Russia sanctions as part of Lindsey Graham's legacy",
     "Shaheen pushes Congress to pass Graham's Russia sanctions bill after senator's death",
-    "What is the process for filling Lindsey Graham's vacancy in the Senate?"
+    "Sen. Lindsey Graham dies from aortic dissection, medical examiner says"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 12 Jul 2026 12:55:26 -0400",
-      "age_hours": "3.69",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -383,51 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 12 Jul 2026 18:43:07 +0000",
-      "age_hours": "1.90",
+      "age_hours": "2.89",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "What is the process for filling Lindsey Graham's vacancy in the Senate?",
-      "url": "https://www.cbsnews.com/news/lindsey-graham-process-for-filling-vacancy-in-the-senate-south-carolina/",
-      "snapshot": "Sen. Lindsey Graham was running for reelection in November when he died suddenly on Saturday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Sen. Lindsey Graham dies from aortic dissection, medical examiner says",
+      "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/",
+      "snapshot": "President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Lindsey Graham, Senate, Sen, November",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What is the process for filling Lindsey Graham's vacancy in the Senate?",
-        "Source context: Sen. Lindsey Graham was running for reelection in November when he died suddenly on Saturday. The key question is leverage: the next votes,..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lindsey Graham.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 12 Jul 2026 14:14:27 -0400",
-      "age_hours": "2.38",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Meet the Cubans stuck in Mexico under Donald Trump's deportation campaign",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "snapshot": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump? The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Meet, Cubans, Mexico, Donald Trump",
+        "Key people or organizations: Sen, Lindsey Graham, President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meet the Cubans stuck in Mexico under Donald Trump's deportation campaign",
-        "Source context: Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump? The election angle is whether this..."
+        "Story focus: Sen. Lindsey Graham dies from aortic dissection, medical examiner says",
+        "Source context: President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,29 +405,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Meet.",
+        "Watch for the next official action involving Sen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 12 Jul 2026 15:38:03 +0000",
-      "age_hours": "4.98",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 12 Jul 2026 17:28:52 -0400",
+      "age_hours": "0.12",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
+      "editorial_score": "96",
+      "urgency": "BREAKING"
     },
     {
-      "headline": "Hunter Biden shares memory of Graham from 'time before Donald Trump'",
-      "url": "https://thehill.com/homenews/senate/5964852-hunter-biden-senator-graham-tribute/",
-      "snapshot": "Hunter Biden on Sunday reflected on Sen. Lindsey Graham's (R-S.C.) relationship with his father, former President Biden, and several other lawmakers in a statement that shared memories of a \"time before Donald Trump.\" \"When I heard about Senator Graham's death last night, the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "McConnell's absence imperils Trump's record defense budget",
+      "url": "https://thehill.com/policy/defense/5961915-mcconnell-absence-trump-defense-spending/",
+      "snapshot": "The ongoing absence of Sen. Mitch McConnell (R-Ky.) from Capitol Hill is throwing another wrench in President Trump's uphill push for a massive $1.5 trillion defense spending package next year. McConnell, who has been in the hospital for more than three weeks, chairs the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Hunter Biden, Graham, Donald Trump, Sen",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: McConnell, Trump, Sen, Mitch McConnell",
+        "Specific figures mentioned: $1.5",
+        "Politics desk signal: budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hunter Biden shares memory of Graham from 'time before Donald Trump'",
-        "Source context: Hunter Biden on Sunday reflected on Sen. Lindsey Graham's (R-S.C.) relationship with his father, former President Biden, and several other lawmakers..."
+        "Story focus: McConnell's absence imperils Trump's record defense budget"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,15 +435,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Hunter Biden.",
+        "Watch for the next official action involving McConnell.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 12 Jul 2026 19:54:30 +0000",
-      "age_hours": "0.71",
+      "published": "Sun, 12 Jul 2026 21:00:00 +0000",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -503,10 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 12 Jul 2026 17:51:54 +0000",
-      "age_hours": "2.75",
+      "age_hours": "3.74",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
+    },
+    {
+      "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "snapshot": "US senator Lindsey Graham, a key ally of Israel and one of Washington's most prominent foreign policy hawks, has died. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Lindsey Graham, US, Israeli, Israel",
+        "Specific figures mentioned: 71",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+        "Source context: US senator Lindsey Graham, a key ally of Israel and one of Washington's most prominent foreign policy hawks, has died. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lindsey Graham.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 12 Jul 2026 21:12:54 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
