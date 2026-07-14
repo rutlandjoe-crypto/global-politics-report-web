@@ -3,22 +3,50 @@
   "vertical": "Politics",
   "headline": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
   "snapshot": "U.S. District Judge Kathleen Williams said President Trump's lawsuit against the IRS had been filed for an \"improper purpose.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-14 03:00:38 AM ET",
-  "generated_at": "2026-07-14 03:00:38 AM ET",
+  "updated_at": "2026-07-14 05:03:54 AM ET",
+  "generated_at": "2026-07-14 05:03:54 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 144,
-    "live_fresh_items": 61,
-    "editor_fresh_items": 139,
+    "live_fresh_items": 48,
+    "editor_fresh_items": 134,
     "public_fallback_items": 142,
-    "stale_or_blocked_items": 83,
+    "stale_or_blocked_items": 96,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-14 03:00:38 AM ET"
+    "last_checked": "2026-07-14 05:03:54 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "US military releases video of its latest strikes on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "snapshot": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Iran, US Central Command",
+        "Story focus: US military releases video of its latest strikes on Iran",
+        "Source context: US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 14 Jul 2026 08:23:29 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
       "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/",
@@ -44,21 +72,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 22:22:08 -0400",
-      "age_hours": "4.64",
+      "age_hours": "6.70",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump formally informs Congress of Iran war resumption",
-      "url": "https://thehill.com/policy/defense/5966415-trump-congress-resumes-strikes-iran/",
-      "snapshot": "President Trump formally notified Congress last week that the U.S. has resumed military strikes against Iran, providing the Pentagon an extra 60 days to utilize U.S. forces in the U.S. Central Command (Centcom) theater absent congressional approval. Trump told lawmakers in a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "US military launches strikes on Iran after Trump brings back naval blockade",
+      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
+      "snapshot": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump's direction, mark the third... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Trump, Congress, Iran, President Trump",
-        "Specific figures mentioned: 60",
-        "Politics desk signal: congress",
+        "Key people or organizations: US, Iran, Trump, President Trump",
+        "Specific figures mentioned: 4, 45",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump formally informs Congress of Iran war resumption"
+        "Story focus: US military launches strikes on Iran after Trump brings back naval blockade"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,48 +94,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving US.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 20:30:11 +0000",
-      "age_hours": "10.51",
+      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
+      "age_hours": "11.48",
       "freshness_status": "fresh",
-      "editorial_score": "119",
+      "editorial_score": "105",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "White House says Trump supports Graham's Russia sanctions bill",
-      "url": "https://thehill.com/homenews/administration/5966436-lindsey-graham-russia-sanctions/",
-      "snapshot": "President Trump is supporting the late Sen. Lindsey Graham's (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday. The confirmation comes amid a push on Capitol Hill led by Sen. Jeanne Shaheen (D-N.H.) to get members of Congress to pass the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, Graham, Russia",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House says Trump supports Graham's Russia sanctions bill",
-        "Source context: President Trump is supporting the late Sen. Lindsey Graham's (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 20:38:27 +0000",
-      "age_hours": "10.37",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
     },
     {
       "headline": "Military action against Iran formally restarted last week, Trump told lawmakers",
@@ -134,21 +132,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 20:12:20 -0400",
-      "age_hours": "6.80",
+      "age_hours": "8.86",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump demands payment to protect Gulf nations from Iranian attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
-      "snapshot": "US President Donald Trump says the US should be paid by 'rich' oil-producing Gulf nations to secure the Strait of Hormuz The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump endorses multiple House GOP candidates",
+      "url": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/",
+      "snapshot": "President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the lower chamber ahead of the midterms. In a slew of posts on Truth Social, Trump threw his support behind John Cowan in Georgia's... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Trump, Gulf, Iranian, US President Donald Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, House GOP, President Trump, Republicans",
+        "Politics desk signal: house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump demands payment to protect Gulf nations from Iranian attacks",
-        "Source context: US President Donald Trump says the US should be paid by 'rich' oil-producing Gulf nations to secure the Strait of Hormuz The election angle is..."
+        "Story focus: Trump endorses multiple House GOP candidates",
+        "Source context: President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -161,12 +159,12 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 14 Jul 2026 01:37:48 +0000",
-      "age_hours": "5.38",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 14 Jul 2026 00:08:42 +0000",
+      "age_hours": "8.92",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "107",
       "urgency": ""
     }
   ],
@@ -196,69 +194,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 22:22:08 -0400",
-      "age_hours": "4.64",
+      "age_hours": "6.70",
       "freshness_status": "fresh",
       "editorial_score": "130",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "White House says Trump supports Graham's Russia sanctions bill",
-      "url": "https://thehill.com/homenews/administration/5966436-lindsey-graham-russia-sanctions/",
-      "snapshot": "President Trump is supporting the late Sen. Lindsey Graham's (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday. The confirmation comes amid a push on Capitol Hill led by Sen. Jeanne Shaheen (D-N.H.) to get members of Congress to pass the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, Graham, Russia",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House says Trump supports Graham's Russia sanctions bill",
-        "Source context: President Trump is supporting the late Sen. Lindsey Graham's (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 20:38:27 +0000",
-      "age_hours": "10.37",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump formally informs Congress of Iran war resumption",
-      "url": "https://thehill.com/policy/defense/5966415-trump-congress-resumes-strikes-iran/",
-      "snapshot": "President Trump formally notified Congress last week that the U.S. has resumed military strikes against Iran, providing the Pentagon an extra 60 days to utilize U.S. forces in the U.S. Central Command (Centcom) theater absent congressional approval. Trump told lawmakers in a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Congress, Iran, President Trump",
-        "Specific figures mentioned: 60",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump formally informs Congress of Iran war resumption"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 20:30:11 +0000",
-      "age_hours": "10.51",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -286,21 +224,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 20:12:20 -0400",
-      "age_hours": "6.80",
+      "age_hours": "8.86",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump demands payment to protect Gulf nations from Iranian attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
-      "snapshot": "US President Donald Trump says the US should be paid by 'rich' oil-producing Gulf nations to secure the Strait of Hormuz The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump endorses multiple House GOP candidates",
+      "url": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/",
+      "snapshot": "President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the lower chamber ahead of the midterms. In a slew of posts on Truth Social, Trump threw his support behind John Cowan in Georgia's... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Trump, Gulf, Iranian, US President Donald Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, House GOP, President Trump, Republicans",
+        "Politics desk signal: house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump demands payment to protect Gulf nations from Iranian attacks",
-        "Source context: US President Donald Trump says the US should be paid by 'rich' oil-producing Gulf nations to secure the Strait of Hormuz The election angle is..."
+        "Story focus: Trump endorses multiple House GOP candidates",
+        "Source context: President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -313,19 +251,77 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 14 Jul 2026 00:08:42 +0000",
+      "age_hours": "8.92",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "US military launches strikes on Iran after Trump brings back naval blockade",
+      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
+      "snapshot": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump's direction, mark the third... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: US, Iran, Trump, President Trump",
+        "Specific figures mentioned: 4, 45",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US military launches strikes on Iran after Trump brings back naval blockade"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
+      "age_hours": "11.48",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US military releases video of its latest strikes on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "snapshot": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Iran, US Central Command",
+        "Story focus: US military releases video of its latest strikes on Iran",
+        "Source context: US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 14 Jul 2026 01:37:48 +0000",
-      "age_hours": "5.38",
+      "published": "Tue, 14 Jul 2026 08:23:29 +0000",
+      "age_hours": "0.67",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
-    "White House says Trump supports Graham's Russia sanctions bill",
-    "Trump formally informs Congress of Iran war resumption"
+    "Military action against Iran formally restarted last week, Trump told lawmakers",
+    "Trump endorses multiple House GOP candidates"
   ],
   "sections": [
     {
@@ -353,69 +349,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 22:22:08 -0400",
-      "age_hours": "4.64",
+      "age_hours": "6.70",
       "freshness_status": "fresh",
       "editorial_score": "130",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "White House says Trump supports Graham's Russia sanctions bill",
-      "url": "https://thehill.com/homenews/administration/5966436-lindsey-graham-russia-sanctions/",
-      "snapshot": "President Trump is supporting the late Sen. Lindsey Graham's (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday. The confirmation comes amid a push on Capitol Hill led by Sen. Jeanne Shaheen (D-N.H.) to get members of Congress to pass the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, Graham, Russia",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House says Trump supports Graham's Russia sanctions bill",
-        "Source context: President Trump is supporting the late Sen. Lindsey Graham's (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 20:38:27 +0000",
-      "age_hours": "10.37",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump formally informs Congress of Iran war resumption",
-      "url": "https://thehill.com/policy/defense/5966415-trump-congress-resumes-strikes-iran/",
-      "snapshot": "President Trump formally notified Congress last week that the U.S. has resumed military strikes against Iran, providing the Pentagon an extra 60 days to utilize U.S. forces in the U.S. Central Command (Centcom) theater absent congressional approval. Trump told lawmakers in a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Congress, Iran, President Trump",
-        "Specific figures mentioned: 60",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump formally informs Congress of Iran war resumption"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 20:30:11 +0000",
-      "age_hours": "10.51",
-      "freshness_status": "fresh",
-      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -443,10 +379,98 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 20:12:20 -0400",
-      "age_hours": "6.80",
+      "age_hours": "8.86",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
+    },
+    {
+      "headline": "Trump endorses multiple House GOP candidates",
+      "url": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/",
+      "snapshot": "President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the lower chamber ahead of the midterms. In a slew of posts on Truth Social, Trump threw his support behind John Cowan in Georgia's... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, House GOP, President Trump, Republicans",
+        "Politics desk signal: house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump endorses multiple House GOP candidates",
+        "Source context: President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 14 Jul 2026 00:08:42 +0000",
+      "age_hours": "8.92",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "US military launches strikes on Iran after Trump brings back naval blockade",
+      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
+      "snapshot": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump's direction, mark the third... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: US, Iran, Trump, President Trump",
+        "Specific figures mentioned: 4, 45",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US military launches strikes on Iran after Trump brings back naval blockade"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
+      "age_hours": "11.48",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US military releases video of its latest strikes on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "snapshot": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, Iran, US Central Command",
+        "Story focus: US military releases video of its latest strikes on Iran",
+        "Source context: US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 14 Jul 2026 08:23:29 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump demands payment to protect Gulf nations from Iranian attacks",
@@ -473,37 +497,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 14 Jul 2026 01:37:48 +0000",
-      "age_hours": "5.38",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "Backed by Trump, Lindsey Graham's sister Darline will replace him in Senate",
-      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
-      "snapshot": "South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator's term until early 2027. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Backed, Trump, Lindsey Graham, Darline",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Backed by Trump, Lindsey Graham's sister Darline will replace him in Senate"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Backed.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 13 Jul 2026 22:33:08 +0000",
-      "age_hours": "8.46",
+      "age_hours": "7.43",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
