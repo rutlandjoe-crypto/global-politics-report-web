@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
   "snapshot": "U.S. District Judge Kathleen Williams said President Trump's lawsuit against the IRS had been filed for an \"improper purpose.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-14 05:03:54 AM ET",
-  "generated_at": "2026-07-14 05:03:54 AM ET",
+  "updated_at": "2026-07-14 07:14:36 AM ET",
+  "generated_at": "2026-07-14 07:14:36 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 144,
-    "live_fresh_items": 48,
-    "editor_fresh_items": 134,
+    "live_fresh_items": 43,
+    "editor_fresh_items": 137,
     "public_fallback_items": 142,
-    "stale_or_blocked_items": 96,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-14 05:03:54 AM ET"
+    "last_checked": "2026-07-14 07:14:36 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 14 Jul 2026 08:23:29 +0000",
-      "age_hours": "0.67",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -72,39 +72,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 22:22:08 -0400",
-      "age_hours": "6.70",
+      "age_hours": "8.87",
       "freshness_status": "fresh",
       "editorial_score": "130",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US military launches strikes on Iran after Trump brings back naval blockade",
-      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
-      "snapshot": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump's direction, mark the third... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: US, Iran, Trump, President Trump",
-        "Specific figures mentioned: 4, 45",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US military launches strikes on Iran after Trump brings back naval blockade"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
-      "age_hours": "11.48",
-      "freshness_status": "fresh",
-      "editorial_score": "105",
       "urgency": "DEVELOPING"
     },
     {
@@ -132,7 +102,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 20:12:20 -0400",
-      "age_hours": "8.86",
+      "age_hours": "11.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -162,9 +132,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 14 Jul 2026 00:08:42 +0000",
-      "age_hours": "8.92",
+      "age_hours": "11.10",
       "freshness_status": "fresh",
       "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Russia sanctions bill may move as Congress looks to honor Graham",
+      "url": "https://thehill.com/homenews/senate/5966575-bipartisan-russia-sanctions-bill-graham/",
+      "snapshot": "Ukraine's supporters in Congress are urging quick passage of a bipartisan Russia sanctions bill authored by the late Sen. Lindsey Graham (R-S.C.) as a way to honor him. Graham announced a breakthrough on the legislation shortly before his shocking death late Saturday night,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Russia, Congress, Graham, Ukraine",
+        "Politics desk signal: congress, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Russia sanctions bill may move as Congress looks to honor Graham",
+        "Source context: Ukraine's supporters in Congress are urging quick passage of a bipartisan Russia sanctions bill authored by the late Sen. Lindsey Graham (R-S.C.) as..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Russia.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
       "urgency": ""
     }
   ],
@@ -194,7 +194,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 22:22:08 -0400",
-      "age_hours": "6.70",
+      "age_hours": "8.87",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -224,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 20:12:20 -0400",
-      "age_hours": "8.86",
+      "age_hours": "11.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -254,21 +254,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 14 Jul 2026 00:08:42 +0000",
-      "age_hours": "8.92",
+      "age_hours": "11.10",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "US military launches strikes on Iran after Trump brings back naval blockade",
-      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
-      "snapshot": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump's direction, mark the third... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Schumer calls Trump administration budget proposal 'lopsided' in call for bipartisan funding bills",
+      "url": "https://thehill.com/homenews/senate/5965288-schumer-calls-bipartisan-spending/",
+      "snapshot": "Senate Democratic Leader Chuck Schumer (N.Y.) early Monday called on Senate Republicans to work with Democrats to address what he called President Trump's \"lopsided\" spending priorities and pass bipartisan spending bills to avoid a government shutdown. Schumer criticized... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: US, Iran, Trump, President Trump",
-        "Specific figures mentioned: 4, 45",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Schumer, Trump, Senate Democratic Leader Chuck, Senate Republicans",
+        "Politics desk signal: senate, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US military launches strikes on Iran after Trump brings back naval blockade"
+        "Story focus: Schumer calls Trump administration budget proposal 'lopsided' in call for bipartisan funding bills",
+        "Source context: Senate Democratic Leader Chuck Schumer (N.Y.) early Monday called on Senate Republicans to work with Democrats to address what he called President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -276,46 +276,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Schumer.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
-      "age_hours": "11.48",
-      "freshness_status": "fresh",
+      "published": "Mon, 13 Jul 2026 11:52:06 +0000",
+      "age_hours": "23.37",
+      "freshness_status": "stale",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "US military releases video of its latest strikes on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
-      "snapshot": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "What is Iran's Pickaxe Mountain, the mystery site Trump warns he'll attack?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "snapshot": "Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: US, Iran, US Central Command",
-        "Story focus: US military releases video of its latest strikes on Iran",
-        "Source context: US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands. The geopolitical angle is..."
+        "Key people or organizations: Iran, Pickaxe Mountain, Trump, Tensions",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: What is Iran's Pickaxe Mountain, the mystery site Trump warns he'll attack?",
+        "Source context: Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 14 Jul 2026 08:23:29 +0000",
-      "age_hours": "0.67",
+      "published": "Tue, 14 Jul 2026 10:11:22 +0000",
+      "age_hours": "1.05",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -349,7 +351,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 22:22:08 -0400",
-      "age_hours": "6.70",
+      "age_hours": "8.87",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -379,7 +381,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 13 Jul 2026 20:12:20 -0400",
-      "age_hours": "8.86",
+      "age_hours": "11.04",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -409,21 +411,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 14 Jul 2026 00:08:42 +0000",
-      "age_hours": "8.92",
+      "age_hours": "11.10",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "US military launches strikes on Iran after Trump brings back naval blockade",
-      "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
-      "snapshot": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump's direction, mark the third... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Russia sanctions bill may move as Congress looks to honor Graham",
+      "url": "https://thehill.com/homenews/senate/5966575-bipartisan-russia-sanctions-bill-graham/",
+      "snapshot": "Ukraine's supporters in Congress are urging quick passage of a bipartisan Russia sanctions bill authored by the late Sen. Lindsey Graham (R-S.C.) as a way to honor him. Graham announced a breakthrough on the legislation shortly before his shocking death late Saturday night,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: US, Iran, Trump, President Trump",
-        "Specific figures mentioned: 4, 45",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Russia, Congress, Graham, Ukraine",
+        "Politics desk signal: congress, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US military launches strikes on Iran after Trump brings back naval blockade"
+        "Story focus: Russia sanctions bill may move as Congress looks to honor Graham",
+        "Source context: Ukraine's supporters in Congress are urging quick passage of a bipartisan Russia sanctions bill authored by the late Sen. Lindsey Graham (R-S.C.) as..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -431,18 +433,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Russia.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 13 Jul 2026 21:34:53 +0000",
-      "age_hours": "11.48",
+      "published": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "age_hours": "1.24",
       "freshness_status": "fresh",
-      "editorial_score": "105",
-      "urgency": "DEVELOPING"
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "What is Iran's Pickaxe Mountain, the mystery site Trump warns he'll attack?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "snapshot": "Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, Pickaxe Mountain, Trump, Tensions",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: What is Iran's Pickaxe Mountain, the mystery site Trump warns he'll attack?",
+        "Source context: Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 14 Jul 2026 10:11:22 +0000",
+      "age_hours": "1.05",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
     },
     {
       "headline": "US military releases video of its latest strikes on Iran",
@@ -467,40 +499,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 14 Jul 2026 08:23:29 +0000",
-      "age_hours": "0.67",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump demands payment to protect Gulf nations from Iranian attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
-      "snapshot": "US President Donald Trump says the US should be paid by 'rich' oil-producing Gulf nations to secure the Strait of Hormuz The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Gulf, Iranian, US President Donald Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump demands payment to protect Gulf nations from Iranian attacks",
-        "Source context: US President Donald Trump says the US should be paid by 'rich' oil-producing Gulf nations to secure the Strait of Hormuz The election angle is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 14 Jul 2026 01:37:48 +0000",
-      "age_hours": "7.43",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
