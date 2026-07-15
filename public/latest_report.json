@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "US military attacks Iran after Trump's threat of wider strikes",
   "snapshot": "The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after President Trump threatened wider strikes. The U.S. forces fired precision munitions against coastal defense systems and cruise... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-07-15 02:07:19 PM ET",
-  "generated_at": "2026-07-15 02:07:19 PM ET",
+  "updated_at": "2026-07-15 03:58:52 PM ET",
+  "generated_at": "2026-07-15 03:58:52 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 88,
-    "editor_fresh_items": 144,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 59,
+    "total_items_checked": 148,
+    "live_fresh_items": 103,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 142,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-15 02:07:19 PM ET"
+    "last_checked": "2026-07-15 03:58:52 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 14:00:46 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.97",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "BREAKING"
@@ -73,8 +73,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 12:00:17 -0400",
-      "age_hours": "2.12",
+      "published": "Wed, 15 Jul 2026 15:11:36 -0400",
+      "age_hours": "0.79",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "BREAKING"
@@ -104,7 +104,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 15 Jul 2026 15:41:43 +0000",
-      "age_hours": "2.43",
+      "age_hours": "4.29",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "BREAKING"
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 16:45:35 +0000",
-      "age_hours": "1.36",
+      "age_hours": "3.22",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
@@ -163,44 +163,14 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 14:05:27 -0400",
-      "age_hours": "0.03",
+      "published": "Wed, 15 Jul 2026 14:08:15 -0400",
+      "age_hours": "1.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Senate Democrats demand Pentagon release findings on Iran school strike investigation",
-      "url": "https://thehill.com/policy/defense/5967941-democratic-senators-report-iran-school-strike/",
-      "snapshot": "More than two dozen Democratic senators led by Kirsten Gillibrand (N.Y.) are demanding the Trump administration reveal by next week the findings from a Pentagon ​probe into a Feb. 28 strike at a girls' school in Iran that killed 175 people, most of whom were children. \"The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate Democrats, Pentagon, Iran, More",
-        "Specific figures mentioned: 28, 175",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Democrats demand Pentagon release findings on Iran school strike investigation"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 14 Jul 2026 18:45:32 +0000",
-      "age_hours": "23.36",
-      "freshness_status": "stale",
-      "editorial_score": "131",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "US military attacks Iran after Trump's threat of wider strikes",
       "url": "https://thehill.com/policy/defense/5969274-us-military-strikes-iran-island/",
@@ -226,10 +196,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 14:00:46 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.97",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate Republican on Supreme Court security funding request: 'There's not a money fairy up here'",
+      "url": "https://thehill.com/homenews/senate/5969818-kennedy-skeptical-supreme-court-security/",
+      "snapshot": "Sen. John Kennedy (R-La.) expressed skepticism Tuesday about increasing the Supreme Court's annual budget, even as the justices say they need more money to protect them and their families against a surge in threats toward federal judges. Kennedy, who sits on the Senate... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Senate Republican, Supreme Court, There, Sen",
+        "Politics desk signal: senate, supreme court, court, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Republican on Supreme Court security funding request",
+        "Source context: Sen. John Kennedy (R-La.) expressed skepticism Tuesday about increasing the Supreme Court's annual budget, even as the justices say they need more..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Republican.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 15 Jul 2026 16:45:35 +0000",
+      "age_hours": "3.22",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": "WATCH"
     },
     {
       "headline": "Blanche reiterates \"anti-weaponization\" fund is \"dead\" at confirmation hearing",
@@ -255,8 +255,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 12:00:17 -0400",
-      "age_hours": "2.12",
+      "published": "Wed, 15 Jul 2026 15:11:36 -0400",
+      "age_hours": "0.79",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "BREAKING"
@@ -285,8 +285,8 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 14:05:27 -0400",
-      "age_hours": "0.03",
+      "published": "Wed, 15 Jul 2026 14:08:15 -0400",
+      "age_hours": "1.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 15 Jul 2026 15:41:43 +0000",
-      "age_hours": "2.43",
+      "age_hours": "4.29",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "BREAKING"
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 14:00:46 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.97",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "BREAKING"
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 16:45:35 +0000",
-      "age_hours": "1.36",
+      "age_hours": "3.22",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
@@ -412,8 +412,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 12:00:17 -0400",
-      "age_hours": "2.12",
+      "published": "Wed, 15 Jul 2026 15:11:36 -0400",
+      "age_hours": "0.79",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "BREAKING"
@@ -442,8 +442,8 @@
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 14:05:27 -0400",
-      "age_hours": "0.03",
+      "published": "Wed, 15 Jul 2026 14:08:15 -0400",
+      "age_hours": "1.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -473,21 +473,20 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 15 Jul 2026 15:41:43 +0000",
-      "age_hours": "2.43",
+      "age_hours": "4.29",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Todd Blanche's loyalty to Trump questioned in Senate confirmation hearing",
-      "url": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss",
-      "snapshot": "Blanche's actions have raised questions about the independence of the Department of Justice, which he currently leads. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Iran unveils huge billboard showing Trump in coffin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss",
+      "snapshot": "Iran has installed a billboard in the capital Tehran showing US President Donald Trump lying in a coffin. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Todd Blanche, Trump, Senate, Blanche",
-        "Politics desk signal: senate",
+        "Key people or organizations: Iran, Trump, Tehran, US President Donald Trump",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Todd Blanche's loyalty to Trump questioned in Senate confirmation hearing",
-        "Source context: Blanche's actions have raised questions about the independence of the Department of Justice, which he currently leads. The key question is leverage:..."
+        "Story focus: Iran unveils huge billboard showing Trump in coffin",
+        "Source context: Iran has installed a billboard in the capital Tehran showing US President Donald Trump lying in a coffin. The key question is leverage: the next..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +494,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Todd Blanche.",
+        "Watch for the next official action involving Iran.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 15 Jul 2026 17:14:07 +0000",
-      "age_hours": "0.89",
+      "published": "Wed, 15 Jul 2026 18:28:42 +0000",
+      "age_hours": "1.50",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "86",
       "urgency": ""
     }
   ],
