@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Shutdown fears rise as Trump, Democrats gird for September showdown",
-  "snapshot": "Senators in both parties say the odds are rising of another government shutdown in September after President Trump demanded that GOP leaders abolish the filibuster or face a spending showdown and another shutdown. Trump blindsided GOP leaders on Monday when he warned there... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-07-15 09:01:15 AM ET",
-  "generated_at": "2026-07-15 09:01:15 AM ET",
+  "headline": "US military attacks Iran after Trump's threat of wider strikes",
+  "snapshot": "The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after President Trump threatened wider strikes. The U.S. forces fired precision munitions against coastal defense systems and cruise... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+  "updated_at": "2026-07-15 11:14:58 AM ET",
+  "generated_at": "2026-07-15 11:14:58 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 42,
-    "editor_fresh_items": 140,
-    "public_fallback_items": 143,
-    "stale_or_blocked_items": 103,
+    "total_items_checked": 147,
+    "live_fresh_items": 62,
+    "editor_fresh_items": 143,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 85,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-15 09:01:15 AM ET"
+    "last_checked": "2026-07-15 11:14:58 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "US military attacks Iran after Trump's threat of wider strikes",
+      "url": "https://thehill.com/policy/defense/5969274-us-military-strikes-iran-island/",
+      "snapshot": "The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after President Trump threatened wider strikes. The U.S. forces fired precision munitions against coastal defense systems and cruise... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: US, Iran, Trump, Iranian",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US military attacks Iran after Trump's threat of wider strikes",
+        "Source context: The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 15 Jul 2026 14:00:46 +0000",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "117",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Shutdown fears rise as Trump, Democrats gird for September showdown",
       "url": "https://thehill.com/homenews/senate/5968489-trump-demands-gop-action/",
@@ -44,48 +74,19 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "age_hours": "3.02",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "DRC Ebola cases surpass 2,000 as more health workers begin strike",
-      "url": "https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike?traffic_source=rss",
-      "snapshot": "Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754.",
+      "headline": "Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/far-right-israeli-lawmaker-raids-palestinian-school-and-threatens-shutdown?traffic_source=rss",
+      "snapshot": "Israel's education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: DRC Ebola, Health, Democratic Republic, Congo",
-        "Specific figures mentioned: 2, 000, 754",
-        "Story focus: DRC Ebola cases surpass 2,000 as more health workers begin strike",
-        "Source context: Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving DRC Ebola.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 15 Jul 2026 12:07:43 +0000",
-      "age_hours": "0.89",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What are the Israeli withdrawal 'pilot zones' in southern Lebanon?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss",
-      "snapshot": "What are the Israeli withdrawal 'pilot zones' in southern Lebanon? The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, Lebanon",
-        "Story focus: What are the Israeli withdrawal 'pilot zones' in southern Lebanon?",
-        "Source context: What are the Israeli withdrawal 'pilot zones' in southern Lebanon? The geopolitical angle is how the decision affects alliances, economic pressure,..."
+        "Key people or organizations: Far, Israeli, Palestinian, Israel",
+        "Story focus: Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
+        "Source context: Israel's education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -93,28 +94,27 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
+        "Watch for the next official action involving Far.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 15 Jul 2026 11:23:21 +0000",
-      "age_hours": "1.63",
+      "published": "Wed, 15 Jul 2026 13:34:53 +0000",
+      "age_hours": "1.67",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+      "headline": "Watch Live: Jay Clayton, Trump's DNI nominee, testifies at confirmation hearing",
       "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/",
       "snapshot": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director of national intelligence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Jay Clayton, Trump, DNI, Senate",
-        "Politics desk signal: senate",
+        "Key people or organizations: Jay Clayton, Trump, DNI, Clayton",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+        "Story focus: Watch Live",
         "Source context: Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director..."
       ],
       "why_it_matters": [
@@ -130,22 +130,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 06:26:32 -0400",
-      "age_hours": "2.58",
+      "published": "Wed, 15 Jul 2026 11:13:33 -0400",
+      "age_hours": "0.02",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "House GOP scrambles to tee up reconciliation 3.0 while facing competing pressures",
-      "url": "https://thehill.com/homenews/house/5968330-republicans-reconciliation-bill-midterms/",
-      "snapshot": "Republican leaders are scrambling to try to tee up a third party-line budget bill by the end of the week, aiming to deliver on a framework before the midterm campaign season gets into full swing but facing internal divisions that complicate the path for the bill. President... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "U.S. Mint to make $1 gold coin with Trump's face on it",
+      "url": "https://www.cbsnews.com/news/1-gold-coin-trump-face-us-mint/",
+      "snapshot": "It's the latest effort by President Trump to make his mark on Washington, D.C. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: House GOP, Republican, President",
-        "Specific figures mentioned: 3.0",
-        "Politics desk signal: house, campaign, budget",
+        "Key people or organizations: Mint, Trump, It, President Trump",
+        "Specific figures mentioned: $1",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House GOP scrambles to tee up reconciliation 3.0 while facing competing pressures"
+        "Story focus: U.S. Mint to make $1 gold coin with Trump's face on it"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -153,17 +153,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House GOP.",
+        "Watch for the next official action involving Mint.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "age_hours": "3.02",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 15 Jul 2026 11:00:07 -0400",
+      "age_hours": "0.25",
       "freshness_status": "fresh",
-      "editorial_score": "105",
+      "editorial_score": "92",
       "urgency": ""
     }
   ],
@@ -193,21 +193,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 14 Jul 2026 18:45:32 +0000",
-      "age_hours": "18.26",
+      "age_hours": "20.49",
       "freshness_status": "stale",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Shutdown fears rise as Trump, Democrats gird for September showdown",
-      "url": "https://thehill.com/homenews/senate/5968489-trump-demands-gop-action/",
-      "snapshot": "Senators in both parties say the odds are rising of another government shutdown in September after President Trump demanded that GOP leaders abolish the filibuster or face a spending showdown and another shutdown. Trump blindsided GOP leaders on Monday when he warned there... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "US military attacks Iran after Trump's threat of wider strikes",
+      "url": "https://thehill.com/policy/defense/5969274-us-military-strikes-iran-island/",
+      "snapshot": "The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after President Trump threatened wider strikes. The U.S. forces fired precision munitions against coastal defense systems and cruise... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Shutdown, Trump, Democrats, September",
+        "Key people or organizations: US, Iran, Trump, Iranian",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Shutdown fears rise as Trump, Democrats gird for September showdown",
-        "Source context: Senators in both parties say the odds are rising of another government shutdown in September after President Trump demanded that GOP leaders abolish..."
+        "Story focus: US military attacks Iran after Trump's threat of wider strikes",
+        "Source context: The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -215,28 +215,27 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Shutdown.",
+        "Watch for the next official action involving US.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "age_hours": "3.02",
+      "published": "Wed, 15 Jul 2026 14:00:46 +0000",
+      "age_hours": "1.24",
       "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": "DEVELOPING"
+      "editorial_score": "117",
+      "urgency": "BREAKING"
     },
     {
-      "headline": "Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+      "headline": "Watch Live: Jay Clayton, Trump's DNI nominee, testifies at confirmation hearing",
       "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/",
       "snapshot": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director of national intelligence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Jay Clayton, Trump, DNI, Senate",
-        "Politics desk signal: senate",
+        "Key people or organizations: Jay Clayton, Trump, DNI, Clayton",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+        "Story focus: Watch Live",
         "Source context: Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director..."
       ],
       "why_it_matters": [
@@ -252,22 +251,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 06:26:32 -0400",
-      "age_hours": "2.58",
+      "published": "Wed, 15 Jul 2026 11:13:33 -0400",
+      "age_hours": "0.02",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump reverses course on U.S. acting as \"guardian of the Hormuz Strait\"",
-      "url": "https://www.cbsnews.com/video/trump-reverses-course-us-acting-guardian-strait-of-hormuz/",
-      "snapshot": "The U.S. hit Iran with heavy airstrikes for the fourth night in a row, aimed at preventing the regime's new attacks on oil and cargo ships. After President Trump floated the idea of the U.S. acting as a \"guardian of the Hormuz Strait\" on Monday, he reversed his decision. Ed... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "U.S. Mint to make $1 gold coin with Trump's face on it",
+      "url": "https://www.cbsnews.com/news/1-gold-coin-trump-face-us-mint/",
+      "snapshot": "It's the latest effort by President Trump to make his mark on Washington, D.C. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Hormuz Strait, Iran, Ed",
+        "Key people or organizations: Mint, Trump, It, President Trump",
+        "Specific figures mentioned: $1",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump reverses course on U.S. acting as \"guardian of the Hormuz Strait\"",
-        "Source context: The U.S. hit Iran with heavy airstrikes for the fourth night in a row, aimed at preventing the regime's new attacks on oil and cargo ships. After..."
+        "Story focus: U.S. Mint to make $1 gold coin with Trump's face on it"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -275,55 +274,86 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Mint.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 14 Jul 2026 19:45:45 -0400",
-      "age_hours": "13.26",
-      "freshness_status": "stale",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "published": "Wed, 15 Jul 2026 11:00:07 -0400",
+      "age_hours": "0.25",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
     },
     {
-      "headline": "DRC Ebola cases surpass 2,000 as more health workers begin strike",
-      "url": "https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike?traffic_source=rss",
-      "snapshot": "Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754.",
+      "headline": "Legal challenge says Trump ICC sanctions tread on US citizens' rights",
+      "url": "https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss",
+      "snapshot": "Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: DRC Ebola, Health, Democratic Republic, Congo",
-        "Specific figures mentioned: 2, 000, 754",
-        "Story focus: DRC Ebola cases surpass 2,000 as more health workers begin strike",
-        "Source context: Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754."
+        "Key people or organizations: Legal, Trump ICC, US, Groups",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Legal challenge says Trump ICC sanctions tread on US citizens' rights",
+        "Source context: Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DRC Ebola.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Legal.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 15 Jul 2026 12:07:43 +0000",
-      "age_hours": "0.89",
+      "published": "Wed, 15 Jul 2026 14:24:53 +0000",
+      "age_hours": "0.83",
       "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     }
   ],
   "key_storylines": [
+    "US military attacks Iran after Trump's threat of wider strikes",
     "Shutdown fears rise as Trump, Democrats gird for September showdown",
-    "Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
-    "House GOP scrambles to tee up reconciliation 3.0 while facing competing pressures"
+    "Watch Live: Jay Clayton, Trump's DNI nominee, testifies at confirmation hearing"
   ],
   "sections": [
+    {
+      "headline": "US military attacks Iran after Trump's threat of wider strikes",
+      "url": "https://thehill.com/policy/defense/5969274-us-military-strikes-iran-island/",
+      "snapshot": "The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after President Trump threatened wider strikes. The U.S. forces fired precision munitions against coastal defense systems and cruise... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: US, Iran, Trump, Iranian",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US military attacks Iran after Trump's threat of wider strikes",
+        "Source context: The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 15 Jul 2026 14:00:46 +0000",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "117",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Shutdown fears rise as Trump, Democrats gird for September showdown",
       "url": "https://thehill.com/homenews/senate/5968489-trump-demands-gop-action/",
@@ -349,20 +379,19 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "age_hours": "3.02",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+      "headline": "Watch Live: Jay Clayton, Trump's DNI nominee, testifies at confirmation hearing",
       "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/",
       "snapshot": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director of national intelligence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Jay Clayton, Trump, DNI, Senate",
-        "Politics desk signal: senate",
+        "Key people or organizations: Jay Clayton, Trump, DNI, Clayton",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+        "Story focus: Watch Live",
         "Source context: Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director..."
       ],
       "why_it_matters": [
@@ -378,52 +407,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 06:26:32 -0400",
-      "age_hours": "2.58",
+      "published": "Wed, 15 Jul 2026 11:13:33 -0400",
+      "age_hours": "0.02",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "House GOP scrambles to tee up reconciliation 3.0 while facing competing pressures",
-      "url": "https://thehill.com/homenews/house/5968330-republicans-reconciliation-bill-midterms/",
-      "snapshot": "Republican leaders are scrambling to try to tee up a third party-line budget bill by the end of the week, aiming to deliver on a framework before the midterm campaign season gets into full swing but facing internal divisions that complicate the path for the bill. President... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "U.S. Mint to make $1 gold coin with Trump's face on it",
+      "url": "https://www.cbsnews.com/news/1-gold-coin-trump-face-us-mint/",
+      "snapshot": "It's the latest effort by President Trump to make his mark on Washington, D.C. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: House GOP, Republican, President",
-        "Specific figures mentioned: 3.0",
-        "Politics desk signal: house, campaign, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House GOP scrambles to tee up reconciliation 3.0 while facing competing pressures"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "age_hours": "3.02",
-      "freshness_status": "fresh",
-      "editorial_score": "105",
-      "urgency": ""
-    },
-    {
-      "headline": "Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
-      "url": "https://www.cbsnews.com/news/washington-dca-flight-delays-iraq-pm-trump-security/",
-      "snapshot": "The Iraqi leader was in Washington to meet with President Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Flights, Iraqi, Washington, President Trump",
+        "Key people or organizations: Mint, Trump, It, President Trump",
+        "Specific figures mentioned: $1",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
-        "Source context: The Iraqi leader was in Washington to meet with President Trump. The election angle is whether this changes voter attention, campaign strategy or..."
+        "Story focus: U.S. Mint to make $1 gold coin with Trump's face on it"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -431,56 +430,57 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Flights.",
+        "Watch for the next official action involving Mint.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 15 Jul 2026 06:32:00 -0400",
-      "age_hours": "2.49",
+      "published": "Wed, 15 Jul 2026 11:00:07 -0400",
+      "age_hours": "0.25",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "DRC Ebola cases surpass 2,000 as more health workers begin strike",
-      "url": "https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike?traffic_source=rss",
-      "snapshot": "Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754.",
+      "headline": "Legal challenge says Trump ICC sanctions tread on US citizens' rights",
+      "url": "https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss",
+      "snapshot": "Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: DRC Ebola, Health, Democratic Republic, Congo",
-        "Specific figures mentioned: 2, 000, 754",
-        "Story focus: DRC Ebola cases surpass 2,000 as more health workers begin strike",
-        "Source context: Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754."
+        "Key people or organizations: Legal, Trump ICC, US, Groups",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Legal challenge says Trump ICC sanctions tread on US citizens' rights",
+        "Source context: Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DRC Ebola.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Legal.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 15 Jul 2026 12:07:43 +0000",
-      "age_hours": "0.89",
+      "published": "Wed, 15 Jul 2026 14:24:53 +0000",
+      "age_hours": "0.83",
       "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     },
     {
-      "headline": "What are the Israeli withdrawal 'pilot zones' in southern Lebanon?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss",
-      "snapshot": "What are the Israeli withdrawal 'pilot zones' in southern Lebanon? The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/far-right-israeli-lawmaker-raids-palestinian-school-and-threatens-shutdown?traffic_source=rss",
+      "snapshot": "Israel's education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Israeli, Lebanon",
-        "Story focus: What are the Israeli withdrawal 'pilot zones' in southern Lebanon?",
-        "Source context: What are the Israeli withdrawal 'pilot zones' in southern Lebanon? The geopolitical angle is how the decision affects alliances, economic pressure,..."
+        "Key people or organizations: Far, Israeli, Palestinian, Israel",
+        "Story focus: Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
+        "Source context: Israel's education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -488,15 +488,15 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
+        "Watch for the next official action involving Far.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 15 Jul 2026 11:23:21 +0000",
-      "age_hours": "1.63",
+      "published": "Wed, 15 Jul 2026 13:34:53 +0000",
+      "age_hours": "1.67",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
