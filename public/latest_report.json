@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
-  "snapshot": "White House press secretary Karoline Leavitt offered a vague preview of President Trump's speech set for Thursday night, saying he will show that elections aren't as secure as people think. \"I think all Americans — Democrat, Republican — should agree that we are the greatest... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-16 04:40:45 PM ET",
-  "generated_at": "2026-07-16 04:40:45 PM ET",
+  "headline": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+  "snapshot": "Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial intelligence to approve or deny physician-ordered care. The vote on a resolution to invoke the Congressional Review Act (CRA) and end... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-07-16 05:52:09 PM ET",
+  "generated_at": "2026-07-16 05:52:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 154,
-    "live_fresh_items": 112,
-    "editor_fresh_items": 149,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 42,
+    "total_items_checked": 153,
+    "live_fresh_items": 121,
+    "editor_fresh_items": 148,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-16 04:40:45 PM ET"
+    "last_checked": "2026-07-16 05:52:09 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
-      "url": "https://thehill.com/policy/technology/5971386-paramount-shareholder-lawsuit-larry-david-ellison-warner-bros/",
-      "snapshot": "A press freedom group has filed a lawsuit seeking to stop Paramount Skydance's multibillion-dollar deal to acquire Warner Bros. Discovery, the media conglomerate that owns cable news channel CNN. The suit, filed in Delaware on behalf of Paramount shareholder Paul Robbins,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Paramount, Ellisons, Trump, Paramount Skydance",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
-        "Source context: A press freedom group has filed a lawsuit seeking to stop Paramount Skydance's multibillion-dollar deal to acquire Warner Bros. Discovery, the media..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Paramount.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 16 Jul 2026 13:55:10 +0000",
-      "age_hours": "6.76",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Husband of Code Pink founder being probed under federal foreign agent and tax laws",
       "url": "https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/",
@@ -73,9 +43,96 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 14:01:21 -0400",
-      "age_hours": "2.66",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "FIFA to probe Argentina's Falklands banner display at World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
+      "snapshot": "FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.",
+      "key_data": [
+        "Key people or organizations: FIFA, Argentina, Falklands, World Cup",
+        "Story focus: FIFA to probe Argentina's Falklands banner display at World Cup semifinal",
+        "Source context: FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving FIFA.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 16 Jul 2026 21:23:05 +0000",
+      "age_hours": "0.48",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Palestinians injured in Israeli settler attacks across West Bank",
+      "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
+      "snapshot": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Palestinians, Israeli, West Bank, More",
+        "Specific figures mentioned: 30",
+        "Story focus: Palestinians injured in Israeli settler attacks across West Bank",
+        "Source context: More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege. The geopolitical angle is how the decision..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Palestinians.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 16 Jul 2026 20:37:23 +0000",
+      "age_hours": "1.25",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+      "url": "https://thehill.com/policy/healthcare/5972792-senate-blocks-medicare-ai-pilot/",
+      "snapshot": "Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial intelligence to approve or deny physician-ordered care. The vote on a resolution to invoke the Congressional Review Act (CRA) and end... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate Republicans, Dem, Medicare, Democrats",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+        "Source context: Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Republicans.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 16 Jul 2026 20:51:17 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -103,74 +160,44 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 10:21:20 -0400",
-      "age_hours": "6.32",
+      "age_hours": "7.51",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
-      "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
-      "snapshot": "White House press secretary Karoline Leavitt offered a vague preview of President Trump's speech set for Thursday night, saying he will show that elections aren't as secure as people think. \"I think all Americans — Democrat, Republican — should agree that we are the greatest... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Leavitt, Trump, Election, White House",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt previews Trump's primetime speech",
-        "Source context: White House press secretary Karoline Leavitt offered a vague preview of President Trump's speech set for Thursday night, saying he will show that..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 16 Jul 2026 18:54:30 +0000",
-      "age_hours": "1.77",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "What happens if Mitch McConnell is unable to finish his US Senate term?",
-      "url": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
-      "snapshot": "The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Mitch McConnell, US Senate, Senate, Republican",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What happens if Mitch McConnell is unable to finish his US Senate term?",
-        "Source context: The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Mitch McConnell.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 16 Jul 2026 14:50:27 +0000",
-      "age_hours": "5.84",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+      "url": "https://thehill.com/policy/healthcare/5972792-senate-blocks-medicare-ai-pilot/",
+      "snapshot": "Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial intelligence to approve or deny physician-ordered care. The vote on a resolution to invoke the Congressional Review Act (CRA) and end... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate Republicans, Dem, Medicare, Democrats",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+        "Source context: Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Republicans.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 16 Jul 2026 20:51:17 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
       "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
       "snapshot": "White House press secretary Karoline Leavitt offered a vague preview of President Trump's speech set for Thursday night, saying he will show that elections aren't as secure as people think. \"I think all Americans — Democrat, Republican — should agree that we are the greatest... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
@@ -195,40 +222,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 16 Jul 2026 18:54:30 +0000",
-      "age_hours": "1.77",
+      "age_hours": "2.96",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
-    },
-    {
-      "headline": "Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
-      "url": "https://thehill.com/policy/technology/5971386-paramount-shareholder-lawsuit-larry-david-ellison-warner-bros/",
-      "snapshot": "A press freedom group has filed a lawsuit seeking to stop Paramount Skydance's multibillion-dollar deal to acquire Warner Bros. Discovery, the media conglomerate that owns cable news channel CNN. The suit, filed in Delaware on behalf of Paramount shareholder Paul Robbins,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Paramount, Ellisons, Trump, Paramount Skydance",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
-        "Source context: A press freedom group has filed a lawsuit seeking to stop Paramount Skydance's multibillion-dollar deal to acquire Warner Bros. Discovery, the media..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Paramount.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 16 Jul 2026 13:55:10 +0000",
-      "age_hours": "6.76",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Husband of Code Pink founder being probed under federal foreign agent and tax laws",
@@ -254,7 +251,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 14:01:21 -0400",
-      "age_hours": "2.66",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -284,49 +281,77 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 10:21:20 -0400",
-      "age_hours": "6.32",
+      "age_hours": "7.51",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "BREAKING"
     },
     {
-      "headline": "What happens if Mitch McConnell is unable to finish his US Senate term?",
-      "url": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
-      "snapshot": "The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "FIFA to probe Argentina's Falklands banner display at World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
+      "snapshot": "FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.",
       "key_data": [
-        "Key people or organizations: Mitch McConnell, US Senate, Senate, Republican",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What happens if Mitch McConnell is unable to finish his US Senate term?",
-        "Source context: The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda. The key question is leverage: the next..."
+        "Key people or organizations: FIFA, Argentina, Falklands, World Cup",
+        "Story focus: FIFA to probe Argentina's Falklands banner display at World Cup semifinal",
+        "Source context: FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Mitch McConnell.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving FIFA.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 16 Jul 2026 14:50:27 +0000",
-      "age_hours": "5.84",
+      "published": "Thu, 16 Jul 2026 21:23:05 +0000",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
       "editorial_score": "70",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
     "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
-    "Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
     "Husband of Code Pink founder being probed under federal foreign agent and tax laws"
   ],
   "sections": [
     {
+      "headline": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+      "url": "https://thehill.com/policy/healthcare/5972792-senate-blocks-medicare-ai-pilot/",
+      "snapshot": "Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial intelligence to approve or deny physician-ordered care. The vote on a resolution to invoke the Congressional Review Act (CRA) and end... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate Republicans, Dem, Medicare, Democrats",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+        "Source context: Senate Republicans blocked an attempt by Democrats on Thursday to stop a Trump administration pilot program for Medicare that uses artificial..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Republicans.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 16 Jul 2026 20:51:17 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
       "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
       "snapshot": "White House press secretary Karoline Leavitt offered a vague preview of President Trump's speech set for Thursday night, saying he will show that elections aren't as secure as people think. \"I think all Americans — Democrat, Republican — should agree that we are the greatest... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
@@ -351,40 +376,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 16 Jul 2026 18:54:30 +0000",
-      "age_hours": "1.77",
+      "age_hours": "2.96",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
-    },
-    {
-      "headline": "Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
-      "url": "https://thehill.com/policy/technology/5971386-paramount-shareholder-lawsuit-larry-david-ellison-warner-bros/",
-      "snapshot": "A press freedom group has filed a lawsuit seeking to stop Paramount Skydance's multibillion-dollar deal to acquire Warner Bros. Discovery, the media conglomerate that owns cable news channel CNN. The suit, filed in Delaware on behalf of Paramount shareholder Paul Robbins,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Paramount, Ellisons, Trump, Paramount Skydance",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Paramount shareholder sues Ellisons, alleging 'illegal' Trump deal",
-        "Source context: A press freedom group has filed a lawsuit seeking to stop Paramount Skydance's multibillion-dollar deal to acquire Warner Bros. Discovery, the media..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Paramount.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 16 Jul 2026 13:55:10 +0000",
-      "age_hours": "6.76",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Husband of Code Pink founder being probed under federal foreign agent and tax laws",
@@ -410,7 +405,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 14:01:21 -0400",
-      "age_hours": "2.66",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -440,70 +435,67 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 10:21:20 -0400",
-      "age_hours": "6.32",
+      "age_hours": "7.51",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "BREAKING"
     },
     {
-      "headline": "What happens if Mitch McConnell is unable to finish his US Senate term?",
-      "url": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
-      "snapshot": "The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "FIFA to probe Argentina's Falklands banner display at World Cup semifinal",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
+      "snapshot": "FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.",
       "key_data": [
-        "Key people or organizations: Mitch McConnell, US Senate, Senate, Republican",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What happens if Mitch McConnell is unable to finish his US Senate term?",
-        "Source context: The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda. The key question is leverage: the next..."
+        "Key people or organizations: FIFA, Argentina, Falklands, World Cup",
+        "Story focus: FIFA to probe Argentina's Falklands banner display at World Cup semifinal",
+        "Source context: FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Mitch McConnell.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving FIFA.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 16 Jul 2026 14:50:27 +0000",
-      "age_hours": "5.84",
+      "published": "Thu, 16 Jul 2026 21:23:05 +0000",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
       "editorial_score": "70",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
-      "url": "https://www.aljazeera.com/news/2026/7/16/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
-      "snapshot": "The US vice-president also said he faced 'vicious' personal attacks over his diplomatic outreach to end war. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Palestinians injured in Israeli settler attacks across West Bank",
+      "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
+      "snapshot": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Vance, Israeli, US, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
-        "Source context: The US vice-president also said he faced 'vicious' personal attacks over his diplomatic outreach to end war. The election angle is whether this..."
+        "Key people or organizations: Palestinians, Israeli, West Bank, More",
+        "Specific figures mentioned: 30",
+        "Story focus: Palestinians injured in Israeli settler attacks across West Bank",
+        "Source context: More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege. The geopolitical angle is how the decision..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Vance.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Palestinians.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 16 Jul 2026 16:13:25 +0000",
-      "age_hours": "4.46",
+      "published": "Thu, 16 Jul 2026 20:37:23 +0000",
+      "age_hours": "1.25",
       "freshness_status": "fresh",
-      "editorial_score": "68",
-      "urgency": ""
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
