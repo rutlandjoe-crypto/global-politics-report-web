@@ -1,52 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Fact checking Trump speech on election security",
-  "snapshot": "President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-07-17 05:42:24 AM ET",
-  "generated_at": "2026-07-17 05:42:24 AM ET",
+  "headline": "Fact-checking Trump's speech on election security",
+  "snapshot": "President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-07-17 07:11:40 AM ET",
+  "generated_at": "2026-07-17 07:11:40 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 46,
+    "live_fresh_items": 41,
     "editor_fresh_items": 147,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 105,
+    "stale_or_blocked_items": 110,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-17 05:42:24 AM ET"
+    "last_checked": "2026-07-17 07:11:40 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
-      "snapshot": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Falling, Iranian, Kuwait, Moment",
-        "Story focus: Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-        "Source context: Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Falling.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 17 Jul 2026 00:50:09 +0000",
-      "age_hours": "8.87",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "US strikes destroy key bridges, tower in southern Iran",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
@@ -70,21 +42,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 17 Jul 2026 08:57:56 +0000",
-      "age_hours": "0.74",
+      "age_hours": "2.23",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Fact checking Trump speech on election security",
+      "headline": "Fact-checking Trump's speech on election security",
       "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/",
-      "snapshot": "President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Fact, Trump, President Trump, White House",
         "Politics desk signal: house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fact checking Trump speech on election security",
-        "Source context: President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes,..."
+        "Story focus: Fact-checking Trump's speech on election security",
+        "Source context: President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -99,8 +71,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 17 Jul 2026 00:07:32 -0400",
-      "age_hours": "5.58",
+      "published": "Fri, 17 Jul 2026 00:07:00 -0400",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -130,9 +102,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 19:25:37 -0400",
-      "age_hours": "10.28",
+      "age_hours": "11.77",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Firing of top prosecutor in Seattle tests limits of Trump's power",
+      "url": "https://thehill.com/regulation/court-battles/5972786-trump-fires-seattle-us-attorney/",
+      "snapshot": "The Trump administration's latest firing of a U.S. attorney is intensifying the Justice Department's assertion of presidential control over prosecutorial picks. Roger Rogoff was sacked Wednesday as the top federal prosecutor in Seattle after a panel of 17 judges appointed him.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Firing, Seattle, Trump, Justice Department",
+        "Specific figures mentioned: 17",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Firing of top prosecutor in Seattle tests limits of Trump's power"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Firing.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "age_hours": "1.19",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -160,7 +162,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 17 Jul 2026 00:30:00 +0000",
-      "age_hours": "9.21",
+      "age_hours": "10.69",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -168,15 +170,15 @@
   ],
   "editor_signals": [
     {
-      "headline": "Fact checking Trump speech on election security",
+      "headline": "Fact-checking Trump's speech on election security",
       "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/",
-      "snapshot": "President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Fact, Trump, President Trump, White House",
         "Politics desk signal: house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fact checking Trump speech on election security",
-        "Source context: President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes,..."
+        "Story focus: Fact-checking Trump's speech on election security",
+        "Source context: President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -191,8 +193,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 17 Jul 2026 00:07:32 -0400",
-      "age_hours": "5.58",
+      "published": "Fri, 17 Jul 2026 00:07:00 -0400",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -222,9 +224,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 19:25:37 -0400",
-      "age_hours": "10.28",
+      "age_hours": "11.77",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Firing of top prosecutor in Seattle tests limits of Trump's power",
+      "url": "https://thehill.com/regulation/court-battles/5972786-trump-fires-seattle-us-attorney/",
+      "snapshot": "The Trump administration's latest firing of a U.S. attorney is intensifying the Justice Department's assertion of presidential control over prosecutorial picks. Roger Rogoff was sacked Wednesday as the top federal prosecutor in Seattle after a panel of 17 judges appointed him.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Firing, Seattle, Trump, Justice Department",
+        "Specific figures mentioned: 17",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Firing of top prosecutor in Seattle tests limits of Trump's power"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Firing.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "age_hours": "1.19",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -252,21 +284,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 17 Jul 2026 00:30:00 +0000",
-      "age_hours": "9.21",
+      "age_hours": "10.69",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "White House revives rule to deny green cards to migrants who use safety net programs",
-      "url": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
-      "snapshot": "The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like Medicaid, housing assistance or food stamps. The policy governs how officials can apply the \"public charge\" test, which is used to... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump's new election push, explained",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
+      "snapshot": "US President Donald Trump used a primetime White House address to revive claims about the 2020 election. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: White House, Medicaid",
-        "Politics desk signal: house, white house, immigration",
+        "Key people or organizations: Trump, US President Donald Trump, White House",
+        "Specific figures mentioned: 2020",
+        "Politics desk signal: house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House revives rule to deny green cards to migrants who use safety net programs",
-        "Source context: The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like..."
+        "Story focus: Trump's new election push, explained"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -274,64 +306,36 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 16 Jul 2026 22:28:49 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
-      "snapshot": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Falling, Iranian, Kuwait, Moment",
-        "Story focus: Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-        "Source context: Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Falling.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 17 Jul 2026 00:50:09 +0000",
-      "age_hours": "8.87",
+      "published": "Fri, 17 Jul 2026 10:40:11 +0000",
+      "age_hours": "0.52",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "94",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Fact checking Trump speech on election security",
+    "Fact-checking Trump's speech on election security",
     "Trump expected to allege Chinese meddling in U.S. elections during primetime speech, sources say",
-    "Watch live: Trump gives primetime address with focus on elections"
+    "Firing of top prosecutor in Seattle tests limits of Trump's power"
   ],
   "sections": [
     {
-      "headline": "Fact checking Trump speech on election security",
+      "headline": "Fact-checking Trump's speech on election security",
       "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/",
-      "snapshot": "President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "snapshot": "President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
         "Key people or organizations: Fact, Trump, President Trump, White House",
         "Politics desk signal: house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fact checking Trump speech on election security",
-        "Source context: President Trump is delivering a speech on election security Thursday night at the White House. The key question is leverage: the next votes,..."
+        "Story focus: Fact-checking Trump's speech on election security",
+        "Source context: President Trump delivered a speech on election security Thursday night at the White House. Here are the facts behind some of his claims. The key..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -346,8 +350,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 17 Jul 2026 00:07:32 -0400",
-      "age_hours": "5.58",
+      "published": "Fri, 17 Jul 2026 00:07:00 -0400",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -377,9 +381,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 16 Jul 2026 19:25:37 -0400",
-      "age_hours": "10.28",
+      "age_hours": "11.77",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Firing of top prosecutor in Seattle tests limits of Trump's power",
+      "url": "https://thehill.com/regulation/court-battles/5972786-trump-fires-seattle-us-attorney/",
+      "snapshot": "The Trump administration's latest firing of a U.S. attorney is intensifying the Justice Department's assertion of presidential control over prosecutorial picks. Roger Rogoff was sacked Wednesday as the top federal prosecutor in Seattle after a panel of 17 judges appointed him.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Firing, Seattle, Trump, Justice Department",
+        "Specific figures mentioned: 17",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Firing of top prosecutor in Seattle tests limits of Trump's power"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Firing.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 17 Jul 2026 10:00:00 +0000",
+      "age_hours": "1.19",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -407,21 +441,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 17 Jul 2026 00:30:00 +0000",
-      "age_hours": "9.21",
+      "age_hours": "10.69",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "White House revives rule to deny green cards to migrants who use safety net programs",
-      "url": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
-      "snapshot": "The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like Medicaid, housing assistance or food stamps. The policy governs how officials can apply the \"public charge\" test, which is used to... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump's new election push, explained",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
+      "snapshot": "US President Donald Trump used a primetime White House address to revive claims about the 2020 election. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: White House, Medicaid",
-        "Politics desk signal: house, white house, immigration",
+        "Key people or organizations: Trump, US President Donald Trump, White House",
+        "Specific figures mentioned: 2020",
+        "Politics desk signal: house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House revives rule to deny green cards to migrants who use safety net programs",
-        "Source context: The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like..."
+        "Story focus: Trump's new election push, explained"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -429,46 +463,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 16 Jul 2026 22:28:49 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
-      "snapshot": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Falling, Iranian, Kuwait, Moment",
-        "Story focus: Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-        "Source context: Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Falling.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 17 Jul 2026 00:50:09 +0000",
-      "age_hours": "8.87",
+      "published": "Fri, 17 Jul 2026 10:40:11 +0000",
+      "age_hours": "0.52",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "94",
+      "urgency": ""
     },
     {
       "headline": "US strikes destroy key bridges, tower in southern Iran",
@@ -493,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 17 Jul 2026 08:57:56 +0000",
-      "age_hours": "0.74",
+      "age_hours": "2.23",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
