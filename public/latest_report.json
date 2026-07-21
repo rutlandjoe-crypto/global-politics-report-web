@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Thune: Senate GOP will 'hold' budget reconciliation bill as backup plan to avoid shutdown",
-  "snapshot": "Senate Majority Leader John Thune (R-S.D.) announced on Tuesday that Senate Republicans will \"hold\" any budget reconciliation framework passed by the House to use as a potential back-up plan to avoid a government shutdown at the end of September. Thune told reporters that... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-07-21 04:09:40 PM ET",
-  "generated_at": "2026-07-21 04:09:40 PM ET",
+  "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
+  "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-07-21 05:50:37 PM ET",
+  "generated_at": "2026-07-21 05:50:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 105,
-    "editor_fresh_items": 138,
-    "public_fallback_items": 143,
-    "stale_or_blocked_items": 40,
+    "total_items_checked": 147,
+    "live_fresh_items": 120,
+    "editor_fresh_items": 141,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-21 04:09:40 PM ET"
+    "last_checked": "2026-07-21 05:50:37 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
+      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
+      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Seattle, Trump, Roger Rogoff",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
+        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Seattle.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 21 Jul 2026 16:40:17 -0400",
+      "age_hours": "1.17",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Thune: Senate GOP will 'hold' budget reconciliation bill as backup plan to avoid shutdown",
       "url": "https://thehill.com/homenews/senate/5981597-senate-republicans-hold-house-budget-resolution/",
@@ -44,39 +74,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 21 Jul 2026 19:46:04 +0000",
-      "age_hours": "0.39",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss",
-      "snapshot": "Lebanese President Joseph Aoun says his goal is to end 'state of hostility between Lebanon and Israel forever'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Lebanon, Lebanese President Joseph Aoun",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-        "Source context: Lebanese President Joseph Aoun says his goal is to end 'state of hostility between Lebanon and Israel forever'. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 21 Jul 2026 16:58:59 +0000",
-      "age_hours": "3.18",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,74 +104,104 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 21 Jul 2026 19:16:08 +0000",
-      "age_hours": "0.89",
+      "age_hours": "2.57",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: House Republicans give remarks amid budget battle",
-      "url": "https://thehill.com/video-clips/5979910-watch-live-house-republicans-mike-johnson-weekly-remarks/",
-      "snapshot": "House Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning, as the lower chamber of Congress is looking to avoid another potential shutdown. GOP lawmakers are preparing to vote later Tuesday on a stopgap measure that would keep federal... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "US judge blocks Trump bid to strip work permits from immigrants",
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
+      "snapshot": "The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: House Republicans, House Speaker Mike Johnson",
-        "Politics desk signal: congress, house, budget",
+        "Key people or organizations: Trump, El Salvador",
+        "Politics desk signal: court, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: House Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning, as the lower chamber of Congress is looking to..."
+        "Story focus: US judge blocks Trump bid to strip work permits from immigrants",
+        "Source context: The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds. The broader significance is..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Republicans.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 21 Jul 2026 13:00:00 +0000",
-      "age_hours": "7.16",
-      "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods",
-      "url": "https://www.cbsnews.com/news/trump-canada-tariffs-hockey-milk-alcohol/",
-      "snapshot": "President Trump is imposing 50% tariffs on a range of Canadian goods, from hockey equipment to alcoholic beverages, escalating the trade dispute between the two countries. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Canadian, President Trump",
-        "Specific figures mentioned: 50%",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 21 Jul 2026 19:44:16 +0000",
+      "age_hours": "2.11",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Watch live: Hegseth, Caine testify before Senate on Iran supplemental funding",
+      "url": "https://thehill.com/video-clips/5981033-watch-live-pete-hegseth-dan-caine-brooke-rollins-supplemental-iran-funding/",
+      "snapshot": "Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will testify before the Senate Appropriations Committee on Tuesday afternoon on the White House's $87.6 billion supplemental funding request. The Trump administration's ask would pay for the Iran war,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Hegseth, Caine, Senate, Iran",
+        "Specific figures mentioned: $87.6 billion",
+        "Politics desk signal: senate, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hegseth.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 21 Jul 2026 15:26:00 -0400",
-      "age_hours": "0.73",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 21 Jul 2026 18:05:12 +0000",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
+      "editorial_score": "123",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
+      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
+      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
+      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Seattle, Trump, Roger Rogoff",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
+        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Seattle.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 21 Jul 2026 16:40:17 -0400",
+      "age_hours": "1.17",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "BREAKING"
+    },
+    {
       "headline": "Thune: Senate GOP will 'hold' budget reconciliation bill as backup plan to avoid shutdown",
       "url": "https://thehill.com/homenews/senate/5981597-senate-republicans-hold-house-budget-resolution/",
       "snapshot": "Senate Majority Leader John Thune (R-S.D.) announced on Tuesday that Senate Republicans will \"hold\" any budget reconciliation framework passed by the House to use as a potential back-up plan to avoid a government shutdown at the end of September. Thune told reporters that... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
@@ -196,21 +226,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 21 Jul 2026 19:46:04 +0000",
-      "age_hours": "0.39",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: House Republicans give remarks amid budget battle",
-      "url": "https://thehill.com/video-clips/5979910-watch-live-house-republicans-mike-johnson-weekly-remarks/",
-      "snapshot": "House Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning, as the lower chamber of Congress is looking to avoid another potential shutdown. GOP lawmakers are preparing to vote later Tuesday on a stopgap measure that would keep federal... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Watch live: Hegseth, Caine testify before Senate on Iran supplemental funding",
+      "url": "https://thehill.com/video-clips/5981033-watch-live-pete-hegseth-dan-caine-brooke-rollins-supplemental-iran-funding/",
+      "snapshot": "Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will testify before the Senate Appropriations Committee on Tuesday afternoon on the White House's $87.6 billion supplemental funding request. The Trump administration's ask would pay for the Iran war,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: House Republicans, House Speaker Mike Johnson",
-        "Politics desk signal: congress, house, budget",
+        "Key people or organizations: Hegseth, Caine, Senate, Iran",
+        "Specific figures mentioned: $87.6 billion",
+        "Politics desk signal: senate, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: House Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning, as the lower chamber of Congress is looking to..."
+        "Story focus: Watch live"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -218,18 +248,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House Republicans.",
+        "Watch for the next official action involving Hegseth.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 21 Jul 2026 13:00:00 +0000",
-      "age_hours": "7.16",
+      "published": "Tue, 21 Jul 2026 18:05:12 +0000",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
+      "editorial_score": "123",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods",
@@ -256,51 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 21 Jul 2026 15:26:00 -0400",
-      "age_hours": "0.73",
+      "age_hours": "2.41",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss",
-      "snapshot": "Lebanese President Joseph Aoun says his goal is to end 'state of hostility between Lebanon and Israel forever'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "US judge blocks Trump bid to strip work permits from immigrants",
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
+      "snapshot": "The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Lebanon, Lebanese President Joseph Aoun",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, El Salvador",
+        "Politics desk signal: court, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-        "Source context: Lebanese President Joseph Aoun says his goal is to end 'state of hostility between Lebanon and Israel forever'. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 21 Jul 2026 16:58:59 +0000",
-      "age_hours": "3.18",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court will review Alaska's bid to seize plane over 6-pack of beer",
-      "url": "https://www.cbsnews.com/news/supreme-court-alaska-seize-pilot-plane-6-pack-beer/",
-      "snapshot": "The pilot, Kenneth Jouppi, argues that taking his 1969 Cessna would violate the Eighth Amendment's \"Excessive Fines Clause.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, Kenneth Jouppi",
-        "Specific figures mentioned: 6, 1969",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court will review Alaska's bid to seize plane over 6-pack of beer"
+        "Story focus: US judge blocks Trump bid to strip work permits from immigrants",
+        "Source context: The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds. The broader significance is..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -308,26 +308,56 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Trump.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 21 Jul 2026 07:01:34 -0400",
-      "age_hours": "9.13",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 21 Jul 2026 19:44:16 +0000",
+      "age_hours": "2.11",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
+      "editorial_score": "98",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Ex-U.S. attorney in Seattle sues Trump over firing",
     "Thune: Senate GOP will 'hold' budget reconciliation bill as backup plan to avoid shutdown",
-    "Watch live: House Republicans give remarks amid budget battle",
-    "Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods"
+    "Watch live: Hegseth, Caine testify before Senate on Iran supplemental funding"
   ],
   "sections": [
+    {
+      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
+      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
+      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Seattle, Trump, Roger Rogoff",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
+        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Seattle.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 21 Jul 2026 16:40:17 -0400",
+      "age_hours": "1.17",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Thune: Senate GOP will 'hold' budget reconciliation bill as backup plan to avoid shutdown",
       "url": "https://thehill.com/homenews/senate/5981597-senate-republicans-hold-house-budget-resolution/",
@@ -353,21 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 21 Jul 2026 19:46:04 +0000",
-      "age_hours": "0.39",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: House Republicans give remarks amid budget battle",
-      "url": "https://thehill.com/video-clips/5979910-watch-live-house-republicans-mike-johnson-weekly-remarks/",
-      "snapshot": "House Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning, as the lower chamber of Congress is looking to avoid another potential shutdown. GOP lawmakers are preparing to vote later Tuesday on a stopgap measure that would keep federal... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Watch live: Hegseth, Caine testify before Senate on Iran supplemental funding",
+      "url": "https://thehill.com/video-clips/5981033-watch-live-pete-hegseth-dan-caine-brooke-rollins-supplemental-iran-funding/",
+      "snapshot": "Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will testify before the Senate Appropriations Committee on Tuesday afternoon on the White House's $87.6 billion supplemental funding request. The Trump administration's ask would pay for the Iran war,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: House Republicans, House Speaker Mike Johnson",
-        "Politics desk signal: congress, house, budget",
+        "Key people or organizations: Hegseth, Caine, Senate, Iran",
+        "Specific figures mentioned: $87.6 billion",
+        "Politics desk signal: senate, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: House Speaker Mike Johnson (R-La.) and Republican leaders will speak with reporters Tuesday morning, as the lower chamber of Congress is looking to..."
+        "Story focus: Watch live"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -375,18 +405,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House Republicans.",
+        "Watch for the next official action involving Hegseth.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 21 Jul 2026 13:00:00 +0000",
-      "age_hours": "7.16",
+      "published": "Tue, 21 Jul 2026 18:05:12 +0000",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
-      "editorial_score": "117",
-      "urgency": "DEVELOPING"
+      "editorial_score": "123",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods",
@@ -413,51 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 21 Jul 2026 15:26:00 -0400",
-      "age_hours": "0.73",
+      "age_hours": "2.41",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss",
-      "snapshot": "Lebanese President Joseph Aoun says his goal is to end 'state of hostility between Lebanon and Israel forever'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "US judge blocks Trump bid to strip work permits from immigrants",
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
+      "snapshot": "The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Lebanon, Lebanese President Joseph Aoun",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, El Salvador",
+        "Politics desk signal: court, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-        "Source context: Lebanese President Joseph Aoun says his goal is to end 'state of hostility between Lebanon and Israel forever'. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 21 Jul 2026 16:58:59 +0000",
-      "age_hours": "3.18",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court will review Alaska's bid to seize plane over 6-pack of beer",
-      "url": "https://www.cbsnews.com/news/supreme-court-alaska-seize-pilot-plane-6-pack-beer/",
-      "snapshot": "The pilot, Kenneth Jouppi, argues that taking his 1969 Cessna would violate the Eighth Amendment's \"Excessive Fines Clause.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, Kenneth Jouppi",
-        "Specific figures mentioned: 6, 1969",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court will review Alaska's bid to seize plane over 6-pack of beer"
+        "Story focus: US judge blocks Trump bid to strip work permits from immigrants",
+        "Source context: The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds. The broader significance is..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -465,18 +465,18 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Trump.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 21 Jul 2026 07:01:34 -0400",
-      "age_hours": "9.13",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 21 Jul 2026 19:44:16 +0000",
+      "age_hours": "2.11",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
+      "editorial_score": "98",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump says he's open to talks with Hezbollah, vows to help Lebanon",
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 21 Jul 2026 19:16:08 +0000",
-      "age_hours": "0.89",
+      "age_hours": "2.57",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
