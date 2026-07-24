@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
   "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-24 02:08:33 PM ET",
-  "generated_at": "2026-07-24 02:08:33 PM ET",
+  "updated_at": "2026-07-24 04:07:51 PM ET",
+  "generated_at": "2026-07-24 04:07:51 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 65,
-    "editor_fresh_items": 139,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 83,
+    "total_items_checked": 149,
+    "live_fresh_items": 79,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 70,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-24 02:08:33 PM ET"
+    "last_checked": "2026-07-24 04:07:51 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 12:35:38 +0000",
-      "age_hours": "5.55",
+      "age_hours": "7.54",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -73,10 +73,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "4.10",
+      "age_hours": "6.09",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump's new tariffs hit with lawsuit",
+      "url": "https://thehill.com/business/5989133-businesses-challenge-trump-tariffs/",
+      "snapshot": "President Trump's new tariffs were hit with a legal challenge Friday from two small businesses who are represented by part of the legal team that toppled Trump's earlier tariffs at the Supreme Court. The new surcharge, between 10 percent and 12.5 percent on goods imported from... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Supreme Court",
+        "Specific figures mentioned: 10, 12.5",
+        "Politics desk signal: supreme court, court, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's new tariffs hit with lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 24 Jul 2026 19:19:11 +0000",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
@@ -103,51 +133,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "age_hours": "8.14",
+      "age_hours": "10.13",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump says Russia, China not 'participating' in Iran war 'in my opinion'",
-      "url": "https://thehill.com/homenews/administration/5988554-trump-china-russia-iran-support/",
-      "snapshot": "President Trump on Friday said he takes at face value testimony from the leaders of China and Russia that they are not providing weapons to Iran or otherwise \"participating\" in its war with the United States and Israel. The president's defense, issued in a statement on his... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump says U.S. to investigate EU trade practices over tech company fines",
+      "url": "https://www.cbsnews.com/news/trump-section-301-investigation-european-union-trade-google-meta-apple-amazon/",
+      "snapshot": "President Trump accused the European Union of \"robbing\" American companies and taxpayers. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Russia, China, Iran",
-        "Politics desk signal: election, campaign, china",
+        "Key people or organizations: Trump, EU, President Trump, European Union",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says Russia, China not 'participating' in Iran war 'in my opinion'",
-        "Source context: President Trump on Friday said he takes at face value testimony from the leaders of China and Russia that they are not providing weapons to Iran or..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 16:27:24 +0000",
-      "age_hours": "1.69",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Here are the new tariff rates on dozens of countries targeted by Trump",
-      "url": "https://www.cbsnews.com/news/trump-tariff-rates-60-countries-forced-labor/",
-      "snapshot": "President Trump announced new tariffs of up to 12.5% to replace expiring Section 122 levies. Here are the rates for each country. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Specific figures mentioned: 12.5%, 122",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Here are the new tariff rates on dozens of countries targeted by Trump"
+        "Story focus: Trump says U.S. to investigate EU trade practices over tech company fines",
+        "Source context: President Trump accused the European Union of \"robbing\" American companies and taxpayers. The election angle is whether this changes voter attention,..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -162,8 +162,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 10:13:00 -0400",
-      "age_hours": "3.93",
+      "published": "Fri, 24 Jul 2026 14:38:51 -0400",
+      "age_hours": "1.48",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -195,10 +195,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "4.10",
+      "age_hours": "6.09",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump's new tariffs hit with lawsuit",
+      "url": "https://thehill.com/business/5989133-businesses-challenge-trump-tariffs/",
+      "snapshot": "President Trump's new tariffs were hit with a legal challenge Friday from two small businesses who are represented by part of the legal team that toppled Trump's earlier tariffs at the Supreme Court. The new surcharge, between 10 percent and 12.5 percent on goods imported from... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Supreme Court",
+        "Specific figures mentioned: 10, 12.5",
+        "Politics desk signal: supreme court, court, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's new tariffs hit with lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 24 Jul 2026 19:19:11 +0000",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
@@ -225,51 +255,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "age_hours": "8.14",
+      "age_hours": "10.13",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump says Russia, China not 'participating' in Iran war 'in my opinion'",
-      "url": "https://thehill.com/homenews/administration/5988554-trump-china-russia-iran-support/",
-      "snapshot": "President Trump on Friday said he takes at face value testimony from the leaders of China and Russia that they are not providing weapons to Iran or otherwise \"participating\" in its war with the United States and Israel. The president's defense, issued in a statement on his... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump says U.S. to investigate EU trade practices over tech company fines",
+      "url": "https://www.cbsnews.com/news/trump-section-301-investigation-european-union-trade-google-meta-apple-amazon/",
+      "snapshot": "President Trump accused the European Union of \"robbing\" American companies and taxpayers. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Russia, China, Iran",
-        "Politics desk signal: election, campaign, china",
+        "Key people or organizations: Trump, EU, President Trump, European Union",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says Russia, China not 'participating' in Iran war 'in my opinion'",
-        "Source context: President Trump on Friday said he takes at face value testimony from the leaders of China and Russia that they are not providing weapons to Iran or..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 16:27:24 +0000",
-      "age_hours": "1.69",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Here are the new tariff rates on dozens of countries targeted by Trump",
-      "url": "https://www.cbsnews.com/news/trump-tariff-rates-60-countries-forced-labor/",
-      "snapshot": "President Trump announced new tariffs of up to 12.5% to replace expiring Section 122 levies. Here are the rates for each country. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Specific figures mentioned: 12.5%, 122",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Here are the new tariff rates on dozens of countries targeted by Trump"
+        "Story focus: Trump says U.S. to investigate EU trade practices over tech company fines",
+        "Source context: President Trump accused the European Union of \"robbing\" American companies and taxpayers. The election angle is whether this changes voter attention,..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -284,8 +284,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 10:13:00 -0400",
-      "age_hours": "3.93",
+      "published": "Fri, 24 Jul 2026 14:38:51 -0400",
+      "age_hours": "1.48",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -315,7 +315,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 16:01:18 +0000",
-      "age_hours": "2.12",
+      "age_hours": "4.11",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -323,8 +323,8 @@
   ],
   "key_storylines": [
     "Ex-U.S. attorney in Seattle sues Trump over firing",
-    "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-    "Trump says Russia, China not 'participating' in Iran war 'in my opinion'"
+    "Trump's new tariffs hit with lawsuit",
+    "Tensions rise between GOP leader Thune, White House over stalled Trump agenda"
   ],
   "sections": [
     {
@@ -352,10 +352,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "4.10",
+      "age_hours": "6.09",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump's new tariffs hit with lawsuit",
+      "url": "https://thehill.com/business/5989133-businesses-challenge-trump-tariffs/",
+      "snapshot": "President Trump's new tariffs were hit with a legal challenge Friday from two small businesses who are represented by part of the legal team that toppled Trump's earlier tariffs at the Supreme Court. The new surcharge, between 10 percent and 12.5 percent on goods imported from... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Supreme Court",
+        "Specific figures mentioned: 10, 12.5",
+        "Politics desk signal: supreme court, court, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's new tariffs hit with lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 24 Jul 2026 19:19:11 +0000",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
@@ -382,51 +412,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "age_hours": "8.14",
+      "age_hours": "10.13",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump says Russia, China not 'participating' in Iran war 'in my opinion'",
-      "url": "https://thehill.com/homenews/administration/5988554-trump-china-russia-iran-support/",
-      "snapshot": "President Trump on Friday said he takes at face value testimony from the leaders of China and Russia that they are not providing weapons to Iran or otherwise \"participating\" in its war with the United States and Israel. The president's defense, issued in a statement on his... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump says U.S. to investigate EU trade practices over tech company fines",
+      "url": "https://www.cbsnews.com/news/trump-section-301-investigation-european-union-trade-google-meta-apple-amazon/",
+      "snapshot": "President Trump accused the European Union of \"robbing\" American companies and taxpayers. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Russia, China, Iran",
-        "Politics desk signal: election, campaign, china",
+        "Key people or organizations: Trump, EU, President Trump, European Union",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says Russia, China not 'participating' in Iran war 'in my opinion'",
-        "Source context: President Trump on Friday said he takes at face value testimony from the leaders of China and Russia that they are not providing weapons to Iran or..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 16:27:24 +0000",
-      "age_hours": "1.69",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Here are the new tariff rates on dozens of countries targeted by Trump",
-      "url": "https://www.cbsnews.com/news/trump-tariff-rates-60-countries-forced-labor/",
-      "snapshot": "President Trump announced new tariffs of up to 12.5% to replace expiring Section 122 levies. Here are the rates for each country. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Specific figures mentioned: 12.5%, 122",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Here are the new tariff rates on dozens of countries targeted by Trump"
+        "Story focus: Trump says U.S. to investigate EU trade practices over tech company fines",
+        "Source context: President Trump accused the European Union of \"robbing\" American companies and taxpayers. The election angle is whether this changes voter attention,..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -441,8 +441,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 10:13:00 -0400",
-      "age_hours": "3.93",
+      "published": "Fri, 24 Jul 2026 14:38:51 -0400",
+      "age_hours": "1.48",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -472,7 +472,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 16:01:18 +0000",
-      "age_hours": "2.12",
+      "age_hours": "4.11",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 12:35:38 +0000",
-      "age_hours": "5.55",
+      "age_hours": "7.54",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
