@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
   "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-24 05:51:30 PM ET",
-  "generated_at": "2026-07-24 05:51:30 PM ET",
+  "updated_at": "2026-07-24 06:48:11 PM ET",
+  "generated_at": "2026-07-24 06:48:11 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
+    "total_items_checked": 150,
     "live_fresh_items": 90,
     "editor_fresh_items": 143,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 59,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 60,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-24 05:51:30 PM ET"
+    "last_checked": "2026-07-24 06:48:11 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "7.82",
+      "age_hours": "8.76",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump fires back at EU over Google's $1B fine, launches probe",
+      "url": "https://thehill.com/policy/technology/5988736-trump-eu-google-fine-investigation/",
+      "snapshot": "President Trump on Friday slammed the European Union for fining Google over allegedly violating its digital competition law, stating the \"illegal and highly discriminatory practice\" will be probed in a trade investigation. \"The European Union is at it again and, as usual,... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, EU, Google, President Trump",
+        "Specific figures mentioned: $1B",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump fires back at EU over Google's $1B fine, launches probe"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 24 Jul 2026 18:06:08 +0000",
+      "age_hours": "4.70",
+      "freshness_status": "fresh",
+      "editorial_score": "117",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump's new tariffs hit with lawsuit",
@@ -74,40 +104,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "2.54",
+      "age_hours": "3.48",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-      "url": "https://thehill.com/homenews/senate/5987407-trump-thune-senate-tensions/",
-      "snapshot": "Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP's inability to pass the Safeguard American Voter Eligibility (SAVE America) Act or emergency funding for the Pentagon at a critical moment during Trump's second term.... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Tensions, GOP, Thune, White House",
-        "Politics desk signal: senate, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-        "Source context: Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP's inability to pass the Safeguard..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Tensions.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "age_hours": "11.86",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
     },
     {
       "headline": "Trump says U.S. to investigate EU trade practices over tech company fines",
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 14:38:51 -0400",
-      "age_hours": "3.21",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 16:30:20 +0000",
-      "age_hours": "5.35",
+      "age_hours": "6.30",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "7.82",
+      "age_hours": "8.76",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "BREAKING"
@@ -226,21 +226,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "2.54",
+      "age_hours": "3.48",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-      "url": "https://thehill.com/homenews/senate/5987407-trump-thune-senate-tensions/",
-      "snapshot": "Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP's inability to pass the Safeguard American Voter Eligibility (SAVE America) Act or emergency funding for the Pentagon at a critical moment during Trump's second term.... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump fires back at EU over Google's $1B fine, launches probe",
+      "url": "https://thehill.com/policy/technology/5988736-trump-eu-google-fine-investigation/",
+      "snapshot": "President Trump on Friday slammed the European Union for fining Google over allegedly violating its digital competition law, stating the \"illegal and highly discriminatory practice\" will be probed in a trade investigation. \"The European Union is at it again and, as usual,... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: Tensions, GOP, Thune, White House",
-        "Politics desk signal: senate, house, white house",
+        "Key people or organizations: Trump, EU, Google, President Trump",
+        "Specific figures mentioned: $1B",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-        "Source context: Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP's inability to pass the Safeguard..."
+        "Story focus: Trump fires back at EU over Google's $1B fine, launches probe"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -248,18 +248,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Tensions.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "age_hours": "11.86",
+      "published": "Fri, 24 Jul 2026 18:06:08 +0000",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
+      "editorial_score": "117",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump says U.S. to investigate EU trade practices over tech company fines",
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 14:38:51 -0400",
-      "age_hours": "3.21",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 16:30:20 +0000",
-      "age_hours": "5.35",
+      "age_hours": "6.30",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Ex-U.S. attorney in Seattle sues Trump over firing",
     "Trump's new tariffs hit with lawsuit",
-    "Tensions rise between GOP leader Thune, White House over stalled Trump agenda"
+    "Trump fires back at EU over Google's $1B fine, launches probe"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "7.82",
+      "age_hours": "8.76",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "BREAKING"
@@ -383,21 +383,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "2.54",
+      "age_hours": "3.48",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-      "url": "https://thehill.com/homenews/senate/5987407-trump-thune-senate-tensions/",
-      "snapshot": "Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP's inability to pass the Safeguard American Voter Eligibility (SAVE America) Act or emergency funding for the Pentagon at a critical moment during Trump's second term.... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump fires back at EU over Google's $1B fine, launches probe",
+      "url": "https://thehill.com/policy/technology/5988736-trump-eu-google-fine-investigation/",
+      "snapshot": "President Trump on Friday slammed the European Union for fining Google over allegedly violating its digital competition law, stating the \"illegal and highly discriminatory practice\" will be probed in a trade investigation. \"The European Union is at it again and, as usual,... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: Tensions, GOP, Thune, White House",
-        "Politics desk signal: senate, house, white house",
+        "Key people or organizations: Trump, EU, Google, President Trump",
+        "Specific figures mentioned: $1B",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Tensions rise between GOP leader Thune, White House over stalled Trump agenda",
-        "Source context: Tensions are rising between Senate Majority Leader John Thune (R-S.D.) and President Trump over the Senate GOP's inability to pass the Safeguard..."
+        "Story focus: Trump fires back at EU over Google's $1B fine, launches probe"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,18 +405,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Tensions.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "age_hours": "11.86",
+      "published": "Fri, 24 Jul 2026 18:06:08 +0000",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
+      "editorial_score": "117",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump says U.S. to investigate EU trade practices over tech company fines",
@@ -443,7 +443,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 14:38:51 -0400",
-      "age_hours": "3.21",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 16:30:20 +0000",
-      "age_hours": "5.35",
+      "age_hours": "6.30",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 20:32:12 +0000",
-      "age_hours": "1.32",
+      "age_hours": "2.27",
       "freshness_status": "fresh",
       "editorial_score": "60",
       "urgency": ""
