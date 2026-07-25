@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
-  "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-07-24 09:17:39 PM ET",
-  "generated_at": "2026-07-24 09:17:39 PM ET",
+  "headline": "Trump's new tariffs hit with lawsuit",
+  "snapshot": "President Trump's new tariffs were hit with a legal challenge Friday from two small businesses that are represented by part of the legal team that toppled Trump's earlier tariffs at the Supreme Court. The new surcharge, between 10 percent and 12.5 percent on goods imported... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-07-25 12:52:05 AM ET",
+  "generated_at": "2026-07-25 12:52:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 87,
+    "total_items_checked": 149,
+    "live_fresh_items": 71,
     "editor_fresh_items": 146,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 61,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 78,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-24 09:17:39 PM ET"
+    "last_checked": "2026-07-25 12:52:05 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
-      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
-      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Seattle, Trump, Roger Rogoff",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
-        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Seattle.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "11.26",
-      "freshness_status": "fresh",
-      "editorial_score": "134",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Trump fires back at EU over Google's $1B fine, launches probe",
       "url": "https://thehill.com/policy/technology/5988736-trump-eu-google-fine-investigation/",
@@ -74,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 18:06:08 +0000",
-      "age_hours": "7.19",
+      "age_hours": "10.77",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "DEVELOPING"
@@ -104,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "5.97",
+      "age_hours": "9.55",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -134,7 +104,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "1.33",
+      "age_hours": "4.90",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
+      "url": "https://www.cbsnews.com/news/trump-smithsonian-museum-warning-signs-inaccurate-information/",
+      "snapshot": "President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, National Museum",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
+        "Source context: President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\"..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 24 Jul 2026 19:38:46 -0400",
+      "age_hours": "5.22",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 00:00:00 +0000",
-      "age_hours": "1.29",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -172,36 +172,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
-      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
-      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Seattle, Trump, Roger Rogoff",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
-        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Seattle.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "11.26",
-      "freshness_status": "fresh",
-      "editorial_score": "134",
-      "urgency": "BREAKING"
-    },
-    {
       "headline": "Trump's new tariffs hit with lawsuit",
       "url": "https://thehill.com/business/5989133-businesses-challenge-trump-tariffs/",
       "snapshot": "President Trump's new tariffs were hit with a legal challenge Friday from two small businesses that are represented by part of the legal team that toppled Trump's earlier tariffs at the Supreme Court. The new surcharge, between 10 percent and 12.5 percent on goods imported... The broader significance is institutional: court action can alter policy timelines, executive...",
@@ -226,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "5.97",
+      "age_hours": "9.55",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -256,10 +226,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 18:06:08 +0000",
-      "age_hours": "7.19",
+      "age_hours": "10.77",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
+      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
+      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Seattle, Trump, Roger Rogoff",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
+        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Seattle.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 24 Jul 2026 10:02:18 -0400",
+      "age_hours": "14.83",
+      "freshness_status": "stale",
+      "editorial_score": "104",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "1.33",
+      "age_hours": "4.90",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -316,48 +316,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 00:00:00 +0000",
-      "age_hours": "1.29",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Ex-U.S. attorney in Seattle sues Trump over firing",
     "Trump's new tariffs hit with lawsuit",
-    "Trump fires back at EU over Google's $1B fine, launches probe"
+    "Trump fires back at EU over Google's $1B fine, launches probe",
+    "Trump flew from Turkey on older plane after credible threat from Iran and proxies"
   ],
   "sections": [
-    {
-      "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
-      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/",
-      "snapshot": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Seattle, Trump, Roger Rogoff",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ex-U.S. attorney in Seattle sues Trump over firing",
-        "Source context: Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Seattle.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "11.26",
-      "freshness_status": "fresh",
-      "editorial_score": "134",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Trump's new tariffs hit with lawsuit",
       "url": "https://thehill.com/business/5989133-businesses-challenge-trump-tariffs/",
@@ -383,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "5.97",
+      "age_hours": "9.55",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -413,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 18:06:08 +0000",
-      "age_hours": "7.19",
+      "age_hours": "10.77",
       "freshness_status": "fresh",
       "editorial_score": "117",
       "urgency": "DEVELOPING"
@@ -443,7 +413,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "1.33",
+      "age_hours": "4.90",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
+      "url": "https://www.cbsnews.com/news/trump-smithsonian-museum-warning-signs-inaccurate-information/",
+      "snapshot": "President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, National Museum",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
+        "Source context: President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\"..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 24 Jul 2026 19:38:46 -0400",
+      "age_hours": "5.22",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 00:00:00 +0000",
-      "age_hours": "1.29",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 24 Jul 2026 23:53:32 +0000",
-      "age_hours": "1.40",
+      "age_hours": "4.98",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
