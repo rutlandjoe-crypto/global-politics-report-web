@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump tariffs come back to haunt GOP as elections near",
-  "snapshot": "President Trump's newly announced tariffs could put Republican candidates at risk going into the midterms as Democrats seek to go on the offensive over the economic impact of Trump's trade agenda. The Trump administration announced Thursday it will impose double-digit tariffs... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-07-25 05:41:17 PM ET",
-  "generated_at": "2026-07-25 05:41:17 PM ET",
+  "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
+  "snapshot": "A federal appeals court on Saturday ruled against the Trump administration's efforts to implement stricter mail-in voting rules before midterm elections in the coming months, with control of both the House and Senate up for grabs. The 1st U.S. Circuit of Appeals declined to... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-07-25 06:41:03 PM ET",
+  "generated_at": "2026-07-25 06:41:03 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 54,
+    "total_items_checked": 150,
+    "live_fresh_items": 57,
     "editor_fresh_items": 133,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 95,
+    "public_fallback_items": 150,
+    "stale_or_blocked_items": 93,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-25 05:41:17 PM ET"
+    "last_checked": "2026-07-25 06:41:03 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,21 +42,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 12:53:41 +0000",
-      "age_hours": "8.79",
+      "age_hours": "9.79",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Biden backs off lawsuit over ghostwriter interview audio",
-      "url": "https://thehill.com/regulation/court-battles/5990015-biden-drops-ghostwriter-recording-lawsuit/",
-      "snapshot": "Former President Biden on Friday dropped his lawsuit to block the public release of recordings from his interviews he gave to a memoir ghostwriter several years ago. Biden's lawyers filed a notice of voluntary dismissal in the U.S. District Court in Washington, D.C., after a... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
+      "url": "https://thehill.com/homenews/campaign/5990609-appeals-court-upholds-injunction-on-president-trumps-mail-in-voting-order/",
+      "snapshot": "A federal appeals court on Saturday ruled against the Trump administration's efforts to implement stricter mail-in voting rules before midterm elections in the coming months, with control of both the House and Senate up for grabs. The 1st U.S. Circuit of Appeals declined to... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Biden, Former President Biden, District Court",
-        "Politics desk signal: court",
+        "Key people or organizations: Appeals, President Trump, Trump",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: senate, house, court, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Biden backs off lawsuit over ghostwriter interview audio",
-        "Source context: Former President Biden on Friday dropped his lawsuit to block the public release of recordings from his interviews he gave to a memoir ghostwriter..."
+        "Story focus: Appeals court upholds injunction on President Trump's mail-in voting order"
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -64,18 +64,18 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Biden.",
+        "Watch for the next official action involving Appeals.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 25 Jul 2026 13:12:37 +0000",
-      "age_hours": "8.48",
+      "published": "Sat, 25 Jul 2026 22:17:28 +0000",
+      "age_hours": "0.39",
       "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": "DEVELOPING"
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Trump tariffs come back to haunt GOP as elections near",
@@ -102,7 +102,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:00:00 +0000",
-      "age_hours": "0.69",
+      "age_hours": "1.68",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -132,7 +132,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "5.99",
+      "age_hours": "6.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -160,13 +160,43 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 16:03:39 -0400",
-      "age_hours": "1.63",
+      "age_hours": "2.62",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
+      "url": "https://thehill.com/homenews/campaign/5990609-appeals-court-upholds-injunction-on-president-trumps-mail-in-voting-order/",
+      "snapshot": "A federal appeals court on Saturday ruled against the Trump administration's efforts to implement stricter mail-in voting rules before midterm elections in the coming months, with control of both the House and Senate up for grabs. The 1st U.S. Circuit of Appeals declined to... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Appeals, President Trump, Trump",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: senate, house, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Appeals court upholds injunction on President Trump's mail-in voting order"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 25 Jul 2026 22:17:28 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
     {
       "headline": "Trump tariffs come back to haunt GOP as elections near",
       "url": "https://thehill.com/homenews/administration/5989368-canada-tariff-impact-republicans/",
@@ -192,40 +222,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:00:00 +0000",
-      "age_hours": "0.69",
+      "age_hours": "1.68",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
-    },
-    {
-      "headline": "Biden backs off lawsuit over ghostwriter interview audio",
-      "url": "https://thehill.com/regulation/court-battles/5990015-biden-drops-ghostwriter-recording-lawsuit/",
-      "snapshot": "Former President Biden on Friday dropped his lawsuit to block the public release of recordings from his interviews he gave to a memoir ghostwriter several years ago. Biden's lawyers filed a notice of voluntary dismissal in the U.S. District Court in Washington, D.C., after a... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Biden, Former President Biden, District Court",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Biden backs off lawsuit over ghostwriter interview audio",
-        "Source context: Former President Biden on Friday dropped his lawsuit to block the public release of recordings from his interviews he gave to a memoir ghostwriter..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Biden.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 25 Jul 2026 13:12:37 +0000",
-      "age_hours": "8.48",
-      "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Ex-U.S. attorney in Seattle sues Trump over firing",
@@ -252,7 +252,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "31.65",
+      "age_hours": "32.65",
       "freshness_status": "stale",
       "editorial_score": "104",
       "urgency": "BREAKING"
@@ -282,7 +282,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "5.99",
+      "age_hours": "6.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -310,18 +310,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 12:53:41 +0000",
-      "age_hours": "8.79",
+      "age_hours": "9.79",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Appeals court upholds injunction on President Trump's mail-in voting order",
     "Trump tariffs come back to haunt GOP as elections near",
-    "Biden backs off lawsuit over ghostwriter interview audio",
     "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot"
   ],
   "sections": [
+    {
+      "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
+      "url": "https://thehill.com/homenews/campaign/5990609-appeals-court-upholds-injunction-on-president-trumps-mail-in-voting-order/",
+      "snapshot": "A federal appeals court on Saturday ruled against the Trump administration's efforts to implement stricter mail-in voting rules before midterm elections in the coming months, with control of both the House and Senate up for grabs. The 1st U.S. Circuit of Appeals declined to... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Appeals, President Trump, Trump",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: senate, house, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Appeals court upholds injunction on President Trump's mail-in voting order"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 25 Jul 2026 22:17:28 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
     {
       "headline": "Trump tariffs come back to haunt GOP as elections near",
       "url": "https://thehill.com/homenews/administration/5989368-canada-tariff-impact-republicans/",
@@ -347,40 +377,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:00:00 +0000",
-      "age_hours": "0.69",
+      "age_hours": "1.68",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
-    },
-    {
-      "headline": "Biden backs off lawsuit over ghostwriter interview audio",
-      "url": "https://thehill.com/regulation/court-battles/5990015-biden-drops-ghostwriter-recording-lawsuit/",
-      "snapshot": "Former President Biden on Friday dropped his lawsuit to block the public release of recordings from his interviews he gave to a memoir ghostwriter several years ago. Biden's lawyers filed a notice of voluntary dismissal in the U.S. District Court in Washington, D.C., after a... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Biden, Former President Biden, District Court",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Biden backs off lawsuit over ghostwriter interview audio",
-        "Source context: Former President Biden on Friday dropped his lawsuit to block the public release of recordings from his interviews he gave to a memoir ghostwriter..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Biden.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 25 Jul 2026 13:12:37 +0000",
-      "age_hours": "8.48",
-      "freshness_status": "fresh",
-      "editorial_score": "113",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot",
@@ -407,7 +407,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "5.99",
+      "age_hours": "6.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -435,7 +435,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 16:03:39 -0400",
-      "age_hours": "1.63",
+      "age_hours": "2.62",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -463,7 +463,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 12:53:41 +0000",
-      "age_hours": "8.79",
+      "age_hours": "9.79",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -493,7 +493,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 12:11:33 +0000",
-      "age_hours": "9.50",
+      "age_hours": "10.49",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
