@@ -1,50 +1,83 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
-  "snapshot": "President Trump departed the NATO summit in Turkey on an old Air Force One jet following a credible threat from Iran and allied proxy groups, U.S. officials told CBS News. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-07-25 05:23:27 AM ET",
-  "generated_at": "2026-07-25 05:23:27 AM ET",
+  "headline": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+  "snapshot": "Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-07-25 06:58:54 AM ET",
+  "generated_at": "2026-07-25 06:58:54 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 40,
-    "editor_fresh_items": 125,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 109,
+    "live_fresh_items": 36,
+    "editor_fresh_items": 119,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 113,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-25 05:23:27 AM ET"
+    "last_checked": "2026-07-25 06:58:54 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "India's education minister resigns after weeks of 'Cockroach' protests",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-      "snapshot": "This is a breaking news story.",
+      "headline": "As signals of a 'massive' US attack mount, experts skeptical it will break Iran",
+      "url": "https://thehill.com/policy/defense/5989841-experts-skeptical-intensified-air-strikes-iran/",
+      "snapshot": "As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major military operations. But experts are skeptical that an intensified air strike campaign — even if it takes out bridges, water... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
       "key_data": [
-        "Story focus: India's education minister resigns after weeks of 'Cockroach' protests",
-        "Source context: This is a breaking news story."
+        "Key people or organizations: As, Iran, As President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: As signals of a 'massive' US attack mount, experts skeptical it will break Iran",
+        "Source context: As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving As.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 25 Jul 2026 08:54:20 +0000",
-      "age_hours": "0.49",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 25 Jul 2026 10:00:00 +0000",
+      "age_hours": "0.98",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "BREAKING"
+      "editorial_score": "85",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+      "url": "https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/",
+      "snapshot": "Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Maine Democrats, Senate, Graham Platner, Senate President Troy Jackson",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Maine Democrats meet to select Senate nominee to replace Graham Platner",
+        "Source context: Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Maine Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 25 Jul 2026 06:00:07 -0400",
+      "age_hours": "0.98",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
       "headline": "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
@@ -71,37 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "9.42",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
-      "url": "https://www.cbsnews.com/news/trump-smithsonian-museum-warning-signs-inaccurate-information/",
-      "snapshot": "President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, National Museum",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
-        "Source context: President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\"..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 19:38:46 -0400",
-      "age_hours": "9.74",
+      "age_hours": "11.02",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -131,39 +134,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 00:22:48 +0000",
-      "age_hours": "9.01",
+      "age_hours": "10.60",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Green grant cancellations were 'based solely' on states' political affiliation, Trump administration says in court",
-      "url": "https://thehill.com/policy/energy-environment/5989622-trump-administration-federal-grant-cancellations-blue-states/",
-      "snapshot": "Federal green grants canceled last year were selected \"solely\" based on a state's political affiliation, the Trump administration said in a recent court filing. In the filing, Department of Energy (DOE) lawyer Jeff Novak said the department came up with a list of 624 grants... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Iran war live: Trump says US 'locked and loaded' as it seeks Iran talks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "snapshot": "US President Donald Trump says Washington remains 'locked and loaded' while pursuing diplomatic talks with Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Green, Trump, In",
-        "Specific figures mentioned: 624",
-        "Politics desk signal: court",
+        "Key people or organizations: Iran, Trump, US, US President Donald Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Green grant cancellations were 'based solely' on states' political affiliation, Trump administration says in court"
+        "Story focus: Iran war live",
+        "Source context: US President Donald Trump says Washington remains 'locked and loaded' while pursuing diplomatic talks with Iran. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Green.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 22:05:39 +0000",
-      "age_hours": "11.30",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 25 Jul 2026 00:00:00 +0000",
+      "age_hours": "10.98",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "78",
       "urgency": ""
     }
   ],
@@ -193,21 +196,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 10:02:18 -0400",
-      "age_hours": "19.35",
+      "age_hours": "20.94",
       "freshness_status": "stale",
       "editorial_score": "104",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
-      "url": "https://www.cbsnews.com/news/trump-iran-proxies-credible-threat-air-force-one-turkey/",
-      "snapshot": "President Trump departed the NATO summit in Turkey on an old Air Force One jet following a credible threat from Iran and allied proxy groups, U.S. officials told CBS News. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+      "url": "https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/",
+      "snapshot": "Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Turkey, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Maine Democrats, Senate, Graham Platner, Senate President Troy Jackson",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump flew from Turkey on older plane after credible threat from Iran and proxies",
-        "Source context: President Trump departed the NATO summit in Turkey on an old Air Force One jet following a credible threat from Iran and allied proxy groups, U.S...."
+        "Story focus: Maine Democrats meet to select Senate nominee to replace Graham Platner",
+        "Source context: Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -215,15 +218,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Maine Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "9.42",
+      "published": "Sat, 25 Jul 2026 06:00:07 -0400",
+      "age_hours": "0.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -253,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 00:22:48 +0000",
-      "age_hours": "9.01",
+      "age_hours": "10.60",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -283,45 +286,78 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 24 Jul 2026 19:19:11 +0000",
-      "age_hours": "14.07",
+      "age_hours": "15.66",
       "freshness_status": "stale",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "India's education minister resigns after weeks of 'Cockroach' protests",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-      "snapshot": "This is a breaking news story.",
+      "headline": "Iran war live: Trump says US 'locked and loaded' as it seeks Iran talks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "snapshot": "US President Donald Trump says Washington remains 'locked and loaded' while pursuing diplomatic talks with Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Story focus: India's education minister resigns after weeks of 'Cockroach' protests",
-        "Source context: This is a breaking news story."
+        "Key people or organizations: Iran, Trump, US, US President Donald Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war live",
+        "Source context: US President Donald Trump says Washington remains 'locked and loaded' while pursuing diplomatic talks with Iran. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 25 Jul 2026 08:54:20 +0000",
-      "age_hours": "0.49",
+      "published": "Sat, 25 Jul 2026 00:00:00 +0000",
+      "age_hours": "10.98",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "BREAKING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "key_storylines": [
+    "Maine Democrats meet to select Senate nominee to replace Graham Platner",
     "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
-    "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
     "Former Trump food official calls for independent review of federal government response to Cyclospora outbreak"
   ],
   "sections": [
+    {
+      "headline": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
+      "url": "https://www.cbsnews.com/news/maine-democrats-new-senate-nominee-graham-platner-troy-jackson-susan-collins/",
+      "snapshot": "Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Maine Democrats, Senate, Graham Platner, Senate President Troy Jackson",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Maine Democrats meet to select Senate nominee to replace Graham Platner",
+        "Source context: Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Maine Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 25 Jul 2026 06:00:07 -0400",
+      "age_hours": "0.98",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
     {
       "headline": "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
       "url": "https://www.cbsnews.com/news/trump-iran-proxies-credible-threat-air-force-one-turkey/",
@@ -347,37 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "9.42",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
-      "url": "https://www.cbsnews.com/news/trump-smithsonian-museum-warning-signs-inaccurate-information/",
-      "snapshot": "President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, National Museum",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
-        "Source context: President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\"..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 19:38:46 -0400",
-      "age_hours": "9.74",
+      "age_hours": "11.02",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -407,67 +413,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 00:22:48 +0000",
-      "age_hours": "9.01",
+      "age_hours": "10.60",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Green grant cancellations were 'based solely' on states' political affiliation, Trump administration says in court",
-      "url": "https://thehill.com/policy/energy-environment/5989622-trump-administration-federal-grant-cancellations-blue-states/",
-      "snapshot": "Federal green grants canceled last year were selected \"solely\" based on a state's political affiliation, the Trump administration said in a recent court filing. In the filing, Department of Energy (DOE) lawyer Jeff Novak said the department came up with a list of 624 grants... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "As signals of a 'massive' US attack mount, experts skeptical it will break Iran",
+      "url": "https://thehill.com/policy/defense/5989841-experts-skeptical-intensified-air-strikes-iran/",
+      "snapshot": "As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major military operations. But experts are skeptical that an intensified air strike campaign — even if it takes out bridges, water... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the...",
       "key_data": [
-        "Key people or organizations: Green, Trump, In",
-        "Specific figures mentioned: 624",
-        "Politics desk signal: court",
+        "Key people or organizations: As, Iran, As President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Green grant cancellations were 'based solely' on states' political affiliation, Trump administration says in court"
+        "Story focus: As signals of a 'massive' US attack mount, experts skeptical it will break Iran",
+        "Source context: As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Green.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 24 Jul 2026 22:05:39 +0000",
-      "age_hours": "11.30",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "India's education minister resigns after weeks of 'Cockroach' protests",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-      "snapshot": "This is a breaking news story.",
-      "key_data": [
-        "Story focus: India's education minister resigns after weeks of 'Cockroach' protests",
-        "Source context: This is a breaking news story."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving As.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 25 Jul 2026 08:54:20 +0000",
-      "age_hours": "0.49",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 25 Jul 2026 10:00:00 +0000",
+      "age_hours": "0.98",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "BREAKING"
+      "editorial_score": "85",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Iran war live: Trump says US 'locked and loaded' as it seeks Iran talks",
@@ -494,10 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 25 Jul 2026 00:00:00 +0000",
-      "age_hours": "9.39",
+      "age_hours": "10.98",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
+    },
+    {
+      "headline": "Trump says 'it's time' for Saudi Arabia to normalise ties with Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "snapshot": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Saudi Arabia, Israel",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says 'it's time' for Saudi Arabia to normalise ties with Israel",
+        "Source context: US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 24 Jul 2026 23:53:32 +0000",
+      "age_hours": "11.09",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
