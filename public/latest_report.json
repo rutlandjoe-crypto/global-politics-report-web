@@ -1,34 +1,61 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Hawaii Lt. Gov. indicted in alleged bribery scheme",
-  "snapshot": "Hawaii Lt. Gov. Sylvia Luke (D) was indicted on bribery charges on Friday following a monthslong state investigation into a campaign finance scandal. Luke was accused of accepting campaign finance contributions in 2022 while she was a state lawmaker in exchange for securing... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-07-26 07:15:54 AM ET",
-  "generated_at": "2026-07-26 07:15:54 AM ET",
+  "headline": "Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+  "snapshot": "President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting bill and other legislation \"before it's too late.\" \"The all Republican Senators! Terminate the Filibuster, which the Dumocrats... The key question is leverage: the next votes, negotiations and public pressure points will...",
+  "updated_at": "2026-07-26 08:49:08 AM ET",
+  "generated_at": "2026-07-26 08:49:08 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 31,
-    "editor_fresh_items": 74,
+    "live_fresh_items": 33,
+    "editor_fresh_items": 69,
     "public_fallback_items": 149,
-    "stale_or_blocked_items": 119,
+    "stale_or_blocked_items": 117,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-26 07:15:54 AM ET"
+    "last_checked": "2026-07-26 08:49:08 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Hawaii Lt. Gov. indicted in alleged bribery scheme",
-      "url": "https://thehill.com/homenews/state-watch/5990691-hawaii-sylvia-luke-indicted-bribery/",
-      "snapshot": "Hawaii Lt. Gov. Sylvia Luke (D) was indicted on bribery charges on Friday following a monthslong state investigation into a campaign finance scandal. Luke was accused of accepting campaign finance contributions in 2022 while she was a state lawmaker in exchange for securing... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Thousands rally against Tunisia's president five years after power grab",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+      "snapshot": "Thousands marched in Tunisia's capital to demand the resignation of President Kais Saied.",
       "key_data": [
-        "Key people or organizations: Hawaii Lt, Gov, Sylvia Luke, Luke",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Thousands, Tunisia, President Kais Saied",
+        "Story focus: Thousands rally against Tunisia's president five years after power grab",
+        "Source context: Thousands marched in Tunisia's capital to demand the resignation of President Kais Saied."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Thousands.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 26 Jul 2026 08:55:46 +0000",
+      "age_hours": "3.89",
+      "freshness_status": "fresh",
+      "editorial_score": "56",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+      "url": "https://thehill.com/homenews/administration/5990856-trump-urges-gop-terminate-filibuster/",
+      "snapshot": "President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting bill and other legislation \"before it's too late.\" \"The all Republican Senators! Terminate the Filibuster, which the Dumocrats... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, President Trump, Republican",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hawaii Lt. Gov. indicted in alleged bribery scheme"
+        "Story focus: Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+        "Source context: President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,18 +63,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Hawaii Lt.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 25 Jul 2026 23:51:49 +0000",
-      "age_hours": "11.40",
+      "published": "Sun, 26 Jul 2026 12:02:06 +0000",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "BREAKING"
+      "editorial_score": "99",
+      "urgency": ""
     },
     {
       "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
@@ -74,7 +101,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 22:17:28 +0000",
-      "age_hours": "12.97",
+      "age_hours": "14.53",
       "freshness_status": "stale",
       "editorial_score": "93",
       "urgency": ""
@@ -104,7 +131,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "19.56",
+      "age_hours": "21.12",
       "freshness_status": "stale",
       "editorial_score": "70",
       "urgency": ""
@@ -134,21 +161,22 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 26 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.82",
       "freshness_status": "fresh",
       "editorial_score": "83",
       "urgency": "WATCH"
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "Lettuce explain: Cyclospora outbreaks test Trump administration messaging",
-      "url": "https://thehill.com/policy/healthcare/5989534-trump-administration-cyclosporiasis-outbreak-messaging/",
-      "snapshot": "The Trump administration is facing a key messaging test as it tries to stop potentially multiple outbreaks of cyclosporiasis, a parasitic illness. Two months in and thousands of cases later, the outbreak has become a communications nightmare. Experts say confusing messages and... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+      "url": "https://thehill.com/homenews/administration/5990856-trump-urges-gop-terminate-filibuster/",
+      "snapshot": "President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting bill and other legislation \"before it's too late.\" \"The all Republican Senators! Terminate the Filibuster, which the Dumocrats... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, GOP, President Trump, Republican",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lettuce explain",
-        "Source context: The Trump administration is facing a key messaging test as it tries to stop potentially multiple outbreaks of cyclosporiasis, a parasitic illness...."
+        "Story focus: Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+        "Source context: President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -163,14 +191,12 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 26 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.26",
+      "published": "Sun, 26 Jul 2026 12:02:06 +0000",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "75",
+      "editorial_score": "99",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
+    },
     {
       "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
       "url": "https://thehill.com/homenews/campaign/5990609-appeals-court-upholds-injunction-on-president-trumps-mail-in-voting-order/",
@@ -196,37 +222,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 22:17:28 +0000",
-      "age_hours": "12.97",
-      "freshness_status": "stale",
-      "editorial_score": "93",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump tariffs come back to haunt GOP as elections near",
-      "url": "https://thehill.com/homenews/administration/5989368-canada-tariff-impact-republicans/",
-      "snapshot": "President Trump's newly announced tariffs could put Republican candidates at risk going into the midterms as Democrats seek to go on the offensive over the economic impact of Trump's trade agenda. The Trump administration announced Thursday it will impose double-digit tariffs... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, President Trump",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump tariffs come back to haunt GOP as elections near",
-        "Source context: President Trump's newly announced tariffs could put Republican candidates at risk going into the midterms as Democrats seek to go on the offensive..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 25 Jul 2026 21:00:00 +0000",
-      "age_hours": "14.26",
+      "age_hours": "14.53",
       "freshness_status": "stale",
       "editorial_score": "93",
       "urgency": ""
@@ -256,37 +252,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "19.56",
-      "freshness_status": "stale",
-      "editorial_score": "70",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump flew from Turkey on older plane after credible threat from Iran and proxies",
-      "url": "https://www.cbsnews.com/news/trump-iran-proxies-credible-threat-air-force-one-turkey/",
-      "snapshot": "President Trump departed the NATO summit in Turkey on an old Air Force One jet following a credible threat from Iran and allied proxy groups, U.S. officials told CBS News. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Turkey, Iran, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump flew from Turkey on older plane after credible threat from Iran and proxies",
-        "Source context: President Trump departed the NATO summit in Turkey on an old Air Force One jet following a credible threat from Iran and allied proxy groups, U.S...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 24 Jul 2026 19:57:58 -0400",
-      "age_hours": "35.30",
+      "age_hours": "21.12",
       "freshness_status": "stale",
       "editorial_score": "70",
       "urgency": ""
@@ -314,28 +280,55 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 26 Jul 2026 08:55:46 +0000",
-      "age_hours": "2.34",
+      "age_hours": "3.89",
       "freshness_status": "fresh",
       "editorial_score": "56",
+      "urgency": ""
+    },
+    {
+      "headline": "Zelenskyy accuses Russia of helping Iran target U.S. bases with satellite images",
+      "url": "https://www.cbsnews.com/news/zelenskyy-russia-iran-satellite-imagery-us-bases/",
+      "snapshot": "Ukrainian President Volodymyr Zelenskyy's accusations of Russia helping Iran target U.S. troops are not the first. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Zelenskyy, Russia, Iran, Ukrainian President Volodymyr Zelenskyy",
+        "Story focus: Zelenskyy accuses Russia of helping Iran target U.S. bases with satellite images",
+        "Source context: Ukrainian President Volodymyr Zelenskyy's accusations of Russia helping Iran target U.S. troops are not the first. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Zelenskyy.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 25 Jul 2026 16:03:39 -0400",
+      "age_hours": "16.76",
+      "freshness_status": "stale",
+      "editorial_score": "52",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Hawaii Lt. Gov. indicted in alleged bribery scheme",
+    "Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
     "Democrats favored to win House, underdogs in Senate 100 days out",
     "Maine Democrats pick Troy Jackson to replace Platner on Senate ballot"
   ],
   "sections": [
     {
-      "headline": "Hawaii Lt. Gov. indicted in alleged bribery scheme",
-      "url": "https://thehill.com/homenews/state-watch/5990691-hawaii-sylvia-luke-indicted-bribery/",
-      "snapshot": "Hawaii Lt. Gov. Sylvia Luke (D) was indicted on bribery charges on Friday following a monthslong state investigation into a campaign finance scandal. Luke was accused of accepting campaign finance contributions in 2022 while she was a state lawmaker in exchange for securing... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+      "url": "https://thehill.com/homenews/administration/5990856-trump-urges-gop-terminate-filibuster/",
+      "snapshot": "President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting bill and other legislation \"before it's too late.\" \"The all Republican Senators! Terminate the Filibuster, which the Dumocrats... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: Hawaii Lt, Gov, Sylvia Luke, Luke",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, GOP, President Trump, Republican",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Hawaii Lt. Gov. indicted in alleged bribery scheme"
+        "Story focus: Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+        "Source context: President Trump late Saturday night once again urged Republican senators to \"terminate the filibuster\" in an effort to pass his oft-championed voting..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -343,18 +336,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Hawaii Lt.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 25 Jul 2026 23:51:49 +0000",
-      "age_hours": "11.40",
+      "published": "Sun, 26 Jul 2026 12:02:06 +0000",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": "BREAKING"
+      "editorial_score": "99",
+      "urgency": ""
     },
     {
       "headline": "Democrats favored to win House, underdogs in Senate 100 days out",
@@ -381,7 +374,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 26 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.82",
       "freshness_status": "fresh",
       "editorial_score": "83",
       "urgency": "WATCH"
@@ -411,9 +404,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "19.56",
+      "age_hours": "21.12",
       "freshness_status": "stale",
       "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "Thousands rally against Tunisia's president five years after power grab",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+      "snapshot": "Thousands marched in Tunisia's capital to demand the resignation of President Kais Saied.",
+      "key_data": [
+        "Key people or organizations: Thousands, Tunisia, President Kais Saied",
+        "Story focus: Thousands rally against Tunisia's president five years after power grab",
+        "Source context: Thousands marched in Tunisia's capital to demand the resignation of President Kais Saied."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Thousands.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 26 Jul 2026 08:55:46 +0000",
+      "age_hours": "3.89",
+      "freshness_status": "fresh",
+      "editorial_score": "56",
       "urgency": ""
     },
     {
@@ -441,7 +462,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 26 Jul 2026 10:00:00 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.82",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
@@ -471,7 +492,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 22:17:28 +0000",
-      "age_hours": "12.97",
+      "age_hours": "14.53",
       "freshness_status": "stale",
       "editorial_score": "93",
       "urgency": ""
