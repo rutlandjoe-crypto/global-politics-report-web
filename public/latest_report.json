@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
   "snapshot": "A federal appeals court on Saturday ruled against the Trump administration's efforts to implement stricter mail-in voting rules before midterm elections in the coming months, with control of both the House and Senate up for grabs. The 1st U.S. Circuit of Appeals declined to... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-07-26 01:16:26 AM ET",
-  "generated_at": "2026-07-26 01:16:26 AM ET",
+  "updated_at": "2026-07-26 04:00:48 AM ET",
+  "generated_at": "2026-07-26 04:00:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 39,
-    "editor_fresh_items": 105,
+    "live_fresh_items": 34,
+    "editor_fresh_items": 86,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 110,
+    "stale_or_blocked_items": 115,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-26 01:16:26 AM ET"
+    "last_checked": "2026-07-26 04:00:48 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:53:17 +0000",
-      "age_hours": "7.39",
+      "age_hours": "10.12",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "How India's 'Cockroach' protesters shook the Modi government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "snapshot": "India's Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
+      "key_data": [
+        "Key people or organizations: India, Cockroach, Education Minister",
+        "Specific figures mentioned: 36",
+        "Story focus: How India's 'Cockroach' protesters shook the Modi government",
+        "Source context: India's Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving India.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 25 Jul 2026 20:57:45 +0000",
+      "age_hours": "11.05",
+      "freshness_status": "fresh",
+      "editorial_score": "48",
+      "urgency": ""
     },
     {
       "headline": "Appeals court upholds injunction on President Trump's mail-in voting order",
@@ -74,7 +103,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 22:17:28 +0000",
-      "age_hours": "6.98",
+      "age_hours": "9.72",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -102,7 +131,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 16:03:39 -0400",
-      "age_hours": "9.21",
+      "age_hours": "11.95",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -132,39 +161,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "13.57",
+      "age_hours": "16.31",
       "freshness_status": "stale",
       "editorial_score": "70",
-      "urgency": ""
-    },
-    {
-      "headline": "How Netanyahu gov't media reforms risk deepening Israeli press bias",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-      "snapshot": "Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Israel",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How Netanyahu gov't media reforms risk deepening Israeli press bias",
-        "Source context: Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 25 Jul 2026 18:14:54 +0000",
-      "age_hours": "11.03",
-      "freshness_status": "fresh",
-      "editorial_score": "52",
       "urgency": ""
     }
   ],
@@ -194,7 +193,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 22:17:28 +0000",
-      "age_hours": "6.98",
+      "age_hours": "9.72",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -224,7 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:00:00 +0000",
-      "age_hours": "8.27",
+      "age_hours": "11.01",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -252,7 +251,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 16:03:39 -0400",
-      "age_hours": "9.21",
+      "age_hours": "11.95",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -282,39 +281,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "13.57",
+      "age_hours": "16.31",
       "freshness_status": "stale",
       "editorial_score": "70",
       "urgency": ""
     },
     {
-      "headline": "How Netanyahu gov't media reforms risk deepening Israeli press bias",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-      "snapshot": "Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "How India's 'Cockroach' protesters shook the Modi government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "snapshot": "India's Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
       "key_data": [
-        "Key people or organizations: Israel",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How Netanyahu gov't media reforms risk deepening Israeli press bias",
-        "Source context: Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity. The election angle is whether this..."
+        "Key people or organizations: India, Cockroach, Education Minister",
+        "Specific figures mentioned: 36",
+        "Story focus: How India's 'Cockroach' protesters shook the Modi government",
+        "Source context: India's Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving India.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 25 Jul 2026 18:14:54 +0000",
-      "age_hours": "11.03",
+      "published": "Sat, 25 Jul 2026 20:57:45 +0000",
+      "age_hours": "11.05",
       "freshness_status": "fresh",
-      "editorial_score": "52",
+      "editorial_score": "48",
       "urgency": ""
     }
   ],
@@ -349,7 +347,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 22:17:28 +0000",
-      "age_hours": "6.98",
+      "age_hours": "9.72",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -379,7 +377,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:00:00 +0000",
-      "age_hours": "8.27",
+      "age_hours": "11.01",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -407,7 +405,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 16:03:39 -0400",
-      "age_hours": "9.21",
+      "age_hours": "11.95",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -437,39 +435,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 25 Jul 2026 11:42:00 -0400",
-      "age_hours": "13.57",
+      "age_hours": "16.31",
       "freshness_status": "stale",
       "editorial_score": "70",
       "urgency": ""
     },
     {
-      "headline": "How Netanyahu gov't media reforms risk deepening Israeli press bias",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-      "snapshot": "Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "How India's 'Cockroach' protesters shook the Modi government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "snapshot": "India's Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
       "key_data": [
-        "Key people or organizations: Israel",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: How Netanyahu gov't media reforms risk deepening Israeli press bias",
-        "Source context: Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity. The election angle is whether this..."
+        "Key people or organizations: India, Cockroach, Education Minister",
+        "Specific figures mentioned: 36",
+        "Story focus: How India's 'Cockroach' protesters shook the Modi government",
+        "Source context: India's Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving India.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 25 Jul 2026 18:14:54 +0000",
-      "age_hours": "11.03",
+      "published": "Sat, 25 Jul 2026 20:57:45 +0000",
+      "age_hours": "11.05",
       "freshness_status": "fresh",
-      "editorial_score": "52",
+      "editorial_score": "48",
       "urgency": ""
     },
     {
@@ -497,7 +494,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 25 Jul 2026 21:53:17 +0000",
-      "age_hours": "7.39",
+      "age_hours": "10.12",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
