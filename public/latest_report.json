@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Biden tapes released after legal battle, with references to classified material",
-  "snapshot": "Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-07-27 06:54:41 PM ET",
-  "generated_at": "2026-07-27 06:54:41 PM ET",
+  "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+  "snapshot": "Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing the move could bruise Ohio's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-07-27 07:51:39 PM ET",
+  "generated_at": "2026-07-27 07:51:39 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 89,
-    "editor_fresh_items": 133,
+    "live_fresh_items": 86,
+    "editor_fresh_items": 134,
     "public_fallback_items": 143,
-    "stale_or_blocked_items": 57,
+    "stale_or_blocked_items": 60,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-27 06:54:41 PM ET"
+    "last_checked": "2026-07-27 07:51:39 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 27 Jul 2026 17:40:59 -0400",
-      "age_hours": "1.23",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+      "url": "https://www.cbsnews.com/news/ohio-mike-dewine-trump-haiti-tps-immigration/",
+      "snapshot": "Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing the move could bruise Ohio's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Ohio, GOP, Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+        "Source context: Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ohio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 27 Jul 2026 19:26:46 -0400",
+      "age_hours": "0.41",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "DOJ asks Supreme Court to restore Trump's mail-in voting executive order",
@@ -74,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 20:05:36 +0000",
-      "age_hours": "2.82",
+      "age_hours": "3.77",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -104,39 +134,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 19:10:10 +0000",
-      "age_hours": "3.74",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP targeted progressive dark money. That could boomerang on Trump.",
-      "url": "https://www.cbsnews.com/news/republicans-trump-freedom-250-progressive-dark-money/",
-      "snapshot": "The Trump-linked group Freedom 250 staged America's birthday with tens of millions that it is not required to disclose. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, America",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP targeted progressive dark money. That could boomerang on Trump."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 09:21:21 -0400",
-      "age_hours": "9.56",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 27 Jul 2026 20:23:12 +0000",
-      "age_hours": "2.52",
+      "age_hours": "3.47",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -172,6 +172,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+      "url": "https://www.cbsnews.com/news/ohio-mike-dewine-trump-haiti-tps-immigration/",
+      "snapshot": "Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing the move could bruise Ohio's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Ohio, GOP, Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+        "Source context: Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ohio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 27 Jul 2026 19:26:46 -0400",
+      "age_hours": "0.41",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
       "headline": "Biden tapes released after legal battle, with references to classified material",
       "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
       "snapshot": "Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -196,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 27 Jul 2026 17:40:59 -0400",
-      "age_hours": "1.23",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
@@ -226,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 20:05:36 +0000",
-      "age_hours": "2.82",
+      "age_hours": "3.77",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -256,39 +286,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 19:10:10 +0000",
-      "age_hours": "3.74",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP targeted progressive dark money. That could boomerang on Trump.",
-      "url": "https://www.cbsnews.com/news/republicans-trump-freedom-250-progressive-dark-money/",
-      "snapshot": "The Trump-linked group Freedom 250 staged America's birthday with tens of millions that it is not required to disclose. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, America",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP targeted progressive dark money. That could boomerang on Trump."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 09:21:21 -0400",
-      "age_hours": "9.56",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -316,18 +316,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 27 Jul 2026 20:23:12 +0000",
-      "age_hours": "2.52",
+      "age_hours": "3.47",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
     "Biden tapes released after legal battle, with references to classified material",
-    "DOJ asks Supreme Court to restore Trump's mail-in voting executive order",
-    "All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill"
+    "DOJ asks Supreme Court to restore Trump's mail-in voting executive order"
   ],
   "sections": [
+    {
+      "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+      "url": "https://www.cbsnews.com/news/ohio-mike-dewine-trump-haiti-tps-immigration/",
+      "snapshot": "Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing the move could bruise Ohio's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Ohio, GOP, Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
+        "Source context: Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ohio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 27 Jul 2026 19:26:46 -0400",
+      "age_hours": "0.41",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
     {
       "headline": "Biden tapes released after legal battle, with references to classified material",
       "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
@@ -353,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 27 Jul 2026 17:40:59 -0400",
-      "age_hours": "1.23",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
@@ -383,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 20:05:36 +0000",
-      "age_hours": "2.82",
+      "age_hours": "3.77",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -413,39 +443,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 19:10:10 +0000",
-      "age_hours": "3.74",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP targeted progressive dark money. That could boomerang on Trump.",
-      "url": "https://www.cbsnews.com/news/republicans-trump-freedom-250-progressive-dark-money/",
-      "snapshot": "The Trump-linked group Freedom 250 staged America's birthday with tens of millions that it is not required to disclose. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, America",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP targeted progressive dark money. That could boomerang on Trump."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 09:21:21 -0400",
-      "age_hours": "9.56",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 27 Jul 2026 20:23:12 +0000",
-      "age_hours": "2.52",
+      "age_hours": "3.47",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 27 Jul 2026 20:27:29 +0000",
-      "age_hours": "2.45",
+      "age_hours": "3.40",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": ""
