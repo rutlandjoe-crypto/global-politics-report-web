@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
   "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-07-28 11:08:32 AM ET",
-  "generated_at": "2026-07-28 11:08:32 AM ET",
+  "updated_at": "2026-07-28 01:15:05 PM ET",
+  "generated_at": "2026-07-28 01:15:05 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 70,
-    "editor_fresh_items": 138,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 80,
+    "total_items_checked": 149,
+    "live_fresh_items": 87,
+    "editor_fresh_items": 136,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 62,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-28 11:08:32 AM ET"
+    "last_checked": "2026-07-28 01:15:05 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 10:26:00 -0400",
-      "age_hours": "0.71",
+      "age_hours": "2.82",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
@@ -73,7 +73,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 09:08:00 -0400",
-      "age_hours": "2.01",
+      "age_hours": "4.12",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
@@ -103,40 +103,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 28 Jul 2026 13:35:09 +0000",
-      "age_hours": "1.56",
+      "age_hours": "3.67",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Netanyahu meets Trump at the White House: What's on the agenda, what's next",
-      "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
-      "snapshot": "The Israeli PM's visit to the US comes amid raids in the occupied West Bank, before the October 27 elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Israeli PM",
-        "Specific figures mentioned: 27",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Netanyahu meets Trump at the White House"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 28 Jul 2026 09:29:16 +0000",
-      "age_hours": "5.65",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Netanyahu to meet Trump amid growing pressures in US, Israel",
@@ -163,10 +133,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 28 Jul 2026 12:00:44 +0000",
-      "age_hours": "3.13",
+      "age_hours": "5.24",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "snapshot": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump expresses frustration with Netanyahu before White House meeting",
+        "Source context: US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 28 Jul 2026 15:21:43 +0000",
+      "age_hours": "1.89",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -194,7 +194,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 10:26:00 -0400",
-      "age_hours": "0.71",
+      "age_hours": "2.82",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
@@ -224,7 +224,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 28 Jul 2026 13:35:09 +0000",
-      "age_hours": "1.56",
+      "age_hours": "3.67",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
@@ -254,40 +254,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 09:08:00 -0400",
-      "age_hours": "2.01",
+      "age_hours": "4.12",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Netanyahu meets Trump at the White House: What's on the agenda, what's next",
-      "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
-      "snapshot": "The Israeli PM's visit to the US comes amid raids in the occupied West Bank, before the October 27 elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Israeli PM",
-        "Specific figures mentioned: 27",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Netanyahu meets Trump at the White House"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 28 Jul 2026 09:29:16 +0000",
-      "age_hours": "5.65",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Netanyahu to meet Trump amid growing pressures in US, Israel",
@@ -314,10 +284,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 28 Jul 2026 12:00:44 +0000",
-      "age_hours": "3.13",
+      "age_hours": "5.24",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "snapshot": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump expresses frustration with Netanyahu before White House meeting",
+        "Source context: US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 28 Jul 2026 15:21:43 +0000",
+      "age_hours": "1.89",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -350,7 +350,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 10:26:00 -0400",
-      "age_hours": "0.71",
+      "age_hours": "2.82",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
@@ -380,7 +380,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 28 Jul 2026 13:35:09 +0000",
-      "age_hours": "1.56",
+      "age_hours": "3.67",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
@@ -410,40 +410,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 09:08:00 -0400",
-      "age_hours": "2.01",
+      "age_hours": "4.12",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Netanyahu meets Trump at the White House: What's on the agenda, what's next",
-      "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
-      "snapshot": "The Israeli PM's visit to the US comes amid raids in the occupied West Bank, before the October 27 elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Israeli PM",
-        "Specific figures mentioned: 27",
-        "Politics desk signal: house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Netanyahu meets Trump at the White House"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 28 Jul 2026 09:29:16 +0000",
-      "age_hours": "5.65",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Netanyahu to meet Trump amid growing pressures in US, Israel",
@@ -470,10 +440,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 28 Jul 2026 12:00:44 +0000",
-      "age_hours": "3.13",
+      "age_hours": "5.24",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "snapshot": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump expresses frustration with Netanyahu before White House meeting",
+        "Source context: US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 28 Jul 2026 15:21:43 +0000",
+      "age_hours": "1.89",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     },
     {
       "headline": "Trump flouts political risk to host Netanyahu's seventh White House visit",
@@ -500,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 28 Jul 2026 10:12:24 +0000",
-      "age_hours": "4.94",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
