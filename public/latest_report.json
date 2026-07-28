@@ -1,34 +1,63 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
-  "snapshot": "Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing the move could bruise Ohio's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-07-27 09:12:03 PM ET",
-  "generated_at": "2026-07-27 09:12:03 PM ET",
+  "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+  "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-07-28 12:49:49 AM ET",
+  "generated_at": "2026-07-28 12:49:49 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 82,
-    "editor_fresh_items": 133,
+    "live_fresh_items": 62,
+    "editor_fresh_items": 125,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 66,
+    "stale_or_blocked_items": 86,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-27 09:12:03 PM ET"
+    "last_checked": "2026-07-28 12:49:49 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Biden tapes released after legal battle, with references to classified material",
-      "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
-      "snapshot": "Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Minnesota prediction market ban paused by federal judge days before rollout",
+      "url": "https://thehill.com/policy/technology/5993164-federal-judge-halts-minnesota-prediction-market-ban/",
+      "snapshot": "A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out. District Judge Katherine Menendez wrote that the Trump administration, Kalshi and Polymarket are \"likely to succeed on the merits\" in the case arguing that the state ban... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Biden, President Joe Biden",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Minnesota, District Judge Katherine Menendez, Trump",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Biden tapes released after legal battle, with references to classified material",
-        "Source context: Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes..."
+        "Story focus: Minnesota prediction market ban paused by federal judge days before rollout",
+        "Source context: A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out. District Judge Katherine Menendez wrote..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Minnesota.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 28 Jul 2026 00:39:18 +0000",
+      "age_hours": "4.17",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Fauci, Sen, Paul",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,18 +65,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Biden.",
+        "Watch for the next official action involving Fauci.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 20:58:12 -0400",
-      "age_hours": "0.23",
+      "published": "Mon, 27 Jul 2026 22:49:49 -0400",
+      "age_hours": "2.00",
       "freshness_status": "fresh",
-      "editorial_score": "114",
+      "editorial_score": "122",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump says Iran talks taking place during pause in US military strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "snapshot": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, US, US President Donald Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says Iran talks taking place during pause in US military strikes",
+        "Source context: US President Donald Trump says talks with Iran are continuing during a pause in US military strikes The election angle is whether this changes voter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 28 Jul 2026 02:47:55 +0000",
+      "age_hours": "2.03",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
@@ -73,52 +132,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 19:26:00 -0400",
-      "age_hours": "1.77",
+      "published": "Mon, 27 Jul 2026 22:05:07 -0400",
+      "age_hours": "2.74",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "DOJ asks Supreme Court to restore Trump's mail-in voting executive order",
-      "url": "https://thehill.com/homenews/campaign/5992732-supreme-court-mail-in-voting-trump-justice-department/",
-      "snapshot": "The Justice Department asked the Supreme Court on Monday to lift a judge's block on President Trump's executive order that seeks to restrict mail-in voting, calling the halt premature. Solicitor General D. John Sauer said the courts have no power to intervene yet because the... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+      "snapshot": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Supreme Court, Trump, Justice Department",
-        "Politics desk signal: supreme court, court",
+        "Key people or organizations: Ukraine, Trump, Iran",
+        "Politics desk signal: senate, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ asks Supreme Court to restore Trump's mail-in voting executive order",
-        "Source context: The Justice Department asked the Supreme Court on Monday to lift a judge's block on President Trump's executive order that seeks to restrict mail-in..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 27 Jul 2026 20:05:36 +0000",
-      "age_hours": "5.11",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill",
-      "url": "https://thehill.com/homenews/senate/5992588-all-senators-to-meet-with-zelensky-as-congress-weighs-russia-sanctions-bill/",
-      "snapshot": "All 100 senators have been invited to a meeting with Ukrainian President Volodymyr Zelensky Tuesday evening at 6 p.m. in the U.S. Capitol, multiple sources confirmed to The Hill. The meeting was originally reported by Punchbowl News. The gathering comes as the Senate considers... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Zelensky, Congress, Russia, Ukrainian President Volodymyr Zelensky",
-        "Specific figures mentioned: 100, 6",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill"
+        "Story focus: Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+        "Source context: The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -126,52 +155,51 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Zelensky.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 27 Jul 2026 19:10:10 +0000",
-      "age_hours": "6.03",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
-      "snapshot": "US President Donald Trump called Turkiye 'a great ally' when asked about selling F-35 fighter jets to Ankara. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Turkiye",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Ukraine.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 28 Jul 2026 00:00:42 +0000",
-      "age_hours": "1.19",
+      "published": "Tue, 28 Jul 2026 03:16:30 +0000",
+      "age_hours": "1.56",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "110",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Fauci, Sen, Paul",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fauci.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 27 Jul 2026 22:49:49 -0400",
+      "age_hours": "2.00",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "WATCH"
+    },
+    {
       "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
       "url": "https://www.cbsnews.com/news/ohio-mike-dewine-trump-haiti-tps-immigration/",
       "snapshot": "Republican Ohio Gov. Mike DeWine told CBS News the Trump administration's plan to ramp up deportations of Haitian migrants is a \"mistake,\" arguing the move could bruise Ohio's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -195,22 +223,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 19:26:00 -0400",
-      "age_hours": "1.77",
+      "published": "Mon, 27 Jul 2026 22:05:07 -0400",
+      "age_hours": "2.74",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Biden tapes released after legal battle, with references to classified material",
-      "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
-      "snapshot": "Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+      "snapshot": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Biden, President Joe Biden",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Ukraine, Trump, Iran",
+        "Politics desk signal: senate, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Biden tapes released after legal battle, with references to classified material",
-        "Source context: Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes..."
+        "Story focus: Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+        "Source context: The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -218,18 +246,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Biden.",
+        "Watch for the next official action involving Ukraine.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 20:58:12 -0400",
-      "age_hours": "0.23",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 28 Jul 2026 03:16:30 +0000",
+      "age_hours": "1.56",
       "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Minnesota prediction market ban paused by federal judge days before rollout",
+      "url": "https://thehill.com/policy/technology/5993164-federal-judge-halts-minnesota-prediction-market-ban/",
+      "snapshot": "A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out. District Judge Katherine Menendez wrote that the Trump administration, Kalshi and Polymarket are \"likely to succeed on the merits\" in the case arguing that the state ban... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Minnesota, District Judge Katherine Menendez, Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Minnesota prediction market ban paused by federal judge days before rollout",
+        "Source context: A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out. District Judge Katherine Menendez wrote..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Minnesota.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 28 Jul 2026 00:39:18 +0000",
+      "age_hours": "4.17",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "DOJ asks Supreme Court to restore Trump's mail-in voting executive order",
@@ -256,78 +314,47 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 20:05:36 +0000",
-      "age_hours": "5.11",
+      "age_hours": "8.74",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill",
-      "url": "https://thehill.com/homenews/senate/5992588-all-senators-to-meet-with-zelensky-as-congress-weighs-russia-sanctions-bill/",
-      "snapshot": "All 100 senators have been invited to a meeting with Ukrainian President Volodymyr Zelensky Tuesday evening at 6 p.m. in the U.S. Capitol, multiple sources confirmed to The Hill. The meeting was originally reported by Punchbowl News. The gathering comes as the Senate considers... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Zelensky, Congress, Russia, Ukrainian President Volodymyr Zelensky",
-        "Specific figures mentioned: 100, 6",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Zelensky.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 27 Jul 2026 19:10:10 +0000",
-      "age_hours": "6.03",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
-      "snapshot": "US President Donald Trump called Turkiye 'a great ally' when asked about selling F-35 fighter jets to Ankara. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Turkiye",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 28 Jul 2026 00:00:42 +0000",
-      "age_hours": "1.19",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
     "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
-    "Biden tapes released after legal battle, with references to classified material",
-    "DOJ asks Supreme Court to restore Trump's mail-in voting executive order"
+    "Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge"
   ],
   "sections": [
+    {
+      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Fauci, Sen, Paul",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fauci.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 27 Jul 2026 22:49:49 -0400",
+      "age_hours": "2.00",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\"",
       "url": "https://www.cbsnews.com/news/ohio-mike-dewine-trump-haiti-tps-immigration/",
@@ -352,22 +379,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 19:26:00 -0400",
-      "age_hours": "1.77",
+      "published": "Mon, 27 Jul 2026 22:05:07 -0400",
+      "age_hours": "2.74",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Biden tapes released after legal battle, with references to classified material",
-      "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
-      "snapshot": "Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+      "snapshot": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Biden, President Joe Biden",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Ukraine, Trump, Iran",
+        "Politics desk signal: senate, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Biden tapes released after legal battle, with references to classified material",
-        "Source context: Audio recordings that former President Joe Biden fought for years to keep private have now been released. The election angle is whether this changes..."
+        "Story focus: Ukraine's Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+        "Source context: The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -375,18 +402,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Biden.",
+        "Watch for the next official action involving Ukraine.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 27 Jul 2026 20:58:12 -0400",
-      "age_hours": "0.23",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 28 Jul 2026 03:16:30 +0000",
+      "age_hours": "1.56",
       "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Minnesota prediction market ban paused by federal judge days before rollout",
+      "url": "https://thehill.com/policy/technology/5993164-federal-judge-halts-minnesota-prediction-market-ban/",
+      "snapshot": "A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out. District Judge Katherine Menendez wrote that the Trump administration, Kalshi and Polymarket are \"likely to succeed on the merits\" in the case arguing that the state ban... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Minnesota, District Judge Katherine Menendez, Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Minnesota prediction market ban paused by federal judge days before rollout",
+        "Source context: A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out. District Judge Katherine Menendez wrote..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Minnesota.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 28 Jul 2026 00:39:18 +0000",
+      "age_hours": "4.17",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "DOJ asks Supreme Court to restore Trump's mail-in voting executive order",
@@ -413,51 +470,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 27 Jul 2026 20:05:36 +0000",
-      "age_hours": "5.11",
+      "age_hours": "8.74",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill",
-      "url": "https://thehill.com/homenews/senate/5992588-all-senators-to-meet-with-zelensky-as-congress-weighs-russia-sanctions-bill/",
-      "snapshot": "All 100 senators have been invited to a meeting with Ukrainian President Volodymyr Zelensky Tuesday evening at 6 p.m. in the U.S. Capitol, multiple sources confirmed to The Hill. The meeting was originally reported by Punchbowl News. The gathering comes as the Senate considers... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump says Iran talks taking place during pause in US military strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "snapshot": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Zelensky, Congress, Russia, Ukrainian President Volodymyr Zelensky",
-        "Specific figures mentioned: 100, 6",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Zelensky.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 27 Jul 2026 19:10:10 +0000",
-      "age_hours": "6.03",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
-      "snapshot": "US President Donald Trump called Turkiye 'a great ally' when asked about selling F-35 fighter jets to Ankara. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Turkiye",
-        "Specific figures mentioned: 35",
+        "Key people or organizations: Trump, Iran, US, US President Donald Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye"
+        "Story focus: Trump says Iran talks taking place during pause in US military strikes",
+        "Source context: US President Donald Trump says talks with Iran are continuing during a pause in US military strikes The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -469,44 +496,14 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 28 Jul 2026 00:00:42 +0000",
-      "age_hours": "1.19",
+      "published": "Tue, 28 Jul 2026 02:47:55 +0000",
+      "age_hours": "2.03",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump takes economic message to Michigan amid dwindling popularity",
-      "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
-      "snapshot": "US president is suffering from low approval ratings in state that has become 'ground zero' for his trade policies. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump takes economic message to Michigan amid dwindling popularity",
-        "Source context: US president is suffering from low approval ratings in state that has become 'ground zero' for his trade policies. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 27 Jul 2026 20:23:12 +0000",
-      "age_hours": "4.81",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
