@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-  "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-07-29 06:23:35 AM ET",
-  "generated_at": "2026-07-29 06:23:35 AM ET",
+  "headline": "Trump calls on Senate Republicans to adopt budget resolution before recess",
+  "snapshot": "President Trump late Tuesday renewed his call on Senate Republicans to adopt a House-passed budget resolution before the upcoming recess that would pave the way for passing a $95 billion emergency funding package with a simple-majority vote in September. The package would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-07-29 08:53:01 AM ET",
+  "generated_at": "2026-07-29 08:53:01 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
+    "total_items_checked": 144,
     "live_fresh_items": 44,
-    "editor_fresh_items": 140,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 103,
+    "editor_fresh_items": 136,
+    "public_fallback_items": 143,
+    "stale_or_blocked_items": 100,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-29 06:23:35 AM ET"
+    "last_checked": "2026-07-29 08:53:01 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,11 +42,71 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 28 Jul 2026 22:57:58 -0400",
-      "age_hours": "7.43",
+      "published": "Tue, 28 Jul 2026 22:57:00 -0400",
+      "age_hours": "9.93",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump calls on Senate Republicans to adopt budget resolution before recess",
+      "url": "https://thehill.com/homenews/senate/5995978-donald-trump-senate-budget-resolution/",
+      "snapshot": "President Trump late Tuesday renewed his call on Senate Republicans to adopt a House-passed budget resolution before the upcoming recess that would pave the way for passing a $95 billion emergency funding package with a simple-majority vote in September. The package would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate Republicans, President Trump",
+        "Specific figures mentioned: $95 billion",
+        "Politics desk signal: senate, house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump calls on Senate Republicans to adopt budget resolution before recess"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 29 Jul 2026 11:35:14 +0000",
+      "age_hours": "1.30",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump demands throw Senate GOP into disarray",
+      "url": "https://thehill.com/homenews/senate/5995254-trump-senate-gop-recess/",
+      "snapshot": "President Trump's demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance a budget reconciliation package to fund the Iran war have thrown Senate Republicans into disarray. GOP senators are divided over... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate GOP, President Trump, Senate",
+        "Politics desk signal: senate, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump demands throw Senate GOP into disarray",
+        "Source context: President Trump's demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "age_hours": "2.88",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
@@ -73,406 +133,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 28 Jul 2026 21:21:30 -0400",
-      "age_hours": "9.03",
+      "age_hours": "11.52",
       "freshness_status": "fresh",
       "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-      "url": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/",
-      "snapshot": "The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas than the U.S. has previously enforced and extend existing sanctions on Iran, aiming to economically squeeze the two countries... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate, Russia, Iran",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-        "Source context: The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 29 Jul 2026 00:27:48 +0000",
-      "age_hours": "9.93",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Media not invited as Trump, Netanyahu hold talks at the White House",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
-      "snapshot": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Netanyahu, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Media not invited as Trump, Netanyahu hold talks at the White House",
-        "Source context: US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 29 Jul 2026 01:19:55 +0000",
-      "age_hours": "9.06",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Comer warns Fauci: Biden's pardon doesn't cover testimony this week",
-      "url": "https://thehill.com/homenews/5995368-comer-warns-fauci-congress/",
-      "snapshot": "House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his awaited hearing at Capitol Hill. The former director of the National Institute of Allergy and Infectious Diseases is set to testify... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Comer, Fauci, Biden, House Oversight Committee Chairman",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Comer warns Fauci",
-        "Source context: House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Comer.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 28 Jul 2026 23:00:53 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
-      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Fauci, Sen, Paul",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Fauci.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 28 Jul 2026 22:57:58 -0400",
-      "age_hours": "7.43",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
-      "url": "https://www.cbsnews.com/news/trump-zelenskyy-netanyahu-meeting-iran-ukraine-war/",
-      "snapshot": "President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Zelenskyy, Netanyahu, Iran",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
-        "Source context: President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 28 Jul 2026 21:21:30 -0400",
-      "age_hours": "9.03",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-      "url": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/",
-      "snapshot": "The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas than the U.S. has previously enforced and extend existing sanctions on Iran, aiming to economically squeeze the two countries... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate, Russia, Iran",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-        "Source context: The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 29 Jul 2026 00:27:48 +0000",
-      "age_hours": "9.93",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Media not invited as Trump, Netanyahu hold talks at the White House",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
-      "snapshot": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Netanyahu, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Media not invited as Trump, Netanyahu hold talks at the White House",
-        "Source context: US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 29 Jul 2026 01:19:55 +0000",
-      "age_hours": "9.06",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Comer warns Fauci: Biden's pardon doesn't cover testimony this week",
-      "url": "https://thehill.com/homenews/5995368-comer-warns-fauci-congress/",
-      "snapshot": "House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his awaited hearing at Capitol Hill. The former director of the National Institute of Allergy and Infectious Diseases is set to testify... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Comer, Fauci, Biden, House Oversight Committee Chairman",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Comer warns Fauci",
-        "Source context: House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Comer.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 28 Jul 2026 23:00:53 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-    "Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
-    "Senate advances Graham bill to put harsher sanctions on Russia, Iran"
-  ],
-  "sections": [
-    {
-      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
-      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Fauci, Sen, Paul",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
-        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Fauci.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 28 Jul 2026 22:57:58 -0400",
-      "age_hours": "7.43",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
-      "url": "https://www.cbsnews.com/news/trump-zelenskyy-netanyahu-meeting-iran-ukraine-war/",
-      "snapshot": "President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Zelenskyy, Netanyahu, Iran",
-        "Politics desk signal: election, campaign, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
-        "Source context: President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 28 Jul 2026 21:21:30 -0400",
-      "age_hours": "9.03",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-      "url": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/",
-      "snapshot": "The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas than the U.S. has previously enforced and extend existing sanctions on Iran, aiming to economically squeeze the two countries... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate, Russia, Iran",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-        "Source context: The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 29 Jul 2026 00:27:48 +0000",
-      "age_hours": "9.93",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Media not invited as Trump, Netanyahu hold talks at the White House",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
-      "snapshot": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Netanyahu, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Media not invited as Trump, Netanyahu hold talks at the White House",
-        "Source context: US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 29 Jul 2026 01:19:55 +0000",
-      "age_hours": "9.06",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Comer warns Fauci: Biden's pardon doesn't cover testimony this week",
-      "url": "https://thehill.com/homenews/5995368-comer-warns-fauci-congress/",
-      "snapshot": "House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his awaited hearing at Capitol Hill. The former director of the National Institute of Allergy and Infectious Diseases is set to testify... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Comer, Fauci, Biden, House Oversight Committee Chairman",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Comer warns Fauci",
-        "Source context: House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Comer.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 28 Jul 2026 23:00:53 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -500,10 +163,345 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 29 Jul 2026 04:47:25 +0000",
-      "age_hours": "5.60",
+      "age_hours": "8.09",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Trump calls on Senate Republicans to adopt budget resolution before recess",
+      "url": "https://thehill.com/homenews/senate/5995978-donald-trump-senate-budget-resolution/",
+      "snapshot": "President Trump late Tuesday renewed his call on Senate Republicans to adopt a House-passed budget resolution before the upcoming recess that would pave the way for passing a $95 billion emergency funding package with a simple-majority vote in September. The package would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate Republicans, President Trump",
+        "Specific figures mentioned: $95 billion",
+        "Politics desk signal: senate, house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump calls on Senate Republicans to adopt budget resolution before recess"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 29 Jul 2026 11:35:14 +0000",
+      "age_hours": "1.30",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump demands throw Senate GOP into disarray",
+      "url": "https://thehill.com/homenews/senate/5995254-trump-senate-gop-recess/",
+      "snapshot": "President Trump's demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance a budget reconciliation package to fund the Iran war have thrown Senate Republicans into disarray. GOP senators are divided over... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate GOP, President Trump, Senate",
+        "Politics desk signal: senate, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump demands throw Senate GOP into disarray",
+        "Source context: President Trump's demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "age_hours": "2.88",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Fauci, Sen, Paul",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fauci.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 28 Jul 2026 22:57:00 -0400",
+      "age_hours": "9.93",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
+      "url": "https://www.cbsnews.com/news/trump-zelenskyy-netanyahu-meeting-iran-ukraine-war/",
+      "snapshot": "President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Zelenskyy, Netanyahu, Iran",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
+        "Source context: President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 28 Jul 2026 21:21:30 -0400",
+      "age_hours": "11.52",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump meets Netanyahu for a record seventh White House visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+      "snapshot": "Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Netanyahu, White House, Donald Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump meets Netanyahu for a record seventh White House visit",
+        "Source context: Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 29 Jul 2026 04:47:25 +0000",
+      "age_hours": "8.09",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    }
+  ],
+  "key_storylines": [
+    "Trump calls on Senate Republicans to adopt budget resolution before recess",
+    "Trump demands throw Senate GOP into disarray",
+    "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump"
+  ],
+  "sections": [
+    {
+      "headline": "Trump calls on Senate Republicans to adopt budget resolution before recess",
+      "url": "https://thehill.com/homenews/senate/5995978-donald-trump-senate-budget-resolution/",
+      "snapshot": "President Trump late Tuesday renewed his call on Senate Republicans to adopt a House-passed budget resolution before the upcoming recess that would pave the way for passing a $95 billion emergency funding package with a simple-majority vote in September. The package would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate Republicans, President Trump",
+        "Specific figures mentioned: $95 billion",
+        "Politics desk signal: senate, house, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump calls on Senate Republicans to adopt budget resolution before recess"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 29 Jul 2026 11:35:14 +0000",
+      "age_hours": "1.30",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump demands throw Senate GOP into disarray",
+      "url": "https://thehill.com/homenews/senate/5995254-trump-senate-gop-recess/",
+      "snapshot": "President Trump's demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance a budget reconciliation package to fund the Iran war have thrown Senate Republicans into disarray. GOP senators are divided over... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate GOP, President Trump, Senate",
+        "Politics desk signal: senate, budget",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump demands throw Senate GOP into disarray",
+        "Source context: President Trump's demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "age_hours": "2.88",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "snapshot": "Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious hearing on Wednesday. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Fauci, Sen, Paul",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+        "Source context: Republican Sen. Rand Paul released more than a thousand pages of journal entries from Dr. Anthony Fauci, teeing up what is likely to be a contentious..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fauci.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 28 Jul 2026 22:57:00 -0400",
+      "age_hours": "9.93",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
+      "url": "https://www.cbsnews.com/news/trump-zelenskyy-netanyahu-meeting-iran-ukraine-war/",
+      "snapshot": "President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Zelenskyy, Netanyahu, Iran",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump meets with Zelenskyy and Netanyahu amid wars in Iran, Ukraine",
+        "Source context: President Trump met with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu Tuesday. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 28 Jul 2026 21:21:30 -0400",
+      "age_hours": "11.52",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump meets Netanyahu for a record seventh White House visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+      "snapshot": "Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Netanyahu, White House, Donald Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump meets Netanyahu for a record seventh White House visit",
+        "Source context: Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 29 Jul 2026 04:47:25 +0000",
+      "age_hours": "8.09",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Infantino's FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+      "snapshot": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
+      "key_data": [
+        "Key people or organizations: FIFA World Cup, Would UEFA, FIFA Forward Enterprise",
+        "Story focus: Infantino's FIFA World Cup stakes plan",
+        "Source context: How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving FIFA World Cup.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Power, policy or public-trust angle.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 29 Jul 2026 11:19:58 +0000",
+      "age_hours": "1.55",
+      "freshness_status": "fresh",
+      "editorial_score": "36",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
