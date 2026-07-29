@@ -3,8 +3,8 @@
   "vertical": "Politics",
   "headline": "Trump makes new demands for Russia, Iran sanctions bill named for Graham",
   "snapshot": "President Trump on Wednesday issued a new demand for lawmakers to amend a Russia sanctions bill and grant him authorities to tariff Iran, likely complicating the legislation's path forward as it heads to a vote in the House. Democrats, while largely supporting the legislation,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-07-29 06:44:35 PM ET",
-  "generated_at": "2026-07-29 06:44:35 PM ET",
+  "updated_at": "2026-07-29 07:49:15 PM ET",
+  "generated_at": "2026-07-29 07:49:15 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,11 +12,11 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
     "live_fresh_items": 112,
-    "editor_fresh_items": 141,
+    "editor_fresh_items": 142,
     "public_fallback_items": 146,
     "stale_or_blocked_items": 36,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-29 06:44:35 PM ET"
+    "last_checked": "2026-07-29 07:49:15 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 29 Jul 2026 16:18:29 +0000",
-      "age_hours": "6.43",
+      "age_hours": "7.51",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "BREAKING"
@@ -74,39 +74,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 29 Jul 2026 21:18:24 +0000",
-      "age_hours": "1.44",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Democrat senators ask US SEC to probe Trump Media's fast feed sale",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss",
-      "snapshot": "Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US SEC, Trump Media, Truth API",
-        "Specific figures mentioned: $100, 000",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrat senators ask US SEC to probe Trump Media's fast feed sale"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US SEC.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 29 Jul 2026 17:40:14 +0000",
-      "age_hours": "5.07",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": "DEVELOPING"
     },
     {
@@ -134,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 29 Jul 2026 20:30:30 +0000",
-      "age_hours": "2.23",
+      "age_hours": "3.31",
       "freshness_status": "fresh",
       "editorial_score": "147",
       "urgency": ""
@@ -164,9 +134,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 29 Jul 2026 15:00:00 -0400",
-      "age_hours": "3.74",
+      "age_hours": "4.82",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Sen. Paul: \"Very real chance\" Fauci could be prosecuted after Senate hearing",
+      "url": "https://www.cbsnews.com/news/rand-paul-anthony-fauci-very-real-chance-prosecuted-covid-senate-hearing-5th/",
+      "snapshot": "Hours after Dr. Anthony Fauci invoked the Fifth Amendment in response to all questions during a Senate hearing, Republican Sen. Rand Paul of Kentucky told CBS News he believes Fauci could be prosecuted. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Sen, Paul, Fauci",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Sen. Paul",
+        "Source context: Hours after Dr. Anthony Fauci invoked the Fifth Amendment in response to all questions during a Senate hearing, Republican Sen. Rand Paul of Kentucky..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Sen.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 29 Jul 2026 19:11:09 -0400",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 29 Jul 2026 20:30:30 +0000",
-      "age_hours": "2.23",
+      "age_hours": "3.31",
       "freshness_status": "fresh",
       "editorial_score": "147",
       "urgency": ""
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 29 Jul 2026 16:18:29 +0000",
-      "age_hours": "6.43",
+      "age_hours": "7.51",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "BREAKING"
@@ -256,21 +256,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 29 Jul 2026 15:00:00 -0400",
-      "age_hours": "3.74",
+      "age_hours": "4.82",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump-affiliated companies distance themselves from Trump-IRS deal",
-      "url": "https://www.cbsnews.com/news/trump-affiliated-companies-irs-deal-senate-democrats/",
-      "snapshot": "Top Senate Democrats sought answers about Trump IRS deal from mining company Kaz Resources, cryptocurrency companies World Liberty Financial and prediction markets Polymarket and Kalshi. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Sen. Paul: \"Very real chance\" Fauci could be prosecuted after Senate hearing",
+      "url": "https://www.cbsnews.com/news/rand-paul-anthony-fauci-very-real-chance-prosecuted-covid-senate-hearing-5th/",
+      "snapshot": "Hours after Dr. Anthony Fauci invoked the Fifth Amendment in response to all questions during a Senate hearing, Republican Sen. Rand Paul of Kentucky told CBS News he believes Fauci could be prosecuted. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, IRS, Top Senate Democrats, Trump IRS",
+        "Key people or organizations: Sen, Paul, Fauci",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-affiliated companies distance themselves from Trump-IRS deal",
-        "Source context: Top Senate Democrats sought answers about Trump IRS deal from mining company Kaz Resources, cryptocurrency companies World Liberty Financial and..."
+        "Story focus: Sen. Paul",
+        "Source context: Hours after Dr. Anthony Fauci invoked the Fifth Amendment in response to all questions during a Senate hearing, Republican Sen. Rand Paul of Kentucky..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -278,18 +278,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Sen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 29 Jul 2026 17:04:00 -0400",
-      "age_hours": "1.68",
+      "published": "Wed, 29 Jul 2026 19:11:09 -0400",
+      "age_hours": "0.63",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "WATCH"
+      "urgency": ""
     },
     {
       "headline": "Trump threatens Iran strikes after attack on US base in Jordan",
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 29 Jul 2026 21:18:24 +0000",
-      "age_hours": "1.44",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 29 Jul 2026 20:30:30 +0000",
-      "age_hours": "2.23",
+      "age_hours": "3.31",
       "freshness_status": "fresh",
       "editorial_score": "147",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 29 Jul 2026 16:18:29 +0000",
-      "age_hours": "6.43",
+      "age_hours": "7.51",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "BREAKING"
@@ -413,21 +413,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 29 Jul 2026 15:00:00 -0400",
-      "age_hours": "3.74",
+      "age_hours": "4.82",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump-affiliated companies distance themselves from Trump-IRS deal",
-      "url": "https://www.cbsnews.com/news/trump-affiliated-companies-irs-deal-senate-democrats/",
-      "snapshot": "Top Senate Democrats sought answers about Trump IRS deal from mining company Kaz Resources, cryptocurrency companies World Liberty Financial and prediction markets Polymarket and Kalshi. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Sen. Paul: \"Very real chance\" Fauci could be prosecuted after Senate hearing",
+      "url": "https://www.cbsnews.com/news/rand-paul-anthony-fauci-very-real-chance-prosecuted-covid-senate-hearing-5th/",
+      "snapshot": "Hours after Dr. Anthony Fauci invoked the Fifth Amendment in response to all questions during a Senate hearing, Republican Sen. Rand Paul of Kentucky told CBS News he believes Fauci could be prosecuted. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, IRS, Top Senate Democrats, Trump IRS",
+        "Key people or organizations: Sen, Paul, Fauci",
         "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-affiliated companies distance themselves from Trump-IRS deal",
-        "Source context: Top Senate Democrats sought answers about Trump IRS deal from mining company Kaz Resources, cryptocurrency companies World Liberty Financial and..."
+        "Story focus: Sen. Paul",
+        "Source context: Hours after Dr. Anthony Fauci invoked the Fifth Amendment in response to all questions during a Senate hearing, Republican Sen. Rand Paul of Kentucky..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,18 +435,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Sen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 29 Jul 2026 17:04:00 -0400",
-      "age_hours": "1.68",
+      "published": "Wed, 29 Jul 2026 19:11:09 -0400",
+      "age_hours": "0.63",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "WATCH"
+      "urgency": ""
     },
     {
       "headline": "Trump threatens Iran strikes after attack on US base in Jordan",
@@ -473,21 +473,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 29 Jul 2026 21:18:24 +0000",
-      "age_hours": "1.44",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Democrat senators ask US SEC to probe Trump Media's fast feed sale",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss",
-      "snapshot": "Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump's attorney general pick faces possible Republican roadblock",
+      "url": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
+      "snapshot": "Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged loyalty to the US president. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: US SEC, Trump Media, Truth API",
-        "Specific figures mentioned: $100, 000",
+        "Key people or organizations: Trump, Todd Blanche",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrat senators ask US SEC to probe Trump Media's fast feed sale"
+        "Story focus: Trump's attorney general pick faces possible Republican roadblock",
+        "Source context: Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged loyalty to the US president. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,18 +495,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US SEC.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 29 Jul 2026 17:40:14 +0000",
-      "age_hours": "5.07",
+      "published": "Wed, 29 Jul 2026 20:11:54 +0000",
+      "age_hours": "3.62",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
