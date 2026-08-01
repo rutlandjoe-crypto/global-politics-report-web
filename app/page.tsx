@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import EditorialStandard from "@/components/EditorialStandard";
 import SocialIconLinks from "@/app/SocialIconLinks";
+import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -443,11 +444,11 @@ export default function Page() {
     cleanText(report.body) ||
     "A live politics briefing built for journalists tracking power, elections, courts, policy, campaigns and government accountability.";
 
-  const updated =
+  const updated = formatUpdatedAt(
     cleanText(report.updated_at) ||
-    cleanText(report.generated_at) ||
-    cleanText(report.published_at) ||
-    "Update time unavailable";
+      cleanText(report.generated_at) ||
+      cleanText(report.published_at),
+  );
 
   let stories = getStories(report).filter((story) => story && typeof story === "object");
 
