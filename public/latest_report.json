@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Tensions rise in Iran war with threat of new strikes",
-  "snapshot": "There was a sense that the war with Iran could potentially enter a more dangerous phase, with sources telling CBS News that the U.S. and Israel were preparing for what could be the most aggressive expansion of the campaign against Iran since the war began. Imtiaz Tyab reports. The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-08-02 04:15:51 AM ET",
-  "generated_at": "2026-08-02 04:15:51 AM ET",
+  "headline": "Trump slashes Medicare drug subsidies, cutting against affordability message",
+  "snapshot": "The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's message of cutting drug costs. President Trump often touts his push for access to... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+  "updated_at": "2026-08-02 06:37:31 AM ET",
+  "generated_at": "2026-08-02 06:37:31 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 33,
-    "editor_fresh_items": 78,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 117,
+    "total_items_checked": 149,
+    "live_fresh_items": 30,
+    "editor_fresh_items": 71,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 119,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-02 04:15:51 AM ET"
+    "last_checked": "2026-08-02 06:37:31 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Trump slashes Medicare drug subsidies, cutting against affordability message",
+      "url": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
+      "snapshot": "The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's message of cutting drug costs. President Trump often touts his push for access to... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Medicare, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump slashes Medicare drug subsidies, cutting against affordability message",
+        "Source context: The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 02 Aug 2026 10:00:00 +0000",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Tensions rise in Iran war with threat of new strikes",
       "url": "https://www.cbsnews.com/video/tensions-rise-in-iran-war-with-threat-of-new-strikes/",
@@ -44,7 +74,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 01 Aug 2026 20:52:11 -0400",
-      "age_hours": "7.39",
+      "age_hours": "9.76",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
@@ -74,40 +104,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 02 Aug 2026 03:36:43 +0000",
-      "age_hours": "4.65",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
-      "snapshot": "President Trump's announcement of a \"historic\" deal reached with negotiators this week that includes disarming Hamas still faces hurdles, as skeptics wonder if it can move from paper to reality. The agreement is part of Trump's 20-point plan to reach a ceasefire in the Gaza... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Hamas, Iran, Trump, President Trump",
-        "Specific figures mentioned: 20",
-        "Politics desk signal: election, campaign, gaza",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sunday shows preview"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hamas.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 01 Aug 2026 22:01:22 +0000",
-      "age_hours": "10.24",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "WATCH"
     },
     {
       "headline": "Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case",
@@ -134,43 +134,73 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 02:04:01 +0000",
-      "age_hours": "6.20",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
     },
     {
-      "headline": "New York Times reveals Trump administration subpoena over North Korea story",
-      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
-      "snapshot": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Trump 'cancels attack on Iran' saying deal is near",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "snapshot": "US President Trump announced he was cancelling a planned attack on Iran with the 'perimeters of a deal' agreed to. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: York Times, Trump, North Korea, Justice Department",
-        "Politics desk signal: court",
+        "Key people or organizations: Trump, Iran, US President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: New York Times reveals Trump administration subpoena over North Korea story",
-        "Source context: The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info. The broader significance is..."
+        "Story focus: Trump 'cancels attack on Iran' saying deal is near",
+        "Source context: US President Trump announced he was cancelling a planned attack on Iran with the 'perimeters of a deal' agreed to. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving York Times.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 01 Aug 2026 23:42:44 +0000",
-      "age_hours": "8.55",
+      "published": "Sun, 02 Aug 2026 08:43:15 +0000",
+      "age_hours": "1.90",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": ""
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Trump slashes Medicare drug subsidies, cutting against affordability message",
+      "url": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
+      "snapshot": "The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's message of cutting drug costs. President Trump often touts his push for access to... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Medicare, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump slashes Medicare drug subsidies, cutting against affordability message",
+        "Source context: The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 02 Aug 2026 10:00:00 +0000",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Tensions rise in Iran war with threat of new strikes",
       "url": "https://www.cbsnews.com/video/tensions-rise-in-iran-war-with-threat-of-new-strikes/",
@@ -196,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 01 Aug 2026 20:52:11 -0400",
-      "age_hours": "7.39",
+      "age_hours": "9.76",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
@@ -226,40 +256,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 02 Aug 2026 03:36:43 +0000",
-      "age_hours": "4.65",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
-      "snapshot": "President Trump's announcement of a \"historic\" deal reached with negotiators this week that includes disarming Hamas still faces hurdles, as skeptics wonder if it can move from paper to reality. The agreement is part of Trump's 20-point plan to reach a ceasefire in the Gaza... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Hamas, Iran, Trump, President Trump",
-        "Specific figures mentioned: 20",
-        "Politics desk signal: election, campaign, gaza",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sunday shows preview"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hamas.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 01 Aug 2026 22:01:22 +0000",
-      "age_hours": "10.24",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "WATCH"
     },
     {
       "headline": "Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case",
@@ -286,7 +286,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 02:04:01 +0000",
-      "age_hours": "6.20",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -316,18 +316,48 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 31 Jul 2026 19:43:32 -0400",
-      "age_hours": "32.54",
+      "age_hours": "34.90",
       "freshness_status": "editor_fresh",
       "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Trump slashes Medicare drug subsidies, cutting against affordability message",
     "Tensions rise in Iran war with threat of new strikes",
-    "Trump cancels Iran strike, says 'deal perimeters' reached",
-    "Sunday shows preview: Hamas deal, Iran tensions test Trump administration"
+    "Trump cancels Iran strike, says 'deal perimeters' reached"
   ],
   "sections": [
+    {
+      "headline": "Trump slashes Medicare drug subsidies, cutting against affordability message",
+      "url": "https://thehill.com/homenews/administration/6003940-trump-slashes-medicare-drug-subsidies-cutting-against-affordability-message/",
+      "snapshot": "The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move that undermines the Trump administration's message of cutting drug costs. President Trump often touts his push for access to... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Medicare, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump slashes Medicare drug subsidies, cutting against affordability message",
+        "Source context: The end of a subsidy program that helped keep costs down for Medicare drug coverage could leave millions of seniors with higher monthly costs, a move..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 02 Aug 2026 10:00:00 +0000",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Tensions rise in Iran war with threat of new strikes",
       "url": "https://www.cbsnews.com/video/tensions-rise-in-iran-war-with-threat-of-new-strikes/",
@@ -353,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 01 Aug 2026 20:52:11 -0400",
-      "age_hours": "7.39",
+      "age_hours": "9.76",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
@@ -383,40 +413,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 02 Aug 2026 03:36:43 +0000",
-      "age_hours": "4.65",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
-      "snapshot": "President Trump's announcement of a \"historic\" deal reached with negotiators this week that includes disarming Hamas still faces hurdles, as skeptics wonder if it can move from paper to reality. The agreement is part of Trump's 20-point plan to reach a ceasefire in the Gaza... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Hamas, Iran, Trump, President Trump",
-        "Specific figures mentioned: 20",
-        "Politics desk signal: election, campaign, gaza",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sunday shows preview"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Hamas.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 01 Aug 2026 22:01:22 +0000",
-      "age_hours": "10.24",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "WATCH"
     },
     {
       "headline": "Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case",
@@ -443,10 +443,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 02:04:01 +0000",
-      "age_hours": "6.20",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
+    },
+    {
+      "headline": "Trump 'cancels attack on Iran' saying deal is near",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "snapshot": "US President Trump announced he was cancelling a planned attack on Iran with the 'perimeters of a deal' agreed to. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, US President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump 'cancels attack on Iran' saying deal is near",
+        "Source context: US President Trump announced he was cancelling a planned attack on Iran with the 'perimeters of a deal' agreed to. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 02 Aug 2026 08:43:15 +0000",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "WATCH"
     },
     {
       "headline": "New York Times reveals Trump administration subpoena over North Korea story",
@@ -473,39 +503,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 01 Aug 2026 23:42:44 +0000",
-      "age_hours": "8.55",
+      "age_hours": "10.91",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "8/1: CBS Weekend News",
-      "url": "https://www.cbsnews.com/video/080126-cbs-weekend-news/",
-      "snapshot": "President Trump criticizes decision to drop charges in Reflecting Pool case; Tensions rise in the Middle East. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: CBS Weekend News, President Trump, Reflecting Pool",
-        "Specific figures mentioned: 8, 1",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 8/1"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving CBS Weekend News.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 01 Aug 2026 18:30:00 -0400",
-      "age_hours": "9.76",
-      "freshness_status": "fresh",
-      "editorial_score": "71",
       "urgency": ""
     }
   ],
