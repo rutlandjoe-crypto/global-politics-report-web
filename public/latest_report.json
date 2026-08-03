@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump says outline of Iran deal agreed to, mediators say otherwise, strikes on hold for now",
   "snapshot": "President Trump has called off new attacks on Iran for the time being, insisting an end to the war is close. He's also again calling for the \"immediate\" re-opening of the Strait of Hormuz. Imtiaz Tyab reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-08-02 10:25:55 PM ET",
-  "generated_at": "2026-08-02 10:25:55 PM ET",
+  "updated_at": "2026-08-03 02:17:59 AM ET",
+  "generated_at": "2026-08-03 02:17:59 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 63,
-    "editor_fresh_items": 102,
+    "live_fresh_items": 47,
+    "editor_fresh_items": 93,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 84,
+    "stale_or_blocked_items": 100,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-02 10:25:55 PM ET"
+    "last_checked": "2026-08-03 02:17:59 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,40 +44,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 02 Aug 2026 20:52:00 -0400",
-      "age_hours": "1.56",
+      "age_hours": "5.43",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Republican senator says former son-in-law should resign from US Congress",
-      "url": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss",
-      "snapshot": "Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: US Congress, Senator Bernie Moreno, Representative Max Miller",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican senator says former son-in-law should resign from US Congress",
-        "Source context: Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 02 Aug 2026 18:27:41 +0000",
-      "age_hours": "7.97",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
     },
     {
       "headline": "Sanders: Look at what Mamdani is doing and contrast that with Trump",
@@ -104,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 23:13:40 +0000",
-      "age_hours": "3.20",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "WATCH"
@@ -112,13 +82,13 @@
     {
       "headline": "Trump says new round of Iran talks will begin Monday",
       "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
-      "snapshot": "The US president says Gulf allies and Tehran urged him to delay planned strikes. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "snapshot": "The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
         "Key people or organizations: Trump, Iran",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump says new round of Iran talks will begin Monday",
-        "Source context: The US president says Gulf allies and Tehran urged him to delay planned strikes. The election angle is whether this changes voter attention, campaign..."
+        "Source context: The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -134,7 +104,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 02 Aug 2026 23:48:08 +0000",
-      "age_hours": "2.63",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -164,9 +134,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 21:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+      "url": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
+      "snapshot": "GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed to stay in the race for another term and strongly denied all allegations of misconduct. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
+      "key_data": [
+        "Key people or organizations: Sen, Moreno, Max Miller, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+        "Source context: GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Sen.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 02 Aug 2026 14:55:14 -0400",
+      "age_hours": "11.38",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 02 Aug 2026 20:52:00 -0400",
-      "age_hours": "1.56",
+      "age_hours": "5.43",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 21:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -256,21 +256,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 23:13:40 +0000",
-      "age_hours": "3.20",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "WATCH"
     },
     {
-      "headline": "Sen. Mark Kelly: Trump \"has to try to figure out a way out of\" Iran war",
-      "url": "https://www.cbsnews.com/news/sen-mark-kelly-trump-administration-iran-war-flailing/",
-      "snapshot": "Democratic Sen. Mark Kelly also voiced concerns about the Pentagon's funding requests, calling the approach \"irresponsible — and now they want a blank check.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+      "url": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
+      "snapshot": "GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed to stay in the race for another term and strongly denied all allegations of misconduct. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
       "key_data": [
-        "Key people or organizations: Sen, Mark Kelly, Trump, Iran",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Sen, Moreno, Max Miller, Congress",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sen. Mark Kelly",
-        "Source context: Democratic Sen. Mark Kelly also voiced concerns about the Pentagon's funding requests, calling the approach \"irresponsible — and now they want a..."
+        "Story focus: Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+        "Source context: GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -285,22 +285,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 02 Aug 2026 11:47:12 -0400",
-      "age_hours": "10.64",
+      "published": "Sun, 02 Aug 2026 14:55:14 -0400",
+      "age_hours": "11.38",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
+      "editorial_score": "92",
+      "urgency": ""
     },
     {
-      "headline": "Republican senator says former son-in-law should resign from US Congress",
-      "url": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss",
-      "snapshot": "Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump says new round of Iran talks will begin Monday",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+      "snapshot": "The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: US Congress, Senator Bernie Moreno, Representative Max Miller",
-        "Politics desk signal: congress",
+        "Key people or organizations: Trump, Iran",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican senator says former son-in-law should resign from US Congress",
-        "Source context: Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller. The key question is leverage: the..."
+        "Story focus: Trump says new round of Iran talks will begin Monday",
+        "Source context: The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,18 +308,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US Congress.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 02 Aug 2026 18:27:41 +0000",
-      "age_hours": "7.97",
+      "published": "Sun, 02 Aug 2026 23:48:08 +0000",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
+      "editorial_score": "90",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 02 Aug 2026 20:52:00 -0400",
-      "age_hours": "1.56",
+      "age_hours": "5.43",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 21:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -413,21 +413,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 02 Aug 2026 23:13:40 +0000",
-      "age_hours": "3.20",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "WATCH"
     },
     {
-      "headline": "Sen. Mark Kelly: Trump \"has to try to figure out a way out of\" Iran war",
-      "url": "https://www.cbsnews.com/news/sen-mark-kelly-trump-administration-iran-war-flailing/",
-      "snapshot": "Democratic Sen. Mark Kelly also voiced concerns about the Pentagon's funding requests, calling the approach \"irresponsible — and now they want a blank check.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+      "url": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
+      "snapshot": "GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed to stay in the race for another term and strongly denied all allegations of misconduct. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
       "key_data": [
-        "Key people or organizations: Sen, Mark Kelly, Trump, Iran",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Sen, Moreno, Max Miller, Congress",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sen. Mark Kelly",
-        "Source context: Democratic Sen. Mark Kelly also voiced concerns about the Pentagon's funding requests, calling the approach \"irresponsible — and now they want a..."
+        "Story focus: Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+        "Source context: GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -442,38 +442,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 02 Aug 2026 11:47:12 -0400",
-      "age_hours": "10.64",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Republican senator says former son-in-law should resign from US Congress",
-      "url": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss",
-      "snapshot": "Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: US Congress, Senator Bernie Moreno, Representative Max Miller",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican senator says former son-in-law should resign from US Congress",
-        "Source context: Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 02 Aug 2026 18:27:41 +0000",
-      "age_hours": "7.97",
+      "published": "Sun, 02 Aug 2026 14:55:14 -0400",
+      "age_hours": "11.38",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -481,13 +451,13 @@
     {
       "headline": "Trump says new round of Iran talks will begin Monday",
       "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
-      "snapshot": "The US president says Gulf allies and Tehran urged him to delay planned strikes. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "snapshot": "The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
         "Key people or organizations: Trump, Iran",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump says new round of Iran talks will begin Monday",
-        "Source context: The US president says Gulf allies and Tehran urged him to delay planned strikes. The election angle is whether this changes voter attention, campaign..."
+        "Source context: The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -503,10 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 02 Aug 2026 23:48:08 +0000",
-      "age_hours": "2.63",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump pauses 'massive attack' on Iran, says new talks to begin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+      "snapshot": "US President Trump says new talks with Iran will start Monday 'in the form of a negotiation' after calling off attack. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, US President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump pauses 'massive attack' on Iran, says new talks to begin",
+        "Source context: US President Trump says new talks with Iran will start Monday 'in the form of a negotiation' after calling off attack. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 03 Aug 2026 03:17:33 +0000",
+      "age_hours": "3.01",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
