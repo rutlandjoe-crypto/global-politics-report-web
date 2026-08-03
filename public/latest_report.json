@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump administration sued for banning gender transition treatments in federal health plans",
   "snapshot": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage ban in federal workers' health insurance plans. The lawsuit claims the ban violates the federal prohibition on sex discrimination... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-08-03 04:25:00 PM ET",
-  "generated_at": "2026-08-03 04:25:00 PM ET",
+  "updated_at": "2026-08-03 06:05:02 PM ET",
+  "generated_at": "2026-08-03 06:05:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 84,
-    "editor_fresh_items": 134,
+    "live_fresh_items": 89,
+    "editor_fresh_items": 139,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 64,
+    "stale_or_blocked_items": 59,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-03 04:25:00 PM ET"
+    "last_checked": "2026-08-03 06:05:02 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 15:14:12 -0400",
-      "age_hours": "1.18",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -74,21 +74,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 03 Aug 2026 16:11:15 +0000",
-      "age_hours": "4.23",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate pushes ahead with plan to fund government through midterms",
-      "url": "https://www.cbsnews.com/news/senate-government-funding-midterm-elections/",
-      "snapshot": "The Senate is moving ahead with a plan to keep the government funded and avoid another shutdown before the midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Democratic-led states join legal fight over Trump's new tariffs",
+      "url": "https://thehill.com/regulation/court-battles/6006607-democratic-states-sue-trump-tariffs/",
+      "snapshot": "Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them \"equally unlawful\" to the ones the Supreme Court has invalidated. The lawsuit adds to legal challenges launched by small businesses in response to the latest... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Senate",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: Democratic, Trump, President Trump",
+        "Politics desk signal: supreme court, court, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate pushes ahead with plan to fund government through midterms",
-        "Source context: The Senate is moving ahead with a plan to keep the government funded and avoid another shutdown before the midterm elections. The key question is..."
+        "Story focus: Democratic-led states join legal fight over Trump's new tariffs",
+        "Source context: Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them \"equally unlawful\" to the..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democratic.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 03 Aug 2026 20:54:51 +0000",
+      "age_hours": "1.17",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Senate candidate El-Sayed questions assumption Michigan voters are moderates",
+      "url": "https://www.cbsnews.com/news/abdul-el-sayed-senate-michigan-voters-trump/",
+      "snapshot": "Populist Abdul El-Sayed and Rep. Haley Stevens top the Democratic field going into Tuesday's Senate primary. Former Rep. Mike Rogers is running unopposed for the GOP nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate, El, Sayed",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate candidate El-Sayed questions assumption Michigan voters are moderates",
+        "Source context: Populist Abdul El-Sayed and Rep. Haley Stevens top the Democratic field going into Tuesday's Senate primary. Former Rep. Mike Rogers is running..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -100,55 +130,25 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 03 Aug 2026 09:55:58 -0400",
-      "age_hours": "6.48",
+      "published": "Mon, 03 Aug 2026 17:54:24 -0400",
+      "age_hours": "0.18",
       "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ex-Trump aide: White House 'trying to gaslight' Americans with economic message",
-      "url": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
-      "snapshot": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to \"gaslight\" the American public with their messaging on the economy. \"Republicans spent years mocking the Biden administration for trying to gaslight the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ex-Trump aide",
-        "Source context: Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to \"gaslight\" the American..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 03 Aug 2026 16:03:12 +0000",
-      "age_hours": "4.36",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump says talks with Iran are 'last chance' to forge a deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-      "snapshot": "US President Donald Trump said Iran has a \"last chance\" to reach a nuclear agreement. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+      "snapshot": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, US President Donald Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Michigan Democratic Senate",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says talks with Iran are 'last chance' to forge a deal",
-        "Source context: US President Donald Trump said Iran has a \"last chance\" to reach a nuclear agreement. The election angle is whether this changes voter attention,..."
+        "Story focus: El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+        "Source context: Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party. The key question is leverage: the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,18 +156,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Michigan Democratic Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 03 Aug 2026 19:45:30 +0000",
-      "age_hours": "0.66",
+      "published": "Mon, 03 Aug 2026 20:58:19 +0000",
+      "age_hours": "1.11",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "WATCH"
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 03 Aug 2026 16:11:15 +0000",
-      "age_hours": "4.23",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "DEVELOPING"
@@ -226,51 +226,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 15:14:12 -0400",
-      "age_hours": "1.18",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Ex-Trump aide: White House 'trying to gaslight' Americans with economic message",
-      "url": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
-      "snapshot": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to \"gaslight\" the American public with their messaging on the economy. \"Republicans spent years mocking the Biden administration for trying to gaslight the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Democratic-led states join legal fight over Trump's new tariffs",
+      "url": "https://thehill.com/regulation/court-battles/6006607-democratic-states-sue-trump-tariffs/",
+      "snapshot": "Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them \"equally unlawful\" to the ones the Supreme Court has invalidated. The lawsuit adds to legal challenges launched by small businesses in response to the latest... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Democratic, Trump, President Trump",
+        "Politics desk signal: supreme court, court, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ex-Trump aide",
-        "Source context: Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to \"gaslight\" the American..."
+        "Story focus: Democratic-led states join legal fight over Trump's new tariffs",
+        "Source context: Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them \"equally unlawful\" to the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Democratic.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 03 Aug 2026 16:03:12 +0000",
-      "age_hours": "4.36",
+      "published": "Mon, 03 Aug 2026 20:54:51 +0000",
+      "age_hours": "1.17",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate pushes ahead with plan to fund government through midterms",
-      "url": "https://www.cbsnews.com/news/senate-government-funding-midterm-elections/",
-      "snapshot": "The Senate is moving ahead with a plan to keep the government funded and avoid another shutdown before the midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Senate candidate El-Sayed questions assumption Michigan voters are moderates",
+      "url": "https://www.cbsnews.com/news/abdul-el-sayed-senate-michigan-voters-trump/",
+      "snapshot": "Populist Abdul El-Sayed and Rep. Haley Stevens top the Democratic field going into Tuesday's Senate primary. Former Rep. Mike Rogers is running unopposed for the GOP nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Senate",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: Senate, El, Sayed",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate pushes ahead with plan to fund government through midterms",
-        "Source context: The Senate is moving ahead with a plan to keep the government funded and avoid another shutdown before the midterm elections. The key question is..."
+        "Story focus: Senate candidate El-Sayed questions assumption Michigan voters are moderates",
+        "Source context: Populist Abdul El-Sayed and Rep. Haley Stevens top the Democratic field going into Tuesday's Senate primary. Former Rep. Mike Rogers is running..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -282,25 +282,25 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 03 Aug 2026 09:55:58 -0400",
-      "age_hours": "6.48",
+      "published": "Mon, 03 Aug 2026 17:54:24 -0400",
+      "age_hours": "0.18",
       "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
-      "headline": "Trump says talks with Iran are 'last chance' to forge a deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-      "snapshot": "US President Donald Trump said Iran has a \"last chance\" to reach a nuclear agreement. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+      "snapshot": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, US President Donald Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Michigan Democratic Senate",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says talks with Iran are 'last chance' to forge a deal",
-        "Source context: US President Donald Trump said Iran has a \"last chance\" to reach a nuclear agreement. The election angle is whether this changes voter attention,..."
+        "Story focus: El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+        "Source context: Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party. The key question is leverage: the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,24 +308,24 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Michigan Democratic Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 03 Aug 2026 19:45:30 +0000",
-      "age_hours": "0.66",
+      "published": "Mon, 03 Aug 2026 20:58:19 +0000",
+      "age_hours": "1.11",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "WATCH"
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Trump administration sued for banning gender transition treatments in federal health plans",
     "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
-    "Ex-Trump aide: White House 'trying to gaslight' Americans with economic message"
+    "Democratic-led states join legal fight over Trump's new tariffs"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 03 Aug 2026 16:11:15 +0000",
-      "age_hours": "4.23",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "DEVELOPING"
@@ -383,51 +383,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 15:14:12 -0400",
-      "age_hours": "1.18",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Ex-Trump aide: White House 'trying to gaslight' Americans with economic message",
-      "url": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
-      "snapshot": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to \"gaslight\" the American public with their messaging on the economy. \"Republicans spent years mocking the Biden administration for trying to gaslight the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Democratic-led states join legal fight over Trump's new tariffs",
+      "url": "https://thehill.com/regulation/court-battles/6006607-democratic-states-sue-trump-tariffs/",
+      "snapshot": "Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them \"equally unlawful\" to the ones the Supreme Court has invalidated. The lawsuit adds to legal challenges launched by small businesses in response to the latest... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Democratic, Trump, President Trump",
+        "Politics desk signal: supreme court, court, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ex-Trump aide",
-        "Source context: Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to \"gaslight\" the American..."
+        "Story focus: Democratic-led states join legal fight over Trump's new tariffs",
+        "Source context: Roughly two dozen Democratic-controlled states sued President Trump on Monday over his new global tariffs, calling them \"equally unlawful\" to the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Democratic.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 03 Aug 2026 16:03:12 +0000",
-      "age_hours": "4.36",
+      "published": "Mon, 03 Aug 2026 20:54:51 +0000",
+      "age_hours": "1.17",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate pushes ahead with plan to fund government through midterms",
-      "url": "https://www.cbsnews.com/news/senate-government-funding-midterm-elections/",
-      "snapshot": "The Senate is moving ahead with a plan to keep the government funded and avoid another shutdown before the midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Senate candidate El-Sayed questions assumption Michigan voters are moderates",
+      "url": "https://www.cbsnews.com/news/abdul-el-sayed-senate-michigan-voters-trump/",
+      "snapshot": "Populist Abdul El-Sayed and Rep. Haley Stevens top the Democratic field going into Tuesday's Senate primary. Former Rep. Mike Rogers is running unopposed for the GOP nomination. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Senate",
-        "Politics desk signal: senate, election",
+        "Key people or organizations: Senate, El, Sayed",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate pushes ahead with plan to fund government through midterms",
-        "Source context: The Senate is moving ahead with a plan to keep the government funded and avoid another shutdown before the midterm elections. The key question is..."
+        "Story focus: Senate candidate El-Sayed questions assumption Michigan voters are moderates",
+        "Source context: Populist Abdul El-Sayed and Rep. Haley Stevens top the Democratic field going into Tuesday's Senate primary. Former Rep. Mike Rogers is running..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -439,14 +439,44 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 03 Aug 2026 09:55:58 -0400",
-      "age_hours": "6.48",
+      "published": "Mon, 03 Aug 2026 17:54:24 -0400",
+      "age_hours": "0.18",
       "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+      "snapshot": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Michigan Democratic Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+        "Source context: Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Michigan Democratic Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 03 Aug 2026 20:58:19 +0000",
+      "age_hours": "1.11",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
     },
     {
       "headline": "Trump says talks with Iran are 'last chance' to forge a deal",
@@ -473,40 +503,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 03 Aug 2026 19:45:30 +0000",
-      "age_hours": "0.66",
+      "age_hours": "2.33",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump blasts 'duplicitous' Iran after Tehran denies it is in talks with the US",
-      "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
-      "snapshot": "US president demands 'Total Surrender' amid escalating naval blockade in the crucial Strait of Hormuz. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, US",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump blasts 'duplicitous' Iran after Tehran denies it is in talks with the US",
-        "Source context: US president demands 'Total Surrender' amid escalating naval blockade in the crucial Strait of Hormuz. The election angle is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 03 Aug 2026 17:38:01 +0000",
-      "age_hours": "2.78",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
