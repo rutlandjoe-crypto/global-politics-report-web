@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump administration sued for banning gender transition treatments in federal health plans",
-  "snapshot": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage ban in federal workers' health insurance plans. The lawsuit claims the ban violates the federal prohibition on sex discrimination... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-08-04 12:09:52 AM ET",
-  "generated_at": "2026-08-04 12:09:52 AM ET",
+  "headline": "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
+  "snapshot": "The House Ethics Committee released a report detailing the findings of an investigation into GOP Rep. Chuck Edwards, concluding that there is \"substantial reason to believe\" he violated House rules. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-08-04 03:35:04 AM ET",
+  "generated_at": "2026-08-04 03:35:04 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 72,
-    "editor_fresh_items": 130,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 76,
+    "total_items_checked": 149,
+    "live_fresh_items": 51,
+    "editor_fresh_items": 122,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 98,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-04 12:09:52 AM ET"
+    "last_checked": "2026-08-04 03:35:04 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 19:17:00 -0400",
-      "age_hours": "4.88",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "128",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump administration sued for banning gender transition treatments in federal health plans",
-      "url": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
-      "snapshot": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage ban in federal workers' health insurance plans. The lawsuit claims the ban violates the federal prohibition on sex discrimination... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Trump, Human Rights Campaign",
-        "Politics desk signal: court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sued for banning gender transition treatments in federal health plans",
-        "Source context: An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 03 Aug 2026 16:11:15 +0000",
-      "age_hours": "11.98",
-      "freshness_status": "fresh",
-      "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,10 +74,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 19:52:49 -0400",
-      "age_hours": "4.28",
+      "age_hours": "7.70",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
+      "url": "https://thehill.com/homenews/senate/6006917-senate-advances-stopgap-funding-bill/",
+      "snapshot": "The Senate on Monday overwhelmingly advanced a stopgap funding bill aimed at avoiding a government shutdown ahead of this fall's midterms. The chamber voted 89-4 to invoke cloture on a motion to proceed to the legislative vehicle for the continuing resolution, overcoming the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate",
+        "Specific figures mentioned: 89, 4",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 03 Aug 2026 23:20:58 +0000",
+      "age_hours": "8.23",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Democratic-led states join legal fight over Trump's new tariffs",
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 03 Aug 2026 20:54:51 +0000",
-      "age_hours": "7.25",
+      "age_hours": "10.67",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 04 Aug 2026 00:29:48 +0000",
-      "age_hours": "3.67",
+      "age_hours": "7.09",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -172,36 +172,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "Trump administration sued for banning gender transition treatments in federal health plans",
-      "url": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
-      "snapshot": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage ban in federal workers' health insurance plans. The lawsuit claims the ban violates the federal prohibition on sex discrimination... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Trump, Human Rights Campaign",
-        "Politics desk signal: court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sued for banning gender transition treatments in federal health plans",
-        "Source context: An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 03 Aug 2026 16:11:15 +0000",
-      "age_hours": "11.98",
-      "freshness_status": "fresh",
-      "editorial_score": "133",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
       "url": "https://www.cbsnews.com/news/chuck-edwards-house-ethics-committee-sexual-harassment-probe/",
       "snapshot": "The House Ethics Committee released a report detailing the findings of an investigation into GOP Rep. Chuck Edwards, concluding that there is \"substantial reason to believe\" he violated House rules. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
@@ -226,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 19:17:00 -0400",
-      "age_hours": "4.88",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -256,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 03 Aug 2026 20:54:51 +0000",
-      "age_hours": "7.25",
+      "age_hours": "10.67",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -286,10 +256,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 19:52:49 -0400",
-      "age_hours": "4.28",
+      "age_hours": "7.70",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
+      "url": "https://thehill.com/homenews/senate/6006917-senate-advances-stopgap-funding-bill/",
+      "snapshot": "The Senate on Monday overwhelmingly advanced a stopgap funding bill aimed at avoiding a government shutdown ahead of this fall's midterms. The chamber voted 89-4 to invoke cloture on a motion to proceed to the legislative vehicle for the continuing resolution, overcoming the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate",
+        "Specific figures mentioned: 89, 4",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 03 Aug 2026 23:20:58 +0000",
+      "age_hours": "8.23",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump administration sued by 25 states over new tariffs on trading partners",
@@ -316,48 +316,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 04 Aug 2026 00:29:48 +0000",
-      "age_hours": "3.67",
+      "age_hours": "7.09",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump administration sued for banning gender transition treatments in federal health plans",
     "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
-    "Democratic-led states join legal fight over Trump's new tariffs"
+    "Democratic-led states join legal fight over Trump's new tariffs",
+    "Justice Dept. moves to dismiss Jan. 6 class action lawsuit"
   ],
   "sections": [
-    {
-      "headline": "Trump administration sued for banning gender transition treatments in federal health plans",
-      "url": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
-      "snapshot": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage ban in federal workers' health insurance plans. The lawsuit claims the ban violates the federal prohibition on sex discrimination... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Trump, Human Rights Campaign",
-        "Politics desk signal: court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration sued for banning gender transition treatments in federal health plans",
-        "Source context: An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration's gender-affirming care coverage..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 03 Aug 2026 16:11:15 +0000",
-      "age_hours": "11.98",
-      "freshness_status": "fresh",
-      "editorial_score": "133",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
       "url": "https://www.cbsnews.com/news/chuck-edwards-house-ethics-committee-sexual-harassment-probe/",
@@ -383,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 19:17:00 -0400",
-      "age_hours": "4.88",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -413,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 03 Aug 2026 20:54:51 +0000",
-      "age_hours": "7.25",
+      "age_hours": "10.67",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -443,10 +413,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 03 Aug 2026 19:52:49 -0400",
-      "age_hours": "4.28",
+      "age_hours": "7.70",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
+      "url": "https://thehill.com/homenews/senate/6006917-senate-advances-stopgap-funding-bill/",
+      "snapshot": "The Senate on Monday overwhelmingly advanced a stopgap funding bill aimed at avoiding a government shutdown ahead of this fall's midterms. The chamber voted 89-4 to invoke cloture on a motion to proceed to the legislative vehicle for the continuing resolution, overcoming the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate",
+        "Specific figures mentioned: 89, 4",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 03 Aug 2026 23:20:58 +0000",
+      "age_hours": "8.23",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump administration sued by 25 states over new tariffs on trading partners",
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 04 Aug 2026 00:29:48 +0000",
-      "age_hours": "3.67",
+      "age_hours": "7.09",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-      "age_hours": "4.16",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
