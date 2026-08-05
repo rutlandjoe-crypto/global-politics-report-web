@@ -1,25 +1,55 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-  "snapshot": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-08-05 05:34:22 AM ET",
-  "generated_at": "2026-08-05 05:34:22 AM ET",
+  "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+  "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-08-05 07:56:36 AM ET",
+  "generated_at": "2026-08-05 07:56:36 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 146,
-    "live_fresh_items": 74,
+    "live_fresh_items": 73,
     "editor_fresh_items": 143,
     "public_fallback_items": 144,
-    "stale_or_blocked_items": 72,
+    "stale_or_blocked_items": 73,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-05 05:34:22 AM ET"
+    "last_checked": "2026-08-05 07:56:36 AM ET"
   },
   "live_newsroom": [
     {
+      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
+      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: White House, FBI, Trump, Comey",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
+        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 07:40:18 -0400",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "158",
+      "urgency": "BREAKING"
+    },
+    {
       "headline": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
       "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
       "snapshot": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
@@ -44,39 +74,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 04 Aug 2026 20:07:05 -0400",
-      "age_hours": "9.45",
+      "age_hours": "11.83",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
-      "url": "https://www.cbsnews.com/news/washington-3rd-district-primary-results-marie-gluesenkamp-perez-john-braun/",
-      "snapshot": "Democratic Rep. Marie Gluesenkamp Perez and Republican state Sen. John Braun will advance to a general election in Washington's 3rd District, one of the most hotly contested House contests of this year, CBS News projects. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Democratic Rep, Gluesenkamp Perez, Trump, Republican",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democratic Rep.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 05 Aug 2026 01:02:45 -0400",
-      "age_hours": "4.53",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -104,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 03:19:42 +0000",
-      "age_hours": "6.24",
+      "age_hours": "8.61",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -134,348 +134,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 01:03:56 +0000",
-      "age_hours": "8.51",
+      "age_hours": "10.88",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
-      "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss",
-      "snapshot": "Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Abdul El, Michigan Democratic, Senate",
-        "Specific figures mentioned: $60m",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Abdul El.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 05 Aug 2026 06:10:20 +0000",
-      "age_hours": "3.40",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
-      "snapshot": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Rep",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-        "Source context: Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 04 Aug 2026 20:07:05 -0400",
-      "age_hours": "9.45",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
-      "url": "https://www.cbsnews.com/news/washington-3rd-district-primary-results-marie-gluesenkamp-perez-john-braun/",
-      "snapshot": "Democratic Rep. Marie Gluesenkamp Perez and Republican state Sen. John Braun will advance to a general election in Washington's 3rd District, one of the most hotly contested House contests of this year, CBS News projects. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Democratic Rep, Gluesenkamp Perez, Trump, Republican",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democratic Rep.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 05 Aug 2026 01:02:45 -0400",
-      "age_hours": "4.53",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
-      "url": "https://thehill.com/homenews/campaign/5999908-braun-glusenkamp-perez-washington-house/",
-      "snapshot": "Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected to advance to a face-off with the Democratic congresswoman in November, according to Decision Desk HQ's (DDHQ) preliminary... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Braun, Perez, Washington House",
-        "Politics desk signal: congress, senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
-        "Source context: Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 03:19:42 +0000",
-      "age_hours": "6.24",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's pick for Kansas governor wins GOP primary",
-      "url": "https://thehill.com/homenews/campaign/5997716-masterson-kansas-governor-primary-trump/",
-      "snapshot": "Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a crowded field of Republican candidates to advance to the general election, according to preliminary results from Decision Desk... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Kansas, GOP, Senate President Ty Masterson",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's pick for Kansas governor wins GOP primary",
-        "Source context: Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 01:03:56 +0000",
-      "age_hours": "8.51",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
-      "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss",
-      "snapshot": "Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Abdul El, Michigan Democratic, Senate",
-        "Specific figures mentioned: $60m",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Abdul El.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 05 Aug 2026 06:10:20 +0000",
-      "age_hours": "3.40",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-    "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
-    "Trump-endorsed Braun to face off against Perez in toss-up Washington House election"
-  ],
-  "sections": [
-    {
-      "headline": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
-      "snapshot": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Rep",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
-        "Source context: Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 04 Aug 2026 20:07:05 -0400",
-      "age_hours": "9.45",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
-      "url": "https://www.cbsnews.com/news/washington-3rd-district-primary-results-marie-gluesenkamp-perez-john-braun/",
-      "snapshot": "Democratic Rep. Marie Gluesenkamp Perez and Republican state Sen. John Braun will advance to a general election in Washington's 3rd District, one of the most hotly contested House contests of this year, CBS News projects. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Democratic Rep, Gluesenkamp Perez, Trump, Republican",
-        "Specific figures mentioned: 3",
-        "Politics desk signal: house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democratic Rep.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 05 Aug 2026 01:02:45 -0400",
-      "age_hours": "4.53",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
-      "url": "https://thehill.com/homenews/campaign/5999908-braun-glusenkamp-perez-washington-house/",
-      "snapshot": "Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected to advance to a face-off with the Democratic congresswoman in November, according to Decision Desk HQ's (DDHQ) preliminary... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Braun, Perez, Washington House",
-        "Politics desk signal: congress, senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
-        "Source context: Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 03:19:42 +0000",
-      "age_hours": "6.24",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's pick for Kansas governor wins GOP primary",
-      "url": "https://thehill.com/homenews/campaign/5997716-masterson-kansas-governor-primary-trump/",
-      "snapshot": "Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a crowded field of Republican candidates to advance to the general election, according to preliminary results from Decision Desk... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Kansas, GOP, Senate President Ty Masterson",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's pick for Kansas governor wins GOP primary",
-        "Source context: Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 01:03:56 +0000",
-      "age_hours": "8.51",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
-      "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss",
-      "snapshot": "Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Abdul El, Michigan Democratic, Senate",
-        "Specific figures mentioned: $60m",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Abdul El.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 05 Aug 2026 06:10:20 +0000",
-      "age_hours": "3.40",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -503,10 +164,349 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 05 Aug 2026 09:05:46 +0000",
-      "age_hours": "0.48",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "WATCH"
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
+      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: White House, FBI, Trump, Comey",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
+        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 07:40:18 -0400",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "158",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
+      "snapshot": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, White House, Rep",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+        "Source context: Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 04 Aug 2026 20:07:05 -0400",
+      "age_hours": "11.83",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
+      "url": "https://thehill.com/homenews/campaign/5999908-braun-glusenkamp-perez-washington-house/",
+      "snapshot": "Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected to advance to a face-off with the Democratic congresswoman in November, according to Decision Desk HQ's (DDHQ) preliminary... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Braun, Perez, Washington House",
+        "Politics desk signal: congress, senate, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
+        "Source context: Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 03:19:42 +0000",
+      "age_hours": "8.61",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump's pick for Kansas governor wins GOP primary",
+      "url": "https://thehill.com/homenews/campaign/5997716-masterson-kansas-governor-primary-trump/",
+      "snapshot": "Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a crowded field of Republican candidates to advance to the general election, according to preliminary results from Decision Desk... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Kansas, GOP, Senate President Ty Masterson",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's pick for Kansas governor wins GOP primary",
+        "Source context: Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 01:03:56 +0000",
+      "age_hours": "10.88",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump hails progress but warned Iran of 'hard hit' if no deal reached",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+      "snapshot": "US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, US President Donald Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump hails progress but warned Iran of 'hard hit' if no deal reached",
+        "Source context: US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 05 Aug 2026 09:05:46 +0000",
+      "age_hours": "2.85",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "WATCH"
+    }
+  ],
+  "key_storylines": [
+    "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+    "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+    "Trump-endorsed Braun to face off against Perez in toss-up Washington House election"
+  ],
+  "sections": [
+    {
+      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
+      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: White House, FBI, Trump, Comey",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
+        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 07:40:18 -0400",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "158",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
+      "snapshot": "Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar sentiment, multiple sources say. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, White House, Rep",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+        "Source context: Some White House officials hope embattled GOP Rep. Max Miller exits his congressional race immediately, and President Trump has expressed a similar..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 04 Aug 2026 20:07:05 -0400",
+      "age_hours": "11.83",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
+      "url": "https://thehill.com/homenews/campaign/5999908-braun-glusenkamp-perez-washington-house/",
+      "snapshot": "Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected to advance to a face-off with the Democratic congresswoman in November, according to Decision Desk HQ's (DDHQ) preliminary... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Braun, Perez, Washington House",
+        "Politics desk signal: congress, senate, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
+        "Source context: Washington state Senate Minority Leader John Braun (R), President Trump's endorsed pick to defeat Rep. Marie Glusenkamp Perez (D-Wash.), is projected..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 03:19:42 +0000",
+      "age_hours": "8.61",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump's pick for Kansas governor wins GOP primary",
+      "url": "https://thehill.com/homenews/campaign/5997716-masterson-kansas-governor-primary-trump/",
+      "snapshot": "Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a crowded field of Republican candidates to advance to the general election, according to preliminary results from Decision Desk... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Kansas, GOP, Senate President Ty Masterson",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's pick for Kansas governor wins GOP primary",
+        "Source context: Kansas state Senate President Ty Masterson (R), President Trump's endorsed candidate to become the next governor of Kansas, is projected to defeat a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 01:03:56 +0000",
+      "age_hours": "10.88",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump hails progress but warned Iran of 'hard hit' if no deal reached",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+      "snapshot": "US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, US President Donald Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump hails progress but warned Iran of 'hard hit' if no deal reached",
+        "Source context: US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 05 Aug 2026 09:05:46 +0000",
+      "age_hours": "2.85",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Russian attacks kill 17, exploiting Ukraine's lack of missile interceptors",
+      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+      "snapshot": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Russian, Ukraine, Ukrainian President Volodymyr Zelenskyy",
+        "Specific figures mentioned: 17, 29, 115",
+        "Politics desk signal: ukraine",
+        "Story focus: Russian attacks kill 17, exploiting Ukraine's lack of missile interceptors",
+        "Source context: Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Russian.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 05 Aug 2026 09:16:39 +0000",
+      "age_hours": "2.67",
+      "freshness_status": "fresh",
+      "editorial_score": "60",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
