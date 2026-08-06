@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Federal investigation launched into air traffic incident involving Trump's helicopter",
   "snapshot": "On Wednesday, a federal investigation was launched into an air traffic control incident involving President Trump's helicopter, Marine One. Nancy Cordes has more. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-08-06 01:45:05 AM ET",
-  "generated_at": "2026-08-06 01:45:05 AM ET",
+  "updated_at": "2026-08-06 04:28:37 AM ET",
+  "generated_at": "2026-08-06 04:28:37 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 65,
-    "editor_fresh_items": 143,
-    "public_fallback_items": 143,
-    "stale_or_blocked_items": 80,
+    "total_items_checked": 146,
+    "live_fresh_items": 50,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 96,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-06 01:45:05 AM ET"
+    "last_checked": "2026-08-06 04:28:37 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,20 +44,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 19:26:14 -0400",
-      "age_hours": "6.31",
+      "age_hours": "9.04",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
-      "url": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
-      "snapshot": "President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Act, which he signed into law last year. The speech comes as Trump seeks to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump's nuclear-powered battleships cost $275B: CBO report",
+      "url": "https://thehill.com/policy/defense/6012597-trump-golden-fleet-battleships-cbo-cost/",
+      "snapshot": "President Trump's new class of battleships, which are envisioned to anchor the U.S. Navy's \"Golden Fleet,\" are expected to cost around $275 billion to build, according to a government report released Wednesday. The first of 15 ships, the USS Defiant, is projected to cost... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Las Vegas, President Trump, One Big Beautiful Bill",
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $275B, $275 billion, 15",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax..."
+        "Story focus: Trump's nuclear-powered battleships cost $275B",
+        "Source context: President Trump's new class of battleships, which are envisioned to anchor the U.S. Navy's \"Golden Fleet,\" are expected to cost around $275 billion..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -72,11 +73,11 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "age_hours": "11.57",
+      "published": "Wed, 05 Aug 2026 22:53:51 +0000",
+      "age_hours": "9.58",
       "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": ""
+      "editorial_score": "95",
+      "urgency": "WATCH"
     },
     {
       "headline": "House candidate wins primary despite ending campaign, beating Trump endorsee",
@@ -103,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 20:15:00 -0400",
-      "age_hours": "5.50",
+      "age_hours": "8.23",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -133,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 22:17:58 +0000",
-      "age_hours": "7.45",
+      "age_hours": "10.18",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -163,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 06 Aug 2026 03:34:09 +0000",
-      "age_hours": "2.18",
+      "age_hours": "4.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -195,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 19:26:14 -0400",
-      "age_hours": "6.31",
+      "age_hours": "9.04",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -225,39 +226,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 09:49:00 -0400",
-      "age_hours": "15.93",
+      "age_hours": "18.66",
       "freshness_status": "editor_fresh",
       "editorial_score": "128",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
-      "url": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
-      "snapshot": "President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Act, which he signed into law last year. The speech comes as Trump seeks to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Las Vegas, President Trump, One Big Beautiful Bill",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "age_hours": "11.57",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": ""
     },
     {
       "headline": "Trump says El-Sayed is 'full of s‑‑‑,' calls him a 'man of hate'",
@@ -284,10 +256,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 22:17:58 +0000",
-      "age_hours": "7.45",
+      "age_hours": "10.18",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
+    },
+    {
+      "headline": "Trump's nuclear-powered battleships cost $275B: CBO report",
+      "url": "https://thehill.com/policy/defense/6012597-trump-golden-fleet-battleships-cbo-cost/",
+      "snapshot": "President Trump's new class of battleships, which are envisioned to anchor the U.S. Navy's \"Golden Fleet,\" are expected to cost around $275 billion to build, according to a government report released Wednesday. The first of 15 ships, the USS Defiant, is projected to cost... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $275B, $275 billion, 15",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's nuclear-powered battleships cost $275B",
+        "Source context: President Trump's new class of battleships, which are envisioned to anchor the U.S. Navy's \"Golden Fleet,\" are expected to cost around $275 billion..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 22:53:51 +0000",
+      "age_hours": "9.58",
+      "freshness_status": "fresh",
+      "editorial_score": "95",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
@@ -314,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 06 Aug 2026 03:34:09 +0000",
-      "age_hours": "2.18",
+      "age_hours": "4.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -322,8 +324,8 @@
   ],
   "key_storylines": [
     "Federal investigation launched into air traffic incident involving Trump's helicopter",
-    "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
-    "House candidate wins primary despite ending campaign, beating Trump endorsee"
+    "House candidate wins primary despite ending campaign, beating Trump endorsee",
+    "Trump says El-Sayed is 'full of s‑‑‑,' calls him a 'man of hate'"
   ],
   "sections": [
     {
@@ -351,39 +353,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 19:26:14 -0400",
-      "age_hours": "6.31",
+      "age_hours": "9.04",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
-      "url": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
-      "snapshot": "President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Act, which he signed into law last year. The speech comes as Trump seeks to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Las Vegas, President Trump, One Big Beautiful Bill",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "age_hours": "11.57",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": ""
     },
     {
       "headline": "House candidate wins primary despite ending campaign, beating Trump endorsee",
@@ -410,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 20:15:00 -0400",
-      "age_hours": "5.50",
+      "age_hours": "8.23",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -440,10 +413,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 22:17:58 +0000",
-      "age_hours": "7.45",
+      "age_hours": "10.18",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
+    },
+    {
+      "headline": "Trump's nuclear-powered battleships cost $275B: CBO report",
+      "url": "https://thehill.com/policy/defense/6012597-trump-golden-fleet-battleships-cbo-cost/",
+      "snapshot": "President Trump's new class of battleships, which are envisioned to anchor the U.S. Navy's \"Golden Fleet,\" are expected to cost around $275 billion to build, according to a government report released Wednesday. The first of 15 ships, the USS Defiant, is projected to cost... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump",
+        "Specific figures mentioned: $275B, $275 billion, 15",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's nuclear-powered battleships cost $275B",
+        "Source context: President Trump's new class of battleships, which are envisioned to anchor the U.S. Navy's \"Golden Fleet,\" are expected to cost around $275 billion..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 22:53:51 +0000",
+      "age_hours": "9.58",
+      "freshness_status": "fresh",
+      "editorial_score": "95",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
@@ -470,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 06 Aug 2026 03:34:09 +0000",
-      "age_hours": "2.18",
+      "age_hours": "4.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -500,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 06 Aug 2026 04:02:29 +0000",
-      "age_hours": "1.71",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
