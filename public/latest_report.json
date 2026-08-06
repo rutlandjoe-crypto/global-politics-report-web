@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
-  "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-08-05 07:56:55 PM ET",
-  "generated_at": "2026-08-05 07:56:55 PM ET",
+  "headline": "Federal investigation launched into air traffic incident involving Trump's helicopter",
+  "snapshot": "On Wednesday, a federal investigation was launched into an air traffic control incident involving President Trump's helicopter, Marine One. Nancy Cordes has more. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-08-05 10:27:54 PM ET",
+  "generated_at": "2026-08-05 10:27:54 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 145,
-    "live_fresh_items": 113,
+    "live_fresh_items": 91,
     "editor_fresh_items": 143,
     "public_fallback_items": 143,
-    "stale_or_blocked_items": 32,
+    "stale_or_blocked_items": 54,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-05 07:56:55 PM ET"
+    "last_checked": "2026-08-05 10:27:54 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 09:49:00 -0400",
-      "age_hours": "10.13",
-      "freshness_status": "fresh",
-      "editorial_score": "158",
+      "age_hours": "12.65",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "128",
       "urgency": "BREAKING"
     },
     {
@@ -74,7 +74,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 05 Aug 2026 19:51:12 +0000",
-      "age_hours": "4.10",
+      "age_hours": "6.61",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -104,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 19:26:14 -0400",
-      "age_hours": "0.51",
+      "age_hours": "3.03",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -133,126 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "age_hours": "5.77",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": ""
-    },
-    {
-      "headline": "Sheikh Hasina says she will return to Bangladesh in December",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
-      "snapshot": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
-      "key_data": [
-        "Key people or organizations: Sheikh Hasina, Bangladesh, December, Deposed Bangladesh Prime Minister",
-        "Story focus: Sheikh Hasina says she will return to Bangladesh in December",
-        "Source context: Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Sheikh Hasina.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 05 Aug 2026 20:03:10 +0000",
-      "age_hours": "3.90",
-      "freshness_status": "fresh",
-      "editorial_score": "58",
-      "urgency": "DEVELOPING"
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
-      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
-      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: White House, FBI, Trump, Comey",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
-        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 05 Aug 2026 09:49:00 -0400",
-      "age_hours": "10.13",
-      "freshness_status": "fresh",
-      "editorial_score": "158",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Federal investigation launched into air traffic incident involving Trump's helicopter",
-      "url": "https://www.cbsnews.com/video/federal-investigation-launched-into-air-traffic-incident-involving-trumps-helicopter/",
-      "snapshot": "On Wednesday, a federal investigation was launched into an air traffic control incident involving President Trump's helicopter, Marine One. Nancy Cordes has more. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Federal, Trump, On Wednesday, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Federal investigation launched into air traffic incident involving Trump's helicopter",
-        "Source context: On Wednesday, a federal investigation was launched into an air traffic control incident involving President Trump's helicopter, Marine One. Nancy..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Federal.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 05 Aug 2026 19:26:14 -0400",
-      "age_hours": "0.51",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
-      "url": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
-      "snapshot": "President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Act, which he signed into law last year. The speech comes as Trump seeks to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Las Vegas, President Trump, One Big Beautiful Bill",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "age_hours": "5.77",
+      "age_hours": "8.28",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": ""
@@ -282,7 +163,128 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 22:17:58 +0000",
-      "age_hours": "1.65",
+      "age_hours": "4.17",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Federal investigation launched into air traffic incident involving Trump's helicopter",
+      "url": "https://www.cbsnews.com/video/federal-investigation-launched-into-air-traffic-incident-involving-trumps-helicopter/",
+      "snapshot": "On Wednesday, a federal investigation was launched into an air traffic control incident involving President Trump's helicopter, Marine One. Nancy Cordes has more. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Federal, Trump, On Wednesday, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal investigation launched into air traffic incident involving Trump's helicopter",
+        "Source context: On Wednesday, a federal investigation was launched into an air traffic control incident involving President Trump's helicopter, Marine One. Nancy..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 19:26:14 -0400",
+      "age_hours": "3.03",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
+      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: White House, FBI, Trump, Comey",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
+        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 09:49:00 -0400",
+      "age_hours": "12.65",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "128",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
+      "url": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
+      "snapshot": "President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Act, which he signed into law last year. The speech comes as Trump seeks to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Las Vegas, President Trump, One Big Beautiful Bill",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live",
+        "Source context: President Trump will deliver remarks Thursday afternoon in Las Vegas highlighting his administration's economic agenda and promoting the sweeping tax..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 18:10:51 +0000",
+      "age_hours": "8.28",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump says El-Sayed is 'full of s‑‑‑,' calls him a 'man of hate'",
+      "url": "https://thehill.com/homenews/campaign/6012517-trump-abdul-el-sayed-michigan-senate-primary/",
+      "snapshot": "President Trump lashed out at Michigan Democratic Senate nominee Abdul El-Sayed during a campaign-style event in Las Vegas on Wednesday. \"The polls were wrong again last night when they said it would be a landslide victory for a hater of Jews and a hater of Israel,\" Trump said... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, El, Sayed, President Trump",
+        "Politics desk signal: senate, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says El-Sayed is 'full of s‑‑‑,' calls him a 'man of hate'",
+        "Source context: President Trump lashed out at Michigan Democratic Senate nominee Abdul El-Sayed during a campaign-style event in Las Vegas on Wednesday. \"The polls..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 05 Aug 2026 22:17:58 +0000",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -312,48 +314,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 05 Aug 2026 19:51:12 +0000",
-      "age_hours": "4.10",
+      "age_hours": "6.61",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "White House declassifies info on secret FBI probe into Trump's firing of Comey",
     "Federal investigation launched into air traffic incident involving Trump's helicopter",
-    "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech"
+    "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
+    "House candidate wins primary despite ending campaign, beating Trump endorsee"
   ],
   "sections": [
-    {
-      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
-      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
-      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: White House, FBI, Trump, Comey",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
-        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 05 Aug 2026 09:49:00 -0400",
-      "age_hours": "10.13",
-      "freshness_status": "fresh",
-      "editorial_score": "158",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Federal investigation launched into air traffic incident involving Trump's helicopter",
       "url": "https://www.cbsnews.com/video/federal-investigation-launched-into-air-traffic-incident-involving-trumps-helicopter/",
@@ -379,7 +351,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 05 Aug 2026 19:26:14 -0400",
-      "age_hours": "0.51",
+      "age_hours": "3.03",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -408,9 +380,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 18:10:51 +0000",
-      "age_hours": "5.77",
+      "age_hours": "8.28",
       "freshness_status": "fresh",
       "editorial_score": "121",
+      "urgency": ""
+    },
+    {
+      "headline": "House candidate wins primary despite ending campaign, beating Trump endorsee",
+      "url": "https://www.cbsnews.com/news/thomas-smith-dropped-out-wins-michigan-house-seat-defeats-trump-opponent/",
+      "snapshot": "Thomas Smith won Michigan's 8th District GOP primary on Tuesday — even though he had suspended his campaign in mid-July. Even more surprisingly: He defeated a Trump-endorsed candidate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Thomas Smith",
+        "Specific figures mentioned: 8",
+        "Politics desk signal: house, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House candidate wins primary despite ending campaign, beating Trump endorsee"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 20:15:00 -0400",
+      "age_hours": "2.21",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -438,7 +440,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 05 Aug 2026 22:17:58 +0000",
-      "age_hours": "1.65",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -468,38 +470,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 05 Aug 2026 19:51:12 +0000",
-      "age_hours": "4.10",
+      "age_hours": "6.61",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Sheikh Hasina says she will return to Bangladesh in December",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
-      "snapshot": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
+      "headline": "White House declassifies info on secret FBI probe into Trump's firing of Comey",
+      "url": "https://www.cbsnews.com/news/trump-comey-russia-fbi-probe-white-house-declassify-oxferd-comma/",
+      "snapshot": "The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a theory an administration official said wasn't backed up by evidence. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Sheikh Hasina, Bangladesh, December, Deposed Bangladesh Prime Minister",
-        "Story focus: Sheikh Hasina says she will return to Bangladesh in December",
-        "Source context: Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December."
+        "Key people or organizations: White House, FBI, Trump, Comey",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House declassifies info on secret FBI probe into Trump's firing of Comey",
+        "Source context: The White House has declassified information claiming the FBI probed whether President Trump acted as a Russian asset when he fired James Comey, a..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Sheikh Hasina.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 05 Aug 2026 20:03:10 +0000",
-      "age_hours": "3.90",
-      "freshness_status": "fresh",
-      "editorial_score": "58",
-      "urgency": "DEVELOPING"
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 05 Aug 2026 09:49:00 -0400",
+      "age_hours": "12.65",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "128",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
