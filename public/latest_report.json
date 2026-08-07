@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Appeals court blocks Trump's White House ballroom construction",
   "snapshot": "A federal appeals court panel blocked President Trump's White House ballroom in a 2-1 vote on Friday, saying that work must stop except for below-ground construction, including installations Trump says are needed for security. The U.S. Court of Appeals for the D.C. Circuit... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-08-07 12:49:56 PM ET",
-  "generated_at": "2026-08-07 12:49:56 PM ET",
+  "updated_at": "2026-08-07 01:45:07 PM ET",
+  "generated_at": "2026-08-07 01:45:07 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 74,
-    "editor_fresh_items": 146,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 73,
+    "total_items_checked": 143,
+    "live_fresh_items": 77,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 142,
+    "stale_or_blocked_items": 66,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-07 12:49:56 PM ET"
+    "last_checked": "2026-08-07 01:45:07 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 07 Aug 2026 14:56:49 +0000",
-      "age_hours": "1.88",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
       "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump nominates Project 2025 author to be Interior Department watchdog",
+      "url": "https://thehill.com/policy/energy-environment/6017264-project-2025-interior-department-watchdog-oig/",
+      "snapshot": "President Trump has nominated a former White House official and Project 2025 author to be the Interior Department's internal watchdog, a move that critics say could hurt the integrity of the office's investigations. Trump nominated Dennis Kirk, one of the authors of a chapter... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Project, Interior Department, President Trump",
+        "Specific figures mentioned: 2025",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump nominates Project 2025 author to be Interior Department watchdog"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 07 Aug 2026 17:15:41 +0000",
+      "age_hours": "0.49",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 12:18:20 -0400",
-      "age_hours": "0.53",
+      "age_hours": "1.45",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -104,39 +134,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 09:33:11 -0400",
-      "age_hours": "3.28",
+      "age_hours": "4.20",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says GOP voters 'angry' at congressional Republicans ahead of midterms but not at him",
-      "url": "https://thehill.com/homenews/administration/6015915-donald-trump-deflects-gop-anger/",
-      "snapshot": "President Trump in an interview that aired early Friday appeared to deflect blame for the anger among the Republican base toward the party's leadership in Congress, saying in an interview GOP voters are not \"angry\" with his job as president. \"They're angry at Republicans, but... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Republicans, President Trump",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says GOP voters 'angry' at congressional Republicans ahead of midterms but not at him",
-        "Source context: President Trump in an interview that aired early Friday appeared to deflect blame for the anger among the Republican base toward the party's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 07 Aug 2026 11:30:23 +0000",
-      "age_hours": "5.33",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -163,7 +163,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 07 Aug 2026 11:15:44 +0000",
-      "age_hours": "5.57",
+      "age_hours": "6.49",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 07 Aug 2026 14:56:49 +0000",
-      "age_hours": "1.88",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -225,10 +225,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 12:18:20 -0400",
-      "age_hours": "0.53",
+      "age_hours": "1.45",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
+    },
+    {
+      "headline": "Trump nominates Project 2025 author to be Interior Department watchdog",
+      "url": "https://thehill.com/policy/energy-environment/6017264-project-2025-interior-department-watchdog-oig/",
+      "snapshot": "President Trump has nominated a former White House official and Project 2025 author to be the Interior Department's internal watchdog, a move that critics say could hurt the integrity of the office's investigations. Trump nominated Dennis Kirk, one of the authors of a chapter... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Project, Interior Department, President Trump",
+        "Specific figures mentioned: 2025",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump nominates Project 2025 author to be Interior Department watchdog"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 07 Aug 2026 17:15:41 +0000",
+      "age_hours": "0.49",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump tries to restrict birthright citizenship again with new executive orders",
@@ -255,39 +285,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 09:33:11 -0400",
-      "age_hours": "3.28",
+      "age_hours": "4.20",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says GOP voters 'angry' at congressional Republicans ahead of midterms but not at him",
-      "url": "https://thehill.com/homenews/administration/6015915-donald-trump-deflects-gop-anger/",
-      "snapshot": "President Trump in an interview that aired early Friday appeared to deflect blame for the anger among the Republican base toward the party's leadership in Congress, saying in an interview GOP voters are not \"angry\" with his job as president. \"They're angry at Republicans, but... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Republicans, President Trump",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says GOP voters 'angry' at congressional Republicans ahead of midterms but not at him",
-        "Source context: President Trump in an interview that aired early Friday appeared to deflect blame for the anger among the Republican base toward the party's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 07 Aug 2026 11:30:23 +0000",
-      "age_hours": "5.33",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -314,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 07 Aug 2026 11:15:44 +0000",
-      "age_hours": "5.57",
+      "age_hours": "6.49",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -323,7 +323,7 @@
   "key_storylines": [
     "Appeals court blocks Trump's White House ballroom construction",
     "Trump's firings of federal officials set stage for next presidential power test",
-    "Trump tries to restrict birthright citizenship again with new executive orders"
+    "Trump nominates Project 2025 author to be Interior Department watchdog"
   ],
   "sections": [
     {
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 07 Aug 2026 14:56:49 +0000",
-      "age_hours": "1.88",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -381,10 +381,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 12:18:20 -0400",
-      "age_hours": "0.53",
+      "age_hours": "1.45",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
+    },
+    {
+      "headline": "Trump nominates Project 2025 author to be Interior Department watchdog",
+      "url": "https://thehill.com/policy/energy-environment/6017264-project-2025-interior-department-watchdog-oig/",
+      "snapshot": "President Trump has nominated a former White House official and Project 2025 author to be the Interior Department's internal watchdog, a move that critics say could hurt the integrity of the office's investigations. Trump nominated Dennis Kirk, one of the authors of a chapter... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Project, Interior Department, President Trump",
+        "Specific figures mentioned: 2025",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump nominates Project 2025 author to be Interior Department watchdog"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 07 Aug 2026 17:15:41 +0000",
+      "age_hours": "0.49",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump tries to restrict birthright citizenship again with new executive orders",
@@ -411,39 +441,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 09:33:11 -0400",
-      "age_hours": "3.28",
+      "age_hours": "4.20",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says GOP voters 'angry' at congressional Republicans ahead of midterms but not at him",
-      "url": "https://thehill.com/homenews/administration/6015915-donald-trump-deflects-gop-anger/",
-      "snapshot": "President Trump in an interview that aired early Friday appeared to deflect blame for the anger among the Republican base toward the party's leadership in Congress, saying in an interview GOP voters are not \"angry\" with his job as president. \"They're angry at Republicans, but... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Republicans, President Trump",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says GOP voters 'angry' at congressional Republicans ahead of midterms but not at him",
-        "Source context: President Trump in an interview that aired early Friday appeared to deflect blame for the anger among the Republican base toward the party's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 07 Aug 2026 11:30:23 +0000",
-      "age_hours": "5.33",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -470,7 +470,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 07 Aug 2026 11:15:44 +0000",
-      "age_hours": "5.57",
+      "age_hours": "6.49",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -500,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 07 Aug 2026 11:03:01 +0000",
-      "age_hours": "5.78",
+      "age_hours": "6.70",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
