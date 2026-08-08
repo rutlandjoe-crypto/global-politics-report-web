@@ -1,10 +1,10 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-  "snapshot": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-08-08 03:25:26 PM ET",
-  "generated_at": "2026-08-08 03:25:26 PM ET",
+  "headline": "Senate approves bill to fund government into December",
+  "snapshot": "The measure was approved in a 90 to 6 vote and now goes to the House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-08-08 04:23:55 PM ET",
+  "generated_at": "2026-08-08 04:23:55 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,43 +12,13 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
     "live_fresh_items": 57,
-    "editor_fresh_items": 148,
+    "editor_fresh_items": 149,
     "public_fallback_items": 150,
     "stale_or_blocked_items": 93,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-08 03:25:26 PM ET"
+    "last_checked": "2026-08-08 04:23:55 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-      "url": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
-      "snapshot": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate",
-        "Specific figures mentioned: 11",
-        "Politics desk signal: senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate passes stopgap funding bill to prevent shutdown ahead of midterms"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 08 Aug 2026 08:00:05 +0000",
-      "age_hours": "11.42",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Hawaii Rep. Ed Case faces primary challenger and more to watch in today's races",
       "url": "https://www.cbsnews.com/news/hawaii-primaries-ed-case-jarrett-keohokalole/",
@@ -71,8 +41,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 08 Aug 2026 07:05:25 -0400",
-      "age_hours": "8.33",
+      "published": "Sat, 08 Aug 2026 07:05:00 -0400",
+      "age_hours": "9.31",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -100,7 +70,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 08 Aug 2026 15:01:29 +0000",
-      "age_hours": "4.40",
+      "age_hours": "5.37",
       "freshness_status": "fresh",
       "editorial_score": "56",
       "urgency": "DEVELOPING"
@@ -130,9 +100,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 08:26:00 -0400",
-      "age_hours": "6.99",
+      "age_hours": "7.96",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
+      "url": "https://thehill.com/homenews/senate/6018748-democrats-oppose-blanche-confirmation/",
+      "snapshot": "All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of GOP lawmakers in the upper chamber in the early hours of Saturday morning. Many of these Democrats cited Blanche's record over... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Blanche, Trump",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
+        "Source context: All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Blanche.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 08 Aug 2026 19:45:00 +0000",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -160,43 +160,13 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 08 Aug 2026 09:00:31 +0000",
-      "age_hours": "10.41",
+      "age_hours": "11.39",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": "WATCH"
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-      "url": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
-      "snapshot": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate",
-        "Specific figures mentioned: 11",
-        "Politics desk signal: senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate passes stopgap funding bill to prevent shutdown ahead of midterms"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 08 Aug 2026 08:00:05 +0000",
-      "age_hours": "11.42",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Senate approves bill to fund government into December",
       "url": "https://www.cbsnews.com/news/senate-funding-bill-continuing-resolution-approved/",
@@ -222,9 +192,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 08:26:00 -0400",
-      "age_hours": "6.99",
+      "age_hours": "7.96",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
+      "url": "https://thehill.com/homenews/senate/6018748-democrats-oppose-blanche-confirmation/",
+      "snapshot": "All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of GOP lawmakers in the upper chamber in the early hours of Saturday morning. Many of these Democrats cited Blanche's record over... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Blanche, Trump",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
+        "Source context: All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Blanche.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 08 Aug 2026 19:45:00 +0000",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -252,7 +252,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 08 Aug 2026 09:00:31 +0000",
-      "age_hours": "10.41",
+      "age_hours": "11.39",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": "WATCH"
@@ -282,7 +282,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 12:18:20 -0400",
-      "age_hours": "27.12",
+      "age_hours": "28.09",
       "freshness_status": "editor_fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -310,48 +310,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 08 Aug 2026 15:01:29 +0000",
-      "age_hours": "4.40",
+      "age_hours": "5.37",
       "freshness_status": "fresh",
       "editorial_score": "56",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
     "Senate approves bill to fund government into December",
+    "Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
     "Senate embarks on recess after funding government and confirming Blanche, punting other priorities"
   ],
   "sections": [
-    {
-      "headline": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-      "url": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
-      "snapshot": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate",
-        "Specific figures mentioned: 11",
-        "Politics desk signal: senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate passes stopgap funding bill to prevent shutdown ahead of midterms"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 08 Aug 2026 08:00:05 +0000",
-      "age_hours": "11.42",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Senate approves bill to fund government into December",
       "url": "https://www.cbsnews.com/news/senate-funding-bill-continuing-resolution-approved/",
@@ -377,9 +347,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 08:26:00 -0400",
-      "age_hours": "6.99",
+      "age_hours": "7.96",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
+      "url": "https://thehill.com/homenews/senate/6018748-democrats-oppose-blanche-confirmation/",
+      "snapshot": "All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of GOP lawmakers in the upper chamber in the early hours of Saturday morning. Many of these Democrats cited Blanche's record over... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Blanche, Trump",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
+        "Source context: All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Blanche.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 08 Aug 2026 19:45:00 +0000",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -407,7 +407,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 08 Aug 2026 09:00:31 +0000",
-      "age_hours": "10.41",
+      "age_hours": "11.39",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": "WATCH"
@@ -434,8 +434,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 08 Aug 2026 07:05:25 -0400",
-      "age_hours": "8.33",
+      "published": "Sat, 08 Aug 2026 07:05:00 -0400",
+      "age_hours": "9.31",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -463,7 +463,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 08 Aug 2026 15:01:29 +0000",
-      "age_hours": "4.40",
+      "age_hours": "5.37",
       "freshness_status": "fresh",
       "editorial_score": "56",
       "urgency": "DEVELOPING"
@@ -493,7 +493,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 07 Aug 2026 12:18:20 -0400",
-      "age_hours": "27.12",
+      "age_hours": "28.09",
       "freshness_status": "editor_fresh",
       "editorial_score": "94",
       "urgency": ""
