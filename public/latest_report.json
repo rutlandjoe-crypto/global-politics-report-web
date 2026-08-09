@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
-  "snapshot": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump's plans to disarm Hamas and establish a Palestinian government in Gaza. \"I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-08-09 11:27:23 AM ET",
-  "generated_at": "2026-08-09 11:27:23 AM ET",
+  "headline": "AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+  "snapshot": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor's race. \"I haven't endorsed in that race. My focus has been in winning back the Congress, winning back the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-08-09 12:29:37 PM ET",
+  "generated_at": "2026-08-09 12:29:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 41,
-    "editor_fresh_items": 90,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 106,
+    "total_items_checked": 148,
+    "live_fresh_items": 44,
+    "editor_fresh_items": 92,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 104,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-09 11:27:23 AM ET"
+    "last_checked": "2026-08-09 12:29:37 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,21 +43,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 10:30:00 -0400",
-      "age_hours": "0.96",
+      "age_hours": "1.99",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Palestinians in occupied West Bank hold firm on Indigenous Peoples' Day",
-      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-      "snapshot": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump to appeal White House ballroom ruling to Supreme Court",
+      "url": "https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/",
+      "snapshot": "After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Palestinians, West Bank, Indigenous Peoples",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, White House, Supreme Court, President Trump",
+        "Politics desk signal: house, white house, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Palestinians in occupied West Bank hold firm on Indigenous Peoples' Day",
-        "Source context: Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say. The election angle is whether..."
+        "Story focus: Trump to appeal White House ballroom ruling to Supreme Court",
+        "Source context: After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 08 Aug 2026 20:50:12 -0400",
+      "age_hours": "15.66",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+      "url": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
+      "snapshot": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor's race. \"I haven't endorsed in that race. My focus has been in winning back the Congress, winning back the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Hong, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+        "Source context: Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -65,18 +95,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Palestinians.",
+        "Watch for the next official action involving Hong.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 09 Aug 2026 10:35:00 +0000",
-      "age_hours": "4.87",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 09 Aug 2026 15:14:55 +0000",
+      "age_hours": "1.24",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "91",
+      "urgency": ""
     },
     {
       "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
@@ -103,51 +133,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 09 Aug 2026 13:57:54 +0000",
-      "age_hours": "1.49",
+      "age_hours": "2.53",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
     },
     {
-      "headline": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
-      "url": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/",
-      "snapshot": "President Trump hailed the peace plan​ as a \"historic agreement for the complete disarmament of Hamas and all other groups in Gaza.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump targets birthright citizenship again",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+      "snapshot": "US President Donald Trump has signed two new executive orders targeting birthright citizenship. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Gaza, Hamas, President Trump",
-        "Politics desk signal: election, campaign, gaza",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
-        "Source context: President Trump hailed the peace plan​ as a \"historic agreement for the complete disarmament of Hamas and all other groups in Gaza.\" The election..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Gaza.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 09 Aug 2026 10:57:31 -0400",
-      "age_hours": "0.50",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision",
-      "url": "https://thehill.com/homenews/administration/6019003-trump-lincoln-memorial-vandalism/",
-      "snapshot": "President Trump on Saturday posted photos of alleged vandalism to the Lincoln Memorial Reflecting Pool amid a push for U.S. Attorney for the District of Columbia Jeanine Pirro to revisit a recent decision to drop charges related to the pool. Late Saturday, the president posted... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Reflecting Pool, Pirro, President Trump",
+        "Key people or organizations: Trump, US President Donald Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision",
-        "Source context: President Trump on Saturday posted photos of alleged vandalism to the Lincoln Memorial Reflecting Pool amid a push for U.S. Attorney for the District..."
+        "Story focus: Trump targets birthright citizenship again",
+        "Source context: US President Donald Trump has signed two new executive orders targeting birthright citizenship. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -160,12 +160,12 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 09 Aug 2026 12:08:25 +0000",
-      "age_hours": "3.32",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 09 Aug 2026 14:20:31 +0000",
+      "age_hours": "2.15",
       "freshness_status": "fresh",
-      "editorial_score": "75",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
@@ -195,7 +195,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 20:50:12 -0400",
-      "age_hours": "14.62",
+      "age_hours": "15.66",
       "freshness_status": "editor_fresh",
       "editorial_score": "114",
       "urgency": ""
@@ -225,21 +225,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 08 Aug 2026 08:00:05 +0000",
-      "age_hours": "31.45",
+      "age_hours": "32.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
-      "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
-      "snapshot": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump's plans to disarm Hamas and establish a Palestinian government in Gaza. \"I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+      "url": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
+      "snapshot": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor's race. \"I haven't endorsed in that race. My focus has been in winning back the Congress, winning back the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Netanyahu, Hamas, Trump, Israeli Prime Minister Benjamin",
-        "Specific figures mentioned: 15",
-        "Politics desk signal: election, campaign, gaza",
+        "Key people or organizations: Hong, Congress",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Netanyahu rejects plan to disarm Hamas in rare break with Trump"
+        "Story focus: AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+        "Source context: Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -247,15 +247,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Netanyahu.",
+        "Watch for the next official action involving Hong.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 09 Aug 2026 13:57:54 +0000",
-      "age_hours": "1.49",
+      "published": "Sun, 09 Aug 2026 15:14:55 +0000",
+      "age_hours": "1.24",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -284,21 +284,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 10:30:00 -0400",
-      "age_hours": "0.96",
+      "age_hours": "1.99",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Palestinians in occupied West Bank hold firm on Indigenous Peoples' Day",
-      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-      "snapshot": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump targets birthright citizenship again",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+      "snapshot": "US President Donald Trump has signed two new executive orders targeting birthright citizenship. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Palestinians, West Bank, Indigenous Peoples",
+        "Key people or organizations: Trump, US President Donald Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Palestinians in occupied West Bank hold firm on Indigenous Peoples' Day",
-        "Source context: Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say. The election angle is whether..."
+        "Story focus: Trump targets birthright citizenship again",
+        "Source context: US President Donald Trump has signed two new executive orders targeting birthright citizenship. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -306,26 +306,56 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Palestinians.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 09 Aug 2026 10:35:00 +0000",
-      "age_hours": "4.87",
+      "published": "Sun, 09 Aug 2026 14:20:31 +0000",
+      "age_hours": "2.15",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     }
   ],
   "key_storylines": [
+    "AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
     "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
-    "Sanders calls on Democrat leaders to ban \"corrupt\" super PAC donations",
-    "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms"
+    "Sanders calls on Democrat leaders to ban \"corrupt\" super PAC donations"
   ],
   "sections": [
+    {
+      "headline": "AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+      "url": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
+      "snapshot": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor's race. \"I haven't endorsed in that race. My focus has been in winning back the Congress, winning back the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Hong, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: AOC declines to endorse Hong, says she's focused on 'winning back' Congress",
+        "Source context: Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hong.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 09 Aug 2026 15:14:55 +0000",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
+    },
     {
       "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
       "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
@@ -351,7 +381,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 09 Aug 2026 13:57:54 +0000",
-      "age_hours": "1.49",
+      "age_hours": "2.53",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -380,7 +410,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 10:30:00 -0400",
-      "age_hours": "0.96",
+      "age_hours": "1.99",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": "DEVELOPING"
@@ -410,70 +440,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 10:57:31 -0400",
-      "age_hours": "0.50",
+      "age_hours": "1.53",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
-    },
-    {
-      "headline": "Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision",
-      "url": "https://thehill.com/homenews/administration/6019003-trump-lincoln-memorial-vandalism/",
-      "snapshot": "President Trump on Saturday posted photos of alleged vandalism to the Lincoln Memorial Reflecting Pool amid a push for U.S. Attorney for the District of Columbia Jeanine Pirro to revisit a recent decision to drop charges related to the pool. Late Saturday, the president posted... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Reflecting Pool, Pirro, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision",
-        "Source context: President Trump on Saturday posted photos of alleged vandalism to the Lincoln Memorial Reflecting Pool amid a push for U.S. Attorney for the District..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 09 Aug 2026 12:08:25 +0000",
-      "age_hours": "3.32",
-      "freshness_status": "fresh",
-      "editorial_score": "75",
-      "urgency": ""
-    },
-    {
-      "headline": "Palestinians in occupied West Bank hold firm on Indigenous Peoples' Day",
-      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-      "snapshot": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Palestinians, West Bank, Indigenous Peoples",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Palestinians in occupied West Bank hold firm on Indigenous Peoples' Day",
-        "Source context: Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Palestinians.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 09 Aug 2026 10:35:00 +0000",
-      "age_hours": "4.87",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump targets birthright citizenship again",
@@ -500,9 +470,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 09 Aug 2026 14:20:31 +0000",
-      "age_hours": "1.11",
+      "age_hours": "2.15",
       "freshness_status": "fresh",
       "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump to appeal White House ballroom ruling to Supreme Court",
+      "url": "https://www.cbsnews.com/video/trump-to-appeal-ballroom-ruling-to-scotus/",
+      "snapshot": "After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, White House, Supreme Court, President Trump",
+        "Politics desk signal: house, white house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump to appeal White House ballroom ruling to Supreme Court",
+        "Source context: After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 08 Aug 2026 20:50:12 -0400",
+      "age_hours": "15.66",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "114",
       "urgency": ""
     }
   ],
