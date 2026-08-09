@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
-  "snapshot": "President Trump hailed the peace plan​ as a \"historic agreement for the complete disarmament of Hamas and all other groups in Gaza.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-08-09 09:45:53 AM ET",
-  "generated_at": "2026-08-09 09:45:53 AM ET",
+  "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+  "snapshot": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump's plans to disarm Hamas and establish a Palestinian government in Gaza. \"I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+  "updated_at": "2026-08-09 10:30:29 AM ET",
+  "generated_at": "2026-08-09 10:30:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 33,
-    "editor_fresh_items": 84,
+    "live_fresh_items": 38,
+    "editor_fresh_items": 87,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 114,
+    "stale_or_blocked_items": 109,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-09 09:45:53 AM ET"
+    "last_checked": "2026-08-09 10:30:29 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 09 Aug 2026 10:35:00 +0000",
-      "age_hours": "3.18",
+      "age_hours": "3.92",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -74,9 +74,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 20:50:12 -0400",
-      "age_hours": "12.93",
+      "age_hours": "13.67",
       "freshness_status": "editor_fresh",
       "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+      "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
+      "snapshot": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump's plans to disarm Hamas and establish a Palestinian government in Gaza. \"I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Netanyahu, Hamas, Trump, Israeli Prime Minister Benjamin",
+        "Specific figures mentioned: 15",
+        "Politics desk signal: election, campaign, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Netanyahu rejects plan to disarm Hamas in rare break with Trump"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Netanyahu.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 09 Aug 2026 13:57:54 +0000",
+      "age_hours": "0.54",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -104,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 08:47:07 -0400",
-      "age_hours": "0.98",
+      "age_hours": "1.72",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -134,39 +164,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 09 Aug 2026 12:08:25 +0000",
-      "age_hours": "1.62",
+      "age_hours": "2.37",
       "freshness_status": "fresh",
       "editorial_score": "75",
-      "urgency": ""
-    },
-    {
-      "headline": "Fauci contempt vote presents DOJ with 'incredibly messy' choices",
-      "url": "https://thehill.com/homenews/administration/6017780-fauci-contempt-doj-rand-paul/",
-      "snapshot": "The push to charge former COVID czar Anthony Fauci with contempt of Congress is full of pitfalls for prosecutors, should the Justice Department choose to take up the case. The Senate Homeland Security and Governmental Affairs Committee approved the criminal referral Thursday,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Fauci, Anthony Fauci",
-        "Politics desk signal: congress, senate, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fauci contempt vote presents DOJ with 'incredibly messy' choices",
-        "Source context: The push to charge former COVID czar Anthony Fauci with contempt of Congress is full of pitfalls for prosecutors, should the Justice Department..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Fauci.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 09 Aug 2026 10:00:00 +0000",
-      "age_hours": "3.76",
-      "freshness_status": "fresh",
-      "editorial_score": "73",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 20:50:12 -0400",
-      "age_hours": "12.93",
+      "age_hours": "13.67",
       "freshness_status": "editor_fresh",
       "editorial_score": "114",
       "urgency": ""
@@ -226,10 +226,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 08 Aug 2026 08:00:05 +0000",
-      "age_hours": "29.76",
+      "age_hours": "30.51",
       "freshness_status": "editor_fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+      "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
+      "snapshot": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump's plans to disarm Hamas and establish a Palestinian government in Gaza. \"I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Netanyahu, Hamas, Trump, Israeli Prime Minister Benjamin",
+        "Specific figures mentioned: 15",
+        "Politics desk signal: election, campaign, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Netanyahu rejects plan to disarm Hamas in rare break with Trump"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Netanyahu.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 09 Aug 2026 13:57:54 +0000",
+      "age_hours": "0.54",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
     },
     {
       "headline": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
@@ -256,39 +286,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 08:47:07 -0400",
-      "age_hours": "0.98",
+      "age_hours": "1.72",
       "freshness_status": "fresh",
       "editorial_score": "82",
-      "urgency": ""
-    },
-    {
-      "headline": "Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
-      "url": "https://thehill.com/homenews/senate/6018748-democrats-oppose-blanche-confirmation/",
-      "snapshot": "All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of GOP lawmakers in the upper chamber in the early hours of Saturday morning. Many of these Democrats cited Blanche's record over... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Blanche, Trump",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Dems blast Blanche as enabler of 'Trump's corruption' after AG confirmation",
-        "Source context: All Democrats in the U.S. Senate voted against the nomination of Attorney General Todd Blanche, but their opposition was overridden by a majority of..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Blanche.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 08 Aug 2026 19:45:00 +0000",
-      "age_hours": "18.01",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "77",
       "urgency": ""
     },
     {
@@ -316,18 +316,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 09 Aug 2026 10:35:00 +0000",
-      "age_hours": "3.18",
+      "age_hours": "3.92",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
     "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
-    "Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision",
-    "Rep. Ed Case defeats progressive primary challenger in Hawaii's 1st District"
+    "Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision"
   ],
   "sections": [
+    {
+      "headline": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+      "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
+      "snapshot": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump's plans to disarm Hamas and establish a Palestinian government in Gaza. \"I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Netanyahu, Hamas, Trump, Israeli Prime Minister Benjamin",
+        "Specific figures mentioned: 15",
+        "Politics desk signal: election, campaign, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Netanyahu rejects plan to disarm Hamas in rare break with Trump"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Netanyahu.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 09 Aug 2026 13:57:54 +0000",
+      "age_hours": "0.54",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
+    },
     {
       "headline": "Netanyahu rejects Gaza peace plan, vows no military withdrawal until Hamas disarms",
       "url": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/",
@@ -353,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 08:47:07 -0400",
-      "age_hours": "0.98",
+      "age_hours": "1.72",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -383,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 09 Aug 2026 12:08:25 +0000",
-      "age_hours": "1.62",
+      "age_hours": "2.37",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
@@ -413,7 +443,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 09 Aug 2026 07:09:20 -0400",
-      "age_hours": "2.61",
+      "age_hours": "3.35",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -443,40 +473,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 09 Aug 2026 10:35:00 +0000",
-      "age_hours": "3.18",
+      "age_hours": "3.92",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Fauci contempt vote presents DOJ with 'incredibly messy' choices",
-      "url": "https://thehill.com/homenews/administration/6017780-fauci-contempt-doj-rand-paul/",
-      "snapshot": "The push to charge former COVID czar Anthony Fauci with contempt of Congress is full of pitfalls for prosecutors, should the Justice Department choose to take up the case. The Senate Homeland Security and Governmental Affairs Committee approved the criminal referral Thursday,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Fauci, Anthony Fauci",
-        "Politics desk signal: congress, senate, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Fauci contempt vote presents DOJ with 'incredibly messy' choices",
-        "Source context: The push to charge former COVID czar Anthony Fauci with contempt of Congress is full of pitfalls for prosecutors, should the Justice Department..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Fauci.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 09 Aug 2026 10:00:00 +0000",
-      "age_hours": "3.76",
-      "freshness_status": "fresh",
-      "editorial_score": "73",
-      "urgency": ""
     },
     {
       "headline": "Trump to appeal White House ballroom ruling to Supreme Court",
@@ -503,7 +503,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 08 Aug 2026 20:50:12 -0400",
-      "age_hours": "12.93",
+      "age_hours": "13.67",
       "freshness_status": "editor_fresh",
       "editorial_score": "114",
       "urgency": ""
