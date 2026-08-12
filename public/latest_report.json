@@ -1,448 +1,509 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Postmaster General Steiner must resign",
-  "snapshot": "Rep. Raja Krishnamoorthi called for Postmaster General David Steiner's removal or resignation due to his refusal to ensure the U.S. Postal Service complies with federal court orders regarding the Trump administration's challenged mail-in voting rules.",
-  "updated_at": "2026-08-12 10:12:13 AM ET",
-  "generated_at": "2026-08-12 10:12:13 AM ET",
+  "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+  "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-08-12 10:23:10 AM ET",
+  "generated_at": "2026-08-12 10:23:10 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 189,
-    "live_fresh_items": 66,
-    "editor_fresh_items": 183,
-    "public_fallback_items": 188,
-    "stale_or_blocked_items": 123,
+    "total_items_checked": 149,
+    "live_fresh_items": 65,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 84,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-12 10:12:13 AM ET"
+    "last_checked": "2026-08-12 10:23:10 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Postmaster General Steiner must resign",
-      "url": "https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/",
-      "snapshot": "Rep. Raja Krishnamoorthi called for Postmaster General David Steiner's removal or resignation due to his refusal to ensure the U.S. Postal Service complies with federal court orders regarding the Trump administration's challenged mail-in voting rules.",
+      "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
+      "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Aug. 12, 2026 at 10:00 AM ET"
+        "Key people or organizations: Trump, GOP, Republicans, Congress",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+        "Source context: The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "age_hours": "0.20",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.39",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP worries time running out on Trump's agenda with Congress",
+      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
+      "snapshot": "The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump's agenda before Republicans possibly lose complete control of Congress. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Congress, Senate",
+        "Politics desk signal: congress, senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP worries time running out on Trump's agenda with Congress",
+        "Source context: The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.39",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
+      "url": "https://www.cbsnews.com/news/trump-secret-flight-turkey-pete-hegseth-marco-rubio-scott-bessent/",
+      "snapshot": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a different plane while Defense Secretary Pete Hegseth was with Mr. Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Rubio, Bessent, Air Force One, Hegseth",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
+        "Source context: Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Rubio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 12 Aug 2026 09:54:18 -0400",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     },
     {
-      "headline": "Wisconsin result dents winning streak for Democratic Party's left wing",
-      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+      "headline": "Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
+      "url": "https://www.cbsnews.com/news/peggy-flanagan-us-senate-minnesota-democratic-primary-projected-winner/",
+      "snapshot": "Lt. Gov. Peggy Flanagan has captured the Democratic nomination for U.S. Senate in the Minnesota primary election, CBS News projects. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Aug. 12, 2026 at 09:35 AM ET"
+        "Key people or organizations: Peggy Flanagan, Democratic, Senate, Minnesota",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
+        "Source context: Lt. Gov. Peggy Flanagan has captured the Democratic nomination for U.S. Senate in the Minnesota primary election, CBS News projects. The key question..."
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Peggy Flanagan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 12 Aug 2026 13:35:12 GMT",
-      "age_hours": "0.62",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 11 Aug 2026 23:38:00 -0400",
+      "age_hours": "10.75",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
-      "headline": "Takeaways From the Wisconsin, Minnesota and South Carolina Primaries",
-      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
-      "snapshot": "A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.",
+      "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "snapshot": "Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Aug. 12, 2026 at 09:21 AM ET"
+        "Key people or organizations: Russia, Ukraine",
+        "Politics desk signal: ukraine",
+        "Story focus: Four killed in overnight attacks in southern Russia, Ukraine",
+        "Source context: Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor. The geopolitical angle is..."
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Russia.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 12 Aug 2026 13:21:16 +0000",
-      "age_hours": "0.85",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-      "snapshot": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a 'rehearsal for invasion'.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Aug. 12, 2026 at 09:10 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 13:10:14 +0000",
-      "age_hours": "1.03",
+      "published": "Wed, 12 Aug 2026 07:49:22 +0000",
+      "age_hours": "6.56",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-      "snapshot": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Government",
-        "Published: Aug. 12, 2026 at 06:47 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 12 Aug 2026 06:47:30 -0400",
-      "age_hours": "3.41",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "60",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Paramount may leave California over antitrust enforcement, lawyer says",
-      "url": "https://thehill.com/homenews/media/6024589-paramount-may-leave-california/",
-      "snapshot": "Paramount’s chief legal officer is telegraphing a willingness by the company’s chief executive to leave California as the media company faces growing antitrust scrutiny from the state government there. “His intent is to be committed to California,” Makan Delrahim, Paramount’s top legal official, said at Politico’s The California Agenda: Sacramento Summit. Delrahim added, however, that “there is a…",
+      "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
+      "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Aug. 12, 2026 at 09:56 AM ET"
+        "Key people or organizations: Trump, GOP, Republicans, Congress",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+        "Source context: The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 13:56:22 +0000",
-      "age_hours": "0.26",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.39",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "He Was Deported to Eswatini in Southern Africa. He May Never Go Free.",
-      "url": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html",
-      "snapshot": "As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Aug. 12, 2026 at 09:08 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 12 Aug 2026 13:08:07 +0000",
-      "age_hours": "1.07",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
-      "url": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss",
-      "snapshot": "Esmail Qaani held meetings over Iraqi government's plan to disarm armed groups and bring weapons under state control.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Government",
-        "Published: Aug. 12, 2026 at 08:34 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 12:34:50 +0000",
-      "age_hours": "1.62",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What it's like flying with Trump on Air Force One",
-      "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Government",
-        "Published: Aug. 12, 2026 at 06:43 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 12 Aug 2026 10:43:23 GMT",
-      "age_hours": "3.48",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit",
-      "snapshot": "President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat.",
+      "headline": "GOP worries time running out on Trump's agenda with Congress",
+      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
+      "snapshot": "The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump's agenda before Republicans possibly lose complete control of Congress. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Foreign Policy",
-        "Published: Aug. 12, 2026 at 04:46 AM ET"
+        "Key people or organizations: GOP, Trump, Congress, Senate",
+        "Politics desk signal: congress, senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP worries time running out on Trump's agenda with Congress",
+        "Source context: The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 12 Aug 2026 04:46:26 -0400",
-      "age_hours": "5.43",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.39",
       "freshness_status": "fresh",
-      "editorial_score": "95",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
+      "url": "https://www.cbsnews.com/news/trump-secret-flight-turkey-pete-hegseth-marco-rubio-scott-bessent/",
+      "snapshot": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a different plane while Defense Secretary Pete Hegseth was with Mr. Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Rubio, Bessent, Air Force One, Hegseth",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
+        "Source context: Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Rubio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 12 Aug 2026 09:54:18 -0400",
+      "age_hours": "0.48",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
+      "url": "https://www.cbsnews.com/news/peggy-flanagan-us-senate-minnesota-democratic-primary-projected-winner/",
+      "snapshot": "Lt. Gov. Peggy Flanagan has captured the Democratic nomination for U.S. Senate in the Minnesota primary election, CBS News projects. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Peggy Flanagan, Democratic, Senate, Minnesota",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
+        "Source context: Lt. Gov. Peggy Flanagan has captured the Democratic nomination for U.S. Senate in the Minnesota primary election, CBS News projects. The key question..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Peggy Flanagan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 11 Aug 2026 23:38:00 -0400",
+      "age_hours": "10.75",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "snapshot": "Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Russia, Ukraine",
+        "Politics desk signal: ukraine",
+        "Story focus: Four killed in overnight attacks in southern Russia, Ukraine",
+        "Source context: Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Russia.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 12 Aug 2026 07:49:22 +0000",
+      "age_hours": "6.56",
+      "freshness_status": "fresh",
+      "editorial_score": "60",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Postmaster General Steiner must resign",
-    "Wisconsin result dents winning streak for Democratic Party's left wing",
-    "Takeaways From the Wisconsin, Minnesota and South Carolina Primaries"
+    "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+    "GOP worries time running out on Trump's agenda with Congress",
+    "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump"
   ],
   "sections": [
     {
-      "headline": "Postmaster General Steiner must resign",
-      "url": "https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/",
-      "snapshot": "Rep. Raja Krishnamoorthi called for Postmaster General David Steiner's removal or resignation due to his refusal to ensure the U.S. Postal Service complies with federal court orders regarding the Trump administration's challenged mail-in voting rules.",
+      "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
+      "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Aug. 12, 2026 at 10:00 AM ET"
+        "Key people or organizations: Trump, GOP, Republicans, Congress",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+        "Source context: The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "age_hours": "0.20",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.39",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Wisconsin result dents winning streak for Democratic Party's left wing",
-      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Aug. 12, 2026 at 09:35 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 12 Aug 2026 13:35:12 GMT",
-      "age_hours": "0.62",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Takeaways From the Wisconsin, Minnesota and South Carolina Primaries",
-      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
-      "snapshot": "A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Aug. 12, 2026 at 09:21 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 12 Aug 2026 13:21:16 +0000",
-      "age_hours": "0.85",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-      "snapshot": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a 'rehearsal for invasion'.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Aug. 12, 2026 at 09:10 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 13:10:14 +0000",
-      "age_hours": "1.03",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-      "snapshot": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Government",
-        "Published: Aug. 12, 2026 at 06:47 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 12 Aug 2026 06:47:30 -0400",
-      "age_hours": "3.41",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Paramount may leave California over antitrust enforcement, lawyer says",
-      "url": "https://thehill.com/homenews/media/6024589-paramount-may-leave-california/",
-      "snapshot": "Paramount’s chief legal officer is telegraphing a willingness by the company’s chief executive to leave California as the media company faces growing antitrust scrutiny from the state government there. “His intent is to be committed to California,” Makan Delrahim, Paramount’s top legal official, said at Politico’s The California Agenda: Sacramento Summit. Delrahim added, however, that “there is a…",
+      "headline": "GOP worries time running out on Trump's agenda with Congress",
+      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
+      "snapshot": "The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump's agenda before Republicans possibly lose complete control of Congress. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Aug. 12, 2026 at 09:56 AM ET"
+        "Key people or organizations: GOP, Trump, Congress, Senate",
+        "Politics desk signal: congress, senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP worries time running out on Trump's agenda with Congress",
+        "Source context: The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 13:56:22 +0000",
-      "age_hours": "0.26",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.39",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
+      "url": "https://www.cbsnews.com/news/trump-secret-flight-turkey-pete-hegseth-marco-rubio-scott-bessent/",
+      "snapshot": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a different plane while Defense Secretary Pete Hegseth was with Mr. Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Rubio, Bessent, Air Force One, Hegseth",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
+        "Source context: Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Rubio.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 12 Aug 2026 09:54:18 -0400",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "urgency": ""
+    },
+    {
+      "headline": "Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
+      "url": "https://www.cbsnews.com/news/peggy-flanagan-us-senate-minnesota-democratic-primary-projected-winner/",
+      "snapshot": "Lt. Gov. Peggy Flanagan has captured the Democratic nomination for U.S. Senate in the Minnesota primary election, CBS News projects. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Peggy Flanagan, Democratic, Senate, Minnesota",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Peggy Flanagan projected winner of Democratic primary for Senate in Minnesota",
+        "Source context: Lt. Gov. Peggy Flanagan has captured the Democratic nomination for U.S. Senate in the Minnesota primary election, CBS News projects. The key question..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Peggy Flanagan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 11 Aug 2026 23:38:00 -0400",
+      "age_hours": "10.75",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "snapshot": "Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Russia, Ukraine",
+        "Politics desk signal: ukraine",
+        "Story focus: Four killed in overnight attacks in southern Russia, Ukraine",
+        "Source context: Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor. The geopolitical angle is..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Russia.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 12 Aug 2026 07:49:22 +0000",
+      "age_hours": "6.56",
+      "freshness_status": "fresh",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "Zambia's president rallies for second term ahead of election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
+      "snapshot": "Zambia's president rallies for second term ahead of election The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Zambia",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Zambia's president rallies for second term ahead of election",
+        "Source context: Zambia's president rallies for second term ahead of election The election angle is whether this changes voter attention, campaign strategy or party..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Zambia.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 12 Aug 2026 09:16:22 +0000",
+      "age_hours": "5.11",
+      "freshness_status": "fresh",
+      "editorial_score": "52",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
