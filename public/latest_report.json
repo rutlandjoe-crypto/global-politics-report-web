@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
   "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-08-12 11:55:46 AM ET",
-  "generated_at": "2026-08-12 11:55:46 AM ET",
+  "updated_at": "2026-08-12 12:54:10 PM ET",
+  "generated_at": "2026-08-12 12:54:10 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 69,
-    "editor_fresh_items": 146,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 79,
+    "live_fresh_items": 75,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 73,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-12 11:55:46 AM ET"
+    "last_checked": "2026-08-12 12:54:10 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,10 +42,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 12 Aug 2026 14:26:45 +0000",
-      "age_hours": "1.48",
+      "age_hours": "2.46",
       "freshness_status": "fresh",
       "editorial_score": "58",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Senate Democrats press Rubio on release of US citizens detained by Russia",
+      "url": "https://thehill.com/homenews/senate/6025142-senate-democrats-russian-detainees/",
+      "snapshot": "Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released U.S. citizen Robert Gilman after four and a half years in detention. In a letter to Secretary of State Marco Rubio on Tuesday,... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Senate Democrats, Rubio, Russia",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Democrats press Rubio on release of US citizens detained by Russia",
+        "Source context: Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 12 Aug 2026 16:00:53 +0000",
+      "age_hours": "0.89",
+      "freshness_status": "fresh",
+      "editorial_score": "119",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
@@ -72,39 +102,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "5.93",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP worries time running out on Trump's agenda with Congress",
-      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
-      "snapshot": "The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump's agenda before Republicans possibly lose complete control of Congress. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, Congress, Senate",
-        "Politics desk signal: congress, senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP worries time running out on Trump's agenda with Congress",
-        "Source context: The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "5.93",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
       "urgency": ""
     },
     {
@@ -131,8 +131,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 11:49:53 -0400",
-      "age_hours": "0.10",
+      "published": "Wed, 12 Aug 2026 12:38:04 -0400",
+      "age_hours": "0.27",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -162,7 +162,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 12 Aug 2026 11:22:21 -0400",
-      "age_hours": "0.56",
+      "age_hours": "1.53",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -194,21 +194,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "5.93",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "GOP worries time running out on Trump's agenda with Congress",
-      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
-      "snapshot": "The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump's agenda before Republicans possibly lose complete control of Congress. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Senate Democrats press Rubio on release of US citizens detained by Russia",
+      "url": "https://thehill.com/homenews/senate/6025142-senate-democrats-russian-detainees/",
+      "snapshot": "Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released U.S. citizen Robert Gilman after four and a half years in detention. In a letter to Secretary of State Marco Rubio on Tuesday,... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: GOP, Trump, Congress, Senate",
-        "Politics desk signal: congress, senate, election",
+        "Key people or organizations: Senate Democrats, Rubio, Russia",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP worries time running out on Trump's agenda with Congress",
-        "Source context: The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a..."
+        "Story focus: Senate Democrats press Rubio on release of US citizens detained by Russia",
+        "Source context: Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -216,18 +216,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Senate Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "5.93",
+      "published": "Wed, 12 Aug 2026 16:00:53 +0000",
+      "age_hours": "0.89",
       "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
+      "editorial_score": "119",
+      "urgency": "WATCH"
     },
     {
       "headline": "Top Trump officials heading to Iowa to help GOP campaigns, sources say",
@@ -253,8 +253,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 11:49:53 -0400",
-      "age_hours": "0.10",
+      "published": "Wed, 12 Aug 2026 12:38:04 -0400",
+      "age_hours": "0.27",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -284,43 +284,45 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 12 Aug 2026 11:22:21 -0400",
-      "age_hours": "0.56",
+      "age_hours": "1.53",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-      "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
-      "snapshot": "The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker.",
+      "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
+      "snapshot": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Lebanon",
-        "Story focus: Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-        "Source context: The legislation will 'exceptionally' reduce certain prison terms, says Lebanon's parliament speaker."
+        "Key people or organizations: Trump, Israel, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump remarks on diminishing impact of pro-Israel groups in Congress",
+        "Source context: Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Lebanon.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 14:26:45 +0000",
-      "age_hours": "1.48",
+      "published": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "age_hours": "0.51",
       "freshness_status": "fresh",
-      "editorial_score": "58",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-    "GOP worries time running out on Trump's agenda with Congress",
+    "Senate Democrats press Rubio on release of US citizens detained by Russia",
     "Top Trump officials heading to Iowa to help GOP campaigns, sources say"
   ],
   "sections": [
@@ -349,21 +351,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "5.93",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "GOP worries time running out on Trump's agenda with Congress",
-      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
-      "snapshot": "The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump's agenda before Republicans possibly lose complete control of Congress. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Senate Democrats press Rubio on release of US citizens detained by Russia",
+      "url": "https://thehill.com/homenews/senate/6025142-senate-democrats-russian-detainees/",
+      "snapshot": "Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released U.S. citizen Robert Gilman after four and a half years in detention. In a letter to Secretary of State Marco Rubio on Tuesday,... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: GOP, Trump, Congress, Senate",
-        "Politics desk signal: congress, senate, election",
+        "Key people or organizations: Senate Democrats, Rubio, Russia",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP worries time running out on Trump's agenda with Congress",
-        "Source context: The Senate's departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a..."
+        "Story focus: Senate Democrats press Rubio on release of US citizens detained by Russia",
+        "Source context: Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -371,18 +373,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Senate Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "5.93",
+      "published": "Wed, 12 Aug 2026 16:00:53 +0000",
+      "age_hours": "0.89",
       "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
+      "editorial_score": "119",
+      "urgency": "WATCH"
     },
     {
       "headline": "Top Trump officials heading to Iowa to help GOP campaigns, sources say",
@@ -408,8 +410,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 11:49:53 -0400",
-      "age_hours": "0.10",
+      "published": "Wed, 12 Aug 2026 12:38:04 -0400",
+      "age_hours": "0.27",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -439,9 +441,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 12 Aug 2026 11:22:21 -0400",
-      "age_hours": "0.56",
+      "age_hours": "1.53",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
+      "snapshot": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Israel, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump remarks on diminishing impact of pro-Israel groups in Congress",
+        "Source context: Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "age_hours": "0.51",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
       "urgency": ""
     },
     {
@@ -467,40 +499,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 12 Aug 2026 14:26:45 +0000",
-      "age_hours": "1.48",
+      "age_hours": "2.46",
       "freshness_status": "fresh",
       "editorial_score": "58",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Zambia's president rallies for second term ahead of election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
-      "snapshot": "Zambia's president rallies for second term ahead of election The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Zambia",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Zambia's president rallies for second term ahead of election",
-        "Source context: Zambia's president rallies for second term ahead of election The election angle is whether this changes voter attention, campaign strategy or party..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Zambia.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 09:16:22 +0000",
-      "age_hours": "6.66",
-      "freshness_status": "fresh",
-      "editorial_score": "52",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
