@@ -1,24 +1,84 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-  "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-08-12 05:40:36 PM ET",
-  "generated_at": "2026-08-12 05:40:36 PM ET",
+  "headline": "Senate Democrats press Rubio on release of US citizens detained by Russia",
+  "snapshot": "Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released U.S. citizen Robert Gilman after four and a half years in detention. In a letter to Secretary of State Marco Rubio on Tuesday,... The key question is leverage: the next votes, negotiations and public pressure points will...",
+  "updated_at": "2026-08-12 06:35:45 PM ET",
+  "generated_at": "2026-08-12 06:35:45 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 101,
+    "live_fresh_items": 102,
     "editor_fresh_items": 148,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 48,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-12 05:40:36 PM ET"
+    "last_checked": "2026-08-12 06:35:45 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Congress breaks for summer recess with little to show",
+      "url": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
+      "snapshot": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "key_data": [
+        "Key people or organizations: Congress, As Congress",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Congress breaks for summer recess with little to show"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 12 Aug 2026 18:11:06 +0000",
+      "age_hours": "4.41",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "snapshot": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen's Houthis. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: US, Yemen, Pentagon",
+        "Specific figures mentioned: 153, 2025",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US strikes in Yemen killed 153 civilians in 2025, says Pentagon review"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 12 Aug 2026 21:53:17 +0000",
+      "age_hours": "0.71",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Israel vows to keep troops in Lebanon, Gaza and Syria",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
@@ -43,7 +103,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 12 Aug 2026 20:26:07 +0000",
-      "age_hours": "1.24",
+      "age_hours": "2.16",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -73,21 +133,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 12 Aug 2026 16:00:53 +0000",
-      "age_hours": "5.66",
+      "age_hours": "6.58",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
-      "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump's secret plane switch took place within a day of credible missile threat",
+      "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/",
+      "snapshot": "President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the jet, CBS News has learned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, GOP, Republicans, Congress",
-        "Politics desk signal: congress, election",
+        "Key people or organizations: Trump, President Trump, Air Force One",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-        "Source context: The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating..."
+        "Story focus: Trump's secret plane switch took place within a day of credible missile threat",
+        "Source context: President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -100,70 +160,10 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "11.68",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-      "url": "https://www.cbsnews.com/news/trump-administration-officials-iowa-campaigns-republicans/",
-      "snapshot": "The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Top Trump, Iowa, GOP, Iowa State Fair",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-        "Source context: The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail. The election angle is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Top Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 13:42:04 -0400",
-      "age_hours": "3.98",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
-      "url": "https://www.cbsnews.com/news/trump-secret-flight-turkey-pete-hegseth-marco-rubio-scott-bessent/",
-      "snapshot": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a different plane while Defense Secretary Pete Hegseth was with Mr. Trump. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Rubio, Bessent, Air Force One, Hegseth",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
-        "Source context: Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Rubio.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 11:22:21 -0400",
-      "age_hours": "6.30",
+      "published": "Wed, 12 Aug 2026 18:33:44 -0400",
+      "age_hours": "0.03",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -171,36 +171,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
-      "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Republicans, Congress",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-        "Source context: The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "11.68",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
-    {
       "headline": "Senate Democrats press Rubio on release of US citizens detained by Russia",
       "url": "https://thehill.com/homenews/senate/6025142-senate-democrats-russian-detainees/",
       "snapshot": "Senate Democrats are calling on the Trump administration to escalate efforts to rescue Americans detained in Russia, after Moscow on Tuesday released U.S. citizen Robert Gilman after four and a half years in detention. In a letter to Secretary of State Marco Rubio on Tuesday,... The key question is leverage: the next votes, negotiations and public pressure points will...",
@@ -225,21 +195,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 12 Aug 2026 16:00:53 +0000",
-      "age_hours": "5.66",
+      "age_hours": "6.58",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
     },
     {
-      "headline": "Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-      "url": "https://www.cbsnews.com/news/trump-administration-officials-iowa-campaigns-republicans/",
-      "snapshot": "The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Congress breaks for summer recess with little to show",
+      "url": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
+      "snapshot": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
       "key_data": [
-        "Key people or organizations: Top Trump, Iowa, GOP, Iowa State Fair",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Congress, As Congress",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: congress, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-        "Source context: The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail. The election angle is whether this changes..."
+        "Story focus: Congress breaks for summer recess with little to show"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -247,15 +217,45 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Top Trump.",
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 12 Aug 2026 18:11:06 +0000",
+      "age_hours": "4.41",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump's secret plane switch took place within a day of credible missile threat",
+      "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/",
+      "snapshot": "President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the jet, CBS News has learned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Air Force One",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's secret plane switch took place within a day of credible missile threat",
+        "Source context: President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 13:42:04 -0400",
-      "age_hours": "3.98",
+      "published": "Wed, 12 Aug 2026 18:33:44 -0400",
+      "age_hours": "0.03",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -284,22 +284,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 11:22:21 -0400",
-      "age_hours": "6.30",
+      "published": "Wed, 12 Aug 2026 17:45:03 -0400",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
-      "snapshot": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "snapshot": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen's Houthis. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Israel, Congress",
-        "Politics desk signal: congress",
+        "Key people or organizations: US, Yemen, Pentagon",
+        "Specific figures mentioned: 153, 2025",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump remarks on diminishing impact of pro-Israel groups in Congress",
-        "Source context: Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the..."
+        "Story focus: US strikes in Yemen killed 153 civilians in 2025, says Pentagon review"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -307,56 +307,26 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving US.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 16:23:28 +0000",
-      "age_hours": "5.29",
+      "published": "Wed, 12 Aug 2026 21:53:17 +0000",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
     "Senate Democrats press Rubio on release of US citizens detained by Russia",
-    "Top Trump officials heading to Iowa to help GOP campaigns, sources say"
+    "Congress breaks for summer recess with little to show",
+    "Trump's secret plane switch took place within a day of credible missile threat"
   ],
   "sections": [
-    {
-      "headline": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
-      "snapshot": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, GOP, Republicans, Congress",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-        "Source context: The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-      "age_hours": "11.68",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
     {
       "headline": "Senate Democrats press Rubio on release of US citizens detained by Russia",
       "url": "https://thehill.com/homenews/senate/6025142-senate-democrats-russian-detainees/",
@@ -382,21 +352,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 12 Aug 2026 16:00:53 +0000",
-      "age_hours": "5.66",
+      "age_hours": "6.58",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": "WATCH"
     },
     {
-      "headline": "Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-      "url": "https://www.cbsnews.com/news/trump-administration-officials-iowa-campaigns-republicans/",
-      "snapshot": "The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Congress breaks for summer recess with little to show",
+      "url": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
+      "snapshot": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
       "key_data": [
-        "Key people or organizations: Top Trump, Iowa, GOP, Iowa State Fair",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Congress, As Congress",
+        "Specific figures mentioned: 1",
+        "Politics desk signal: congress, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-        "Source context: The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail. The election angle is whether this changes..."
+        "Story focus: Congress breaks for summer recess with little to show"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -404,15 +374,45 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Top Trump.",
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 12 Aug 2026 18:11:06 +0000",
+      "age_hours": "4.41",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump's secret plane switch took place within a day of credible missile threat",
+      "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/",
+      "snapshot": "President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the jet, CBS News has learned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, Air Force One",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's secret plane switch took place within a day of credible missile threat",
+        "Source context: President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 13:42:04 -0400",
-      "age_hours": "3.98",
+      "published": "Wed, 12 Aug 2026 18:33:44 -0400",
+      "age_hours": "0.03",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -441,22 +441,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 12 Aug 2026 11:22:21 -0400",
-      "age_hours": "6.30",
+      "published": "Wed, 12 Aug 2026 17:45:03 -0400",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
-      "snapshot": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "snapshot": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen's Houthis. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Israel, Congress",
-        "Politics desk signal: congress",
+        "Key people or organizations: US, Yemen, Pentagon",
+        "Specific figures mentioned: 153, 2025",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump remarks on diminishing impact of pro-Israel groups in Congress",
-        "Source context: Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. The key question is leverage: the..."
+        "Story focus: US strikes in Yemen killed 153 civilians in 2025, says Pentagon review"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -464,18 +464,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving US.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 12 Aug 2026 16:23:28 +0000",
-      "age_hours": "5.29",
+      "published": "Wed, 12 Aug 2026 21:53:17 +0000",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Israel vows to keep troops in Lebanon, Gaza and Syria",
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 12 Aug 2026 20:26:07 +0000",
-      "age_hours": "1.24",
+      "age_hours": "2.16",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
