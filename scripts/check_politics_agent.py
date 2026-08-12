@@ -166,7 +166,7 @@ for item in live_newsroom:
     headline = pick_headline(item)
     if not headline:
         weak_headlines.append("[missing headline]")
-    elif len(headline.split()) < 4 or headline.endswith("."):
+    elif len(headline.split()) < 4:
         weak_headlines.append(headline)
 
 if weak_headlines:

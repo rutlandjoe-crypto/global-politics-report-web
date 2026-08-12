@@ -55,17 +55,8 @@ jobs:
             pip install requests python-dotenv tweepy
           fi
 
-      - name: Run master runner
-        run: |
-          echo "POLITICS BLOCK START"
-          python master_runner.py
-          echo "POLITICS BLOCK FINISH"
-
-      - name: Clean unwanted generated files
-        run: |
-          find . -type d -name "__pycache__" -prune -exec rm -rf {} + || true
-          rm -rf "C:\\Users\\joeru\\OneDrive\\Desktop\\global-politics-report-web" || true
-
+      - name: Ingest and build Politics report
+        run: python scripts/update_politics_report.py
 
       - name: Guard Politics report quality before commit
         run: python scripts/check_politics_agent.py
