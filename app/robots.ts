@@ -1,13 +1,12 @@
 import type { MetadataRoute } from "next";
+import { SITE_URL } from "./lib/editorial-archive";
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = "https://globalpoliticsreport.com";
-
   return {
     rules: {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: `${baseUrl}/sitemap.xml`,
+    sitemap: `${SITE_URL}/sitemap.xml`,
   };
 }
