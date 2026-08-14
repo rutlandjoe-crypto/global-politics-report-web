@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-  "snapshot": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-08-13 07:37:03 PM ET",
-  "generated_at": "2026-08-13 07:37:03 PM ET",
+  "headline": "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+  "snapshot": "President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge said only Congress could order a name change, but the president's allies apparently have a new plan. Ed O'Keefe reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+  "updated_at": "2026-08-13 09:28:51 PM ET",
+  "generated_at": "2026-08-13 09:28:51 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
+    "total_items_checked": 151,
     "live_fresh_items": 91,
     "editor_fresh_items": 141,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 59,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 60,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-13 07:37:03 PM ET"
+    "last_checked": "2026-08-13 09:28:51 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Congress breaks for summer recess with little to show",
-      "url": "https://thehill.com/opinion/congress-blog/6025526-house-senate-passing-crs/",
-      "snapshot": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Congress, As Congress",
-        "Specific figures mentioned: 1",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress breaks for summer recess with little to show"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 13 Aug 2026 13:00:00 +0000",
-      "age_hours": "10.62",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
       "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
@@ -74,7 +44,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "age_hours": "5.15",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -104,10 +74,70 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "age_hours": "3.16",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+      "url": "https://www.cbsnews.com/video/mostly-trump-appointed-board-votes-restore-name-kennedy-center/",
+      "snapshot": "President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge said only Congress could order a name change, but the president's allies apparently have a new plan. Ed O'Keefe reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+      "key_data": [
+        "Key people or organizations: Trump, Kennedy Center, President Trump",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+        "Source context: President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 13 Aug 2026 19:37:22 -0400",
+      "age_hours": "1.86",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+      "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "snapshot": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration's multi-million-dollar construction projects. The Washington Post reported Wednesday... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate Democrats, GAO, White House, Government Accountability Office",
+        "Politics desk signal: senate, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Democrats call for GAO audit of White House ballroom project",
+        "Source context: A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "age_hours": "2.26",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
@@ -133,38 +163,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 13 Aug 2026 15:05:41 -0400",
-      "age_hours": "4.52",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's secret plane switch took place within a day of credible missile threat",
-      "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/",
-      "snapshot": "President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the jet, CBS News has learned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Air Force One",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's secret plane switch took place within a day of credible missile threat",
-        "Source context: President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 13 Aug 2026 14:50:16 -0400",
-      "age_hours": "4.78",
+      "published": "Thu, 13 Aug 2026 20:30:16 -0400",
+      "age_hours": "0.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -172,6 +172,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+      "url": "https://www.cbsnews.com/video/mostly-trump-appointed-board-votes-restore-name-kennedy-center/",
+      "snapshot": "President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge said only Congress could order a name change, but the president's allies apparently have a new plan. Ed O'Keefe reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+      "key_data": [
+        "Key people or organizations: Trump, Kennedy Center, President Trump",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+        "Source context: President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 13 Aug 2026 19:37:22 -0400",
+      "age_hours": "1.86",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
       "headline": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
       "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
       "snapshot": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -196,7 +226,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "age_hours": "5.15",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -226,21 +256,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "age_hours": "3.16",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Congress breaks for summer recess with little to show",
-      "url": "https://thehill.com/opinion/congress-blog/6025526-house-senate-passing-crs/",
-      "snapshot": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+      "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "snapshot": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration's multi-million-dollar construction projects. The Washington Post reported Wednesday... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Congress, As Congress",
-        "Specific figures mentioned: 1",
-        "Politics desk signal: congress, election",
+        "Key people or organizations: Senate Democrats, GAO, White House, Government Accountability Office",
+        "Politics desk signal: senate, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress breaks for summer recess with little to show"
+        "Story focus: Senate Democrats call for GAO audit of White House ballroom project",
+        "Source context: A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -248,18 +278,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Congress.",
+        "Watch for the next official action involving Senate Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 13 Aug 2026 13:00:00 +0000",
-      "age_hours": "10.62",
+      "published": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": "BREAKING"
+      "urgency": ""
     },
     {
       "headline": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
@@ -285,49 +315,49 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 13 Aug 2026 15:05:41 -0400",
-      "age_hours": "4.52",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's secret plane switch took place within a day of credible missile threat",
-      "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/",
-      "snapshot": "President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the jet, CBS News has learned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Air Force One",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's secret plane switch took place within a day of credible missile threat",
-        "Source context: President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 13 Aug 2026 14:50:16 -0400",
-      "age_hours": "4.78",
+      "published": "Thu, 13 Aug 2026 20:30:16 -0400",
+      "age_hours": "0.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
     "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-    "Appeals court rules key Alien Enemies Act lawsuit moot",
-    "Congress breaks for summer recess with little to show"
+    "Appeals court rules key Alien Enemies Act lawsuit moot"
   ],
   "sections": [
+    {
+      "headline": "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+      "url": "https://www.cbsnews.com/video/mostly-trump-appointed-board-votes-restore-name-kennedy-center/",
+      "snapshot": "President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge said only Congress could order a name change, but the president's allies apparently have a new plan. Ed O'Keefe reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal...",
+      "key_data": [
+        "Key people or organizations: Trump, Kennedy Center, President Trump",
+        "Politics desk signal: congress, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
+        "Source context: President Trump's name may once again appear on the John F. Kennedy Center for the Performing Arts. It came down this summer after a federal judge..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 13 Aug 2026 19:37:22 -0400",
+      "age_hours": "1.86",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
     {
       "headline": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
       "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
@@ -353,7 +383,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "age_hours": "5.15",
+      "age_hours": "7.01",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -383,21 +413,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "age_hours": "3.16",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Congress breaks for summer recess with little to show",
-      "url": "https://thehill.com/opinion/congress-blog/6025526-house-senate-passing-crs/",
-      "snapshot": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+      "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "snapshot": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration's multi-million-dollar construction projects. The Washington Post reported Wednesday... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Congress, As Congress",
-        "Specific figures mentioned: 1",
-        "Politics desk signal: congress, election",
+        "Key people or organizations: Senate Democrats, GAO, White House, Government Accountability Office",
+        "Politics desk signal: senate, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress breaks for summer recess with little to show"
+        "Story focus: Senate Democrats call for GAO audit of White House ballroom project",
+        "Source context: A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,18 +435,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Congress.",
+        "Watch for the next official action involving Senate Democrats.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 13 Aug 2026 13:00:00 +0000",
-      "age_hours": "10.62",
+      "published": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": "BREAKING"
+      "urgency": ""
     },
     {
       "headline": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
@@ -442,38 +472,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 13 Aug 2026 15:05:41 -0400",
-      "age_hours": "4.52",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's secret plane switch took place within a day of credible missile threat",
-      "url": "https://www.cbsnews.com/news/trump-secret-air-force-one-switch-iran-missile-threat/",
-      "snapshot": "President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to fire a missile at the jet, CBS News has learned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Air Force One",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's secret plane switch took place within a day of credible missile threat",
-        "Source context: President Trump secretly moved from Air Force One to another plane within a day of U.S. and Turkish intelligence picking up on an Iranian plot to..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 13 Aug 2026 14:50:16 -0400",
-      "age_hours": "4.78",
+      "published": "Thu, 13 Aug 2026 20:30:16 -0400",
+      "age_hours": "0.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 13 Aug 2026 17:46:18 +0000",
-      "age_hours": "5.85",
+      "age_hours": "7.71",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
