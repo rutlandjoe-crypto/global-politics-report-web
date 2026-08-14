@@ -3,52 +3,22 @@
   "vertical": "Politics",
   "headline": "White House accuses over 40 countries of helping China avoid US tariffs",
   "snapshot": "The White House accused China of routing billions of dollars of goods through other countries to avoid President Trump's 2018 tariffs, costing the U.S. billions of dollars in lost revenue, according to a new report released Thursday. The report, titled \"The Great Transshipment... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-08-14 04:12:27 AM ET",
-  "generated_at": "2026-08-14 04:12:27 AM ET",
+  "updated_at": "2026-08-14 05:56:27 AM ET",
+  "generated_at": "2026-08-14 05:56:27 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 53,
-    "editor_fresh_items": 131,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 97,
+    "total_items_checked": 149,
+    "live_fresh_items": 41,
+    "editor_fresh_items": 120,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 108,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-14 04:12:27 AM ET"
+    "last_checked": "2026-08-14 05:56:27 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Appeals court rules key Alien Enemies Act lawsuit moot",
-      "url": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/",
-      "snapshot": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot. The case had boomeranged from the Supreme Court after Trump began... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Appeals, Alien Enemies Act, President Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Appeals court rules key Alien Enemies Act lawsuit moot",
-        "Source context: A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Appeals.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "age_hours": "11.75",
-      "freshness_status": "fresh",
-      "editorial_score": "111",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "White House accuses over 40 countries of helping China avoid US tariffs",
       "url": "https://thehill.com/homenews/administration/6029126-china-tariff-evasion-white-house-report/",
@@ -74,10 +44,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 14 Aug 2026 01:30:21 +0000",
-      "age_hours": "6.70",
+      "age_hours": "8.43",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "UK far-right leader Farage re-elected in boycotted by-election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+      "snapshot": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Farage, Nigel Farage",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: UK far-right leader Farage re-elected in boycotted by-election",
+        "Source context: Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances. The election angle is whether this changes voter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Farage.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 14 Aug 2026 09:24:24 +0000",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "56",
+      "urgency": ""
     },
     {
       "headline": "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
@@ -104,9 +104,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 13 Aug 2026 19:37:22 -0400",
-      "age_hours": "8.58",
+      "age_hours": "10.32",
       "freshness_status": "fresh",
       "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+      "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "snapshot": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration's multi-million-dollar construction projects. The Washington Post reported Wednesday... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate Democrats, GAO, White House, Government Accountability Office",
+        "Politics desk signal: senate, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Democrats call for GAO audit of White House ballroom project",
+        "Source context: A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "age_hours": "10.72",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -134,39 +164,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 03:25:55 -0400",
-      "age_hours": "0.78",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Could Trump actually run for a third term as president?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
-      "snapshot": "Donald Trump says the law stopping him from seeking a third presidential term is 'very strong'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Could Trump, Donald Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Could Trump actually run for a third term as president?",
-        "Source context: Donald Trump says the law stopping him from seeking a third presidential term is 'very strong'. The election angle is whether this changes voter..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Could Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 14 Aug 2026 02:12:23 +0000",
-      "age_hours": "6.00",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 14 Aug 2026 01:30:21 +0000",
-      "age_hours": "6.70",
+      "age_hours": "8.43",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
@@ -226,40 +226,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 13 Aug 2026 19:37:22 -0400",
-      "age_hours": "8.58",
+      "age_hours": "10.32",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Appeals court rules key Alien Enemies Act lawsuit moot",
-      "url": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/",
-      "snapshot": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot. The case had boomeranged from the Supreme Court after Trump began... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+      "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "snapshot": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration's multi-million-dollar construction projects. The Washington Post reported Wednesday... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Appeals, Alien Enemies Act, President Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
+        "Key people or organizations: Senate Democrats, GAO, White House, Government Accountability Office",
+        "Politics desk signal: senate, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Appeals court rules key Alien Enemies Act lawsuit moot",
-        "Source context: A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to..."
+        "Story focus: Senate Democrats call for GAO audit of White House ballroom project",
+        "Source context: A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Appeals.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "age_hours": "11.75",
+      "published": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "age_hours": "10.72",
       "freshness_status": "fresh",
-      "editorial_score": "111",
-      "urgency": "DEVELOPING"
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
@@ -286,21 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 03:25:55 -0400",
-      "age_hours": "0.78",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Could Trump actually run for a third term as president?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
-      "snapshot": "Donald Trump says the law stopping him from seeking a third presidential term is 'very strong'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "UK far-right leader Farage re-elected in boycotted by-election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+      "snapshot": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Could Trump, Donald Trump",
+        "Key people or organizations: Farage, Nigel Farage",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Could Trump actually run for a third term as president?",
-        "Source context: Donald Trump says the law stopping him from seeking a third presidential term is 'very strong'. The election angle is whether this changes voter..."
+        "Story focus: UK far-right leader Farage re-elected in boycotted by-election",
+        "Source context: Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,24 +308,24 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Could Trump.",
+        "Watch for the next official action involving Farage.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 14 Aug 2026 02:12:23 +0000",
-      "age_hours": "6.00",
+      "published": "Fri, 14 Aug 2026 09:24:24 +0000",
+      "age_hours": "0.53",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "56",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "White House accuses over 40 countries of helping China avoid US tariffs",
     "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
-    "Appeals court rules key Alien Enemies Act lawsuit moot"
+    "Senate Democrats call for GAO audit of White House ballroom project"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 14 Aug 2026 01:30:21 +0000",
-      "age_hours": "6.70",
+      "age_hours": "8.43",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "WATCH"
@@ -383,40 +383,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 13 Aug 2026 19:37:22 -0400",
-      "age_hours": "8.58",
+      "age_hours": "10.32",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Appeals court rules key Alien Enemies Act lawsuit moot",
-      "url": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/",
-      "snapshot": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot. The case had boomeranged from the Supreme Court after Trump began... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+      "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+      "snapshot": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration's multi-million-dollar construction projects. The Washington Post reported Wednesday... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Appeals, Alien Enemies Act, President Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
+        "Key people or organizations: Senate Democrats, GAO, White House, Government Accountability Office",
+        "Politics desk signal: senate, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Appeals court rules key Alien Enemies Act lawsuit moot",
-        "Source context: A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to..."
+        "Story focus: Senate Democrats call for GAO audit of White House ballroom project",
+        "Source context: A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Appeals.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 13 Aug 2026 20:27:38 +0000",
-      "age_hours": "11.75",
+      "published": "Thu, 13 Aug 2026 23:13:01 +0000",
+      "age_hours": "10.72",
       "freshness_status": "fresh",
-      "editorial_score": "111",
-      "urgency": "DEVELOPING"
+      "editorial_score": "107",
+      "urgency": ""
     },
     {
       "headline": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
@@ -443,21 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 03:25:55 -0400",
-      "age_hours": "0.78",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Could Trump actually run for a third term as president?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
-      "snapshot": "Donald Trump says the law stopping him from seeking a third presidential term is 'very strong'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "UK far-right leader Farage re-elected in boycotted by-election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+      "snapshot": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Could Trump, Donald Trump",
+        "Key people or organizations: Farage, Nigel Farage",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Could Trump actually run for a third term as president?",
-        "Source context: Donald Trump says the law stopping him from seeking a third presidential term is 'very strong'. The election angle is whether this changes voter..."
+        "Story focus: UK far-right leader Farage re-elected in boycotted by-election",
+        "Source context: Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,29 +465,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Could Trump.",
+        "Watch for the next official action involving Farage.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 14 Aug 2026 02:12:23 +0000",
-      "age_hours": "6.00",
+      "published": "Fri, 14 Aug 2026 09:24:24 +0000",
+      "age_hours": "0.53",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "56",
       "urgency": ""
     },
     {
-      "headline": "Why Osun's election matters for Nigeria's 2027 vote",
-      "url": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
-      "snapshot": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+      "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
+      "snapshot": "The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Specific figures mentioned: 2027",
+        "Key people or organizations: Nigel Farage, Count Binface, UK, Reform UK",
+        "Specific figures mentioned: 22, 239, 9, 455",
         "Politics desk signal: election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Why Osun's election matters for Nigeria's 2027 vote",
-        "Source context: The result could offer an early signal of shifting alliances and voter sentiment before the presidential race. The key question is leverage: the next..."
+        "Story focus: Nigel Farage defeats Count Binface to reclaim UK parliamentary seat"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +495,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Watch for the next official action involving Nigel Farage.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 14 Aug 2026 02:54:55 +0000",
-      "age_hours": "5.29",
+      "published": "Fri, 14 Aug 2026 07:07:42 +0000",
+      "age_hours": "2.81",
       "freshness_status": "fresh",
-      "editorial_score": "60",
+      "editorial_score": "52",
       "urgency": ""
     }
   ],
