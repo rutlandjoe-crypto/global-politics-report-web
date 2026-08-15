@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump downplays concerns of mental health issues aboard USS Lincoln",
   "snapshot": "President Trump is downplaying concerns raised by military families that conditions are poor aboard the USS Lincoln as the Iran war continues. Charlie D'Agata reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-08-14 11:35:00 PM ET",
-  "generated_at": "2026-08-14 11:35:00 PM ET",
+  "updated_at": "2026-08-15 12:25:42 AM ET",
+  "generated_at": "2026-08-15 12:25:42 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 144,
-    "live_fresh_items": 53,
-    "editor_fresh_items": 128,
+    "live_fresh_items": 50,
+    "editor_fresh_items": 125,
     "public_fallback_items": 143,
-    "stale_or_blocked_items": 91,
+    "stale_or_blocked_items": 94,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-14 11:35:00 PM ET"
+    "last_checked": "2026-08-15 12:25:42 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 14 Aug 2026 22:40:21 +0000",
-      "age_hours": "4.91",
+      "age_hours": "5.76",
       "freshness_status": "fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
@@ -74,10 +74,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 19:55:26 -0400",
-      "age_hours": "3.66",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
+    },
+    {
+      "headline": "BBC lawsuit: Channel plans to subpoena Trump family members",
+      "url": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
+      "snapshot": "The BBC is seeking to subpoena three members of President Trump's family as it builds its defense to his $10 billion defamation lawsuit. In a Friday court filing, attorneys for the BBC argued that Trump's children, Donald Trump Jr. and Ivanka Trump, as well as his son-in-law,... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: BBC, Trump, President Trump",
+        "Specific figures mentioned: $10 billion",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: BBC lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving BBC.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 15 Aug 2026 03:06:54 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
@@ -104,40 +134,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 14 Aug 2026 21:17:15 +0000",
-      "age_hours": "6.30",
+      "age_hours": "7.14",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch: Trump touts federal crackdown on crime at New York rally",
-      "url": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/",
-      "snapshot": "President Trump delivered remarks Friday from Long Island, N.Y., where he is expected to tout his administration's efforts to combat violent crime. The appearance came as the Trump administration ramps up its focus on crime in Democratic-led cities, including extending the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Long Island",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch",
-        "Source context: President Trump delivered remarks Friday from Long Island, N.Y., where he is expected to tout his administration's efforts to combat violent crime...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 14 Aug 2026 18:03:12 +0000",
-      "age_hours": "9.53",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
     },
     {
       "headline": "Iran war live: Trump vows to make Hormuz US territory 'pretty soon'",
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 15 Aug 2026 00:00:00 +0000",
-      "age_hours": "3.58",
+      "age_hours": "4.43",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -196,10 +196,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 19:55:26 -0400",
-      "age_hours": "3.66",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
+    },
+    {
+      "headline": "BBC lawsuit: Channel plans to subpoena Trump family members",
+      "url": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
+      "snapshot": "The BBC is seeking to subpoena three members of President Trump's family as it builds its defense to his $10 billion defamation lawsuit. In a Friday court filing, attorneys for the BBC argued that Trump's children, Donald Trump Jr. and Ivanka Trump, as well as his son-in-law,... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: BBC, Trump, President Trump",
+        "Specific figures mentioned: $10 billion",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: BBC lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving BBC.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 15 Aug 2026 03:06:54 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Senate panel investigates kids safety issues in online game Roblox",
@@ -226,40 +256,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 14 Aug 2026 22:40:21 +0000",
-      "age_hours": "4.91",
+      "age_hours": "5.76",
       "freshness_status": "fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch: Trump touts federal crackdown on crime at New York rally",
-      "url": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/",
-      "snapshot": "President Trump delivered remarks Friday from Long Island, N.Y., where he is expected to tout his administration's efforts to combat violent crime. The appearance came as the Trump administration ramps up its focus on crime in Democratic-led cities, including extending the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Long Island",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch",
-        "Source context: President Trump delivered remarks Friday from Long Island, N.Y., where he is expected to tout his administration's efforts to combat violent crime...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 14 Aug 2026 18:03:12 +0000",
-      "age_hours": "9.53",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
     },
     {
       "headline": "Mostly-Trump-appointed board votes to restore his name on the Kennedy Center",
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 13 Aug 2026 19:37:22 -0400",
-      "age_hours": "27.96",
+      "age_hours": "28.81",
       "freshness_status": "editor_fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 14 Aug 2026 21:17:15 +0000",
-      "age_hours": "6.30",
+      "age_hours": "7.14",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
@@ -324,8 +324,8 @@
   ],
   "key_storylines": [
     "Trump downplays concerns of mental health issues aboard USS Lincoln",
-    "Senate panel investigates kids safety issues in online game Roblox",
-    "Watch: Trump touts federal crackdown on crime at New York rally"
+    "BBC lawsuit: Channel plans to subpoena Trump family members",
+    "Senate panel investigates kids safety issues in online game Roblox"
   ],
   "sections": [
     {
@@ -353,10 +353,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 19:55:26 -0400",
-      "age_hours": "3.66",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
+    },
+    {
+      "headline": "BBC lawsuit: Channel plans to subpoena Trump family members",
+      "url": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
+      "snapshot": "The BBC is seeking to subpoena three members of President Trump's family as it builds its defense to his $10 billion defamation lawsuit. In a Friday court filing, attorneys for the BBC argued that Trump's children, Donald Trump Jr. and Ivanka Trump, as well as his son-in-law,... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: BBC, Trump, President Trump",
+        "Specific figures mentioned: $10 billion",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: BBC lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving BBC.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 15 Aug 2026 03:06:54 +0000",
+      "age_hours": "1.31",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Senate panel investigates kids safety issues in online game Roblox",
@@ -383,40 +413,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 14 Aug 2026 22:40:21 +0000",
-      "age_hours": "4.91",
+      "age_hours": "5.76",
       "freshness_status": "fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch: Trump touts federal crackdown on crime at New York rally",
-      "url": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/",
-      "snapshot": "President Trump delivered remarks Friday from Long Island, N.Y., where he is expected to tout his administration's efforts to combat violent crime. The appearance came as the Trump administration ramps up its focus on crime in Democratic-led cities, including extending the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, Long Island",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch",
-        "Source context: President Trump delivered remarks Friday from Long Island, N.Y., where he is expected to tout his administration's efforts to combat violent crime...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 14 Aug 2026 18:03:12 +0000",
-      "age_hours": "9.53",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
     },
     {
       "headline": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
@@ -443,7 +443,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 14 Aug 2026 21:17:15 +0000",
-      "age_hours": "6.30",
+      "age_hours": "7.14",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 15 Aug 2026 00:00:00 +0000",
-      "age_hours": "3.58",
+      "age_hours": "4.43",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 14 Aug 2026 16:51:32 -0400",
-      "age_hours": "6.72",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "WATCH"
