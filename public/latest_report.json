@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "U.K. prime minister messages with impersonator of top Trump staffer",
   "snapshot": "British Prime Minister Andy Burnham exchanged messaged with someone pretending to be White House chief of staff Susie Wiles. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-08-17 07:20:56 AM ET",
-  "generated_at": "2026-08-17 07:20:56 AM ET",
+  "updated_at": "2026-08-17 08:35:33 AM ET",
+  "generated_at": "2026-08-17 08:35:33 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 142,
-    "live_fresh_items": 38,
-    "editor_fresh_items": 83,
+    "live_fresh_items": 41,
+    "editor_fresh_items": 85,
     "public_fallback_items": 142,
-    "stale_or_blocked_items": 104,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-17 07:20:56 AM ET"
+    "last_checked": "2026-08-17 08:35:33 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 17 Aug 2026 05:32:33 +0000",
-      "age_hours": "5.81",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "BREAKING"
@@ -73,9 +73,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 06:49:28 -0400",
-      "age_hours": "0.52",
+      "age_hours": "1.77",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump: Vandals to blame for damaged grass at July 4 celebration site",
+      "url": "https://thehill.com/homenews/administration/6032714-donald-trump-vandalism-july-4-national-mall/",
+      "snapshot": "President Trump on Sunday accused vandals of damaging the ground near the World War II Memorial where thousands gathered for a July 4 celebration hosted in conjunction with the White House. Trump, in a post on Truth Social, the president shared pictures of a grassy field with... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Vandals, July, President Trump",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 17 Aug 2026 12:03:59 +0000",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -103,39 +133,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 17 Aug 2026 02:58:32 +0000",
-      "age_hours": "8.37",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "The 'political Supreme Court' trope is part of a media disinformation campaign",
-      "url": "https://thehill.com/opinion/judiciary/6029093-us-supreme-court-trump-media/",
-      "snapshot": "The idea that the court is a rubber stamp for the MAGA agenda really comes down to the mistaken notion that quantity is more important than quality. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court",
-        "Politics desk signal: supreme court, court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The 'political Supreme Court' trope is part of a media disinformation campaign",
-        "Source context: The idea that the court is a rubber stamp for the MAGA agenda really comes down to the mistaken notion that quantity is more important than quality...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 17 Aug 2026 11:00:00 +0000",
-      "age_hours": "0.35",
-      "freshness_status": "fresh",
-      "editorial_score": "83",
       "urgency": ""
     },
     {
@@ -163,7 +163,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 17 Aug 2026 08:13:04 +0000",
-      "age_hours": "3.13",
+      "age_hours": "4.37",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 06:49:28 -0400",
-      "age_hours": "0.52",
+      "age_hours": "1.77",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -225,9 +225,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 16 Aug 2026 09:38:33 -0400",
-      "age_hours": "21.71",
+      "age_hours": "22.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump: Vandals to blame for damaged grass at July 4 celebration site",
+      "url": "https://thehill.com/homenews/administration/6032714-donald-trump-vandalism-july-4-national-mall/",
+      "snapshot": "President Trump on Sunday accused vandals of damaging the ground near the World War II Memorial where thousands gathered for a July 4 celebration hosted in conjunction with the White House. Trump, in a post on Truth Social, the president shared pictures of a grassy field with... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Vandals, July, President Trump",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 17 Aug 2026 12:03:59 +0000",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -255,40 +285,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 17 Aug 2026 02:58:32 +0000",
-      "age_hours": "8.37",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
-    },
-    {
-      "headline": "Gallego: Congress boosting Iran war funding 'like giving a drunk more money and hoping that they'll stop drinking'",
-      "url": "https://thehill.com/homenews/senate/6031966-gallego-criticizes-iran-war/",
-      "snapshot": "Democratic Sen. Ruben Gallego (Ariz.) on Sunday expressed strong opposition to Congress giving the Pentagon more funding amid the Iran war. During an interview on ABC News's \"This Week,\" Gallego pivoted when host Martha Raddatz asked him about the Trump administration... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Gallego, Congress, Iran, Democratic Sen",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Gallego",
-        "Source context: Democratic Sen. Ruben Gallego (Ariz.) on Sunday expressed strong opposition to Congress giving the Pentagon more funding amid the Iran war. During an..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Gallego.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 16 Aug 2026 15:53:08 +0000",
-      "age_hours": "19.46",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "85",
-      "urgency": "WATCH"
     },
     {
       "headline": "Kushner meets Netanyahu to push Trump Gaza plan",
@@ -315,7 +315,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 17 Aug 2026 08:13:04 +0000",
-      "age_hours": "3.13",
+      "age_hours": "4.37",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -323,8 +323,8 @@
   ],
   "key_storylines": [
     "U.K. prime minister messages with impersonator of top Trump staffer",
-    "Navy considers major aircraft carrier revamp to better suit Trump's aesthetic",
-    "The 'political Supreme Court' trope is part of a media disinformation campaign"
+    "Trump: Vandals to blame for damaged grass at July 4 celebration site",
+    "Navy considers major aircraft carrier revamp to better suit Trump's aesthetic"
   ],
   "sections": [
     {
@@ -352,9 +352,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 06:49:28 -0400",
-      "age_hours": "0.52",
+      "age_hours": "1.77",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump: Vandals to blame for damaged grass at July 4 celebration site",
+      "url": "https://thehill.com/homenews/administration/6032714-donald-trump-vandalism-july-4-national-mall/",
+      "snapshot": "President Trump on Sunday accused vandals of damaging the ground near the World War II Memorial where thousands gathered for a July 4 celebration hosted in conjunction with the White House. Trump, in a post on Truth Social, the president shared pictures of a grassy field with... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Vandals, July, President Trump",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 17 Aug 2026 12:03:59 +0000",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -382,39 +412,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 17 Aug 2026 02:58:32 +0000",
-      "age_hours": "8.37",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "The 'political Supreme Court' trope is part of a media disinformation campaign",
-      "url": "https://thehill.com/opinion/judiciary/6029093-us-supreme-court-trump-media/",
-      "snapshot": "The idea that the court is a rubber stamp for the MAGA agenda really comes down to the mistaken notion that quantity is more important than quality. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court",
-        "Politics desk signal: supreme court, court, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: The 'political Supreme Court' trope is part of a media disinformation campaign",
-        "Source context: The idea that the court is a rubber stamp for the MAGA agenda really comes down to the mistaken notion that quantity is more important than quality...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 17 Aug 2026 11:00:00 +0000",
-      "age_hours": "0.35",
-      "freshness_status": "fresh",
-      "editorial_score": "83",
       "urgency": ""
     },
     {
@@ -442,7 +442,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 17 Aug 2026 08:13:04 +0000",
-      "age_hours": "3.13",
+      "age_hours": "4.37",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -472,7 +472,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 16 Aug 2026 21:09:41 -0400",
-      "age_hours": "10.19",
+      "age_hours": "11.43",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 17 Aug 2026 05:32:33 +0000",
-      "age_hours": "5.81",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "BREAKING"
