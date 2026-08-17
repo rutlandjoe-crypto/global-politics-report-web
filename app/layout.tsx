@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Global Politics Report",
-  description: "AI news, analysis, and automated reporting for modern journalists.",
+  description: "Political news, analysis, and reporting for modern journalists.",
 };
 
 export default function RootLayout({
