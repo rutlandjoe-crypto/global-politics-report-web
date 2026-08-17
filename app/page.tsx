@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import Image from "next/image";
 import type { Metadata } from "next";
 import EditorialStandard from "@/components/EditorialStandard";
 import SocialIconLinks from "@/app/SocialIconLinks";
@@ -553,9 +554,19 @@ export default function Page() {
       <header className="border-b border-slate-300 bg-white">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
-            <p className="text-sm font-black uppercase tracking-wide text-blue-700">
-              {SITE.name}
-            </p>
+            <div className="flex items-center gap-4">
+              <Image
+                src="/gsr-logo-politics.png"
+                alt={`${SITE.name} circular GSR logo`}
+                width={96}
+                height={96}
+                priority
+                className="h-20 w-20 shrink-0 rounded-full object-contain md:h-24 md:w-24"
+              />
+              <p className="text-sm font-black uppercase tracking-wide text-blue-700">
+                {SITE.name}
+              </p>
+            </div>
 
             <h1 className="mt-3 text-4xl font-black leading-tight md:text-5xl">
               {headline}
