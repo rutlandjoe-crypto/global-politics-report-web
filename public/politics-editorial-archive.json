@@ -24,7 +24,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Tue, 18 Aug 2026 17:58:47 -0400",
-    "age_hours": "0.33",
+    "age_hours": "1.32",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": ""
@@ -54,7 +54,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Tue, 18 Aug 2026 21:03:59 +0000",
-    "age_hours": "1.24",
+    "age_hours": "2.24",
     "freshness_status": "fresh",
     "editorial_score": "86",
     "urgency": "WATCH"
@@ -84,7 +84,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 18 Aug 2026 20:38:26 +0000",
-    "age_hours": "1.66",
+    "age_hours": "2.66",
     "freshness_status": "fresh",
     "editorial_score": "115",
     "urgency": ""
@@ -115,6 +115,36 @@
     "source_name": "CBS News",
     "published": "Tue, 18 Aug 2026 16:04:54 -0400",
     "age_hours": "2.22",
+    "freshness_status": "fresh",
+    "editorial_score": "92",
+    "urgency": ""
+  },
+  {
+    "headline": "Who is Natalie Harp? Trump's loyal assistant suddenly in the spotlight",
+    "url": "https://www.cbsnews.com/news/natalie-harp-trump-white-house-aide/",
+    "snapshot": "The 35-year-old executive assistant to the president is a quiet but loyal force at President Trump's side. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Natalie Harp, Trump, President Trump",
+      "Specific figures mentioned: 35",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Who is Natalie Harp? Trump's loyal assistant suddenly in the spotlight"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Natalie Harp.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Tue, 18 Aug 2026 16:04:00 -0400",
+    "age_hours": "3.24",
     "freshness_status": "fresh",
     "editorial_score": "92",
     "urgency": ""
@@ -278,7 +308,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 18 Aug 2026 16:57:59 +0000",
-    "age_hours": "5.34",
+    "age_hours": "6.34",
     "freshness_status": "fresh",
     "editorial_score": "115",
     "urgency": ""
