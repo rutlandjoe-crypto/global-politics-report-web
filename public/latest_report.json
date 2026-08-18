@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Jeffries: Trump administration must protect Palestinians from 'lawbreaking settlers'",
   "snapshot": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Monday urged the Trump administration to tell Israel to protect Palestinians being attacked by \"lawbreaking settlers\" in the West Bank. \"The ongoing siege of Palestinian homes in the West Bank by violent, lawbreaking settlers... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-08-18 05:27:44 AM ET",
-  "generated_at": "2026-08-18 05:27:44 AM ET",
+  "updated_at": "2026-08-18 06:23:40 AM ET",
+  "generated_at": "2026-08-18 06:23:40 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 37,
-    "editor_fresh_items": 118,
-    "public_fallback_items": 144,
+    "total_items_checked": 148,
+    "live_fresh_items": 40,
+    "editor_fresh_items": 122,
+    "public_fallback_items": 147,
     "stale_or_blocked_items": 108,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-18 05:27:44 AM ET"
+    "last_checked": "2026-08-18 06:23:40 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 02:00:01 +0000",
-      "age_hours": "7.46",
+      "age_hours": "8.39",
       "freshness_status": "fresh",
       "editorial_score": "125",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Florida voters choose in governor, Senate primaries, and more races to watch",
+      "url": "https://www.cbsnews.com/news/florida-governor-primary-byron-donalds-james-fishback-senate-alaska-wyoming/",
+      "snapshot": "Three states are holding primaries on Tuesday, with Florida deciding their nominees for both governor and for Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Florida, Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Florida voters choose in governor, Senate primaries, and more races to watch",
+        "Source context: Three states are holding primaries on Tuesday, with Florida deciding their nominees for both governor and for Senate. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Florida.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 18 Aug 2026 06:00:10 -0400",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
       "headline": "Trump voted by mail in Florida primary election: Report",
@@ -74,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 17 Aug 2026 22:39:27 +0000",
-      "age_hours": "10.80",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -104,40 +134,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 22:54:59 -0400",
-      "age_hours": "6.55",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
-    },
-    {
-      "headline": "Judge blocks plan to move FBI headquarters to Reagan Building",
-      "url": "https://www.cbsnews.com/news/fbi-reagan-building/",
-      "snapshot": "U.S. District Judge Theodore Chuang ruled that the Trump administration's move to divert funding and cancel a plan to move the FBI to Maryland was \"arbitrary and capricious and not in accordance with law.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, FBI, Reagan Building, District Judge Theodore Chuang",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge blocks plan to move FBI headquarters to Reagan Building",
-        "Source context: U.S. District Judge Theodore Chuang ruled that the Trump administration's move to divert funding and cancel a plan to move the FBI to Maryland was..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 17 Aug 2026 21:53:25 -0400",
-      "age_hours": "7.57",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "WATCH"
     },
     {
       "headline": "Trump says N Korea's Kim has responded to his request for a conversation",
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 18 Aug 2026 05:44:05 +0000",
-      "age_hours": "3.73",
+      "age_hours": "4.66",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 02:00:01 +0000",
-      "age_hours": "7.46",
+      "age_hours": "8.39",
       "freshness_status": "fresh",
       "editorial_score": "125",
       "urgency": "BREAKING"
@@ -226,10 +226,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 15:02:28 -0400",
-      "age_hours": "14.42",
+      "age_hours": "15.35",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Florida voters choose in governor, Senate primaries, and more races to watch",
+      "url": "https://www.cbsnews.com/news/florida-governor-primary-byron-donalds-james-fishback-senate-alaska-wyoming/",
+      "snapshot": "Three states are holding primaries on Tuesday, with Florida deciding their nominees for both governor and for Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Florida, Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Florida voters choose in governor, Senate primaries, and more races to watch",
+        "Source context: Three states are holding primaries on Tuesday, with Florida deciding their nominees for both governor and for Senate. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Florida.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 18 Aug 2026 06:00:10 -0400",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
       "headline": "Trump voted by mail in Florida primary election: Report",
@@ -256,40 +286,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 17 Aug 2026 22:39:27 +0000",
-      "age_hours": "10.80",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
-    },
-    {
-      "headline": "Trump family's World Liberty Financial granted bank status",
-      "url": "https://www.cbsnews.com/video/trump-familys-world-liberty-financial-granted-bank-status/",
-      "snapshot": "A Trump-appointed bank regulator has given conditional approval for World Liberty Financial, a crypto business established by President Trump's sons and the sons of special envoy Steve Witkoff, to become a bank. Nancy Cordes reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, World Liberty Financial, President Trump, Steve Witkoff",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump family's World Liberty Financial granted bank status",
-        "Source context: A Trump-appointed bank regulator has given conditional approval for World Liberty Financial, a crypto business established by President Trump's sons..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 17 Aug 2026 08:29:41 -0400",
-      "age_hours": "20.97",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "84",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump says N Korea's Kim has responded to his request for a conversation",
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 18 Aug 2026 05:44:05 +0000",
-      "age_hours": "3.73",
+      "age_hours": "4.66",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -324,8 +324,8 @@
   ],
   "key_storylines": [
     "Jeffries: Trump administration must protect Palestinians from 'lawbreaking settlers'",
-    "Trump voted by mail in Florida primary election: Report",
-    "DOJ asks court to reinstate criminal charges against Abrego Garcia"
+    "Florida voters choose in governor, Senate primaries, and more races to watch",
+    "Trump voted by mail in Florida primary election: Report"
   ],
   "sections": [
     {
@@ -353,10 +353,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 02:00:01 +0000",
-      "age_hours": "7.46",
+      "age_hours": "8.39",
       "freshness_status": "fresh",
       "editorial_score": "125",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Florida voters choose in governor, Senate primaries, and more races to watch",
+      "url": "https://www.cbsnews.com/news/florida-governor-primary-byron-donalds-james-fishback-senate-alaska-wyoming/",
+      "snapshot": "Three states are holding primaries on Tuesday, with Florida deciding their nominees for both governor and for Senate. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Florida, Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Florida voters choose in governor, Senate primaries, and more races to watch",
+        "Source context: Three states are holding primaries on Tuesday, with Florida deciding their nominees for both governor and for Senate. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Florida.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 18 Aug 2026 06:00:10 -0400",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
     },
     {
       "headline": "Trump voted by mail in Florida primary election: Report",
@@ -383,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 17 Aug 2026 22:39:27 +0000",
-      "age_hours": "10.80",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -413,40 +443,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 22:54:59 -0400",
-      "age_hours": "6.55",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
-    },
-    {
-      "headline": "Judge blocks plan to move FBI headquarters to Reagan Building",
-      "url": "https://www.cbsnews.com/news/fbi-reagan-building/",
-      "snapshot": "U.S. District Judge Theodore Chuang ruled that the Trump administration's move to divert funding and cancel a plan to move the FBI to Maryland was \"arbitrary and capricious and not in accordance with law.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, FBI, Reagan Building, District Judge Theodore Chuang",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge blocks plan to move FBI headquarters to Reagan Building",
-        "Source context: U.S. District Judge Theodore Chuang ruled that the Trump administration's move to divert funding and cancel a plan to move the FBI to Maryland was..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 17 Aug 2026 21:53:25 -0400",
-      "age_hours": "7.57",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "WATCH"
     },
     {
       "headline": "Trump says N Korea's Kim has responded to his request for a conversation",
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 18 Aug 2026 05:44:05 +0000",
-      "age_hours": "3.73",
+      "age_hours": "4.66",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 18 Aug 2026 05:23:54 +0000",
-      "age_hours": "4.06",
+      "age_hours": "5.00",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
