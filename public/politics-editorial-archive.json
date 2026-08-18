@@ -24,7 +24,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Tue, 18 Aug 2026 05:44:05 +0000",
-    "age_hours": "2.79",
+    "age_hours": "3.73",
     "freshness_status": "fresh",
     "editorial_score": "78",
     "urgency": ""
@@ -54,7 +54,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Mon, 17 Aug 2026 22:54:59 -0400",
-    "age_hours": "5.61",
+    "age_hours": "6.55",
     "freshness_status": "fresh",
     "editorial_score": "82",
     "urgency": ""
@@ -136,7 +136,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 18 Aug 2026 02:00:01 +0000",
-    "age_hours": "6.52",
+    "age_hours": "7.46",
     "freshness_status": "fresh",
     "editorial_score": "125",
     "urgency": "BREAKING"
@@ -192,10 +192,40 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Mon, 17 Aug 2026 21:53:25 -0400",
-    "age_hours": "6.63",
+    "age_hours": "7.57",
     "freshness_status": "fresh",
     "editorial_score": "82",
     "urgency": "WATCH"
+  },
+  {
+    "headline": "Trump voted by mail in Florida primary election: Report",
+    "url": "https://thehill.com/homenews/administration/6034201-trump-returns-mail-in-ballot/",
+    "snapshot": "President Trump last week returned a mail-in ballot ahead of Florida's primary election on Tuesday, Politico reported Monday, the second time he has done so amid his unfounded claims that mail-in voting contributes to election fraud. The outlet added that Trump requested his... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+    "key_data": [
+      "Key people or organizations: Trump, Florida, President Trump",
+      "Politics desk signal: election",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump voted by mail in Florida primary election",
+      "Source context: President Trump last week returned a mail-in ballot ahead of Florida's primary election on Tuesday, Politico reported Monday, the second time he has..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Mon, 17 Aug 2026 22:39:27 +0000",
+    "age_hours": "10.80",
+    "freshness_status": "fresh",
+    "editorial_score": "91",
+    "urgency": ""
   },
   {
     "headline": "Florida GOP race draws accusations of carpetbagging",
