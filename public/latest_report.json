@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Judge OKs paint tests for Trump's Eisenhower Executive Office Building makeover",
   "snapshot": "A federal judge on Tuesday allowed the Trump administration to move forward with plans to put a coat of white paint on the exterior of the Eisenhower Executive Office Building. The proposal to paint the building next to the White House could cost taxpayers at least $7.5... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-08-19 01:25:51 AM ET",
-  "generated_at": "2026-08-19 01:25:51 AM ET",
+  "updated_at": "2026-08-19 02:36:58 AM ET",
+  "generated_at": "2026-08-19 02:36:58 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 143,
-    "live_fresh_items": 93,
+    "live_fresh_items": 88,
     "editor_fresh_items": 140,
     "public_fallback_items": 141,
-    "stale_or_blocked_items": 50,
+    "stale_or_blocked_items": 55,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-19 01:25:51 AM ET"
+    "last_checked": "2026-08-19 02:36:58 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 18 Aug 2026 22:19:39 -0400",
-      "age_hours": "3.10",
+      "age_hours": "4.29",
       "freshness_status": "fresh",
       "editorial_score": "112",
+      "urgency": ""
+    },
+    {
+      "headline": "Ukraine's ousted defence minister calls for elections during war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "snapshot": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Ukraine, Mykhailo Fedorov, Russia",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ukraine's ousted defence minister calls for elections during war",
+        "Source context: Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ukraine.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 19 Aug 2026 05:59:44 +0000",
+      "age_hours": "0.62",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
       "urgency": ""
     },
     {
@@ -72,7 +102,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 18 Aug 2026 23:45:16 +0000",
-      "age_hours": "5.68",
+      "age_hours": "6.86",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
@@ -102,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 20:38:26 +0000",
-      "age_hours": "8.79",
+      "age_hours": "9.98",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -132,40 +162,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "age_hours": "8.43",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
-    },
-    {
-      "headline": "Trump says he paused 50% tariffs on some Canadian goods as deal being finalized",
-      "url": "https://www.cbsnews.com/news/trump-pauses-tariffs-canada/",
-      "snapshot": "President Trump said Tuesday that the U.S. and Canada have reached a last-minute agreement to pause the 50% tariffs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump",
-        "Specific figures mentioned: 50%",
-        "Politics desk signal: election, campaign, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he paused 50% tariffs on some Canadian goods as deal being finalized"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 18 Aug 2026 23:37:58 -0400",
-      "age_hours": "1.80",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -194,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 20:38:26 +0000",
-      "age_hours": "8.79",
+      "age_hours": "9.98",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -224,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 18 Aug 2026 22:19:39 -0400",
-      "age_hours": "3.10",
+      "age_hours": "4.29",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": ""
@@ -254,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 17 Aug 2026 15:02:28 -0400",
-      "age_hours": "34.39",
+      "age_hours": "35.57",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
@@ -284,21 +284,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "age_hours": "8.43",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-      "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-      "snapshot": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Ukraine's ousted defence minister calls for elections during war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "snapshot": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, Oman Hormuz",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Ukraine, Mykhailo Fedorov, Russia",
+        "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-        "Source context: US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway. The election angle is whether this..."
+        "Story focus: Ukraine's ousted defence minister calls for elections during war",
+        "Source context: Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -306,18 +306,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Ukraine.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 18 Aug 2026 21:03:59 +0000",
-      "age_hours": "8.36",
+      "published": "Wed, 19 Aug 2026 05:59:44 +0000",
+      "age_hours": "0.62",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "WATCH"
+      "editorial_score": "82",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -351,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 20:38:26 +0000",
-      "age_hours": "8.79",
+      "age_hours": "9.98",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -381,7 +381,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 18 Aug 2026 22:19:39 -0400",
-      "age_hours": "3.10",
+      "age_hours": "4.29",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": ""
@@ -411,7 +411,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 18 Aug 2026 21:00:00 +0000",
-      "age_hours": "8.43",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -441,21 +441,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 18 Aug 2026 23:37:58 -0400",
-      "age_hours": "1.80",
+      "age_hours": "2.98",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-      "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-      "snapshot": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Ukraine's ousted defence minister calls for elections during war",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "snapshot": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, Oman Hormuz",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Ukraine, Mykhailo Fedorov, Russia",
+        "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-        "Source context: US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway. The election angle is whether this..."
+        "Story focus: Ukraine's ousted defence minister calls for elections during war",
+        "Source context: Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -463,18 +463,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Ukraine.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 18 Aug 2026 21:03:59 +0000",
-      "age_hours": "8.36",
+      "published": "Wed, 19 Aug 2026 05:59:44 +0000",
+      "age_hours": "0.62",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "WATCH"
+      "editorial_score": "82",
+      "urgency": ""
     },
     {
       "headline": "Democrats call for USS Lincoln probe, question US Navy's readiness",
@@ -499,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 18 Aug 2026 23:45:16 +0000",
-      "age_hours": "5.68",
+      "age_hours": "6.86",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
