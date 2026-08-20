@@ -128,9 +128,39 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Thu, 20 Aug 2026 00:34:13 +0000",
-    "age_hours": "0.41",
+    "age_hours": "3.15",
     "freshness_status": "fresh",
     "editorial_score": "86",
+    "urgency": ""
+  },
+  {
+    "headline": "Trump flaunts White House improvement projects",
+    "url": "https://www.cbsnews.com/video/trump-flaunts-white-house-improvement-projects/",
+    "snapshot": "White House reporters were called to the South Lawn Wednesday for a surprise tour of some of President Trump's favorite home improvement projects around the White House. Nancy Cordes reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: Trump, White House, South Lawn Wednesday, President Trump",
+      "Politics desk signal: house, white house",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump flaunts White House improvement projects",
+      "Source context: White House reporters were called to the South Lawn Wednesday for a surprise tour of some of President Trump's favorite home improvement projects..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Wed, 19 Aug 2026 19:23:48 -0400",
+    "age_hours": "4.32",
+    "freshness_status": "fresh",
+    "editorial_score": "108",
     "urgency": ""
   },
   {
@@ -214,10 +244,40 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Wed, 19 Aug 2026 21:09:15 +0000",
-    "age_hours": "3.82",
+    "age_hours": "6.56",
     "freshness_status": "fresh",
     "editorial_score": "72",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Trump plays down bond market fears, pushes interest rate cuts",
+    "url": "https://thehill.com/homenews/administration/6039728-trump-calls-lower-rates-bond-market/",
+    "snapshot": "President Trump downplayed concerns around the bond market and called for lower interest rates during a meeting with cryptocurrency executives at the White House on Wednesday. \"No, I don't think so,\" Trump told reporters, in response to a question about whether Americans... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+    "key_data": [
+      "Key people or organizations: Trump, President Trump, White House",
+      "Politics desk signal: house, white house",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump plays down bond market fears, pushes interest rate cuts",
+      "Source context: President Trump downplayed concerns around the bond market and called for lower interest rates during a meeting with cryptocurrency executives at the..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Wed, 19 Aug 2026 20:25:44 +0000",
+    "age_hours": "7.29",
+    "freshness_status": "fresh",
+    "editorial_score": "113",
+    "urgency": ""
   },
   {
     "headline": "Trump pausing 50% tariffs on some Canadian goods as deal being finalized",
@@ -412,7 +472,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Wed, 19 Aug 2026 17:25:20 +0000",
-    "age_hours": "7.55",
+    "age_hours": "10.29",
     "freshness_status": "fresh",
     "editorial_score": "119",
     "urgency": ""
