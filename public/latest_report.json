@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Vance says war in \"new phase\" of economic pressure as Iran dismisses Trump threat",
-  "snapshot": "Iran has shrugged off President Trump's threat to hit the Islamic Republic with an \"economic D-Day\" as a \"doubling down on failed policies.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-08-21 11:28:33 AM ET",
-  "generated_at": "2026-08-21 11:28:33 AM ET",
+  "headline": "Massie, Greene slam Trump's move to lower beef prices",
+  "snapshot": "Two Republicans pushed back on the Trump administration's Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to bring down prices for American consumers ahead of the midterm elections. President Trump announced in a Truth Social post... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+  "updated_at": "2026-08-21 12:27:45 PM ET",
+  "generated_at": "2026-08-21 12:27:45 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 152,
-    "live_fresh_items": 49,
+    "live_fresh_items": 51,
     "editor_fresh_items": 144,
     "public_fallback_items": 152,
-    "stale_or_blocked_items": 103,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-21 11:28:33 AM ET"
+    "last_checked": "2026-08-21 12:27:45 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 20 Aug 2026 19:48:28 +0000",
-      "age_hours": "19.67",
+      "age_hours": "20.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
@@ -74,9 +74,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "age_hours": "6.48",
+      "age_hours": "7.46",
       "freshness_status": "fresh",
       "editorial_score": "85",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
+      "snapshot": "The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: US, US Treasury",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US designates Hezbollah an Iranian proxy, sanctions funding network",
+        "Source context: The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 21 Aug 2026 12:12:35 +0000",
+      "age_hours": "4.25",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,20 +133,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 03:52:00 -0400",
-      "age_hours": "7.61",
+      "age_hours": "8.60",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
+      "headline": "Trump appears on radio show of Michael Cohen, patching up public split",
       "url": "https://www.cbsnews.com/news/trump-michael-cohen-radio-show-pardon-request/",
       "snapshot": "President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to imagine several years ago. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
         "Key people or organizations: Trump, Michael Cohen, President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
+        "Story focus: Trump appears on radio show of Michael Cohen, patching up public split",
         "Source context: President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to..."
       ],
       "why_it_matters": [
@@ -134,21 +163,23 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 05:49:00 -0400",
-      "age_hours": "5.66",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "White House legislative affairs director departs post ahead of midterms",
-      "url": "https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving/",
-      "snapshot": "White House legislative director James Braid is leaving his post, Vice President Vance announced on Thursday. Braid's departure comes ahead of November's midterm elections and at a time when President Trump's relationship with Senate Republicans has grown rocky. Additionally,... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Massie, Greene slam Trump's move to lower beef prices",
+      "url": "https://thehill.com/homenews/house/6043594-massie-greene-slam-beef-deal/",
+      "snapshot": "Two Republicans pushed back on the Trump administration's Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to bring down prices for American consumers ahead of the midterm elections. President Trump announced in a Truth Social post... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: White House, James Braid, Vice President Vance, Braid",
-        "Politics desk signal: senate, house, white house, election",
+        "Key people or organizations: Trump, Two Republicans",
+        "Politics desk signal: election, campaign, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House legislative affairs director departs post ahead of midterms",
-        "Source context: White House legislative director James Braid is leaving his post, Vice President Vance announced on Thursday. Braid's departure comes ahead of..."
+        "Story focus: Massie, Greene slam Trump's move to lower beef prices",
+        "Source context: Two Republicans pushed back on the Trump administration's Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,21 +187,19 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 20 Aug 2026 13:25:36 +0000",
-      "age_hours": "26.05",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "93",
+      "published": "Fri, 21 Aug 2026 15:43:21 +0000",
+      "age_hours": "0.74",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
+    },
     {
       "headline": "Vance says war in \"new phase\" of economic pressure as Iran dismisses Trump threat",
       "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
@@ -196,7 +225,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 03:52:00 -0400",
-      "age_hours": "7.61",
+      "age_hours": "8.60",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -226,50 +255,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 20 Aug 2026 19:48:28 +0000",
-      "age_hours": "19.67",
+      "age_hours": "20.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "White House legislative affairs director departs post ahead of midterms",
-      "url": "https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving/",
-      "snapshot": "White House legislative director James Braid is leaving his post, Vice President Vance announced on Thursday. Braid's departure comes ahead of November's midterm elections and at a time when President Trump's relationship with Senate Republicans has grown rocky. Additionally,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: White House, James Braid, Vice President Vance, Braid",
-        "Politics desk signal: senate, house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House legislative affairs director departs post ahead of midterms",
-        "Source context: White House legislative director James Braid is leaving his post, Vice President Vance announced on Thursday. Braid's departure comes ahead of..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 20 Aug 2026 13:25:36 +0000",
-      "age_hours": "26.05",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "93",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
+      "headline": "Trump appears on radio show of Michael Cohen, patching up public split",
       "url": "https://www.cbsnews.com/news/trump-michael-cohen-radio-show-pardon-request/",
       "snapshot": "President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to imagine several years ago. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
         "Key people or organizations: Trump, Michael Cohen, President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
+        "Story focus: Trump appears on radio show of Michael Cohen, patching up public split",
         "Source context: President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to..."
       ],
       "why_it_matters": [
@@ -286,7 +285,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 05:49:00 -0400",
-      "age_hours": "5.66",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -315,18 +314,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 21 Aug 2026 12:12:35 +0000",
-      "age_hours": "3.27",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
       "editorial_score": "64",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Massie, Greene slam Trump's move to lower beef prices",
     "Vance says war in \"new phase\" of economic pressure as Iran dismisses Trump threat",
-    "Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
-    "Democrats urge ICE to halt purchase of electric gloves 'before more innocent lives are lost'"
+    "Trump appears on radio show of Michael Cohen, patching up public split"
   ],
   "sections": [
+    {
+      "headline": "Massie, Greene slam Trump's move to lower beef prices",
+      "url": "https://thehill.com/homenews/house/6043594-massie-greene-slam-beef-deal/",
+      "snapshot": "Two Republicans pushed back on the Trump administration's Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to bring down prices for American consumers ahead of the midterm elections. President Trump announced in a Truth Social post... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Two Republicans",
+        "Politics desk signal: election, campaign, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Massie, Greene slam Trump's move to lower beef prices",
+        "Source context: Two Republicans pushed back on the Trump administration's Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 21 Aug 2026 15:43:21 +0000",
+      "age_hours": "0.74",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
     {
       "headline": "Vance says war in \"new phase\" of economic pressure as Iran dismisses Trump threat",
       "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
@@ -352,20 +381,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 03:52:00 -0400",
-      "age_hours": "7.61",
+      "age_hours": "8.60",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
+      "headline": "Trump appears on radio show of Michael Cohen, patching up public split",
       "url": "https://www.cbsnews.com/news/trump-michael-cohen-radio-show-pardon-request/",
       "snapshot": "President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to imagine several years ago. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
         "Key people or organizations: Trump, Michael Cohen, President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump appears on radio show of Michael Cohen, fixer-turned-foe, after detente",
+        "Story focus: Trump appears on radio show of Michael Cohen, patching up public split",
         "Source context: President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to..."
       ],
       "why_it_matters": [
@@ -382,7 +411,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 05:49:00 -0400",
-      "age_hours": "5.66",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -412,40 +441,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "age_hours": "6.48",
+      "age_hours": "7.46",
       "freshness_status": "fresh",
       "editorial_score": "85",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump temporarily lifts ground beef import tariffs",
-      "url": "https://thehill.com/homenews/administration/6043387-donald-trump-us-ground-beef-tariffs-higher-rate-temporary-pause/",
-      "snapshot": "President Trump announced Friday that the U.S. will pause higher tariffs on ground beef imports for 90 days to lower costs of the meat for consumers. Trump, in a post on Truth Social, said the U.S. will allow up to 300,000 metric tons of ground beef to be imported without an... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
+      "snapshot": "The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump, Truth Social",
-        "Specific figures mentioned: 90, 300, 000",
-        "Politics desk signal: election, campaign, tariff",
+        "Key people or organizations: US, US Treasury",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump temporarily lifts ground beef import tariffs"
+        "Story focus: US designates Hezbollah an Iranian proxy, sanctions funding network",
+        "Source context: The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving US.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 21 Aug 2026 14:09:32 +0000",
-      "age_hours": "1.32",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 21 Aug 2026 12:12:35 +0000",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
-      "editorial_score": "83",
-      "urgency": ""
+      "editorial_score": "64",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Gabbard shares emotional update on husband's cancer months after White House exit",
@@ -472,40 +500,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 20 Aug 2026 19:48:28 +0000",
-      "age_hours": "19.67",
+      "age_hours": "20.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "White House legislative affairs director departs post ahead of midterms",
-      "url": "https://thehill.com/homenews/administration/6040729-donald-trump-legislative-director-leaving/",
-      "snapshot": "White House legislative director James Braid is leaving his post, Vice President Vance announced on Thursday. Braid's departure comes ahead of November's midterm elections and at a time when President Trump's relationship with Senate Republicans has grown rocky. Additionally,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: White House, James Braid, Vice President Vance, Braid",
-        "Politics desk signal: senate, house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House legislative affairs director departs post ahead of midterms",
-        "Source context: White House legislative director James Braid is leaving his post, Vice President Vance announced on Thursday. Braid's departure comes ahead of..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 20 Aug 2026 13:25:36 +0000",
-      "age_hours": "26.05",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "93",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
