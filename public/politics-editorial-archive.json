@@ -75,7 +75,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Fri, 21 Aug 2026 12:12:35 +0000",
-    "age_hours": "0.43",
+    "age_hours": "4.25",
     "freshness_status": "fresh",
     "editorial_score": "64",
     "urgency": "DEVELOPING"
@@ -189,6 +189,36 @@
     "urgency": ""
   },
   {
+    "headline": "Trump appears on radio show of Michael Cohen, patching up public split",
+    "url": "https://www.cbsnews.com/news/trump-michael-cohen-radio-show-pardon-request/",
+    "snapshot": "President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to imagine several years ago. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, Michael Cohen, President Trump",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump appears on radio show of Michael Cohen, patching up public split",
+      "Source context: President Trump appeared on the radio show of Michael Cohen, his fixer-turned-foe, in a stunning public reunion that would have been impossible to..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Fri, 21 Aug 2026 05:49:00 -0400",
+    "age_hours": "6.65",
+    "freshness_status": "fresh",
+    "editorial_score": "92",
+    "urgency": ""
+  },
+  {
     "headline": "Democrats urge ICE to halt purchase of electric gloves 'before more innocent lives are lost'",
     "url": "https://thehill.com/homenews/administration/6042522-house-democrats-oppose-ice-gloves/",
     "snapshot": "House Democrats on the Homeland Security Committee are calling for Department of Homeland Security (DHS) Secretary Markwayne Mullin to abandon plans to equip immigration agents with electric shock gloves and \"halt this procurement before more innocent lives are lost.\" U.S.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
@@ -213,7 +243,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-    "age_hours": "6.48",
+    "age_hours": "7.46",
     "freshness_status": "fresh",
     "editorial_score": "85",
     "urgency": "DEVELOPING"
@@ -243,7 +273,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 21 Aug 2026 03:52:00 -0400",
-    "age_hours": "7.61",
+    "age_hours": "8.60",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": ""
@@ -610,7 +640,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 20 Aug 2026 19:48:28 +0000",
-    "age_hours": "19.67",
+    "age_hours": "20.65",
     "freshness_status": "editor_fresh",
     "editorial_score": "95",
     "urgency": "DEVELOPING"
