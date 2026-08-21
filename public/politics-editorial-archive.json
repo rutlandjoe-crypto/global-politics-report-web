@@ -24,7 +24,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 21 Aug 2026 03:52:17 -0400",
-    "age_hours": "0.72",
+    "age_hours": "1.67",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": ""
@@ -188,7 +188,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 21 Aug 2026 01:02:00 +0000",
-    "age_hours": "7.56",
+    "age_hours": "8.51",
     "freshness_status": "fresh",
     "editorial_score": "95",
     "urgency": "DEVELOPING"
@@ -224,6 +224,36 @@
     "urgency": ""
   },
   {
+    "headline": "US deports nearly 2,300 Mexicans to Guatemala over Mexico's objections",
+    "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+    "snapshot": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Specific figures mentioned: 2, 300",
+      "Politics desk signal: election, campaign, immigration",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: US deports nearly 2,300 Mexicans to Guatemala over Mexico's objections",
+      "Source context: The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration. The election angle is whether this..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next verified action by the relevant government, court, agency or political organization.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Fri, 21 Aug 2026 00:12:37 +0000",
+    "age_hours": "9.33",
+    "freshness_status": "fresh",
+    "editorial_score": "60",
+    "urgency": ""
+  },
+  {
     "headline": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
     "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
     "snapshot": "FBI agents executed search warrants targeting former Democratic Rep. Eric Swalwell and seized his electronic devices, two sources told CBS News.",
@@ -246,7 +276,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 20 Aug 2026 18:30:00 -0400",
-    "age_hours": "10.09",
+    "age_hours": "11.04",
     "freshness_status": "fresh",
     "editorial_score": "88",
     "urgency": "DEVELOPING"
@@ -276,7 +306,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 20 Aug 2026 22:17:25 +0000",
-    "age_hours": "10.30",
+    "age_hours": "11.25",
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": "WATCH"
