@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
   "snapshot": "A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-08-22 04:23:59 AM ET",
-  "generated_at": "2026-08-22 04:23:59 AM ET",
+  "updated_at": "2026-08-22 05:22:48 AM ET",
+  "generated_at": "2026-08-22 05:22:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 52,
-    "editor_fresh_items": 119,
+    "live_fresh_items": 47,
+    "editor_fresh_items": 115,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 96,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-22 04:23:59 AM ET"
+    "last_checked": "2026-08-22 05:22:48 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 22 Aug 2026 03:19:58 +0000",
-      "age_hours": "5.07",
+      "age_hours": "6.05",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -73,40 +73,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 22 Aug 2026 00:06:48 +0000",
-      "age_hours": "8.29",
+      "age_hours": "9.27",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court temporarily allows work on White House ballroom to continue",
-      "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
-      "snapshot": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, White House, Chief Justice John Roberts",
-        "Politics desk signal: house, white house, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court temporarily allows work on White House ballroom to continue",
-        "Source context: Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 21 Aug 2026 16:38:10 -0400",
-      "age_hours": "11.76",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     },
     {
       "headline": "Leavitt to work at Trump-affiliated super PAC following White House departure",
@@ -133,7 +103,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-      "age_hours": "4.99",
+      "age_hours": "5.97",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -163,9 +133,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 22:17:11 +0000",
-      "age_hours": "10.11",
+      "age_hours": "11.09",
       "freshness_status": "fresh",
       "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump threatens defamation suit against left-leaning think tank",
+      "url": "https://www.cbsnews.com/news/trump-threatens-defamation-suit-center-american-progress/",
+      "snapshot": "President Trump's legal team is threatening to sue left-leaning think tank Center for American Progress for defamation over a report it issued that found \"no evidence that National Guard deployments have reduced violent crime.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump, American Progress",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump threatens defamation suit against left-leaning think tank",
+        "Source context: President Trump's legal team is threatening to sue left-leaning think tank Center for American Progress for defamation over a report it issued that..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 21 Aug 2026 21:10:00 -0400",
+      "age_hours": "8.21",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     }
   ],
@@ -195,40 +195,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 22 Aug 2026 03:19:58 +0000",
-      "age_hours": "5.07",
+      "age_hours": "6.05",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court temporarily allows work on White House ballroom to continue",
-      "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
-      "snapshot": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, White House, Chief Justice John Roberts",
-        "Politics desk signal: house, white house, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court temporarily allows work on White House ballroom to continue",
-        "Source context: Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 21 Aug 2026 16:38:10 -0400",
-      "age_hours": "11.76",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     },
     {
       "headline": "Leavitt to work at Trump-affiliated super PAC following White House departure",
@@ -255,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-      "age_hours": "4.99",
+      "age_hours": "5.97",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -285,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 22:17:11 +0000",
-      "age_hours": "10.11",
+      "age_hours": "11.09",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -315,7 +285,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 21:10:00 -0400",
-      "age_hours": "7.23",
+      "age_hours": "8.21",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump administration deports immigrants to dangerous Central African Republic",
+      "url": "https://www.cbsnews.com/video/trump-administration-deports-immigrants-to-dangerous-central-african-republic/",
+      "snapshot": "Camilo Montoya-Galvez speaks to two men who were deported to the dangerous Central African Republic instead of their homes. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Central African Republic, Camilo Montoya",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration deports immigrants to dangerous Central African Republic",
+        "Source context: Camilo Montoya-Galvez speaks to two men who were deported to the dangerous Central African Republic instead of their homes. The election angle is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 21 Aug 2026 19:47:44 -0400",
+      "age_hours": "9.58",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -323,8 +323,8 @@
   ],
   "key_storylines": [
     "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-    "Supreme Court temporarily allows work on White House ballroom to continue",
-    "Leavitt to work at Trump-affiliated super PAC following White House departure"
+    "Leavitt to work at Trump-affiliated super PAC following White House departure",
+    "Trump has mountain of Leavitt replacements, says Scott Jennings 'is good'"
   ],
   "sections": [
     {
@@ -352,40 +352,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 22 Aug 2026 03:19:58 +0000",
-      "age_hours": "5.07",
+      "age_hours": "6.05",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court temporarily allows work on White House ballroom to continue",
-      "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
-      "snapshot": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, White House, Chief Justice John Roberts",
-        "Politics desk signal: house, white house, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court temporarily allows work on White House ballroom to continue",
-        "Source context: Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 21 Aug 2026 16:38:10 -0400",
-      "age_hours": "11.76",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     },
     {
       "headline": "Leavitt to work at Trump-affiliated super PAC following White House departure",
@@ -412,7 +382,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-      "age_hours": "4.99",
+      "age_hours": "5.97",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -442,7 +412,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 22:17:11 +0000",
-      "age_hours": "10.11",
+      "age_hours": "11.09",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -472,7 +442,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 21:10:00 -0400",
-      "age_hours": "7.23",
+      "age_hours": "8.21",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump administration deports immigrants to dangerous Central African Republic",
+      "url": "https://www.cbsnews.com/video/trump-administration-deports-immigrants-to-dangerous-central-african-republic/",
+      "snapshot": "Camilo Montoya-Galvez speaks to two men who were deported to the dangerous Central African Republic instead of their homes. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Central African Republic, Camilo Montoya",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration deports immigrants to dangerous Central African Republic",
+        "Source context: Camilo Montoya-Galvez speaks to two men who were deported to the dangerous Central African Republic instead of their homes. The election angle is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 21 Aug 2026 19:47:44 -0400",
+      "age_hours": "9.58",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 22 Aug 2026 00:06:48 +0000",
-      "age_hours": "8.29",
+      "age_hours": "9.27",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
