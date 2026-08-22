@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Supreme Court temporarily allows work on White House ballroom to continue",
-  "snapshot": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-08-22 11:16:18 AM ET",
-  "generated_at": "2026-08-22 11:16:18 AM ET",
+  "headline": "Federal judge rules against Trump's 75-country visa ban",
+  "snapshot": "A federal judge ruled against the Trump administration's pause on issuing visas to immigrants from 75 countries on Friday. In a 61-page decision, U.S. District Judge Jeannette Vargas found that this policy was \"contrary to law\" and was \"in excess\" of Secretary of State Marco... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-08-22 12:18:36 PM ET",
+  "generated_at": "2026-08-22 12:18:36 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 37,
+    "live_fresh_items": 36,
     "editor_fresh_items": 101,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 110,
+    "stale_or_blocked_items": 111,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-22 11:16:18 AM ET"
+    "last_checked": "2026-08-22 12:18:36 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Federal judge rules against Trump's 75-country visa ban",
+      "url": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
+      "snapshot": "A federal judge ruled against the Trump administration's pause on issuing visas to immigrants from 75 countries on Friday. In a 61-page decision, U.S. District Judge Jeannette Vargas found that this policy was \"contrary to law\" and was \"in excess\" of Secretary of State Marco... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Federal, Trump, In, District Judge Jeannette Vargas",
+        "Specific figures mentioned: 75, 61",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge rules against Trump's 75-country visa ban"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 22 Aug 2026 15:38:14 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Chief Justice Roberts briefly allows White House ballroom construction",
       "url": "https://thehill.com/regulation/court-battles/6043480-trump-white-house-ballroom-supreme-court/",
@@ -44,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 18:18:37 +0000",
-      "age_hours": "20.96",
+      "age_hours": "22.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "89",
       "urgency": "DEVELOPING"
@@ -74,39 +104,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 22 Aug 2026 10:04:00 -0400",
-      "age_hours": "1.20",
+      "age_hours": "2.24",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Leavitt to work at Trump-affiliated super PAC following White House departure",
-      "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
-      "snapshot": "Karoline Leavitt is set to work at President's Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Leavitt, Trump, PAC, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt to work at Trump-affiliated super PAC following White House departure",
-        "Source context: Karoline Leavitt is set to work at President's Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-      "age_hours": "11.86",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 13:06:07 -0400",
-      "age_hours": "22.17",
+      "age_hours": "23.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -164,13 +164,43 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 22 Aug 2026 13:09:46 +0000",
-      "age_hours": "2.11",
+      "age_hours": "3.15",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Federal judge rules against Trump's 75-country visa ban",
+      "url": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
+      "snapshot": "A federal judge ruled against the Trump administration's pause on issuing visas to immigrants from 75 countries on Friday. In a 61-page decision, U.S. District Judge Jeannette Vargas found that this policy was \"contrary to law\" and was \"in excess\" of Secretary of State Marco... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Federal, Trump, In, District Judge Jeannette Vargas",
+        "Specific figures mentioned: 75, 61",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge rules against Trump's 75-country visa ban"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 22 Aug 2026 15:38:14 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Supreme Court temporarily allows work on White House ballroom to continue",
       "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
@@ -196,39 +226,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 22 Aug 2026 10:04:00 -0400",
-      "age_hours": "1.20",
+      "age_hours": "2.24",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Leavitt to work at Trump-affiliated super PAC following White House departure",
-      "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
-      "snapshot": "Karoline Leavitt is set to work at President's Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Leavitt, Trump, PAC, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt to work at Trump-affiliated super PAC following White House departure",
-        "Source context: Karoline Leavitt is set to work at President's Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-      "age_hours": "11.86",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 18:18:37 +0000",
-      "age_hours": "20.96",
+      "age_hours": "22.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "89",
       "urgency": "DEVELOPING"
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 13:06:07 -0400",
-      "age_hours": "22.17",
+      "age_hours": "23.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -316,18 +316,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 22 Aug 2026 09:14:09 +0000",
-      "age_hours": "6.04",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "60",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Federal judge rules against Trump's 75-country visa ban",
     "Supreme Court temporarily allows work on White House ballroom to continue",
-    "Leavitt to work at Trump-affiliated super PAC following White House departure",
     "Newsom praises Trump Accounts, first lady foster-youth efforts"
   ],
   "sections": [
+    {
+      "headline": "Federal judge rules against Trump's 75-country visa ban",
+      "url": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
+      "snapshot": "A federal judge ruled against the Trump administration's pause on issuing visas to immigrants from 75 countries on Friday. In a 61-page decision, U.S. District Judge Jeannette Vargas found that this policy was \"contrary to law\" and was \"in excess\" of Secretary of State Marco... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Federal, Trump, In, District Judge Jeannette Vargas",
+        "Specific figures mentioned: 75, 61",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge rules against Trump's 75-country visa ban"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 22 Aug 2026 15:38:14 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Supreme Court temporarily allows work on White House ballroom to continue",
       "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
@@ -353,39 +383,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 22 Aug 2026 10:04:00 -0400",
-      "age_hours": "1.20",
+      "age_hours": "2.24",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Leavitt to work at Trump-affiliated super PAC following White House departure",
-      "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
-      "snapshot": "Karoline Leavitt is set to work at President's Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Leavitt, Trump, PAC, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt to work at Trump-affiliated super PAC following White House departure",
-        "Source context: Karoline Leavitt is set to work at President's Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-      "age_hours": "11.86",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 22 Aug 2026 13:09:46 +0000",
-      "age_hours": "2.11",
+      "age_hours": "3.15",
       "freshness_status": "fresh",
       "editorial_score": "75",
       "urgency": ""
@@ -443,21 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 21 Aug 2026 13:06:07 -0400",
-      "age_hours": "22.17",
+      "age_hours": "23.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
     },
     {
-      "headline": "Trump administration wants to deny ABA ability to oversee law schools: Report",
-      "url": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
-      "snapshot": "The Department of Education has suggested ending the American Bar Association's (ABA) oversight on the law school accreditation process. The ABA has had the power to accredit nearly 200 law schools over the last 70 years, but this power may come to an end, according to a Wall... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Canada rejects US terms for trade deal as 50 percent tariffs take effect",
+      "url": "https://thehill.com/policy/international/6044914-carney-suspends-us-trade-talks-tariffs/",
+      "snapshot": "Canadian Prime Minister Mark Carney pulled his country's negotiators from trade talks with the U.S. on Friday evening, just hours before the Trump administration's new round of tariffs were set to go into effect. This decision followed weeks of intense negotiations between the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Trump, ABA",
-        "Specific figures mentioned: 200, 70",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Canadian Prime Minister Mark",
+        "Specific figures mentioned: 50",
+        "Politics desk signal: election, campaign, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration wants to deny ABA ability to oversee law schools"
+        "Story focus: Canada rejects US terms for trade deal as 50 percent tariffs take effect"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,18 +465,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Canadian Prime Minister Mark.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 22 Aug 2026 03:29:50 +0000",
-      "age_hours": "11.77",
+      "published": "Sat, 22 Aug 2026 12:09:05 +0000",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
-      "editorial_score": "75",
-      "urgency": ""
+      "editorial_score": "65",
+      "urgency": "WATCH"
     },
     {
       "headline": "Chief Justice Roberts briefly allows White House ballroom construction",
@@ -503,7 +503,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 21 Aug 2026 18:18:37 +0000",
-      "age_hours": "20.96",
+      "age_hours": "22.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "89",
       "urgency": "DEVELOPING"
