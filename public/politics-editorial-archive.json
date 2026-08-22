@@ -24,7 +24,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-    "age_hours": "4.99",
+    "age_hours": "5.97",
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": ""
@@ -54,7 +54,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 22 Aug 2026 03:19:58 +0000",
-    "age_hours": "5.07",
+    "age_hours": "6.05",
     "freshness_status": "fresh",
     "editorial_score": "120",
     "urgency": "DEVELOPING"
@@ -84,6 +84,36 @@
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Trump threatens defamation suit against left-leaning think tank",
+    "url": "https://www.cbsnews.com/news/trump-threatens-defamation-suit-center-american-progress/",
+    "snapshot": "President Trump's legal team is threatening to sue left-leaning think tank Center for American Progress for defamation over a report it issued that found \"no evidence that National Guard deployments have reduced violent crime.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, President Trump, American Progress",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump threatens defamation suit against left-leaning think tank",
+      "Source context: President Trump's legal team is threatening to sue left-leaning think tank Center for American Progress for defamation over a report it issued that..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Fri, 21 Aug 2026 21:10:00 -0400",
+    "age_hours": "8.21",
+    "freshness_status": "fresh",
+    "editorial_score": "92",
+    "urgency": ""
   },
   {
     "headline": "President makes final push for Darline Graham in trip to ‘Trump country’",
@@ -187,7 +217,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 22 Aug 2026 00:06:48 +0000",
-    "age_hours": "8.29",
+    "age_hours": "9.27",
     "freshness_status": "fresh",
     "editorial_score": "82",
     "urgency": "DEVELOPING"
@@ -217,7 +247,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 21 Aug 2026 22:17:11 +0000",
-    "age_hours": "10.11",
+    "age_hours": "11.09",
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": ""
