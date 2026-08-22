@@ -24,7 +24,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 22 Aug 2026 03:24:46 +0000",
-    "age_hours": "6.90",
+    "age_hours": "7.88",
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": ""
@@ -54,7 +54,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 22 Aug 2026 03:19:58 +0000",
-    "age_hours": "6.98",
+    "age_hours": "7.96",
     "freshness_status": "fresh",
     "editorial_score": "120",
     "urgency": "DEVELOPING"
@@ -110,36 +110,40 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 21 Aug 2026 21:10:00 -0400",
-    "age_hours": "9.15",
+    "age_hours": "10.12",
     "freshness_status": "fresh",
     "editorial_score": "92",
     "urgency": ""
   },
   {
-    "headline": "President makes final push for Darline Graham in trip to ‘Trump country’",
+    "headline": "President makes final push for Darline Graham in trip to 'Trump country'",
     "url": "https://thehill.com/homenews/administration/6044782-trump-rallies-graham-south-carolina-runoff/",
-    "snapshot": "Myrtle Beach, S.C. — President Trump travelled south to rally support for Sen. Darline Graham (R-S.C.) on Friday ahead of next week’s primary runoff and urged Republicans to turn out in November’s midterm elections. “I think Lindsey respected Darline more than any other person he knows including me, and that does not make me happy,”…",
+    "snapshot": "Myrtle Beach, S.C. — President Trump travelled south to rally support for Sen. Darline Graham (R-S.C.) on Friday ahead of next week's primary runoff and urged Republicans to turn out in November's midterm elections. \"I think Lindsey respected Darline more than any other person... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
     "key_data": [
-      "Source: The Hill",
-      "Politics desk: Election",
-      "Published: Aug. 21, 2026 at 09:02 PM ET"
+      "Key people or organizations: President, Darline Graham, Trump, Myrtle Beach",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: President makes final push for Darline Graham in trip to 'Trump country'",
+      "Source context: Myrtle Beach, S.C. — President Trump travelled south to rally support for Sen. Darline Graham (R-S.C.) on Friday ahead of next week's primary runoff..."
     ],
     "why_it_matters": [
-      "This development may affect voter attention, campaign strategy or party positioning.",
-      "The practical test is whether official decisions follow the public statements and political reaction."
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
     ],
     "what_to_watch": [
-      "Watch for official documents, votes, rulings or agency actions.",
-      "Track responses from elected officials, courts, campaigns and affected institutions."
+      "Watch for the next official action involving President.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
     ],
-    "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 22 Aug 2026 01:02:43 +0000",
-    "age_hours": "1.24",
+    "age_hours": "10.24",
     "freshness_status": "fresh",
-    "editorial_score": "99",
-    "urgency": "DEVELOPING"
+    "editorial_score": "91",
+    "urgency": ""
   },
   {
     "headline": "Iranian president says time to end war with US from ‘position of strength’",
@@ -247,7 +251,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 21 Aug 2026 19:47:44 -0400",
-    "age_hours": "10.52",
+    "age_hours": "11.49",
     "freshness_status": "fresh",
     "editorial_score": "92",
     "urgency": ""
