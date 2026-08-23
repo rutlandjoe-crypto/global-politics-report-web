@@ -128,7 +128,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 23 Aug 2026 12:23:59 +0000",
-    "age_hours": "1.08",
+    "age_hours": "1.92",
     "freshness_status": "fresh",
     "editorial_score": "87",
     "urgency": "BREAKING"
@@ -158,7 +158,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sun, 23 Aug 2026 12:02:08 +0000",
-    "age_hours": "1.45",
+    "age_hours": "2.28",
     "freshness_status": "fresh",
     "editorial_score": "78",
     "urgency": ""
@@ -188,9 +188,39 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 23 Aug 2026 12:00:00 +0000",
-    "age_hours": "0.52",
+    "age_hours": "2.32",
     "freshness_status": "fresh",
     "editorial_score": "99",
+    "urgency": ""
+  },
+  {
+    "headline": "DOJ maneuver on unconfirmed US attorneys inches closer to Supreme Court",
+    "url": "https://thehill.com/regulation/court-battles/6044389-justice-department-us-attorneys-fvra-supreme-court/",
+    "snapshot": "A legal maneuver repeatedly used by the Department of Justice (DOJ) to install acting U.S. attorneys without Senate approval may be inching closer to the Supreme Court. Two appeals court panels ruled last week the DOJ cannot sidestep the confirmation process by changing... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+    "key_data": [
+      "Key people or organizations: DOJ, Supreme Court",
+      "Politics desk signal: senate, supreme court, court",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: DOJ maneuver on unconfirmed US attorneys inches closer to Supreme Court",
+      "Source context: A legal maneuver repeatedly used by the Department of Justice (DOJ) to install acting U.S. attorneys without Senate approval may be inching closer to..."
+    ],
+    "why_it_matters": [
+      "This has legal and institutional consequences beyond one news cycle.",
+      "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+      "Editors should frame the story around who gains power and who faces new limits."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving DOJ.",
+      "Track filings, rulings, appeals and agency responses.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sun, 23 Aug 2026 10:00:00 +0000",
+    "age_hours": "4.32",
+    "freshness_status": "fresh",
+    "editorial_score": "83",
     "urgency": ""
   },
   {
@@ -247,6 +277,36 @@
     "age_hours": "7.59",
     "freshness_status": "fresh",
     "editorial_score": "78",
+    "urgency": ""
+  },
+  {
+    "headline": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+    "url": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
+    "snapshot": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war hero, and had considered President Trump's name as a replacement. Johnson wrote in a social media post that the alleged talks... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "key_data": [
+      "Key people or organizations: NAACP, Navy, Trump, NAACP President Derrick Johnson",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+      "Source context: NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving NAACP.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sun, 23 Aug 2026 03:09:34 +0000",
+    "age_hours": "11.16",
+    "freshness_status": "fresh",
+    "editorial_score": "75",
     "urgency": ""
   },
   {
