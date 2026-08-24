@@ -1,24 +1,82 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump announces 50% tariffs on Canadian automotive and steel imports",
-  "snapshot": "President Trump said tariffs on Canadian automotive and steel imports will rise to 50% on January 1, 2027, in a social media post. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-08-24 10:37:28 AM ET",
-  "generated_at": "2026-08-24 10:37:28 AM ET",
+  "headline": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+  "snapshot": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war. \"What was billed as a two-week operation is now a full-scale war that has lasted for over 150 days, cost over $37... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-08-24 11:35:36 AM ET",
+  "generated_at": "2026-08-24 11:35:36 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 141,
-    "live_fresh_items": 48,
-    "editor_fresh_items": 99,
+    "live_fresh_items": 55,
+    "editor_fresh_items": 102,
     "public_fallback_items": 141,
-    "stale_or_blocked_items": 93,
+    "stale_or_blocked_items": 86,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-24 10:37:28 AM ET"
+    "last_checked": "2026-08-24 11:35:36 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Samuel Eto'o urges support for embattled FIFA President Gianni Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "snapshot": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
+      "key_data": [
+        "Key people or organizations: Samuel Eto, FIFA President Gianni Infantino",
+        "Story focus: Samuel Eto'o urges support for embattled FIFA President Gianni Infantino",
+        "Source context: Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Samuel Eto.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 24 Aug 2026 15:15:55 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "68",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+      "url": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
+      "snapshot": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war. \"What was billed as a two-week operation is now a full-scale war that has lasted for over 150 days, cost over $37... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Democrats, Iran, Trump, Hegseth",
+        "Specific figures mentioned: 50, 150, $37",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats demand Iran war cost details from Trump, Hegseth"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 24 Aug 2026 15:15:30 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
     {
       "headline": "Trump announces 50% tariffs on Canadian automotive and steel imports",
       "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
@@ -43,8 +101,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:30:56 -0400",
-      "age_hours": "0.11",
+      "published": "Mon, 24 Aug 2026 10:59:22 -0400",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -73,8 +131,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:01:36 -0400",
-      "age_hours": "0.60",
+      "published": "Mon, 24 Aug 2026 10:43:18 -0400",
+      "age_hours": "0.87",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -104,73 +162,44 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 11:54:40 +0000",
-      "age_hours": "2.71",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Congress must now do its part on Medicare fraud",
-      "url": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
-      "snapshot": "Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations from undoing the current administration's progress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Congress, Vice President JD Vance",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress must now do its part on Medicare fraud",
-        "Source context: Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 24 Aug 2026 11:30:00 +0000",
-      "age_hours": "3.12",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "US threatens toughest sanctions yet against Iran: What we know",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "snapshot": "Tehran has threatened to retaliate against any country that joins new US economic measures. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: US, Iran",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US threatens toughest sanctions yet against Iran",
-        "Source context: Tehran has threatened to retaliate against any country that joins new US economic measures. The geopolitical angle is how the decision affects..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 24 Aug 2026 10:23:11 +0000",
-      "age_hours": "4.24",
-      "freshness_status": "fresh",
-      "editorial_score": "52",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+      "url": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
+      "snapshot": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war. \"What was billed as a two-week operation is now a full-scale war that has lasted for over 150 days, cost over $37... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Democrats, Iran, Trump, Hegseth",
+        "Specific figures mentioned: 50, 150, $37",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats demand Iran war cost details from Trump, Hegseth"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 24 Aug 2026 15:15:30 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
       "headline": "Trump announces 50% tariffs on Canadian automotive and steel imports",
       "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
       "snapshot": "President Trump said tariffs on Canadian automotive and steel imports will rise to 50% on January 1, 2027, in a social media post. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -194,8 +223,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:30:56 -0400",
-      "age_hours": "0.11",
+      "published": "Mon, 24 Aug 2026 10:59:22 -0400",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -224,8 +253,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:01:36 -0400",
-      "age_hours": "0.60",
+      "published": "Mon, 24 Aug 2026 10:43:18 -0400",
+      "age_hours": "0.87",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -255,77 +284,76 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 11:54:40 +0000",
-      "age_hours": "2.71",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Congress must now do its part on Medicare fraud",
-      "url": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
-      "snapshot": "Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations from undoing the current administration's progress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Samuel Eto'o urges support for embattled FIFA President Gianni Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "snapshot": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
       "key_data": [
-        "Key people or organizations: Congress, Vice President JD Vance",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress must now do its part on Medicare fraud",
-        "Source context: Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations..."
+        "Key people or organizations: Samuel Eto, FIFA President Gianni Infantino",
+        "Story focus: Samuel Eto'o urges support for embattled FIFA President Gianni Infantino",
+        "Source context: Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 24 Aug 2026 11:30:00 +0000",
-      "age_hours": "3.12",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "US threatens toughest sanctions yet against Iran: What we know",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "snapshot": "Tehran has threatened to retaliate against any country that joins new US economic measures. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: US, Iran",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US threatens toughest sanctions yet against Iran",
-        "Source context: Tehran has threatened to retaliate against any country that joins new US economic measures. The geopolitical angle is how the decision affects..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Samuel Eto.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 24 Aug 2026 10:23:11 +0000",
-      "age_hours": "4.24",
+      "published": "Mon, 24 Aug 2026 15:15:55 +0000",
+      "age_hours": "0.33",
       "freshness_status": "fresh",
-      "editorial_score": "52",
-      "urgency": ""
+      "editorial_score": "68",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Democrats demand Iran war cost details from Trump, Hegseth: Report",
     "Trump announces 50% tariffs on Canadian automotive and steel imports",
-    "Ted Cruz says Texas Senate race will be a \"$200 million\" fight",
-    "Bessent doubles down on Trump warnings: 'Entering the endgame' on Iran"
+    "Ted Cruz says Texas Senate race will be a \"$200 million\" fight"
   ],
   "sections": [
+    {
+      "headline": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+      "url": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
+      "snapshot": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war. \"What was billed as a two-week operation is now a full-scale war that has lasted for over 150 days, cost over $37... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Democrats, Iran, Trump, Hegseth",
+        "Specific figures mentioned: 50, 150, $37",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats demand Iran war cost details from Trump, Hegseth"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 24 Aug 2026 15:15:30 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
     {
       "headline": "Trump announces 50% tariffs on Canadian automotive and steel imports",
       "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
@@ -350,8 +378,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:30:56 -0400",
-      "age_hours": "0.11",
+      "published": "Mon, 24 Aug 2026 10:59:22 -0400",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -380,8 +408,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:01:36 -0400",
-      "age_hours": "0.60",
+      "published": "Mon, 24 Aug 2026 10:43:18 -0400",
+      "age_hours": "0.87",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -411,40 +439,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 11:54:40 +0000",
-      "age_hours": "2.71",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Congress must now do its part on Medicare fraud",
-      "url": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
-      "snapshot": "Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations from undoing the current administration's progress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Samuel Eto'o urges support for embattled FIFA President Gianni Infantino",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "snapshot": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
       "key_data": [
-        "Key people or organizations: Congress, Vice President JD Vance",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress must now do its part on Medicare fraud",
-        "Source context: Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations..."
+        "Key people or organizations: Samuel Eto, FIFA President Gianni Infantino",
+        "Story focus: Samuel Eto'o urges support for embattled FIFA President Gianni Infantino",
+        "Source context: Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Samuel Eto.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 24 Aug 2026 11:30:00 +0000",
-      "age_hours": "3.12",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 24 Aug 2026 15:15:55 +0000",
+      "age_hours": "0.33",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
+      "editorial_score": "68",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "US threatens toughest sanctions yet against Iran: What we know",
@@ -470,37 +496,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 24 Aug 2026 10:23:11 +0000",
-      "age_hours": "4.24",
-      "freshness_status": "fresh",
-      "editorial_score": "52",
-      "urgency": ""
-    },
-    {
-      "headline": "E1 settlement: Why Netanyahu, Israel's right might not mind global outrage",
-      "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
-      "snapshot": "The settlement threatens Palestinian statehood. But it could help Israel's PM, other far-right leaders before elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Israel",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: E1 settlement",
-        "Source context: The settlement threatens Palestinian statehood. But it could help Israel's PM, other far-right leaders before elections. The election angle is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 24 Aug 2026 08:45:10 +0000",
-      "age_hours": "5.87",
+      "age_hours": "5.21",
       "freshness_status": "fresh",
       "editorial_score": "52",
       "urgency": ""
