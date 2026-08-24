@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
   "snapshot": "Nearly 50 House Democrats reportedly signed a letter to President Trump and Defense Secretary Pete Hegseth asking for more details on the cost of the Iran war. \"What was billed as a two-week operation is now a full-scale war that has lasted for over 150 days, cost over $37... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-08-24 12:31:49 PM ET",
-  "generated_at": "2026-08-24 12:31:49 PM ET",
+  "updated_at": "2026-08-24 01:26:57 PM ET",
+  "generated_at": "2026-08-24 01:26:57 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 142,
-    "live_fresh_items": 63,
-    "editor_fresh_items": 110,
+    "live_fresh_items": 68,
+    "editor_fresh_items": 115,
     "public_fallback_items": 142,
-    "stale_or_blocked_items": 79,
+    "stale_or_blocked_items": 74,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-24 12:31:49 PM ET"
+    "last_checked": "2026-08-24 01:26:57 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 24 Aug 2026 15:15:55 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": "DEVELOPING"
@@ -71,7 +71,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 24 Aug 2026 16:05:43 +0000",
-      "age_hours": "0.43",
+      "age_hours": "1.35",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -101,7 +101,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 15:51:53 +0000",
-      "age_hours": "0.66",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
@@ -131,21 +131,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 15:15:30 +0000",
-      "age_hours": "1.27",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
     },
     {
-      "headline": "Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-      "url": "https://www.cbsnews.com/news/bessent-press-conference-iran-sanctions-economic-d-day/",
-      "snapshot": "The Trump administration is trying to pull all economic levers at its disposal to cripple Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump announces 50% tariffs on Canadian automotive and steel imports",
+      "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
+      "snapshot": "President Trump said tariffs on Canadian automotive and steel imports will rise to 50% on January 1, 2027, in a social media post. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Iran",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Canadian, President Trump",
+        "Specific figures mentioned: 50%, 1, 2027",
+        "Politics desk signal: election, campaign, tariff",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-        "Source context: The Trump administration is trying to pull all economic levers at its disposal to cripple Tehran. The election angle is whether this changes voter..."
+        "Story focus: Trump announces 50% tariffs on Canadian automotive and steel imports"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -160,10 +160,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 12:26:31 -0400",
-      "age_hours": "0.09",
+      "published": "Mon, 24 Aug 2026 12:41:04 -0400",
+      "age_hours": "0.76",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "100",
       "urgency": ""
     }
   ],
@@ -193,39 +193,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 15:15:30 +0000",
-      "age_hours": "1.27",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-      "url": "https://www.cbsnews.com/news/bessent-press-conference-iran-sanctions-economic-d-day/",
-      "snapshot": "The Trump administration is trying to pull all economic levers at its disposal to cripple Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-        "Source context: The Trump administration is trying to pull all economic levers at its disposal to cripple Tehran. The election angle is whether this changes voter..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 12:26:31 -0400",
-      "age_hours": "0.09",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -253,7 +223,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 15:51:53 +0000",
-      "age_hours": "0.66",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
@@ -282,8 +252,38 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:59:22 -0400",
-      "age_hours": "1.54",
+      "published": "Mon, 24 Aug 2026 12:41:04 -0400",
+      "age_hours": "0.76",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Ted Cruz says Texas Senate race will be a \"$200 million\" fight",
+      "url": "https://www.cbsnews.com/news/ted-cruz-interview-texas-senate-race-ken-paxton-james-talarico/",
+      "snapshot": "GOP Sen. Ted Cruz outlined the road ahead for Republicans as Texas Attorney General Ken Paxton faces off against state Rep. James Talarico in the closely watched contest. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Ted Cruz, Texas Senate, GOP Sen, Republicans",
+        "Specific figures mentioned: $200 million",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ted Cruz says Texas Senate race will be a \"$200 million\" fight"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ted Cruz.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 24 Aug 2026 10:43:18 -0400",
+      "age_hours": "2.73",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -311,7 +311,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 24 Aug 2026 15:15:55 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": "DEVELOPING"
@@ -319,8 +319,8 @@
   ],
   "key_storylines": [
     "Democrats demand Iran war cost details from Trump, Hegseth: Report",
-    "Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-    "Existing White House bunker undermines need for East Wing renovation, officials reportedly say"
+    "Existing White House bunker undermines need for East Wing renovation, officials reportedly say",
+    "Trump announces 50% tariffs on Canadian automotive and steel imports"
   ],
   "sections": [
     {
@@ -348,39 +348,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 15:15:30 +0000",
-      "age_hours": "1.27",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-      "url": "https://www.cbsnews.com/news/bessent-press-conference-iran-sanctions-economic-d-day/",
-      "snapshot": "The Trump administration is trying to pull all economic levers at its disposal to cripple Tehran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bessent to speak as Trump administration expected to unveil new Iran sanctions",
-        "Source context: The Trump administration is trying to pull all economic levers at its disposal to cripple Tehran. The election angle is whether this changes voter..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 12:26:31 -0400",
-      "age_hours": "0.09",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -408,7 +378,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 24 Aug 2026 15:51:53 +0000",
-      "age_hours": "0.66",
+      "age_hours": "1.58",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "BREAKING"
@@ -437,8 +407,38 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 10:59:22 -0400",
-      "age_hours": "1.54",
+      "published": "Mon, 24 Aug 2026 12:41:04 -0400",
+      "age_hours": "0.76",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Ted Cruz says Texas Senate race will be a \"$200 million\" fight",
+      "url": "https://www.cbsnews.com/news/ted-cruz-interview-texas-senate-race-ken-paxton-james-talarico/",
+      "snapshot": "GOP Sen. Ted Cruz outlined the road ahead for Republicans as Texas Attorney General Ken Paxton faces off against state Rep. James Talarico in the closely watched contest. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Ted Cruz, Texas Senate, GOP Sen, Republicans",
+        "Specific figures mentioned: $200 million",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ted Cruz says Texas Senate race will be a \"$200 million\" fight"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ted Cruz.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 24 Aug 2026 10:43:18 -0400",
+      "age_hours": "2.73",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -466,7 +466,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 24 Aug 2026 15:15:55 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": "DEVELOPING"
@@ -495,7 +495,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 24 Aug 2026 16:05:43 +0000",
-      "age_hours": "0.43",
+      "age_hours": "1.35",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
