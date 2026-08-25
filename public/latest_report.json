@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump's fight with GOP senators over trade intensifies",
   "snapshot": "President Trump is headed for a clash with Senate Republicans over his decision to pause tariffs on beef imports while ratcheting up tariffs on key Canadian goods. Trump's plan to exempt 300,000 tons of product for ground beef from out-of-quota tariffs to address Americans'... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-08-25 08:39:12 AM ET",
-  "generated_at": "2026-08-25 08:39:12 AM ET",
+  "updated_at": "2026-08-25 09:45:30 AM ET",
+  "generated_at": "2026-08-25 09:45:30 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 43,
-    "editor_fresh_items": 135,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 105,
+    "total_items_checked": 150,
+    "live_fresh_items": 49,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-25 08:39:12 AM ET"
+    "last_checked": "2026-08-25 09:45:30 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 25 Aug 2026 11:30:08 +0000",
-      "age_hours": "1.15",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Mike Lindell withholds payment for recount request in Minnesota GOP governor primary",
+      "url": "https://www.cbsnews.com/news/mike-lindell-withholds-payment-recount-primary/",
+      "snapshot": "Mike Lindell is withholding the payment required for a recount and audit of ballots cast in the Republican primary for Minnesota governor, claiming that the Secretary of State's office has proposed an unlawful recount process, according to a statement released by his campaign... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Mike Lindell, Minnesota GOP, Minnesota",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mike Lindell withholds payment for recount request in Minnesota GOP governor primary",
+        "Source context: Mike Lindell is withholding the payment required for a recount and audit of ballots cast in the Republican primary for Minnesota governor, claiming..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Mike Lindell.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 24 Aug 2026 20:25:00 -0400",
+      "age_hours": "13.34",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump's fight with GOP senators over trade intensifies",
@@ -74,39 +104,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "age_hours": "2.65",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-      "url": "https://www.cbsnews.com/video/white-house-promises-full-throttle-economic-warfare-against-iran-new-plan-sanctions/",
-      "snapshot": "The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration said new economic pressure for allies and enemies alike is its top focus. Olivia Rinaldi has more details. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes...",
-      "key_data": [
-        "Key people or organizations: White House, Iran",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-        "Source context: The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 23 Aug 2026 20:45:00 -0400",
-      "age_hours": "35.90",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 25 Aug 2026 06:00:13 -0400",
-      "age_hours": "2.65",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "age_hours": "2.65",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -196,39 +196,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "age_hours": "2.65",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-      "url": "https://www.cbsnews.com/video/white-house-promises-full-throttle-economic-warfare-against-iran-new-plan-sanctions/",
-      "snapshot": "The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration said new economic pressure for allies and enemies alike is its top focus. Olivia Rinaldi has more details. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes...",
-      "key_data": [
-        "Key people or organizations: White House, Iran",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-        "Source context: The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 23 Aug 2026 20:45:00 -0400",
-      "age_hours": "35.90",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -256,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 25 Aug 2026 06:00:13 -0400",
-      "age_hours": "2.65",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -286,10 +256,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "age_hours": "2.65",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
+    },
+    {
+      "headline": "Mike Lindell withholds payment for recount request in Minnesota GOP governor primary",
+      "url": "https://www.cbsnews.com/news/mike-lindell-withholds-payment-recount-primary/",
+      "snapshot": "Mike Lindell is withholding the payment required for a recount and audit of ballots cast in the Republican primary for Minnesota governor, claiming that the Secretary of State's office has proposed an unlawful recount process, according to a statement released by his campaign... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Mike Lindell, Minnesota GOP, Minnesota",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mike Lindell withholds payment for recount request in Minnesota GOP governor primary",
+        "Source context: Mike Lindell is withholding the payment required for a recount and audit of ballots cast in the Republican primary for Minnesota governor, claiming..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Mike Lindell.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 24 Aug 2026 20:25:00 -0400",
+      "age_hours": "13.34",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
     },
     {
       "headline": "How the US sanctions on Iran impact China",
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 25 Aug 2026 11:30:08 +0000",
-      "age_hours": "1.15",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "DEVELOPING"
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "age_hours": "2.65",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 25 Aug 2026 06:00:13 -0400",
-      "age_hours": "2.65",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -413,39 +413,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "age_hours": "2.65",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Jared Kushner and Hakeem Jeffries met as midterm elections loom",
-      "url": "https://www.cbsnews.com/news/jared-kushner-hakeem-jeffries-meeting-2026-midterm-elections/",
-      "snapshot": "The meeting came with Democrats expected to take control of the House in the November elections, which would put Jeffries in line to become the next House speaker. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Jared Kushner, Hakeem Jeffries, Democrats, House",
-        "Politics desk signal: house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jared Kushner and Hakeem Jeffries met as midterm elections loom",
-        "Source context: The meeting came with Democrats expected to take control of the House in the November elections, which would put Jeffries in line to become the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jared Kushner.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 24 Aug 2026 21:22:43 -0400",
-      "age_hours": "11.27",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": ""
     },
     {
@@ -473,21 +443,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 25 Aug 2026 11:30:08 +0000",
-      "age_hours": "1.15",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-      "url": "https://www.cbsnews.com/video/white-house-promises-full-throttle-economic-warfare-against-iran-new-plan-sanctions/",
-      "snapshot": "The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration said new economic pressure for allies and enemies alike is its top focus. Olivia Rinaldi has more details. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes...",
+      "headline": "Mike Lindell withholds payment for recount request in Minnesota GOP governor primary",
+      "url": "https://www.cbsnews.com/news/mike-lindell-withholds-payment-recount-primary/",
+      "snapshot": "Mike Lindell is withholding the payment required for a recount and audit of ballots cast in the Republican primary for Minnesota governor, claiming that the Secretary of State's office has proposed an unlawful recount process, according to a statement released by his campaign... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: White House, Iran",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Mike Lindell, Minnesota GOP, Minnesota",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-        "Source context: The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration..."
+        "Story focus: Mike Lindell withholds payment for recount request in Minnesota GOP governor primary",
+        "Source context: Mike Lindell is withholding the payment required for a recount and audit of ballots cast in the Republican primary for Minnesota governor, claiming..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +465,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving Mike Lindell.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 24 Aug 2026 20:25:00 -0400",
+      "age_hours": "13.34",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "A MAGA plot to keep power in Congress if they lose the election?",
+      "url": "https://thehill.com/opinion/campaign/6047610-house-election-loophole-risk/",
+      "snapshot": "He will scare them away from the polls by posting federal agents at their voting places or discouraging them by disparaging mail-in ballots. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Congress",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: A MAGA plot to keep power in Congress if they lose the election?",
+        "Source context: He will scare them away from the polls by posting federal agents at their voting places or discouraging them by disparaging mail-in ballots. The key..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Congress.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 23 Aug 2026 20:45:00 -0400",
-      "age_hours": "35.90",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 25 Aug 2026 12:30:00 +0000",
+      "age_hours": "1.26",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
       "urgency": ""
     }
   ],
