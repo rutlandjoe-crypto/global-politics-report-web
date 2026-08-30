@@ -3,22 +3,51 @@
   "vertical": "Politics",
   "headline": "Trump cannot deport students for criticizing Israel, federal judge rules",
   "snapshot": "The judge delivered a victory for Stanford University's student newspaper, which said some international students were afraid to speak out because of the deportation threat. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-08-29 08:59:10 PM ET",
-  "generated_at": "2026-08-29 08:59:10 PM ET",
+  "updated_at": "2026-08-30 02:22:46 AM ET",
+  "generated_at": "2026-08-30 02:22:46 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 49,
-    "editor_fresh_items": 117,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 98,
+    "total_items_checked": 146,
+    "live_fresh_items": 37,
+    "editor_fresh_items": 92,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 109,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-29 08:59:10 PM ET"
+    "last_checked": "2026-08-30 02:22:46 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
+      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+      "snapshot": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Iran",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
+        "Source context: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 30 Aug 2026 05:09:11 +0000",
+      "age_hours": "1.23",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump cannot deport students for criticizing Israel, federal judge rules",
       "url": "https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/",
@@ -44,7 +73,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 29 Aug 2026 17:07:03 -0400",
-      "age_hours": "3.87",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -74,7 +103,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 22:19:40 +0000",
-      "age_hours": "2.66",
+      "age_hours": "8.05",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -104,21 +133,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 21:00:00 +0000",
-      "age_hours": "3.99",
+      "age_hours": "9.38",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Trump's oil and gas stock trades continued during Iran war, filings show",
-      "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
-      "snapshot": "President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
+      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's oil and gas stock trades continued during Iran war, filings show",
-        "Source context: President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both. The election angle is..."
+        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -133,41 +161,11 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 29 Aug 2026 14:52:01 -0400",
-      "age_hours": "6.12",
+      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
+      "age_hours": "5.31",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "US judge rules against Trump's effort to deport pro-Palestinian students",
-      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
-      "snapshot": "A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US judge rules against Trump's effort to deport pro-Palestinian students",
-        "Source context: A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 29 Aug 2026 18:56:19 +0000",
-      "age_hours": "6.05",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -196,7 +194,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 29 Aug 2026 17:07:03 -0400",
-      "age_hours": "3.87",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -226,7 +224,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 22:19:40 +0000",
-      "age_hours": "2.66",
+      "age_hours": "8.05",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -256,21 +254,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 21:00:00 +0000",
-      "age_hours": "3.99",
+      "age_hours": "9.38",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Trump's oil and gas stock trades continued during Iran war, filings show",
-      "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
-      "snapshot": "President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
+      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's oil and gas stock trades continued during Iran war, filings show",
-        "Source context: President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both. The election angle is..."
+        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -285,41 +282,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 29 Aug 2026 14:52:01 -0400",
-      "age_hours": "6.12",
+      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
+      "age_hours": "5.31",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
+      "urgency": "WATCH"
     },
     {
-      "headline": "US judge rules against Trump's effort to deport pro-Palestinian students",
-      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
-      "snapshot": "A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
+      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+      "snapshot": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump",
-        "Politics desk signal: court",
+        "Key people or organizations: Iran",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US judge rules against Trump's effort to deport pro-Palestinian students",
-        "Source context: A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech. The broader significance is..."
+        "Story focus: Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
+        "Source context: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 29 Aug 2026 18:56:19 +0000",
-      "age_hours": "6.05",
+      "published": "Sun, 30 Aug 2026 05:09:11 +0000",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -353,7 +349,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 29 Aug 2026 17:07:03 -0400",
-      "age_hours": "3.87",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -383,7 +379,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 22:19:40 +0000",
-      "age_hours": "2.66",
+      "age_hours": "8.05",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -413,21 +409,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 21:00:00 +0000",
-      "age_hours": "3.99",
+      "age_hours": "9.38",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Trump's oil and gas stock trades continued during Iran war, filings show",
-      "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
-      "snapshot": "President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
+      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's oil and gas stock trades continued during Iran war, filings show",
-        "Source context: President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both. The election angle is..."
+        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -442,41 +437,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 29 Aug 2026 14:52:01 -0400",
-      "age_hours": "6.12",
+      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
+      "age_hours": "5.31",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
+      "urgency": "WATCH"
     },
     {
-      "headline": "US judge rules against Trump's effort to deport pro-Palestinian students",
-      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
-      "snapshot": "A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
+      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+      "snapshot": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump",
-        "Politics desk signal: court",
+        "Key people or organizations: Iran",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US judge rules against Trump's effort to deport pro-Palestinian students",
-        "Source context: A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech. The broader significance is..."
+        "Story focus: Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
+        "Source context: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 29 Aug 2026 18:56:19 +0000",
-      "age_hours": "6.05",
+      "published": "Sun, 30 Aug 2026 05:09:11 +0000",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Ontario's Doug Ford prods Trump with sign rejecting 'Lake America' name",
@@ -503,7 +497,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 29 Aug 2026 22:50:27 +0000",
-      "age_hours": "2.15",
+      "age_hours": "7.54",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
