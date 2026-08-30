@@ -1,33 +1,33 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump cannot deport students for criticizing Israel, federal judge rules",
-  "snapshot": "The judge delivered a victory for Stanford University's student newspaper, which said some international students were afraid to speak out because of the deportation threat. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-08-30 02:22:46 AM ET",
-  "generated_at": "2026-08-30 02:22:46 AM ET",
+  "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+  "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-08-30 08:33:06 AM ET",
+  "generated_at": "2026-08-30 08:33:06 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 146,
-    "live_fresh_items": 37,
-    "editor_fresh_items": 92,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 109,
+    "total_items_checked": 147,
+    "live_fresh_items": 35,
+    "editor_fresh_items": 68,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 112,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-30 02:22:46 AM ET"
+    "last_checked": "2026-08-30 08:33:06 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
-      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-      "snapshot": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
+      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Iran",
+        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
-        "Source context: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next..."
+        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -35,18 +35,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 30 Aug 2026 05:09:11 +0000",
-      "age_hours": "1.23",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
+      "age_hours": "11.48",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "100",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+      "url": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
+      "snapshot": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help boost Republican candidates. President Trump and parts of the Republican Party... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: GOP, RFK Jr, MAHA",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+        "Source context: Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 30 Aug 2026 10:00:00 +0000",
+      "age_hours": "2.55",
+      "freshness_status": "fresh",
+      "editorial_score": "81",
+      "urgency": ""
     },
     {
       "headline": "Trump cannot deport students for criticizing Israel, federal judge rules",
@@ -73,13 +103,13 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 29 Aug 2026 17:07:03 -0400",
-      "age_hours": "9.26",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
+      "age_hours": "15.43",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+      "headline": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable",
       "url": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "snapshot": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over President Trump's economic agenda. Democrats are looking to flip a handful... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
@@ -103,21 +133,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 22:19:40 +0000",
-      "age_hours": "8.05",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
+      "age_hours": "14.22",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "77",
       "urgency": ""
     },
     {
-      "headline": "Leavitt is leaving the White House. Don't expect her to go far",
-      "url": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
-      "snapshot": "Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump's orbit as Republicans seek to defend their majorities on Capitol Hill. Trump and Leavitt announced earlier this month she would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Tucker Carlson: Trump needs to be removed from office 'immediately'",
+      "url": "https://thehill.com/media/6059334-carlson-says-trump-should-be-removed/",
+      "snapshot": "Conservative podcaster Tucker Carlson said Friday that President Trump should be removed from office if he is considering using nuclear weapons first, saying even entertaining the possibility should disqualify a president from serving. \"The second any president actively... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: Leavitt, White House, Karoline Leavitt",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Tucker Carlson, Trump, President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt is leaving the White House. Don't expect her to go far",
-        "Source context: Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump's..."
+        "Story focus: Tucker Carlson",
+        "Source context: Conservative podcaster Tucker Carlson said Friday that President Trump should be removed from office if he is considering using nuclear weapons..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -125,51 +155,81 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
+        "Watch for the next official action involving Tucker Carlson.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 29 Aug 2026 21:00:00 +0000",
-      "age_hours": "9.38",
+      "published": "Sun, 30 Aug 2026 02:36:24 +0000",
+      "age_hours": "9.94",
       "freshness_status": "fresh",
-      "editorial_score": "107",
+      "editorial_score": "75",
       "urgency": ""
-    },
-    {
-      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
-      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
-      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
-        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
-      "age_hours": "5.31",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
+      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
+      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
+      "age_hours": "11.48",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+      "url": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
+      "snapshot": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help boost Republican candidates. President Trump and parts of the Republican Party... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: GOP, RFK Jr, MAHA",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+        "Source context: Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 30 Aug 2026 10:00:00 +0000",
+      "age_hours": "2.55",
+      "freshness_status": "fresh",
+      "editorial_score": "81",
+      "urgency": ""
+    },
+    {
       "headline": "Trump cannot deport students for criticizing Israel, federal judge rules",
       "url": "https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/",
       "snapshot": "The judge delivered a victory for Stanford University's student newspaper, which said some international students were afraid to speak out because of the deportation threat. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -194,13 +254,13 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 29 Aug 2026 17:07:03 -0400",
-      "age_hours": "9.26",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
+      "age_hours": "15.43",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+      "headline": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable",
       "url": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "snapshot": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over President Trump's economic agenda. Democrats are looking to flip a handful... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
@@ -224,106 +284,165 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 22:19:40 +0000",
-      "age_hours": "8.05",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
+      "age_hours": "14.22",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "77",
       "urgency": ""
     },
     {
-      "headline": "Leavitt is leaving the White House. Don't expect her to go far",
-      "url": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
-      "snapshot": "Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump's orbit as Republicans seek to defend their majorities on Capitol Hill. Trump and Leavitt announced earlier this month she would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+      "url": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
+      "snapshot": "Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Leavitt, White House, Karoline Leavitt",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt is leaving the White House. Don't expect her to go far",
-        "Source context: Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump's..."
+        "Key people or organizations: Israel, Iran, US",
+        "Story focus: The home front",
+        "Source context: Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Israel.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 29 Aug 2026 21:00:00 +0000",
-      "age_hours": "9.38",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
-      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
-      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
-        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
-      "age_hours": "5.31",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
-      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-      "snapshot": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Iran",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
-        "Source context: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 30 Aug 2026 05:09:11 +0000",
-      "age_hours": "1.23",
+      "published": "Sun, 30 Aug 2026 09:32:26 +0000",
+      "age_hours": "3.01",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "52",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump cannot deport students for criticizing Israel, federal judge rules",
-    "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
-    "Leavitt is leaving the White House. Don't expect her to go far"
+    "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+    "GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+    "Tucker Carlson: Trump needs to be removed from office 'immediately'"
   ],
   "sections": [
+    {
+      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
+      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
+        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
+      "age_hours": "11.48",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+      "url": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
+      "snapshot": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help boost Republican candidates. President Trump and parts of the Republican Party... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: GOP, RFK Jr, MAHA",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP gambles on midterm dividends from RFK Jr.'s MAHA",
+        "Source context: Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 30 Aug 2026 10:00:00 +0000",
+      "age_hours": "2.55",
+      "freshness_status": "fresh",
+      "editorial_score": "81",
+      "urgency": ""
+    },
+    {
+      "headline": "Tucker Carlson: Trump needs to be removed from office 'immediately'",
+      "url": "https://thehill.com/media/6059334-carlson-says-trump-should-be-removed/",
+      "snapshot": "Conservative podcaster Tucker Carlson said Friday that President Trump should be removed from office if he is considering using nuclear weapons first, saying even entertaining the possibility should disqualify a president from serving. \"The second any president actively... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Tucker Carlson, Trump, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Tucker Carlson",
+        "Source context: Conservative podcaster Tucker Carlson said Friday that President Trump should be removed from office if he is considering using nuclear weapons..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Tucker Carlson.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 30 Aug 2026 02:36:24 +0000",
+      "age_hours": "9.94",
+      "freshness_status": "fresh",
+      "editorial_score": "75",
+      "urgency": ""
+    },
+    {
+      "headline": "Abdul El-Sayed apologizes for his comments about Michigan synagogue attack",
+      "url": "https://www.cbsnews.com/news/abdul-el-sayed-synagogue-attack-comments-apology/",
+      "snapshot": "Abdul El-Sayed, the Democratic nominee for U.S. Senate in Michigan, has apologized to the state's Jewish Democratic Caucus. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Abdul El, Sayed, Michigan, Democratic",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Abdul El-Sayed apologizes for his comments about Michigan synagogue attack",
+        "Source context: Abdul El-Sayed, the Democratic nominee for U.S. Senate in Michigan, has apologized to the state's Jewish Democratic Caucus. The key question is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Abdul El.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 29 Aug 2026 21:10:00 -0400",
+      "age_hours": "11.38",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": ""
+    },
     {
       "headline": "Trump cannot deport students for criticizing Israel, federal judge rules",
       "url": "https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/",
@@ -349,13 +468,13 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 29 Aug 2026 17:07:03 -0400",
-      "age_hours": "9.26",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
+      "age_hours": "15.43",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+      "headline": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable",
       "url": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
       "snapshot": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over President Trump's economic agenda. Democrats are looking to flip a handful... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
@@ -379,127 +498,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 29 Aug 2026 22:19:40 +0000",
-      "age_hours": "8.05",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Leavitt is leaving the White House. Don't expect her to go far",
-      "url": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
-      "snapshot": "Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump's orbit as Republicans seek to defend their majorities on Capitol Hill. Trump and Leavitt announced earlier this month she would... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Leavitt, White House, Karoline Leavitt",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Leavitt is leaving the White House. Don't expect her to go far",
-        "Source context: Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Leavitt.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 29 Aug 2026 21:00:00 +0000",
-      "age_hours": "9.38",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
-      "url": "https://www.cbsnews.com/video/trump-claims-new-deal-with-venezuela-will-help-lower-elevated-gas-prices-as-midterms-approach/",
-      "snapshot": "President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas prices in the U.S. Olivia Gazis reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Venezuela, President Trump, Olivia Gazis",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump claims new deal with Venezuela will help lower elevated gas prices as midterms approach",
-        "Source context: President Trump claimed Friday that a new deal with Venezuela, which will give the U.S. control of billions of oil barrels, is set to lower gas..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 29 Aug 2026 21:04:00 -0400",
-      "age_hours": "5.31",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
-      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-      "snapshot": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Iran",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Mapping the Iran war's strikes on Gulf energy – and what comes next for oil",
-        "Source context: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 30 Aug 2026 05:09:11 +0000",
-      "age_hours": "1.23",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ontario's Doug Ford prods Trump with sign rejecting 'Lake America' name",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-      "snapshot": "The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Ontario, Doug Ford, Trump, Lake America",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ontario's Doug Ford prods Trump with sign rejecting 'Lake America' name",
-        "Source context: The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ontario.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 29 Aug 2026 22:50:27 +0000",
-      "age_hours": "7.54",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
+      "age_hours": "14.22",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "77",
       "urgency": ""
     }
   ],
