@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Watch live: House GOP leaders speak as vote to avert shutdown looms",
-  "snapshot": "House Speaker Mike Johnson (R-La.) and GOP leaders will speak Tuesday as lawmakers prepare to take up a Senate-passed stop-gap funding bill aimed at averting another government shutdown by the Sept. 30 deadline. The continuing resolution, if passed, would extend government... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-09-01 01:18:20 PM ET",
-  "generated_at": "2026-09-01 01:18:20 PM ET",
+  "headline": "Congress passes funding bill to avoid shutdown before midterms",
+  "snapshot": "The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-09-01 04:27:55 PM ET",
+  "generated_at": "2026-09-01 04:27:55 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 83,
-    "editor_fresh_items": 139,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 67,
+    "total_items_checked": 149,
+    "live_fresh_items": 100,
+    "editor_fresh_items": 138,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 49,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-01 01:18:20 PM ET"
+    "last_checked": "2026-09-01 04:27:55 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,21 +44,49 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 01 Sep 2026 13:55:26 +0000",
-      "age_hours": "3.38",
+      "age_hours": "6.54",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
-      "url": "https://thehill.com/video-clips/6063178-watch-live-house-democrats-press-conference-key-votes-cr-iran/",
-      "snapshot": "House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability concerns and the looming government shutdown among the issues expected to take center stage. The remarks come as Congress also... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "UN food agency cuts aid in West Bank amid funding crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+      "snapshot": "UN food agency cuts aid in West Bank amid funding crisis",
       "key_data": [
-        "Key people or organizations: House Dems, Iran, House Democratic, Congress",
-        "Politics desk signal: congress, house",
+        "Key people or organizations: UN, West Bank",
+        "Story focus: UN food agency cuts aid in West Bank amid funding crisis",
+        "Source context: UN food agency cuts aid in West Bank amid funding crisis"
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving UN.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 01 Sep 2026 18:23:25 +0000",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Congress passes funding bill to avoid shutdown before midterms",
+      "url": "https://www.cbsnews.com/news/house-vote-government-shutdown-funding-bill/",
+      "snapshot": "The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Congress",
+        "Politics desk signal: congress, house, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability..."
+        "Story focus: Congress passes funding bill to avoid shutdown before midterms",
+        "Source context: The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,17 +94,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House Dems.",
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 01 Sep 2026 14:07:41 -0400",
+      "age_hours": "2.34",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Congress funds government until December, averting preelection shutdown",
+      "url": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+      "snapshot": "The House on Tuesday voted to send a short-term extension of government funding to President Trump's desk, avoiding a politically risky shutdown before the midterm elections. The continuing resolution (CR), which funds the government through Dec. 11, passed the House on a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Congress, House, President Trump",
+        "Specific figures mentioned: 11",
+        "Politics desk signal: congress, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Congress funds government until December, averting preelection shutdown"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Congress.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 01 Sep 2026 14:17:09 +0000",
-      "age_hours": "3.02",
+      "published": "Tue, 01 Sep 2026 18:06:48 +0000",
+      "age_hours": "2.35",
       "freshness_status": "fresh",
-      "editorial_score": "115",
+      "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,22 +160,24 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 01 Sep 2026 13:01:18 -0400",
-      "age_hours": "0.28",
+      "published": "Tue, 01 Sep 2026 14:19:53 -0400",
+      "age_hours": "2.13",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": "DEVELOPING"
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "IRS audit revenue plunged following mass layoffs, watchdog finds",
-      "url": "https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/",
-      "snapshot": "IRS audits collected $3.5 billion less in fiscal 2025 as the agency shed thousands of auditors and other agency staffers. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Congress passes funding bill to avoid shutdown before midterms",
+      "url": "https://www.cbsnews.com/news/house-vote-government-shutdown-funding-bill/",
+      "snapshot": "The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: IRS",
-        "Specific figures mentioned: $3.5 billion, 2025",
+        "Key people or organizations: Congress",
+        "Politics desk signal: congress, house, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: IRS audit revenue plunged following mass layoffs, watchdog finds",
-        "Source context: IRS audits collected $3.5 billion less in fiscal 2025 as the agency shed thousands of auditors and other agency staffers. The key question is..."
+        "Story focus: Congress passes funding bill to avoid shutdown before midterms",
+        "Source context: The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -125,51 +185,49 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving IRS.",
+        "Watch for the next official action involving Congress.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 01 Sep 2026 11:11:16 -0400",
-      "age_hours": "2.12",
+      "published": "Tue, 01 Sep 2026 14:07:41 -0400",
+      "age_hours": "2.34",
       "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Who is Alejandro Betancourt, ex-Chavez ally now Trump's Venezuela oil man?",
-      "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-      "snapshot": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Congress funds government until December, averting preelection shutdown",
+      "url": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+      "snapshot": "The House on Tuesday voted to send a short-term extension of government funding to President Trump's desk, avoiding a politically risky shutdown before the midterm elections. The continuing resolution (CR), which funds the government through Dec. 11, passed the House on a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Alejandro Betancourt, Trump",
-        "Politics desk signal: court",
+        "Key people or organizations: Congress, House, President Trump",
+        "Specific figures mentioned: 11",
+        "Politics desk signal: congress, house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Who is Alejandro Betancourt, ex-Chavez ally now Trump's Venezuela oil man?",
-        "Source context: The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. The broader significance is..."
+        "Story focus: Congress funds government until December, averting preelection shutdown"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Alejandro Betancourt.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 01 Sep 2026 14:17:47 +0000",
-      "age_hours": "3.01",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 01 Sep 2026 18:06:48 +0000",
+      "age_hours": "2.35",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Watch live: House GOP leaders speak as vote to avert shutdown looms",
       "url": "https://thehill.com/video-clips/6062853-watch-live-house-gop-leaders-conference-spending-bill/",
@@ -195,7 +253,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 01 Sep 2026 13:55:26 +0000",
-      "age_hours": "3.38",
+      "age_hours": "6.54",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "BREAKING"
@@ -225,51 +283,56 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 31 Aug 2026 06:00:00 -0400",
-      "age_hours": "31.31",
+      "age_hours": "34.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
-      "url": "https://thehill.com/video-clips/6063178-watch-live-house-democrats-press-conference-key-votes-cr-iran/",
-      "snapshot": "House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability concerns and the looming government shutdown among the issues expected to take center stage. The remarks come as Congress also... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "UN food agency cuts aid in West Bank amid funding crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+      "snapshot": "UN food agency cuts aid in West Bank amid funding crisis",
       "key_data": [
-        "Key people or organizations: House Dems, Iran, House Democratic, Congress",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability..."
+        "Key people or organizations: UN, West Bank",
+        "Story focus: UN food agency cuts aid in West Bank amid funding crisis",
+        "Source context: UN food agency cuts aid in West Bank amid funding crisis"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving UN.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 01 Sep 2026 14:17:09 +0000",
-      "age_hours": "3.02",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 01 Sep 2026 18:23:25 +0000",
+      "age_hours": "2.07",
       "freshness_status": "fresh",
-      "editorial_score": "115",
+      "editorial_score": "70",
       "urgency": "DEVELOPING"
-    },
+    }
+  ],
+  "key_storylines": [
+    "Congress passes funding bill to avoid shutdown before midterms",
+    "Congress funds government until December, averting preelection shutdown",
+    "Watch live: House GOP leaders speak as vote to avert shutdown looms"
+  ],
+  "sections": [
     {
-      "headline": "U.S. launches its first strike on Iran in over a month, regime retaliates",
-      "url": "https://www.cbsnews.com/video/us-launches-first-strike-iran-regime-retaliates/",
-      "snapshot": "Army Secretary Dan Driscoll submitted his resignation to President Trump on Monday. Over the weekend, the war with Iran entered its seventh month, with the first exchange of attacks in weeks. Weijia Jiang reports from the White House. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
+      "headline": "Congress passes funding bill to avoid shutdown before midterms",
+      "url": "https://www.cbsnews.com/news/house-vote-government-shutdown-funding-bill/",
+      "snapshot": "The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Iran, Army Secretary Dan Driscoll, President Trump, Over",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Congress",
+        "Politics desk signal: congress, house, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: U.S. launches its first strike on Iran in over a month, regime retaliates",
-        "Source context: Army Secretary Dan Driscoll submitted his resignation to President Trump on Monday. Over the weekend, the war with Iran entered its seventh month,..."
+        "Story focus: Congress passes funding bill to avoid shutdown before midterms",
+        "Source context: The House on Tuesday passed a measure to extend government funding into December, averting a shutdown in the final stretch of the midterm campaign...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -277,56 +340,49 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
+        "Watch for the next official action involving Congress.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 31 Aug 2026 19:43:00 -0400",
-      "age_hours": "17.59",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
+      "published": "Tue, 01 Sep 2026 14:07:41 -0400",
+      "age_hours": "2.34",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Who is Alejandro Betancourt, ex-Chavez ally now Trump's Venezuela oil man?",
-      "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-      "snapshot": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Congress funds government until December, averting preelection shutdown",
+      "url": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+      "snapshot": "The House on Tuesday voted to send a short-term extension of government funding to President Trump's desk, avoiding a politically risky shutdown before the midterm elections. The continuing resolution (CR), which funds the government through Dec. 11, passed the House on a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Alejandro Betancourt, Trump",
-        "Politics desk signal: court",
+        "Key people or organizations: Congress, House, President Trump",
+        "Specific figures mentioned: 11",
+        "Politics desk signal: congress, house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Who is Alejandro Betancourt, ex-Chavez ally now Trump's Venezuela oil man?",
-        "Source context: The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. The broader significance is..."
+        "Story focus: Congress funds government until December, averting preelection shutdown"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Alejandro Betancourt.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 01 Sep 2026 14:17:47 +0000",
-      "age_hours": "3.01",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 01 Sep 2026 18:06:48 +0000",
+      "age_hours": "2.35",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Watch live: House GOP leaders speak as vote to avert shutdown looms",
-    "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
-    "Ex-Border Patrol commander Bovino was under investigation when he retired"
-  ],
-  "sections": [
+      "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Watch live: House GOP leaders speak as vote to avert shutdown looms",
       "url": "https://thehill.com/video-clips/6062853-watch-live-house-gop-leaders-conference-spending-bill/",
@@ -352,40 +408,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 01 Sep 2026 13:55:26 +0000",
-      "age_hours": "3.38",
+      "age_hours": "6.54",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
-      "url": "https://thehill.com/video-clips/6063178-watch-live-house-democrats-press-conference-key-votes-cr-iran/",
-      "snapshot": "House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability concerns and the looming government shutdown among the issues expected to take center stage. The remarks come as Congress also... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: House Dems, Iran, House Democratic, Congress",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: House Democratic leaders will give remarks Tuesday as lawmakers face a packed week of legislative business, with the war with Iran, affordability..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Dems.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 01 Sep 2026 14:17:09 +0000",
-      "age_hours": "3.02",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Ex-Border Patrol commander Bovino was under investigation when he retired",
@@ -410,52 +436,50 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 01 Sep 2026 13:01:18 -0400",
-      "age_hours": "0.28",
+      "published": "Tue, 01 Sep 2026 14:19:53 -0400",
+      "age_hours": "2.13",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "IRS audit revenue plunged following mass layoffs, watchdog finds",
-      "url": "https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/",
-      "snapshot": "IRS audits collected $3.5 billion less in fiscal 2025 as the agency shed thousands of auditors and other agency staffers. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "UN food agency cuts aid in West Bank amid funding crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+      "snapshot": "UN food agency cuts aid in West Bank amid funding crisis",
       "key_data": [
-        "Key people or organizations: IRS",
-        "Specific figures mentioned: $3.5 billion, 2025",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: IRS audit revenue plunged following mass layoffs, watchdog finds",
-        "Source context: IRS audits collected $3.5 billion less in fiscal 2025 as the agency shed thousands of auditors and other agency staffers. The key question is..."
+        "Key people or organizations: UN, West Bank",
+        "Story focus: UN food agency cuts aid in West Bank amid funding crisis",
+        "Source context: UN food agency cuts aid in West Bank amid funding crisis"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving IRS.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving UN.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 01 Sep 2026 11:11:16 -0400",
-      "age_hours": "2.12",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 01 Sep 2026 18:23:25 +0000",
+      "age_hours": "2.07",
       "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
+      "editorial_score": "70",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Who is Alejandro Betancourt, ex-Chavez ally now Trump's Venezuela oil man?",
-      "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-      "snapshot": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Hakainde Hichilema returns as Zambia's president following disputed vote",
+      "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
+      "snapshot": "Incumbent is inaugurated with his main rival in last month's election jailed and the courts shuttered. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Alejandro Betancourt, Trump",
-        "Politics desk signal: court",
+        "Key people or organizations: Hakainde Hichilema",
+        "Politics desk signal: court, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Who is Alejandro Betancourt, ex-Chavez ally now Trump's Venezuela oil man?",
-        "Source context: The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. The broader significance is..."
+        "Story focus: Hakainde Hichilema returns as Zambia's president following disputed vote",
+        "Source context: Incumbent is inaugurated with his main rival in last month's election jailed and the courts shuttered. The broader significance is institutional:..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -463,47 +487,17 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Alejandro Betancourt.",
+        "Watch for the next official action involving Hakainde Hichilema.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 01 Sep 2026 14:17:47 +0000",
-      "age_hours": "3.01",
+      "published": "Tue, 01 Sep 2026 19:18:29 +0000",
+      "age_hours": "1.16",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "Is Trump wooing Russia again – and why?",
-      "url": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss",
-      "snapshot": "CIA chief's Moscow visit and Russian finance minister attending a G20 meeting in the US signal renewed dialogue. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Is Trump, Russia",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Is Trump wooing Russia again – and why?",
-        "Source context: CIA chief's Moscow visit and Russian finance minister attending a G20 meeting in the US signal renewed dialogue. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Is Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 01 Sep 2026 14:40:58 +0000",
-      "age_hours": "2.62",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "68",
       "urgency": ""
     }
   ],
