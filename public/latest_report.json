@@ -1,448 +1,512 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump coins already out of stock at US Mint",
-  "snapshot": "One dollar gold-colored coins featuring President Trump’s image sold out hours after they were released on Wednesday afternoon, according to the U.S. Mint’s website. The currency, which the Trump administration advertised as an opportunity to “own a piece of American History,” went up for purchase at noon. A 25-coin roll, priced at $61, is “currently…",
-  "updated_at": "2026-09-02 05:37:56 PM ET",
-  "generated_at": "2026-09-02 05:37:56 PM ET",
+  "headline": "House rejects GOP effort to ban Supreme Court expansion in Constitution",
+  "snapshot": "A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds majority needed. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-09-02 07:48:44 PM ET",
+  "generated_at": "2026-09-02 07:48:44 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 165,
-    "live_fresh_items": 114,
-    "editor_fresh_items": 161,
-    "public_fallback_items": 163,
-    "stale_or_blocked_items": 51,
+    "total_items_checked": 148,
+    "live_fresh_items": 111,
+    "editor_fresh_items": 138,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-02 05:37:56 PM ET"
+    "last_checked": "2026-09-02 07:48:44 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Trump coins already out of stock at US Mint",
-      "url": "https://thehill.com/homenews/administration/6067590-trump-gold-coins-sell-out/",
-      "snapshot": "One dollar gold-colored coins featuring President Trump’s image sold out hours after they were released on Wednesday afternoon, according to the U.S. Mint’s website. The currency, which the Trump administration advertised as an opportunity to “own a piece of American History,” went up for purchase at noon. A 25-coin roll, priced at $61, is “currently…",
+      "headline": "Here are the military officials who've been fired or resigned under Hegseth",
+      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/",
+      "snapshot": "At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Sep. 02, 2026 at 05:34 PM ET"
+        "Key people or organizations: Hegseth, Pete Hegseth, Trump",
+        "Specific figures mentioned: 20",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Here are the military officials who've been fired or resigned under Hegseth"
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Hegseth.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 02 Sep 2026 09:22:22 -0400",
+      "age_hours": "10.44",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "House rejects GOP effort to ban Supreme Court expansion in Constitution",
+      "url": "https://www.cbsnews.com/news/house-supreme-court-constitutional-amendment-vote/",
+      "snapshot": "A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds majority needed. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: House, GOP, Supreme Court",
+        "Politics desk signal: house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House rejects GOP effort to ban Supreme Court expansion in Constitution",
+        "Source context: A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 02 Sep 2026 16:50:00 -0400",
+      "age_hours": "2.98",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+      "url": "https://thehill.com/homenews/administration/6066310-campos-duffy-shares-trump-nomination/",
+      "snapshot": "Fox News host Rachel Campos-Duffy on Tuesday said President Trump tapped her husband, Sean Duffy, to be Transportation secretary \"because that was all that's left.\" The two were interviewed on \"The Katie Miller Podcast,\" hosted by the wife of White House deputy chief of staff... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Fox News, Trump, Transportation, Rachel Campos",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+        "Source context: Fox News host Rachel Campos-Duffy on Tuesday said President Trump tapped her husband, Sean Duffy, to be Transportation secretary \"because that was..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fox News.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 02 Sep 2026 21:34:49 +0000",
-      "age_hours": "0.05",
+      "published": "Wed, 02 Sep 2026 16:04:57 +0000",
+      "age_hours": "7.73",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "LA Clippers fined $30m by NBA over Leonard deal",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The LA Clippers are fined $30m (£22.2m) by the NBA for violating salary rules over the acquisition of star player Kawhi Leonard.",
+      "headline": "Federal judge blocks Trump's new birthright citizenship order",
+      "url": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+      "snapshot": "A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary injunction in a case brought by two immigration advocacy groups that had... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 02, 2026 at 05:21 PM ET"
+        "Key people or organizations: Federal, Trump, President Trump",
+        "Politics desk signal: court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge blocks Trump's new birthright citizenship order",
+        "Source context: A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S...."
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 02 Sep 2026 21:21:13 GMT",
-      "age_hours": "0.28",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 02 Sep 2026 23:35:40 +0000",
+      "age_hours": "0.22",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The long-term implications of Pete Hegseth’s US military purges",
-      "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-      "snapshot": "Resignation of US Army secretary is latest loss at the top for the military.",
+      "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+      "snapshot": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 02, 2026 at 04:48 PM ET"
+        "Key people or organizations: Trump, Defence Hegseth",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "Source context: Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 02 Sep 2026 20:48:22 +0000",
-      "age_hours": "0.83",
+      "published": "Wed, 02 Sep 2026 21:37:41 +0000",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/postal-service-ballot-screening-system.html",
-      "snapshot": "Election officials warn that the creation of a new online portal for states to upload voter information is already fueling confusion and could ultimately disenfranchise voters.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Sep. 02, 2026 at 04:38 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 02 Sep 2026 20:38:11 +0000",
-      "age_hours": "1.00",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump calls Tiger Woods plea deal ‘very fair’",
-      "url": "https://thehill.com/blogs/in-the-know/6067509-trump-tiger-woods-dui-plea-fair/",
-      "snapshot": "President Trump expressed support for the plea deal reached in Tiger Woods’s March DUI case Wednesday, calling the Florida court’s agreement to reduce the golfing legend’s charges — allowing avoid jail time — “very fair.” A reporter asked Trump in the Oval Office about his thoughts on the plea deal, which included lowering Woods’s DUI…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Sep. 02, 2026 at 05:29 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 02 Sep 2026 21:29:04 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "editorial_score": "94",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
-      "url": "https://thehill.com/homenews/house/6067506-house-supreme-court-packing-amendment/",
-      "snapshot": "A Republican proposal to amend the Constitution to prevent expanding the number of justices on the Supreme Court failed on the House floor. Like all constitutional amendments, the measure needed a ⅔ majority of the House to pass, which it did not get: the vote was along party lines at 212-206. Democrats have never supported…",
+      "headline": "House rejects GOP effort to ban Supreme Court expansion in Constitution",
+      "url": "https://www.cbsnews.com/news/house-supreme-court-constitutional-amendment-vote/",
+      "snapshot": "A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds majority needed. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Congress",
-        "Published: Sep. 02, 2026 at 05:20 PM ET"
+        "Key people or organizations: House, GOP, Supreme Court",
+        "Politics desk signal: house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House rejects GOP effort to ban Supreme Court expansion in Constitution",
+        "Source context: A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 02 Sep 2026 16:50:00 -0400",
+      "age_hours": "2.98",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+      "url": "https://thehill.com/homenews/administration/6066310-campos-duffy-shares-trump-nomination/",
+      "snapshot": "Fox News host Rachel Campos-Duffy on Tuesday said President Trump tapped her husband, Sean Duffy, to be Transportation secretary \"because that was all that's left.\" The two were interviewed on \"The Katie Miller Podcast,\" hosted by the wife of White House deputy chief of staff... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Fox News, Trump, Transportation, Rachel Campos",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+        "Source context: Fox News host Rachel Campos-Duffy on Tuesday said President Trump tapped her husband, Sean Duffy, to be Transportation secretary \"because that was..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fox News.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 02 Sep 2026 21:20:39 +0000",
-      "age_hours": "0.29",
+      "published": "Wed, 02 Sep 2026 16:04:57 +0000",
+      "age_hours": "7.73",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Will the Lindsay Clancy trial end in mistrial? Here are the jury's options",
-      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+      "headline": "Here are the military officials who've been fired or resigned under Hegseth",
+      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/",
+      "snapshot": "At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 02, 2026 at 04:17 PM ET"
+        "Key people or organizations: Hegseth, Pete Hegseth, Trump",
+        "Specific figures mentioned: 20",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Here are the military officials who've been fired or resigned under Hegseth"
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Hegseth.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 02 Sep 2026 20:17:57 GMT",
-      "age_hours": "1.33",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 02 Sep 2026 09:22:22 -0400",
+      "age_hours": "10.44",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "116",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Federal judge blocks Trump's new birthright citizenship order",
+      "url": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+      "snapshot": "A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary injunction in a case brought by two immigration advocacy groups that had... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Federal, Trump, President Trump",
+        "Politics desk signal: court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge blocks Trump's new birthright citizenship order",
+        "Source context: A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S...."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 02 Sep 2026 23:35:40 +0000",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-      "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-      "snapshot": "Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is 'under USA control'.",
+      "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+      "snapshot": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 02, 2026 at 04:12 PM ET"
+        "Key people or organizations: Trump, Defence Hegseth",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "Source context: Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 02 Sep 2026 20:12:14 +0000",
-      "age_hours": "1.43",
+      "published": "Wed, 02 Sep 2026 21:37:41 +0000",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
-      "snapshot": "Election fraud is exceedingly rare, but President Trump has fixated on rooting it out this year, claiming without evidence that tens of thousands of noncitizens are registered to vote.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Sep. 02, 2026 at 04:05 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 02 Sep 2026 20:05:22 +0000",
-      "age_hours": "1.54",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
-      "snapshot": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 02, 2026 at 05:00 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 02 Sep 2026 05:00:00 -0400",
-      "age_hours": "12.63",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "87",
+      "editorial_score": "94",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump coins already out of stock at US Mint",
-    "LA Clippers fined $30m by NBA over Leonard deal",
-    "The long-term implications of Pete Hegseth’s US military purges"
+    "House rejects GOP effort to ban Supreme Court expansion in Constitution",
+    "Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+    "Here are the military officials who've been fired or resigned under Hegseth"
   ],
   "sections": [
     {
-      "headline": "Trump coins already out of stock at US Mint",
-      "url": "https://thehill.com/homenews/administration/6067590-trump-gold-coins-sell-out/",
-      "snapshot": "One dollar gold-colored coins featuring President Trump’s image sold out hours after they were released on Wednesday afternoon, according to the U.S. Mint’s website. The currency, which the Trump administration advertised as an opportunity to “own a piece of American History,” went up for purchase at noon. A 25-coin roll, priced at $61, is “currently…",
+      "headline": "House rejects GOP effort to ban Supreme Court expansion in Constitution",
+      "url": "https://www.cbsnews.com/news/house-supreme-court-constitutional-amendment-vote/",
+      "snapshot": "A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds majority needed. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Sep. 02, 2026 at 05:34 PM ET"
+        "Key people or organizations: House, GOP, Supreme Court",
+        "Politics desk signal: house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House rejects GOP effort to ban Supreme Court expansion in Constitution",
+        "Source context: A GOP-proposed constitutional amendment to limit the Supreme Court to nine justices failed in the House, coming up well short of the two-thirds..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 02 Sep 2026 16:50:00 -0400",
+      "age_hours": "2.98",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+      "url": "https://thehill.com/homenews/administration/6066310-campos-duffy-shares-trump-nomination/",
+      "snapshot": "Fox News host Rachel Campos-Duffy on Tuesday said President Trump tapped her husband, Sean Duffy, to be Transportation secretary \"because that was all that's left.\" The two were interviewed on \"The Katie Miller Podcast,\" hosted by the wife of White House deputy chief of staff... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Fox News, Trump, Transportation, Rachel Campos",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fox News host says Trump made her husband Transportation secretary 'because that was all that's left'",
+        "Source context: Fox News host Rachel Campos-Duffy on Tuesday said President Trump tapped her husband, Sean Duffy, to be Transportation secretary \"because that was..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fox News.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 02 Sep 2026 21:34:49 +0000",
-      "age_hours": "0.05",
+      "published": "Wed, 02 Sep 2026 16:04:57 +0000",
+      "age_hours": "7.73",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "121",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "LA Clippers fined $30m by NBA over Leonard deal",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The LA Clippers are fined $30m (£22.2m) by the NBA for violating salary rules over the acquisition of star player Kawhi Leonard.",
+      "headline": "Here are the military officials who've been fired or resigned under Hegseth",
+      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/",
+      "snapshot": "At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 02, 2026 at 05:21 PM ET"
+        "Key people or organizations: Hegseth, Pete Hegseth, Trump",
+        "Specific figures mentioned: 20",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Here are the military officials who've been fired or resigned under Hegseth"
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Hegseth.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 02 Sep 2026 21:21:13 GMT",
-      "age_hours": "0.28",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 02 Sep 2026 09:22:22 -0400",
+      "age_hours": "10.44",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "116",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Federal judge blocks Trump's new birthright citizenship order",
+      "url": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+      "snapshot": "A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary injunction in a case brought by two immigration advocacy groups that had... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Federal, Trump, President Trump",
+        "Politics desk signal: court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge blocks Trump's new birthright citizenship order",
+        "Source context: A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S...."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 02 Sep 2026 23:35:40 +0000",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The long-term implications of Pete Hegseth’s US military purges",
-      "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-      "snapshot": "Resignation of US Army secretary is latest loss at the top for the military.",
+      "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+      "snapshot": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 02, 2026 at 04:48 PM ET"
+        "Key people or organizations: Trump, Defence Hegseth",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+        "Source context: Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 02 Sep 2026 20:48:22 +0000",
-      "age_hours": "0.83",
+      "published": "Wed, 02 Sep 2026 21:37:41 +0000",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/postal-service-ballot-screening-system.html",
-      "snapshot": "Election officials warn that the creation of a new online portal for states to upload voter information is already fueling confusion and could ultimately disenfranchise voters.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Sep. 02, 2026 at 04:38 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 02 Sep 2026 20:38:11 +0000",
-      "age_hours": "1.00",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
-      "snapshot": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 02, 2026 at 05:00 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 02 Sep 2026 05:00:00 -0400",
-      "age_hours": "12.63",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "87",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "Trump calls Tiger Woods plea deal ‘very fair’",
-      "url": "https://thehill.com/blogs/in-the-know/6067509-trump-tiger-woods-dui-plea-fair/",
-      "snapshot": "President Trump expressed support for the plea deal reached in Tiger Woods’s March DUI case Wednesday, calling the Florida court’s agreement to reduce the golfing legend’s charges — allowing avoid jail time — “very fair.” A reporter asked Trump in the Oval Office about his thoughts on the plea deal, which included lowering Woods’s DUI…",
+      "headline": "Trump says US sees 'everything' Iran does, threatens further attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+      "snapshot": "US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Sep. 02, 2026 at 05:29 PM ET"
+        "Key people or organizations: Trump, US, Iran, US President Donald Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says US sees 'everything' Iran does, threatens further attacks",
+        "Source context: US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 02 Sep 2026 21:29:04 +0000",
-      "age_hours": "0.15",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 02 Sep 2026 20:04:55 +0000",
+      "age_hours": "3.73",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
