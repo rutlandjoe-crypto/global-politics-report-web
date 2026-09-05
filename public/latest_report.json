@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Sunday shows preview: Trump travels to Texas for RNC midterm convention; Administration downplays Iran war consequences",
   "snapshot": "President Trump will head to the GOP's convention in Dallas next week — an event aimed at galvanizing Republican voters to get out the vote ahead of the midterm elections this November. The president will headline the two-day convention, and Vice President JD Vance is also... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-09-05 05:52:22 PM ET",
-  "generated_at": "2026-09-05 05:52:22 PM ET",
+  "updated_at": "2026-09-05 07:30:56 PM ET",
+  "generated_at": "2026-09-05 07:30:56 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 56,
-    "editor_fresh_items": 128,
+    "live_fresh_items": 53,
+    "editor_fresh_items": 125,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 94,
+    "stale_or_blocked_items": 97,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-05 05:52:22 PM ET"
+    "last_checked": "2026-09-05 07:30:56 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 18:18:50 +0000",
-      "age_hours": "3.56",
+      "age_hours": "5.20",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "BREAKING"
@@ -74,39 +74,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 05 Sep 2026 19:19:52 +0000",
-      "age_hours": "2.54",
+      "age_hours": "4.18",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Israeli campaign of West Bank destruction moves on to region's food basket",
-      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "snapshot": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Israeli, West Bank",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Israeli campaign of West Bank destruction moves on to region's food basket",
-        "Source context: Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 05 Sep 2026 15:37:12 +0000",
-      "age_hours": "6.25",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -134,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 20:44:16 +0000",
-      "age_hours": "1.13",
+      "age_hours": "2.78",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -164,10 +134,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 05 Sep 2026 15:29:40 -0400",
-      "age_hours": "2.38",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
+    },
+    {
+      "headline": "Guyana latest \"third country\" to accept migrants deported from U.S.",
+      "url": "https://www.cbsnews.com/news/guyana-third-country-us-deportees/",
+      "snapshot": "Guyana is one of more than 30 nations that have now signed deals with the Trump administration as part of President Trump's crackdown on illegal immigration. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Guyana, Trump, President Trump",
+        "Specific figures mentioned: 30",
+        "Politics desk signal: election, campaign, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Guyana latest \"third country\" to accept migrants deported from U.S."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Guyana.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 05 Sep 2026 14:35:46 -0400",
+      "age_hours": "4.92",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 20:44:16 +0000",
-      "age_hours": "1.13",
+      "age_hours": "2.78",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 18:18:50 +0000",
-      "age_hours": "3.56",
+      "age_hours": "5.20",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "BREAKING"
@@ -256,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 05 Sep 2026 15:29:40 -0400",
-      "age_hours": "2.38",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -286,7 +286,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 05 Sep 2026 19:19:52 +0000",
-      "age_hours": "2.54",
+      "age_hours": "4.18",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
@@ -316,7 +316,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 05 Sep 2026 14:35:46 -0400",
-      "age_hours": "3.28",
+      "age_hours": "4.92",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 20:44:16 +0000",
-      "age_hours": "1.13",
+      "age_hours": "2.78",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 18:18:50 +0000",
-      "age_hours": "3.56",
+      "age_hours": "5.20",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "BREAKING"
@@ -413,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 05 Sep 2026 15:29:40 -0400",
-      "age_hours": "2.38",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -443,7 +443,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 05 Sep 2026 19:19:52 +0000",
-      "age_hours": "2.54",
+      "age_hours": "4.18",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
@@ -473,21 +473,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 05 Sep 2026 14:35:46 -0400",
-      "age_hours": "3.28",
+      "age_hours": "4.92",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
     },
     {
-      "headline": "Israeli campaign of West Bank destruction moves on to region's food basket",
-      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "snapshot": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+      "url": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
+      "snapshot": "US president has pledged more than $400m through his super PAC to boost Republican candidates in the upcoming midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Israeli, West Bank",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Senate",
+        "Specific figures mentioned: $10m, $400m",
+        "Politics desk signal: senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Israeli campaign of West Bank destruction moves on to region's food basket",
-        "Source context: Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank. The election angle is whether this..."
+        "Story focus: Trump-backed group announces $10m ad spend for midterm Senate race in Texas"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,18 +495,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 05 Sep 2026 15:37:12 +0000",
-      "age_hours": "6.25",
+      "published": "Sat, 05 Sep 2026 22:58:33 +0000",
+      "age_hours": "0.54",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
