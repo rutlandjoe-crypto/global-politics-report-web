@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump administration makes another Supreme Court appeal on mail ballot fight",
   "snapshot": "The filing comes after a U.S. District Court judge extended an order against the Postal Service enforcing President Trump's executive order for the November elections. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-09-06 10:36:15 PM ET",
-  "generated_at": "2026-09-06 10:36:15 PM ET",
+  "updated_at": "2026-09-07 12:04:42 AM ET",
+  "generated_at": "2026-09-07 12:04:42 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 137,
-    "live_fresh_items": 56,
-    "editor_fresh_items": 85,
-    "public_fallback_items": 137,
-    "stale_or_blocked_items": 81,
+    "total_items_checked": 138,
+    "live_fresh_items": 54,
+    "editor_fresh_items": 83,
+    "public_fallback_items": 138,
+    "stale_or_blocked_items": 84,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-06 10:36:15 PM ET"
+    "last_checked": "2026-09-07 12:04:42 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 06 Sep 2026 15:37:53 -0400",
-      "age_hours": "6.97",
+      "age_hours": "8.45",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
@@ -74,39 +74,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 06 Sep 2026 21:01:21 -0400",
-      "age_hours": "1.58",
+      "age_hours": "3.06",
       "freshness_status": "fresh",
       "editorial_score": "132",
-      "urgency": ""
-    },
-    {
-      "headline": "White House faces mifepristone test",
-      "url": "https://thehill.com/policy/healthcare/6072639-trump-louisiana-mifepristone-test/",
-      "snapshot": "The Trump administration is set to face another key test on abortion, with two months to go until the midterm elections. A three-judge panel on the 5th U.S. Circuit Court of Appeals in New Orleans is poised to hear oral arguments next week in a case that could eventually... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, Circuit Court",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: house, white house, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House faces mifepristone test"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 06 Sep 2026 16:00:00 +0000",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
       "urgency": ""
     },
     {
@@ -134,9 +104,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 20:44:16 +0000",
-      "age_hours": "29.87",
+      "age_hours": "31.34",
       "freshness_status": "editor_fresh",
       "editorial_score": "101",
+      "urgency": ""
+    },
+    {
+      "headline": "DOJ makes new appeal for Supreme Court to allow mail voting changes",
+      "url": "https://thehill.com/regulation/court-battles/6073865-trump-administration-asks-scotus-mailballot-restriction/",
+      "snapshot": "The Trump administration on Sunday again asked the Supreme Court to allow it to restrict mail-in voting this election cycle. In a 40-page emergency application, Solicitor General D. John Sauer asked the justices to immediately permit the administration to bar the U.S. Postal... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, In",
+        "Specific figures mentioned: 40",
+        "Politics desk signal: supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: DOJ makes new appeal for Supreme Court to allow mail voting changes"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 06 Sep 2026 16:33:27 +0000",
+      "age_hours": "11.52",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 07 Sep 2026 02:12:35 +0000",
-      "age_hours": "0.39",
+      "age_hours": "1.87",
       "freshness_status": "fresh",
       "editorial_score": "52",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 06 Sep 2026 21:01:21 -0400",
-      "age_hours": "1.58",
+      "age_hours": "3.06",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -226,40 +226,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 06 Sep 2026 15:37:53 -0400",
-      "age_hours": "6.97",
+      "age_hours": "8.45",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "White House faces mifepristone test",
-      "url": "https://thehill.com/policy/healthcare/6072639-trump-louisiana-mifepristone-test/",
-      "snapshot": "The Trump administration is set to face another key test on abortion, with two months to go until the midterm elections. A three-judge panel on the 5th U.S. Circuit Court of Appeals in New Orleans is poised to hear oral arguments next week in a case that could eventually... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, Circuit Court",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: house, white house, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House faces mifepristone test"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 06 Sep 2026 16:00:00 +0000",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
     },
     {
       "headline": "Sunday shows preview: Trump travels to Texas for RNC convention; administration downplays Iran war consequences",
@@ -286,136 +256,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 20:44:16 +0000",
-      "age_hours": "29.87",
+      "age_hours": "31.34",
       "freshness_status": "editor_fresh",
       "editorial_score": "101",
-      "urgency": ""
-    },
-    {
-      "headline": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-      "snapshot": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Adidas, Israeli",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Adidas faces boycott over amputee campaign featuring Israeli soldier",
-        "Source context: Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees. The election angle is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Adidas.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 07 Sep 2026 02:12:35 +0000",
-      "age_hours": "0.39",
-      "freshness_status": "fresh",
-      "editorial_score": "52",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Trump administration makes another Supreme Court appeal on mail ballot fight",
-    "Rep. Crow says Congress hasn't been briefed on Hegseth leak investigation",
-    "White House faces mifepristone test"
-  ],
-  "sections": [
-    {
-      "headline": "Trump administration makes another Supreme Court appeal on mail ballot fight",
-      "url": "https://www.cbsnews.com/news/trump-supreme-court-appeal-us-postal-service-mail-ballot-fight/",
-      "snapshot": "The filing comes after a U.S. District Court judge extended an order against the Postal Service enforcing President Trump's executive order for the November elections. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, Supreme Court, District Court, Postal Service",
-        "Politics desk signal: supreme court, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration makes another Supreme Court appeal on mail ballot fight",
-        "Source context: The filing comes after a U.S. District Court judge extended an order against the Postal Service enforcing President Trump's executive order for the..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 06 Sep 2026 21:01:21 -0400",
-      "age_hours": "1.58",
-      "freshness_status": "fresh",
-      "editorial_score": "132",
-      "urgency": ""
-    },
-    {
-      "headline": "Rep. Crow says Congress hasn't been briefed on Hegseth leak investigation",
-      "url": "https://www.cbsnews.com/news/jason-crow-pete-hegseth-leak-investigation-congress-briefing/",
-      "snapshot": "Democratic Rep. Jason Crow said neither he nor his colleagues in Congress have received \"any information\" about Defense Secretary Pete Hegseth's sweeping leak investigation. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Rep, Crow, Congress, Hegseth",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Rep. Crow says Congress hasn't been briefed on Hegseth leak investigation",
-        "Source context: Democratic Rep. Jason Crow said neither he nor his colleagues in Congress have received \"any information\" about Defense Secretary Pete Hegseth's..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Rep.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 06 Sep 2026 15:37:53 -0400",
-      "age_hours": "6.97",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "White House faces mifepristone test",
-      "url": "https://thehill.com/policy/healthcare/6072639-trump-louisiana-mifepristone-test/",
-      "snapshot": "The Trump administration is set to face another key test on abortion, with two months to go until the midterm elections. A three-judge panel on the 5th U.S. Circuit Court of Appeals in New Orleans is poised to hear oral arguments next week in a case that could eventually... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: White House, Trump, Circuit Court",
-        "Specific figures mentioned: 5",
-        "Politics desk signal: house, white house, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House faces mifepristone test"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 06 Sep 2026 16:00:00 +0000",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
       "urgency": ""
     },
     {
@@ -443,7 +286,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 06 Sep 2026 16:33:27 +0000",
-      "age_hours": "10.05",
+      "age_hours": "11.52",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -473,7 +316,164 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 07 Sep 2026 02:12:35 +0000",
-      "age_hours": "0.39",
+      "age_hours": "1.87",
+      "freshness_status": "fresh",
+      "editorial_score": "52",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Trump administration makes another Supreme Court appeal on mail ballot fight",
+    "Rep. Crow says Congress hasn't been briefed on Hegseth leak investigation",
+    "DOJ makes new appeal for Supreme Court to allow mail voting changes"
+  ],
+  "sections": [
+    {
+      "headline": "Trump administration makes another Supreme Court appeal on mail ballot fight",
+      "url": "https://www.cbsnews.com/news/trump-supreme-court-appeal-us-postal-service-mail-ballot-fight/",
+      "snapshot": "The filing comes after a U.S. District Court judge extended an order against the Postal Service enforcing President Trump's executive order for the November elections. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Supreme Court, District Court, Postal Service",
+        "Politics desk signal: supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration makes another Supreme Court appeal on mail ballot fight",
+        "Source context: The filing comes after a U.S. District Court judge extended an order against the Postal Service enforcing President Trump's executive order for the..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 06 Sep 2026 21:01:21 -0400",
+      "age_hours": "3.06",
+      "freshness_status": "fresh",
+      "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Rep. Crow says Congress hasn't been briefed on Hegseth leak investigation",
+      "url": "https://www.cbsnews.com/news/jason-crow-pete-hegseth-leak-investigation-congress-briefing/",
+      "snapshot": "Democratic Rep. Jason Crow said neither he nor his colleagues in Congress have received \"any information\" about Defense Secretary Pete Hegseth's sweeping leak investigation. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Rep, Crow, Congress, Hegseth",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Rep. Crow says Congress hasn't been briefed on Hegseth leak investigation",
+        "Source context: Democratic Rep. Jason Crow said neither he nor his colleagues in Congress have received \"any information\" about Defense Secretary Pete Hegseth's..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Rep.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 06 Sep 2026 15:37:53 -0400",
+      "age_hours": "8.45",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "DOJ makes new appeal for Supreme Court to allow mail voting changes",
+      "url": "https://thehill.com/regulation/court-battles/6073865-trump-administration-asks-scotus-mailballot-restriction/",
+      "snapshot": "The Trump administration on Sunday again asked the Supreme Court to allow it to restrict mail-in voting this election cycle. In a 40-page emergency application, Solicitor General D. John Sauer asked the justices to immediately permit the administration to bar the U.S. Postal... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, In",
+        "Specific figures mentioned: 40",
+        "Politics desk signal: supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: DOJ makes new appeal for Supreme Court to allow mail voting changes"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 06 Sep 2026 16:33:27 +0000",
+      "age_hours": "11.52",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump says White House helipad work is done after August project restart",
+      "url": "https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad/",
+      "snapshot": "President Trump on Sunday announced that the White House helipad — which was redone at his request last month — has been completed. Trump posted a photo on Truth Social of former President Eisenhower on the White House lawn before departing in an Air Force H-13J helicopter in... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, White House, President Trump",
+        "Specific figures mentioned: 13",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says White House helipad work is done after August project restart"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 06 Sep 2026 21:15:02 +0000",
+      "age_hours": "6.83",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": ""
+    },
+    {
+      "headline": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
+      "snapshot": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Adidas, Israeli",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Adidas faces boycott over amputee campaign featuring Israeli soldier",
+        "Source context: Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees. The election angle is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Adidas.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 07 Sep 2026 02:12:35 +0000",
+      "age_hours": "1.87",
       "freshness_status": "fresh",
       "editorial_score": "52",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 05 Sep 2026 20:44:16 +0000",
-      "age_hours": "29.87",
+      "age_hours": "31.34",
       "freshness_status": "editor_fresh",
       "editorial_score": "101",
       "urgency": ""
