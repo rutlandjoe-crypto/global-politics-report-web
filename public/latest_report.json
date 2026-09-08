@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
   "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-09-08 03:01:45 PM ET",
-  "generated_at": "2026-09-08 03:01:45 PM ET",
+  "updated_at": "2026-09-08 04:38:14 PM ET",
+  "generated_at": "2026-09-08 04:38:14 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 145,
-    "live_fresh_items": 80,
-    "editor_fresh_items": 118,
+    "live_fresh_items": 87,
+    "editor_fresh_items": 125,
     "public_fallback_items": 143,
-    "stale_or_blocked_items": 65,
+    "stale_or_blocked_items": 58,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-08 03:01:45 PM ET"
+    "last_checked": "2026-09-08 04:38:14 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,36 +43,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 08 Sep 2026 16:05:38 +0000",
-      "age_hours": "2.94",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "UK bans goods from Israeli West Bank settlements: What that really means",
-      "url": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
-      "snapshot": "Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of the UK's policy on Israel. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: UK, Israeli West Bank, Foreign Minister Ed Miliband, Israel",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: UK bans goods from Israeli West Bank settlements",
-        "Source context: Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of the UK's policy on Israel. The geopolitical angle is how the decision..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving UK.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 14:52:00 +0000",
-      "age_hours": "4.16",
+      "age_hours": "4.54",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -102,7 +73,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "1.05",
+      "age_hours": "2.66",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
@@ -131,8 +102,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 06:00:13 -0400",
-      "age_hours": "9.03",
+      "published": "Tue, 08 Sep 2026 16:09:43 -0400",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -162,99 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "2.83",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-save-system-database/",
-      "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks Supreme Court to allow use of citizenship database",
-        "Source context: The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls...."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "1.05",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "N.H. voters choose nominees for open Senate seat, and more races to watch today",
-      "url": "https://www.cbsnews.com/news/new-hampshire-primary-senate-jeanne-shaheen-retiring/",
-      "snapshot": "Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for reelection. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Senate, Both Democrats, Republicans, Democratic Sen",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: N.H. voters choose nominees for open Senate seat, and more races to watch today",
-        "Source context: Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 06:00:13 -0400",
-      "age_hours": "9.03",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-      "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
-      "snapshot": "The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration verification system in time for the midterm elections. \"The district court has issued an indefensible order that threatens the integrity of... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: DHS, Supreme Court, Trump",
-        "Politics desk signal: supreme court, court, election, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-        "Source context: The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving DHS.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "2.83",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -284,7 +163,129 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:09:09 +0000",
-      "age_hours": "2.88",
+      "age_hours": "4.48",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "WATCH"
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
+      "url": "https://www.cbsnews.com/news/supreme-court-trump-save-system-database/",
+      "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Supreme Court",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration asks Supreme Court to allow use of citizenship database",
+        "Source context: The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls...."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 08 Sep 2026 13:58:55 -0400",
+      "age_hours": "2.66",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "N.H. voters choose nominees for open Senate seat, and more races to watch today",
+      "url": "https://www.cbsnews.com/news/new-hampshire-primary-senate-jeanne-shaheen-retiring/",
+      "snapshot": "Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for reelection. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate, Both Democrats, Republicans, Democratic Sen",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: N.H. voters choose nominees for open Senate seat, and more races to watch today",
+        "Source context: Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 08 Sep 2026 16:09:43 -0400",
+      "age_hours": "0.48",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
+      "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
+      "snapshot": "The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration verification system in time for the midterm elections. \"The district court has issued an indefensible order that threatens the integrity of... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: DHS, Supreme Court, Trump",
+        "Politics desk signal: supreme court, court, election, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
+        "Source context: The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving DHS.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 08 Sep 2026 16:11:48 +0000",
+      "age_hours": "4.44",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Republican strategist knocks Trump for not spending more on GOP candidates",
+      "url": "https://thehill.com/homenews/campaign/6076508-gop-strategist-doug-heye-donald-trump-republican-campaign-spending/",
+      "snapshot": "Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as the Republican Party fights to maintain its control of Congress this fall. Heye, a former communications director for the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Republican, Trump, GOP, Doug Heye",
+        "Politics desk signal: congress, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republican strategist knocks Trump for not spending more on GOP candidates",
+        "Source context: Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Republican.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 08 Sep 2026 16:09:09 +0000",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": "WATCH"
@@ -313,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 08 Sep 2026 16:05:38 +0000",
-      "age_hours": "2.94",
+      "age_hours": "4.54",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -350,7 +351,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "1.05",
+      "age_hours": "2.66",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
@@ -379,8 +380,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 06:00:13 -0400",
-      "age_hours": "9.03",
+      "published": "Tue, 08 Sep 2026 16:09:43 -0400",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -410,7 +411,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "2.83",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -440,7 +441,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:09:09 +0000",
-      "age_hours": "2.88",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": "WATCH"
@@ -469,20 +470,19 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 08 Sep 2026 16:05:38 +0000",
-      "age_hours": "2.94",
+      "age_hours": "4.54",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "UK bans goods from Israeli West Bank settlements: What that really means",
-      "url": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
-      "snapshot": "Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of the UK's policy on Israel. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "What's happening in the Yemen war?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-hosted-yemen-explainer?traffic_source=rss",
+      "snapshot": "Fighting between government forces and Iran-backed Houthis is raising fears Yemen could return to full-scale war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: UK, Israeli West Bank, Foreign Minister Ed Miliband, Israel",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: UK bans goods from Israeli West Bank settlements",
-        "Source context: Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of the UK's policy on Israel. The geopolitical angle is how the decision..."
+        "Key people or organizations: Yemen, Iran",
+        "Story focus: What's happening in the Yemen war?",
+        "Source context: Fighting between government forces and Iran-backed Houthis is raising fears Yemen could return to full-scale war. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -490,18 +490,18 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving UK.",
+        "Watch for the next official action involving Yemen.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 14:52:00 +0000",
-      "age_hours": "4.16",
+      "published": "Tue, 08 Sep 2026 20:13:23 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "44",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
