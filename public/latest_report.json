@@ -1,507 +1,448 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
-  "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-09-08 04:38:14 PM ET",
-  "generated_at": "2026-09-08 04:38:14 PM ET",
+  "headline": "Prediction markets arrive at Supreme Court’s doorstep",
+  "snapshot": "{beacon} Technology Technology The Big Story Prediction markets’ regulation draws closer to Supreme Court Prediction markets have arrived at the Supreme Court’s doorstep. Erin Hooley, Associated Press file New Jersey this past week urged the justices to settle how prediction markets should be regulated, and a split among the nation’s appeals courts is increasing expectations that they may…",
+  "updated_at": "2026-09-08 05:41:07 PM ET",
+  "generated_at": "2026-09-08 05:41:07 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 145,
-    "live_fresh_items": 87,
-    "editor_fresh_items": 125,
-    "public_fallback_items": 143,
-    "stale_or_blocked_items": 58,
+    "total_items_checked": 157,
+    "live_fresh_items": 101,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 156,
+    "stale_or_blocked_items": 56,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-08 04:38:14 PM ET"
+    "last_checked": "2026-09-08 05:41:07 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "UK sanctions on Israeli settlements a 'seismic' shift says Albanese",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
-      "snapshot": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a 'seismic shift' after years of UK 'complicity'. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Prediction markets arrive at Supreme Court’s doorstep",
+      "url": "https://thehill.com/newsletters/technology/6077441-prediction-markets-arrive-at-supreme-courts-doorstep/",
+      "snapshot": "{beacon} Technology Technology The Big Story Prediction markets’ regulation draws closer to Supreme Court Prediction markets have arrived at the Supreme Court’s doorstep. Erin Hooley, Associated Press file New Jersey this past week urged the justices to settle how prediction markets should be regulated, and a split among the nation’s appeals courts is increasing expectations that they may…",
       "key_data": [
-        "Key people or organizations: UK, Israeli, Albanese, UN",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: UK sanctions on Israeli settlements a 'seismic' shift says Albanese",
-        "Source context: UN expert Francesca Albanese calls UK sanctions on Israeli settlements a 'seismic shift' after years of UK 'complicity'. The geopolitical angle is..."
+        "Source: The Hill",
+        "Politics desk: Court",
+        "Published: Sep. 08, 2026 at 05:29 PM ET"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving UK.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 08 Sep 2026 21:29:50 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
+      "snapshot": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Sep. 08, 2026 at 05:06 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 16:05:38 +0000",
-      "age_hours": "4.54",
+      "published": "Tue, 08 Sep 2026 21:06:48 +0000",
+      "age_hours": "0.57",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-save-system-database/",
-      "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "snapshot": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
       "key_data": [
-        "Key people or organizations: Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks Supreme Court to allow use of citizenship database",
-        "Source context: The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls...."
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Sep. 08, 2026 at 04:57 PM ET"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "2.66",
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Tue, 08 Sep 2026 20:57:09 GMT",
+      "age_hours": "0.73",
       "freshness_status": "fresh",
-      "editorial_score": "136",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "N.H. voters choose nominees for open Senate seat, and more races to watch today",
-      "url": "https://www.cbsnews.com/news/new-hampshire-primary-senate-jeanne-shaheen-retiring/",
-      "snapshot": "Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for reelection. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "National Guardsman Charged With Pointing Gun at Another Soldier on D.C. Patrol",
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/national-guardsman-gun-soldier-dc-patrol.html",
+      "snapshot": "The office of Jeanine Pirro, the U.S. attorney in Washington, charged Zion Mitchell with two felonies.",
       "key_data": [
-        "Key people or organizations: Senate, Both Democrats, Republicans, Democratic Sen",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: N.H. voters choose nominees for open Senate seat, and more races to watch today",
-        "Source context: Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for..."
+        "Source: The New York Times",
+        "Politics desk: Policy",
+        "Published: Sep. 08, 2026 at 04:54 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 16:09:43 -0400",
-      "age_hours": "0.48",
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Tue, 08 Sep 2026 20:54:46 +0000",
+      "age_hours": "0.77",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-      "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
-      "snapshot": "The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration verification system in time for the midterm elections. \"The district court has issued an indefensible order that threatens the integrity of... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Live results: New Hampshire votes in key Senate race",
+      "url": "https://thehill.com/homenews/campaign/6074515-live-results-new-hampshire-senate-primary/",
+      "snapshot": "Democratic Rep. Chris Pappas and former Republican Sen. John Sununu are the favorites to win their respective primaries for Senate in New Hampshire on Tuesday. Pappas faces four other challengers, most notably medical scientist Karishma Manzur. She is running to the House Democrat’s left. Sununu, meanwhile, is duking it out against seven other Republicans. His…",
       "key_data": [
-        "Key people or organizations: DHS, Supreme Court, Trump",
-        "Politics desk signal: supreme court, court, election, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-        "Source context: The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration..."
+        "Source: The Hill",
+        "Politics desk: Election",
+        "Published: Sep. 08, 2026 at 05:00 PM ET"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DHS.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "4.44",
+      "published": "Tue, 08 Sep 2026 21:00:00 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Republican strategist knocks Trump for not spending more on GOP candidates",
-      "url": "https://thehill.com/homenews/campaign/6076508-gop-strategist-doug-heye-donald-trump-republican-campaign-spending/",
-      "snapshot": "Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as the Republican Party fights to maintain its control of Congress this fall. Heye, a former communications director for the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Republican, Trump, GOP, Doug Heye",
-        "Politics desk signal: congress, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican strategist knocks Trump for not spending more on GOP candidates",
-        "Source context: Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:09:09 +0000",
-      "age_hours": "4.48",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": "WATCH"
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-save-system-database/",
-      "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Live results: Ayotte seeks second term as New Hampshire governor in GOP primary",
+      "url": "https://thehill.com/homenews/state-watch/6074514-live-results-new-hampshrie-governor-primary/",
+      "snapshot": "New Hampshire Gov. Kelly Ayotte (R) is running for a second term as the state’s top executive in a Tuesday primary. The incumbent faces two primary challengers. Former New Hampshire Executive Councilor Cinde Warmington, a Democrat, is the presumptive nominee on the other side of the aisle. Polls close at 7 and 8 p.m. EDT.…",
       "key_data": [
-        "Key people or organizations: Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks Supreme Court to allow use of citizenship database",
-        "Source context: The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls...."
+        "Source: The Hill",
+        "Politics desk: Election",
+        "Published: Sep. 08, 2026 at 05:00 PM ET"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "2.66",
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 08 Sep 2026 21:00:00 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
-      "editorial_score": "136",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "N.H. voters choose nominees for open Senate seat, and more races to watch today",
-      "url": "https://www.cbsnews.com/news/new-hampshire-primary-senate-jeanne-shaheen-retiring/",
-      "snapshot": "Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for reelection. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump’s Latest Makeover Target? Space Force Uniforms.",
+      "url": "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html",
+      "snapshot": "The president shared a provocative new look for the next-gen Space Force ’fit.",
       "key_data": [
-        "Key people or organizations: Senate, Both Democrats, Republicans, Democratic Sen",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: N.H. voters choose nominees for open Senate seat, and more races to watch today",
-        "Source context: Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for..."
+        "Source: The New York Times",
+        "Politics desk: Government",
+        "Published: Sep. 08, 2026 at 04:53 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect executive authority, public policy or government accountability.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 16:09:43 -0400",
-      "age_hours": "0.48",
+      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Tue, 08 Sep 2026 20:53:08 +0000",
+      "age_hours": "0.80",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-      "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
-      "snapshot": "The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration verification system in time for the midterm elections. \"The district court has issued an indefensible order that threatens the integrity of... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Police bodycam captures Russian missile strike on Kyiv",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+      "snapshot": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
       "key_data": [
-        "Key people or organizations: DHS, Supreme Court, Trump",
-        "Politics desk signal: supreme court, court, election, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-        "Source context: The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration..."
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Sep. 08, 2026 at 04:43 PM ET"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DHS.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "4.44",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Republican strategist knocks Trump for not spending more on GOP candidates",
-      "url": "https://thehill.com/homenews/campaign/6076508-gop-strategist-doug-heye-donald-trump-republican-campaign-spending/",
-      "snapshot": "Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as the Republican Party fights to maintain its control of Congress this fall. Heye, a former communications director for the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Republican, Trump, GOP, Doug Heye",
-        "Politics desk signal: congress, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican strategist knocks Trump for not spending more on GOP candidates",
-        "Source context: Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:09:09 +0000",
-      "age_hours": "4.48",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "UK sanctions on Israeli settlements a 'seismic' shift says Albanese",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
-      "snapshot": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a 'seismic shift' after years of UK 'complicity'. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: UK, Israeli, Albanese, UN",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: UK sanctions on Israeli settlements a 'seismic' shift says Albanese",
-        "Source context: UN expert Francesca Albanese calls UK sanctions on Israeli settlements a 'seismic shift' after years of UK 'complicity'. The geopolitical angle is..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving UK.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 16:05:38 +0000",
-      "age_hours": "4.54",
+      "published": "Tue, 08 Sep 2026 20:43:52 +0000",
+      "age_hours": "0.95",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+      "snapshot": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
+      "key_data": [
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Sep. 08, 2026 at 02:21 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Tue, 08 Sep 2026 18:21:40 GMT",
+      "age_hours": "3.32",
+      "freshness_status": "fresh",
+      "editorial_score": "97",
+      "urgency": ""
+    },
+    {
+      "headline": "The 2026 midterm general election season is upon us. Here's what to watch",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+      "snapshot": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
+      "key_data": [
+        "Source: NPR Politics",
+        "Politics desk: Election",
+        "Published: Sep. 08, 2026 at 05:00 AM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Tue, 08 Sep 2026 05:00:00 -0400",
+      "age_hours": "12.69",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "87",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump administration asks Supreme Court to allow use of citizenship database",
-    "N.H. voters choose nominees for open Senate seat, and more races to watch today",
-    "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms"
+    "Prediction markets arrive at Supreme Court’s doorstep",
+    "US forces sink vessel ‘linked to Ecuador criminal gang’",
+    "OpenAI says it cracked 90-year-old maths problem in 88 hours"
   ],
   "sections": [
     {
-      "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-save-system-database/",
-      "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Prediction markets arrive at Supreme Court’s doorstep",
+      "url": "https://thehill.com/newsletters/technology/6077441-prediction-markets-arrive-at-supreme-courts-doorstep/",
+      "snapshot": "{beacon} Technology Technology The Big Story Prediction markets’ regulation draws closer to Supreme Court Prediction markets have arrived at the Supreme Court’s doorstep. Erin Hooley, Associated Press file New Jersey this past week urged the justices to settle how prediction markets should be regulated, and a split among the nation’s appeals courts is increasing expectations that they may…",
       "key_data": [
-        "Key people or organizations: Trump, Supreme Court",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration asks Supreme Court to allow use of citizenship database",
-        "Source context: The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls...."
+        "Source: The Hill",
+        "Politics desk: Court",
+        "Published: Sep. 08, 2026 at 05:29 PM ET"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "2.66",
+      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 08 Sep 2026 21:29:50 +0000",
+      "age_hours": "0.19",
       "freshness_status": "fresh",
-      "editorial_score": "136",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "N.H. voters choose nominees for open Senate seat, and more races to watch today",
-      "url": "https://www.cbsnews.com/news/new-hampshire-primary-senate-jeanne-shaheen-retiring/",
-      "snapshot": "Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for reelection. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
+      "snapshot": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
       "key_data": [
-        "Key people or organizations: Senate, Both Democrats, Republicans, Democratic Sen",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: N.H. voters choose nominees for open Senate seat, and more races to watch today",
-        "Source context: Both Democrats and Republicans are targeting the Senate seat that will be vacated by Democratic Sen. Jeanne Shaheen, who is not running for..."
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Sep. 08, 2026 at 05:06 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 16:09:43 -0400",
-      "age_hours": "0.48",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-      "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
-      "snapshot": "The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration verification system in time for the midterm elections. \"The district court has issued an indefensible order that threatens the integrity of... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: DHS, Supreme Court, Trump",
-        "Politics desk signal: supreme court, court, election, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-        "Source context: The Trump administration urged the Supreme Court on Tuesday to restore the Department of Homeland Security's (DHS) overhauled immigration..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving DHS.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "4.44",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Republican strategist knocks Trump for not spending more on GOP candidates",
-      "url": "https://thehill.com/homenews/campaign/6076508-gop-strategist-doug-heye-donald-trump-republican-campaign-spending/",
-      "snapshot": "Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as the Republican Party fights to maintain its control of Congress this fall. Heye, a former communications director for the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Republican, Trump, GOP, Doug Heye",
-        "Politics desk signal: congress, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican strategist knocks Trump for not spending more on GOP candidates",
-        "Source context: Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 08 Sep 2026 16:09:09 +0000",
-      "age_hours": "4.48",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "UK sanctions on Israeli settlements a 'seismic' shift says Albanese",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
-      "snapshot": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a 'seismic shift' after years of UK 'complicity'. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: UK, Israeli, Albanese, UN",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: UK sanctions on Israeli settlements a 'seismic' shift says Albanese",
-        "Source context: UN expert Francesca Albanese calls UK sanctions on Israeli settlements a 'seismic shift' after years of UK 'complicity'. The geopolitical angle is..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving UK.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 16:05:38 +0000",
-      "age_hours": "4.54",
+      "published": "Tue, 08 Sep 2026 21:06:48 +0000",
+      "age_hours": "0.57",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "What's happening in the Yemen war?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-hosted-yemen-explainer?traffic_source=rss",
-      "snapshot": "Fighting between government forces and Iran-backed Houthis is raising fears Yemen could return to full-scale war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "snapshot": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
       "key_data": [
-        "Key people or organizations: Yemen, Iran",
-        "Story focus: What's happening in the Yemen war?",
-        "Source context: Fighting between government forces and Iran-backed Houthis is raising fears Yemen could return to full-scale war. The geopolitical angle is how the..."
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Sep. 08, 2026 at 04:57 PM ET"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Yemen.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 20:13:23 +0000",
-      "age_hours": "0.41",
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Tue, 08 Sep 2026 20:57:09 GMT",
+      "age_hours": "0.73",
       "freshness_status": "fresh",
-      "editorial_score": "44",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "National Guardsman Charged With Pointing Gun at Another Soldier on D.C. Patrol",
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/national-guardsman-gun-soldier-dc-patrol.html",
+      "snapshot": "The office of Jeanine Pirro, the U.S. attorney in Washington, charged Zion Mitchell with two felonies.",
+      "key_data": [
+        "Source: The New York Times",
+        "Politics desk: Policy",
+        "Published: Sep. 08, 2026 at 04:54 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Tue, 08 Sep 2026 20:54:46 +0000",
+      "age_hours": "0.77",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "The 2026 midterm general election season is upon us. Here's what to watch",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+      "snapshot": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
+      "key_data": [
+        "Source: NPR Politics",
+        "Politics desk: Election",
+        "Published: Sep. 08, 2026 at 05:00 AM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Tue, 08 Sep 2026 05:00:00 -0400",
+      "age_hours": "12.69",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "87",
       "urgency": ""
+    },
+    {
+      "headline": "Live results: New Hampshire votes in key Senate race",
+      "url": "https://thehill.com/homenews/campaign/6074515-live-results-new-hampshire-senate-primary/",
+      "snapshot": "Democratic Rep. Chris Pappas and former Republican Sen. John Sununu are the favorites to win their respective primaries for Senate in New Hampshire on Tuesday. Pappas faces four other challengers, most notably medical scientist Karishma Manzur. She is running to the House Democrat’s left. Sununu, meanwhile, is duking it out against seven other Republicans. His…",
+      "key_data": [
+        "Source: The Hill",
+        "Politics desk: Election",
+        "Published: Sep. 08, 2026 at 05:00 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 08 Sep 2026 21:00:00 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
