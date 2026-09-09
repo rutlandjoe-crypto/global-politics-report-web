@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump administration asks Supreme Court to allow use of citizenship database",
   "snapshot": "The Trump administration asked the Supreme Court to intervene in a lawsuit over the use of a controversial data system to review state voter rolls. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-09-08 07:08:43 PM ET",
-  "generated_at": "2026-09-08 07:08:43 PM ET",
+  "updated_at": "2026-09-08 08:45:40 PM ET",
+  "generated_at": "2026-09-08 08:45:40 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 102,
-    "editor_fresh_items": 137,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 45,
+    "total_items_checked": 150,
+    "live_fresh_items": 104,
+    "editor_fresh_items": 140,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-08 07:08:43 PM ET"
+    "last_checked": "2026-09-08 08:45:40 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,21 +44,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "5.16",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Supreme Court rebuffs Missouri's request for new House map favoring GOP",
+      "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
       "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
-      "snapshot": "It's a defeat for Republicans who had hoped the new map could help them hold on to their slim House majority. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
       "key_data": [
-        "Key people or organizations: Supreme Court, House, GOP",
-        "Politics desk signal: house, supreme court, court",
+        "Key people or organizations: Federal, Missouri, Supreme Court",
+        "Politics desk signal: congress, house, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rebuffs Missouri's request for new House map favoring GOP",
-        "Source context: It's a defeat for Republicans who had hoped the new map could help them hold on to their slim House majority. The broader significance is..."
+        "Story focus: Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+        "Source context: A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -66,23 +66,23 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Federal.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 18:13:40 -0400",
-      "age_hours": "0.92",
+      "published": "Tue, 08 Sep 2026 19:59:00 -0400",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "132",
       "urgency": ""
     },
     {
       "headline": "Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms",
       "url": "https://thehill.com/regulation/court-battles/6077470-supreme-court-missouri-congressional-map/",
-      "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri officials held their primaries using Republicans' new 7-1 House map, but the decision... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri Republicans hoped to return to the new 7-1 House map favoring them after the Show Me... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
         "Key people or organizations: Kavanaugh, Missouri, GOP, Supreme Court Justice Brett",
         "Specific figures mentioned: 7, 1",
@@ -104,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 21:44:14 +0000",
-      "age_hours": "1.41",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "6.95",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 08 Sep 2026 20:43:16 +0000",
-      "age_hours": "2.42",
+      "age_hours": "4.04",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -196,21 +196,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "5.16",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Supreme Court rebuffs Missouri's request for new House map favoring GOP",
+      "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
       "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
-      "snapshot": "It's a defeat for Republicans who had hoped the new map could help them hold on to their slim House majority. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
       "key_data": [
-        "Key people or organizations: Supreme Court, House, GOP",
-        "Politics desk signal: house, supreme court, court",
+        "Key people or organizations: Federal, Missouri, Supreme Court",
+        "Politics desk signal: congress, house, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rebuffs Missouri's request for new House map favoring GOP",
-        "Source context: It's a defeat for Republicans who had hoped the new map could help them hold on to their slim House majority. The broader significance is..."
+        "Story focus: Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+        "Source context: A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -218,23 +218,23 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Federal.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 18:13:40 -0400",
-      "age_hours": "0.92",
+      "published": "Tue, 08 Sep 2026 19:59:00 -0400",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "132",
       "urgency": ""
     },
     {
       "headline": "Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms",
       "url": "https://thehill.com/regulation/court-battles/6077470-supreme-court-missouri-congressional-map/",
-      "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri officials held their primaries using Republicans' new 7-1 House map, but the decision... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri Republicans hoped to return to the new 7-1 House map favoring them after the Show Me... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
         "Key people or organizations: Kavanaugh, Missouri, GOP, Supreme Court Justice Brett",
         "Specific figures mentioned: 7, 1",
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 21:44:14 +0000",
-      "age_hours": "1.41",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -286,7 +286,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "6.95",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 08 Sep 2026 20:43:16 +0000",
-      "age_hours": "2.42",
+      "age_hours": "4.04",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -324,7 +324,7 @@
   ],
   "key_storylines": [
     "Trump administration asks Supreme Court to allow use of citizenship database",
-    "Supreme Court rebuffs Missouri's request for new House map favoring GOP",
+    "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
     "Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms"
   ],
   "sections": [
@@ -353,21 +353,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-      "age_hours": "5.16",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Supreme Court rebuffs Missouri's request for new House map favoring GOP",
+      "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
       "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
-      "snapshot": "It's a defeat for Republicans who had hoped the new map could help them hold on to their slim House majority. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
       "key_data": [
-        "Key people or organizations: Supreme Court, House, GOP",
-        "Politics desk signal: house, supreme court, court",
+        "Key people or organizations: Federal, Missouri, Supreme Court",
+        "Politics desk signal: congress, house, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rebuffs Missouri's request for new House map favoring GOP",
-        "Source context: It's a defeat for Republicans who had hoped the new map could help them hold on to their slim House majority. The broader significance is..."
+        "Story focus: Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+        "Source context: A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -375,23 +375,23 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Federal.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 08 Sep 2026 18:13:40 -0400",
-      "age_hours": "0.92",
+      "published": "Tue, 08 Sep 2026 19:59:00 -0400",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "132",
       "urgency": ""
     },
     {
       "headline": "Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms",
       "url": "https://thehill.com/regulation/court-battles/6077470-supreme-court-missouri-congressional-map/",
-      "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri officials held their primaries using Republicans' new 7-1 House map, but the decision... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri Republicans hoped to return to the new 7-1 House map favoring them after the Show Me... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
         "Key people or organizations: Kavanaugh, Missouri, GOP, Supreme Court Justice Brett",
         "Specific figures mentioned: 7, 1",
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 21:44:14 +0000",
-      "age_hours": "1.41",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -443,7 +443,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-      "age_hours": "6.95",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -473,21 +473,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 08 Sep 2026 20:43:16 +0000",
-      "age_hours": "2.42",
+      "age_hours": "4.04",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "Head of Smithsonian museums announces he will be stepping down",
-      "url": "https://www.aljazeera.com/news/2026/9/8/head-of-smithsonian-museums-announces-he-will-be-stepping-down?traffic_source=rss",
-      "snapshot": "The US institution is under pressure from the Trump administration to change how it portrays the country's history. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "US increases pressure on Iran with sanctions targeting aviation sector",
+      "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+      "snapshot": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country's economy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump",
+        "Key people or organizations: Iran, Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Head of Smithsonian museums announces he will be stepping down",
-        "Source context: The US institution is under pressure from the Trump administration to change how it portrays the country's history. The election angle is whether..."
+        "Story focus: US increases pressure on Iran with sanctions targeting aviation sector",
+        "Source context: Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country's economy. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +495,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Iran.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 08 Sep 2026 20:32:52 +0000",
-      "age_hours": "2.60",
+      "published": "Tue, 08 Sep 2026 23:51:29 +0000",
+      "age_hours": "0.90",
       "freshness_status": "fresh",
-      "editorial_score": "52",
+      "editorial_score": "68",
       "urgency": ""
     }
   ],
