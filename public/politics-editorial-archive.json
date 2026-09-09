@@ -1,5 +1,35 @@
 [
   {
+    "headline": "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
+    "url": "https://www.aljazeera.com/news/2026/9/9/us-supreme-court-rejects-missouri-bid-to-reactivate-gop-backed-voting-map?traffic_source=rss",
+    "snapshot": "A separate federal court ruling, however, contradicts the Supreme Court judgement, leaving the map up in the air. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+    "key_data": [
+      "Key people or organizations: US Supreme Court, GOP, Supreme Court",
+      "Politics desk signal: supreme court, court",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
+      "Source context: A separate federal court ruling, however, contradicts the Supreme Court judgement, leaving the map up in the air. The broader significance is..."
+    ],
+    "why_it_matters": [
+      "This has legal and institutional consequences beyond one news cycle.",
+      "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+      "Editors should frame the story around who gains power and who faces new limits."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving US Supreme Court.",
+      "Track filings, rulings, appeals and agency responses.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Wed, 09 Sep 2026 02:15:08 +0000",
+    "age_hours": "0.56",
+    "freshness_status": "fresh",
+    "editorial_score": "94",
+    "urgency": ""
+  },
+  {
     "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
     "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
     "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
@@ -24,7 +54,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Tue, 08 Sep 2026 19:59:00 -0400",
-    "age_hours": "0.78",
+    "age_hours": "2.83",
     "freshness_status": "fresh",
     "editorial_score": "132",
     "urgency": ""
@@ -92,13 +122,13 @@
   {
     "headline": "Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms",
     "url": "https://thehill.com/regulation/court-battles/6077470-supreme-court-missouri-congressional-map/",
-    "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to lift a block on Missouri's new congressional map, which was poised to give Republicans a pickup opportunity in November. Missouri Republicans hoped to return to the new 7-1 House map favoring them after the Show Me... The broader significance is institutional: court action can alter policy timelines, executive...",
+    "snapshot": "Supreme Court Justice Brett Kavanaugh on Tuesday refused to restore Missouri's new congressional map, which was poised to give Republicans a pickup opportunity this November, but the map's fate remains unclear after a ruling in a separate lawsuit. Missouri Republicans hope to... The broader significance is institutional: court action can alter policy timelines, executive...",
     "key_data": [
       "Key people or organizations: Kavanaugh, Missouri, GOP, Supreme Court Justice Brett",
-      "Specific figures mentioned: 7, 1",
-      "Politics desk signal: congress, house, supreme court, court",
+      "Politics desk signal: congress, supreme court, court",
       "Institutional context: story may affect policy, legal pressure or governing leverage",
-      "Story focus: Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms"
+      "Story focus: Kavanaugh won't revive Missouri's GOP-friendly congressional map for midterms",
+      "Source context: Supreme Court Justice Brett Kavanaugh on Tuesday refused to restore Missouri's new congressional map, which was poised to give Republicans a pickup..."
     ],
     "why_it_matters": [
       "This has legal and institutional consequences beyond one news cycle.",
@@ -110,14 +140,14 @@
       "Track filings, rulings, appeals and agency responses.",
       "Separate official action from political messaging."
     ],
-    "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 08 Sep 2026 21:44:14 +0000",
-    "age_hours": "3.02",
+    "age_hours": "5.08",
     "freshness_status": "fresh",
-    "editorial_score": "107",
-    "urgency": ""
+    "editorial_score": "119",
+    "urgency": "DEVELOPING"
   },
   {
     "headline": "Prediction markets arrive at Supreme Court’s doorstep",
@@ -334,7 +364,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Tue, 08 Sep 2026 13:58:55 -0400",
-    "age_hours": "6.78",
+    "age_hours": "8.83",
     "freshness_status": "fresh",
     "editorial_score": "136",
     "urgency": "DEVELOPING"
@@ -468,7 +498,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 08 Sep 2026 16:11:48 +0000",
-    "age_hours": "8.56",
+    "age_hours": "10.62",
     "freshness_status": "fresh",
     "editorial_score": "107",
     "urgency": ""
