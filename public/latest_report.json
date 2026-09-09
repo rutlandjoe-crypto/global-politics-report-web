@@ -1,448 +1,510 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-  "snapshot": "Iran appears ready to fight back against growing U.S. leverage in the Strait of Hormuz, and the threat of renewed war is causing oil prices to rise even as more ships are making it through the vital waterway with the help of the U.S. Navy. The Trump administration has worked to open passageways through the…",
-  "updated_at": "2026-09-09 05:32:17 PM ET",
-  "generated_at": "2026-09-09 05:32:17 PM ET",
+  "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+  "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+  "updated_at": "2026-09-09 06:12:46 PM ET",
+  "generated_at": "2026-09-09 06:12:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 174,
-    "live_fresh_items": 118,
-    "editor_fresh_items": 169,
-    "public_fallback_items": 174,
-    "stale_or_blocked_items": 56,
+    "total_items_checked": 151,
+    "live_fresh_items": 104,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-09 05:32:17 PM ET"
+    "last_checked": "2026-09-09 06:12:46 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-      "url": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
-      "snapshot": "Iran appears ready to fight back against growing U.S. leverage in the Strait of Hormuz, and the threat of renewed war is causing oil prices to rise even as more ships are making it through the vital waterway with the help of the U.S. Navy. The Trump administration has worked to open passageways through the…",
+      "headline": "US court denies Tate brothers' bid to be released from Miami jail",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+      "snapshot": "A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 09, 2026 at 05:25 PM ET"
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US court denies Tate brothers' bid to be released from Miami jail",
+        "Source context: A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel. The broader significance is..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 09 Sep 2026 21:25:33 +0000",
-      "age_hours": "0.11",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Election Officials Grapple With Uncertainty as Supreme Court Considers Mail Ballot Plan",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html",
-      "snapshot": "As they wait for word on whether the Trump administration’s new system to screen ballots can move forward, local officials say they are running out of time.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Sep. 09, 2026 at 05:23 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 09 Sep 2026 21:23:18 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump says Putin wants to make a deal to end Ukraine war",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
-      "snapshot": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 09, 2026 at 04:56 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 09 Sep 2026 20:56:05 +0000",
-      "age_hours": "0.60",
+      "published": "Wed, 09 Sep 2026 21:28:16 +0000",
+      "age_hours": "0.74",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "74",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Republicans kick off unconventional midterm convention in Dallas with Trump speech",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5963200/republicans-kick-off-unconventional-midterm-convention-in-dallas-with-trump-speech",
-      "snapshot": "Republicans' first midterm convention, being touted as a \"Trumpapalooza\" by the Republican Party chairman, kicks off in Dallas with a program focused heavily on tax cuts and border security.",
+      "headline": "Trump gave Natalie Harp, other aides $45K gifts: Disclosures",
+      "url": "https://thehill.com/homenews/administration/6078705-donald-trump-natalie-harp-white-house-aides-gifts-disclosures/",
+      "snapshot": "President Trump gifted several White House aides — including longtime assistant Natalie Harp — $45,000 cash gifts, according to financial disclosures released by the Trump administration last week. The payments, which totaled $135,000, were marked as \"Cash Gift for Holidays\"... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Policy",
-        "Published: Sep. 09, 2026 at 04:36 PM ET"
+        "Key people or organizations: Trump, Natalie Harp, Disclosures, President Trump",
+        "Specific figures mentioned: 45, $45, 000, $135",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump gave Natalie Harp, other aides $45K gifts"
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 09 Sep 2026 16:36:20 -0400",
-      "age_hours": "0.93",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 09 Sep 2026 14:33:26 +0000",
+      "age_hours": "7.66",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "111",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Apple's new boss starts with big gamble on costly first folding iPhone",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "headline": "The House must turn the screws on Putin",
+      "url": "https://thehill.com/opinion/6076874-house-must-pass-russia-sanctions-act/",
+      "snapshot": "The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump administration to impose tariffs on nations importing Russian energy to help Ukraine prepare for a potentially deadly winter. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 09, 2026 at 04:00 PM ET"
+        "Key people or organizations: House",
+        "Politics desk signal: house, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: The House must turn the screws on Putin",
+        "Source context: The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump..."
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 09 Sep 2026 20:00:33 GMT",
-      "age_hours": "1.53",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 09 Sep 2026 12:00:00 +0000",
+      "age_hours": "10.21",
       "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
+      "editorial_score": "109",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+      "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
+      "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
+      "key_data": [
+        "Key people or organizations: Federal, Missouri, Supreme Court",
+        "Politics desk signal: congress, house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+        "Source context: A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 09 Sep 2026 17:57:18 -0400",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "12 key races that will determine who controls the Senate",
+      "url": "https://www.cbsnews.com/news/key-senate-races-2026/",
+      "snapshot": "Republicans are fighting to hold onto their majority in the Senate, where the GOP currently controls 53 seats. To take control, Democrats would need to net four seats in November's election. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate, Republicans, GOP, To",
+        "Specific figures mentioned: 12, 53",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 12 key races that will determine who controls the Senate"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 09 Sep 2026 09:43:51 -0400",
+      "age_hours": "8.48",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Pirro tells reporter ‘I’m not going there’ on Reflecting Pool question",
-      "url": "https://thehill.com/homenews/administration/6080074-jeanine-pirro-dodges-reflecting-pool-questions/",
-      "snapshot": "U.S. District Attorney for District of Columbia Jeanine Pirro on Wednesday declined to answer reporters’ questions on the Lincoln Memorial Reflecting Pool vandalism case during an unrelated Justice Department (DOJ) press conference. When speaking to journalists about a DOJ transnational criminal organization task force, one member of the press asked Pirro if Trump is pushing…",
+      "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+      "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
+      "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Sep. 09, 2026 at 05:21 PM ET"
+        "Key people or organizations: Federal, Missouri, Supreme Court",
+        "Politics desk signal: congress, house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+        "Source context: A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 09 Sep 2026 21:21:18 +0000",
-      "age_hours": "0.18",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 09 Sep 2026 17:57:18 -0400",
+      "age_hours": "0.26",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump’s Midterm Convention May Struggle for Ratings Against the NFL Kickoff",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-rnc-convention-nfl-ratings.html",
-      "snapshot": "Many major TV networks are sticking with regular programming as the Republicans convene in Dallas. Fox News, NewsNation and C-SPAN will carry more of the proceedings.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Policy",
-        "Published: Sep. 09, 2026 at 05:20 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 09 Sep 2026 21:20:12 +0000",
-      "age_hours": "0.20",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
-      "snapshot": "Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 09, 2026 at 04:53 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 09 Sep 2026 20:53:26 +0000",
-      "age_hours": "0.65",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Court",
-        "Published: Sep. 09, 2026 at 03:09 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 09 Sep 2026 19:09:13 GMT",
-      "age_hours": "2.38",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
-      "snapshot": "Prosecutors told the court that Andrew and Tristan Tate boasted about having multiple passports and flying on private jets. But the Tates' lawyers argued they were only playing a role for their fans.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Court",
-        "Published: Sep. 09, 2026 at 01:23 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 09 Sep 2026 13:23:15 -0400",
-      "age_hours": "4.15",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
+      "editorial_score": "132",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-    "Election Officials Grapple With Uncertainty as Supreme Court Considers Mail Ballot Plan",
-    "Trump says Putin wants to make a deal to end Ukraine war"
-  ],
-  "sections": [
-    {
-      "headline": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-      "url": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
-      "snapshot": "Iran appears ready to fight back against growing U.S. leverage in the Strait of Hormuz, and the threat of renewed war is causing oil prices to rise even as more ships are making it through the vital waterway with the help of the U.S. Navy. The Trump administration has worked to open passageways through the…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 09, 2026 at 05:25 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 09 Sep 2026 21:25:33 +0000",
-      "age_hours": "0.11",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Election Officials Grapple With Uncertainty as Supreme Court Considers Mail Ballot Plan",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html",
-      "snapshot": "As they wait for word on whether the Trump administration’s new system to screen ballots can move forward, local officials say they are running out of time.",
+      "headline": "12 key races that will determine who controls the Senate",
+      "url": "https://www.cbsnews.com/news/key-senate-races-2026/",
+      "snapshot": "Republicans are fighting to hold onto their majority in the Senate, where the GOP currently controls 53 seats. To take control, Democrats would need to net four seats in November's election. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Election",
-        "Published: Sep. 09, 2026 at 05:23 PM ET"
+        "Key people or organizations: Senate, Republicans, GOP, To",
+        "Specific figures mentioned: 12, 53",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 12 key races that will determine who controls the Senate"
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 09 Sep 2026 21:23:18 +0000",
-      "age_hours": "0.15",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 09 Sep 2026 09:43:51 -0400",
+      "age_hours": "8.48",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump gave Natalie Harp, other aides $45K gifts: Disclosures",
+      "url": "https://thehill.com/homenews/administration/6078705-donald-trump-natalie-harp-white-house-aides-gifts-disclosures/",
+      "snapshot": "President Trump gifted several White House aides — including longtime assistant Natalie Harp — $45,000 cash gifts, according to financial disclosures released by the Trump administration last week. The payments, which totaled $135,000, were marked as \"Cash Gift for Holidays\"... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Natalie Harp, Disclosures, President Trump",
+        "Specific figures mentioned: 45, $45, 000, $135",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump gave Natalie Harp, other aides $45K gifts"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 09 Sep 2026 14:33:26 +0000",
+      "age_hours": "7.66",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The House must turn the screws on Putin",
+      "url": "https://thehill.com/opinion/6076874-house-must-pass-russia-sanctions-act/",
+      "snapshot": "The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump administration to impose tariffs on nations importing Russian energy to help Ukraine prepare for a potentially deadly winter. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
+      "key_data": [
+        "Key people or organizations: House",
+        "Politics desk signal: house, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: The House must turn the screws on Putin",
+        "Source context: The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 09 Sep 2026 12:00:00 +0000",
+      "age_hours": "10.21",
+      "freshness_status": "fresh",
+      "editorial_score": "109",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump says Putin wants to make a deal to end Ukraine war",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
-      "snapshot": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.",
+      "snapshot": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 09, 2026 at 04:56 PM ET"
+        "Key people or organizations: Trump, Putin, Ukraine, US President Donald Trump",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says Putin wants to make a deal to end Ukraine war",
+        "Source context: US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 09 Sep 2026 20:56:05 +0000",
-      "age_hours": "0.60",
+      "age_hours": "1.28",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    }
+  ],
+  "key_storylines": [
+    "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+    "12 key races that will determine who controls the Senate",
+    "Trump gave Natalie Harp, other aides $45K gifts: Disclosures"
+  ],
+  "sections": [
     {
-      "headline": "Republicans kick off unconventional midterm convention in Dallas with Trump speech",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5963200/republicans-kick-off-unconventional-midterm-convention-in-dallas-with-trump-speech",
-      "snapshot": "Republicans' first midterm convention, being touted as a \"Trumpapalooza\" by the Republican Party chairman, kicks off in Dallas with a program focused heavily on tax cuts and border security.",
+      "headline": "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+      "url": "https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/",
+      "snapshot": "A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Policy",
-        "Published: Sep. 09, 2026 at 04:36 PM ET"
+        "Key people or organizations: Federal, Missouri, Supreme Court",
+        "Politics desk signal: congress, house, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
+        "Source context: A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in..."
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Federal.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 09 Sep 2026 16:36:20 -0400",
-      "age_hours": "0.93",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 09 Sep 2026 17:57:18 -0400",
+      "age_hours": "0.26",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "132",
+      "urgency": ""
     },
     {
-      "headline": "Apple's new boss starts with big gamble on costly first folding iPhone",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "headline": "12 key races that will determine who controls the Senate",
+      "url": "https://www.cbsnews.com/news/key-senate-races-2026/",
+      "snapshot": "Republicans are fighting to hold onto their majority in the Senate, where the GOP currently controls 53 seats. To take control, Democrats would need to net four seats in November's election. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 09, 2026 at 04:00 PM ET"
+        "Key people or organizations: Senate, Republicans, GOP, To",
+        "Specific figures mentioned: 12, 53",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 12 key races that will determine who controls the Senate"
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 09 Sep 2026 20:00:33 GMT",
-      "age_hours": "1.53",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 09 Sep 2026 09:43:51 -0400",
+      "age_hours": "8.48",
       "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
-      "headline": "Pirro tells reporter ‘I’m not going there’ on Reflecting Pool question",
-      "url": "https://thehill.com/homenews/administration/6080074-jeanine-pirro-dodges-reflecting-pool-questions/",
-      "snapshot": "U.S. District Attorney for District of Columbia Jeanine Pirro on Wednesday declined to answer reporters’ questions on the Lincoln Memorial Reflecting Pool vandalism case during an unrelated Justice Department (DOJ) press conference. When speaking to journalists about a DOJ transnational criminal organization task force, one member of the press asked Pirro if Trump is pushing…",
+      "headline": "Trump gave Natalie Harp, other aides $45K gifts: Disclosures",
+      "url": "https://thehill.com/homenews/administration/6078705-donald-trump-natalie-harp-white-house-aides-gifts-disclosures/",
+      "snapshot": "President Trump gifted several White House aides — including longtime assistant Natalie Harp — $45,000 cash gifts, according to financial disclosures released by the Trump administration last week. The payments, which totaled $135,000, were marked as \"Cash Gift for Holidays\"... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Sep. 09, 2026 at 05:21 PM ET"
+        "Key people or organizations: Trump, Natalie Harp, Disclosures, President Trump",
+        "Specific figures mentioned: 45, $45, 000, $135",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump gave Natalie Harp, other aides $45K gifts"
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 09 Sep 2026 21:21:18 +0000",
-      "age_hours": "0.18",
+      "published": "Wed, 09 Sep 2026 14:33:26 +0000",
+      "age_hours": "7.66",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "editorial_score": "111",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The House must turn the screws on Putin",
+      "url": "https://thehill.com/opinion/6076874-house-must-pass-russia-sanctions-act/",
+      "snapshot": "The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump administration to impose tariffs on nations importing Russian energy to help Ukraine prepare for a potentially deadly winter. The key question is leverage: the next votes, negotiations and public pressure points will determine whether...",
+      "key_data": [
+        "Key people or organizations: House",
+        "Politics desk signal: house, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: The House must turn the screws on Putin",
+        "Source context: The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 09 Sep 2026 12:00:00 +0000",
+      "age_hours": "10.21",
+      "freshness_status": "fresh",
+      "editorial_score": "109",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump says Putin wants to make a deal to end Ukraine war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
+      "snapshot": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Putin, Ukraine, US President Donald Trump",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says Putin wants to make a deal to end Ukraine war",
+        "Source context: US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine. The election angle is whether this changes voter..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 09 Sep 2026 20:56:05 +0000",
+      "age_hours": "1.28",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "US court denies Tate brothers' bid to be released from Miami jail",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+      "snapshot": "A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US court denies Tate brothers' bid to be released from Miami jail",
+        "Source context: A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 09 Sep 2026 21:28:16 +0000",
+      "age_hours": "0.74",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
