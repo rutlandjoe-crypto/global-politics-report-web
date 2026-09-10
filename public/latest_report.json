@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Why not to bank on Trump's $5,000 dividends happening",
   "snapshot": "President Trump pledged $5,000 dividends to all American adults if Republicans retain control of the House and Senate. You may not be able to take that to the bank. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-09-10 02:01:43 PM ET",
-  "generated_at": "2026-09-10 02:01:43 PM ET",
+  "updated_at": "2026-09-10 02:43:52 PM ET",
+  "generated_at": "2026-09-10 02:43:52 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 88,
-    "editor_fresh_items": 145,
+    "live_fresh_items": 91,
+    "editor_fresh_items": 144,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 60,
+    "stale_or_blocked_items": 57,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-10 02:01:43 PM ET"
+    "last_checked": "2026-09-10 02:43:52 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 13:30:15 -0400",
-      "age_hours": "0.52",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
       "editorial_score": "138",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Missouri judges press state on map plans after Supreme Court ruling",
-      "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
-      "snapshot": "Missouri's top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Republican Secretary of State... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Missouri, Supreme Court, GOP, Republican Secretary",
-        "Politics desk signal: congress, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Missouri judges press state on map plans after Supreme Court ruling",
-        "Source context: Missouri's top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Missouri.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 17:41:20 +0000",
-      "age_hours": "0.34",
-      "freshness_status": "fresh",
-      "editorial_score": "135",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,9 +74,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 10 Sep 2026 14:52:05 +0000",
-      "age_hours": "3.16",
+      "age_hours": "3.86",
       "freshness_status": "fresh",
       "editorial_score": "135",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Missouri judges press state on map plans after Supreme Court ruling",
+      "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
+      "snapshot": "Missouri's top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Missouri Secretary of State... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Missouri, Supreme Court, GOP, Missouri Secretary",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Missouri judges press state on map plans after Supreme Court ruling",
+        "Source context: Missouri's top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 10 Sep 2026 17:41:20 +0000",
+      "age_hours": "1.04",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 13:25:05 -0400",
-      "age_hours": "0.61",
+      "age_hours": "1.31",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 17:09:50 +0000",
-      "age_hours": "0.86",
+      "age_hours": "1.57",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -196,39 +196,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 13:30:15 -0400",
-      "age_hours": "0.52",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
       "editorial_score": "138",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Missouri judges press state on map plans after Supreme Court ruling",
-      "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
-      "snapshot": "Missouri's top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Republican Secretary of State... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Missouri, Supreme Court, GOP, Republican Secretary",
-        "Politics desk signal: congress, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Missouri judges press state on map plans after Supreme Court ruling",
-        "Source context: Missouri's top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Missouri.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 17:41:20 +0000",
-      "age_hours": "0.34",
-      "freshness_status": "fresh",
-      "editorial_score": "135",
       "urgency": "DEVELOPING"
     },
     {
@@ -256,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 10 Sep 2026 14:52:05 +0000",
-      "age_hours": "3.16",
+      "age_hours": "3.86",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
@@ -286,10 +256,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 13:25:05 -0400",
-      "age_hours": "0.61",
+      "age_hours": "1.31",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Missouri judges press state on map plans after Supreme Court ruling",
+      "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
+      "snapshot": "Missouri's top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Missouri Secretary of State... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Missouri, Supreme Court, GOP, Missouri Secretary",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Missouri judges press state on map plans after Supreme Court ruling",
+        "Source context: Missouri's top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 10 Sep 2026 17:41:20 +0000",
+      "age_hours": "1.04",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 17:09:50 +0000",
-      "age_hours": "0.86",
+      "age_hours": "1.57",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -324,8 +324,8 @@
   ],
   "key_storylines": [
     "Why not to bank on Trump's $5,000 dividends happening",
-    "Missouri judges press state on map plans after Supreme Court ruling",
-    "Supreme Court blocks Missouri's use of GOP-favored congressional map"
+    "Supreme Court blocks Missouri's use of GOP-favored congressional map",
+    "Trump pitches $5,000 payments, but only if GOP wins House and Senate"
   ],
   "sections": [
     {
@@ -353,39 +353,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 13:30:15 -0400",
-      "age_hours": "0.52",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
       "editorial_score": "138",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Missouri judges press state on map plans after Supreme Court ruling",
-      "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
-      "snapshot": "Missouri's top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Republican Secretary of State... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Missouri, Supreme Court, GOP, Republican Secretary",
-        "Politics desk signal: congress, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Missouri judges press state on map plans after Supreme Court ruling",
-        "Source context: Missouri's top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Missouri.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 17:41:20 +0000",
-      "age_hours": "0.34",
-      "freshness_status": "fresh",
-      "editorial_score": "135",
       "urgency": "DEVELOPING"
     },
     {
@@ -413,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 10 Sep 2026 14:52:05 +0000",
-      "age_hours": "3.16",
+      "age_hours": "3.86",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
@@ -443,10 +413,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 13:25:05 -0400",
-      "age_hours": "0.61",
+      "age_hours": "1.31",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Missouri judges press state on map plans after Supreme Court ruling",
+      "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
+      "snapshot": "Missouri's top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Missouri Secretary of State... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Missouri, Supreme Court, GOP, Missouri Secretary",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Missouri judges press state on map plans after Supreme Court ruling",
+        "Source context: Missouri's top judges pressed the state Thursday over how it will revert to an old congressional map after the U.S. Supreme Court blocked officials..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 10 Sep 2026 17:41:20 +0000",
+      "age_hours": "1.04",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 17:09:50 +0000",
-      "age_hours": "0.86",
+      "age_hours": "1.57",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 16:43:34 +0000",
-      "age_hours": "1.30",
+      "age_hours": "2.00",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
