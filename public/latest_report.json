@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump pitches $5,000 checks, but only if GOP wins House and Senate",
-  "snapshot": "President Trump vowed Wednesday to send a $5,000 \"dividend\" to every American citizen after the midterms, but only if Republicans hold onto control of Congress. He didn't offer details on how the payments would work. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-09-10 10:45:43 AM ET",
-  "generated_at": "2026-09-10 10:45:43 AM ET",
+  "headline": "Supreme Court blocks Missouri's use of GOP-favored congressional map",
+  "snapshot": "The Supreme Court on Thursday blocked an order that told Missouri to keep implementing Republicans' favored 7-1 congressional map, which sparked confusion about what boundaries would be used in the November election. By lifting that federal judge's directive, it leaves in... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-09-10 11:15:48 AM ET",
+  "generated_at": "2026-09-10 11:15:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 60,
-    "editor_fresh_items": 143,
-    "public_fallback_items": 145,
-    "stale_or_blocked_items": 89,
+    "total_items_checked": 148,
+    "live_fresh_items": 67,
+    "editor_fresh_items": 142,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 81,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-10 10:45:43 AM ET"
+    "last_checked": "2026-09-10 11:15:48 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,9 +42,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 12:07:30 +0000",
-      "age_hours": "2.64",
+      "age_hours": "3.14",
       "freshness_status": "fresh",
       "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court blocks Missouri's use of GOP-favored congressional map",
+      "url": "https://thehill.com/regulation/court-battles/6081621-supreme-court-blocks-missouri-congressional-map/",
+      "snapshot": "The Supreme Court on Thursday blocked an order that told Missouri to keep implementing Republicans' favored 7-1 congressional map, which sparked confusion about what boundaries would be used in the November election. By lifting that federal judge's directive, it leaves in... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Missouri, GOP, Republicans",
+        "Specific figures mentioned: 7, 1",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court blocks Missouri's use of GOP-favored congressional map"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 10 Sep 2026 14:52:05 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "135",
       "urgency": "DEVELOPING"
     },
     {
@@ -72,7 +102,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 01:11:00 -0400",
-      "age_hours": "9.58",
+      "age_hours": "10.08",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -102,21 +132,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 00:01:47 -0400",
-      "age_hours": "10.73",
+      "age_hours": "11.23",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
-      "url": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-      "snapshot": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds on to the House and Senate. \"I'm asking you to pretend that I'm on the ballot,\" he said in the keynote address... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Fox News's Baier presses Vance on Trump's $5K dividend promise",
+      "url": "https://thehill.com/homenews/administration/6081616-bret-baier-jd-vance-donald-trump-midterms-5k-dividends-gop-convention/",
+      "snapshot": "Fox News anchor Bret Baier pressed Vice President Vance on President Trump's pledge to give Americans $5,000 if Republicans keep control of Congress come November, saying critics would respond to the roughly $1.3 trillion payout as \"bribing voters.\" \"I can hear the critics'... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, GOP, November, President Trump",
-        "Specific figures mentioned: $5, 000",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Fox News, Baier, Vance, Trump",
+        "Specific figures mentioned: 5, $5, 000, $1.3",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention"
+        "Story focus: Fox News's Baier presses Vance on Trump's $5K dividend promise"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -124,45 +154,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Fox News.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 04:14:42 +0000",
-      "age_hours": "10.52",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump pledges $5K 'Trump dividend' if Republicans hold on to Congress",
-      "url": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
-      "snapshot": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold on to their majority in Congress come November. \"Here is my promise: If the Republicans win the House of Representatives and the United States Senate, both of them … because of... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, Congress, President Trump",
-        "Specific figures mentioned: 5, $5, 000",
-        "Politics desk signal: congress, senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pledges $5K 'Trump dividend' if Republicans hold on to Congress"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 02:48:47 +0000",
-      "age_hours": "11.95",
+      "published": "Thu, 10 Sep 2026 14:44:13 +0000",
+      "age_hours": "0.53",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -170,6 +170,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Supreme Court blocks Missouri's use of GOP-favored congressional map",
+      "url": "https://thehill.com/regulation/court-battles/6081621-supreme-court-blocks-missouri-congressional-map/",
+      "snapshot": "The Supreme Court on Thursday blocked an order that told Missouri to keep implementing Republicans' favored 7-1 congressional map, which sparked confusion about what boundaries would be used in the November election. By lifting that federal judge's directive, it leaves in... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Missouri, GOP, Republicans",
+        "Specific figures mentioned: 7, 1",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court blocks Missouri's use of GOP-favored congressional map"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 10 Sep 2026 14:52:05 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "135",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Trump pitches $5,000 checks, but only if GOP wins House and Senate",
       "url": "https://www.cbsnews.com/news/trump-dividends-5000-checks-rnc-midterm-convention/",
       "snapshot": "President Trump vowed Wednesday to send a $5,000 \"dividend\" to every American citizen after the midterms, but only if Republicans hold onto control of Congress. He didn't offer details on how the payments would work. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
@@ -194,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 01:11:00 -0400",
-      "age_hours": "9.58",
+      "age_hours": "10.08",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -224,21 +254,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 00:01:47 -0400",
-      "age_hours": "10.73",
+      "age_hours": "11.23",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
-      "url": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-      "snapshot": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds on to the House and Senate. \"I'm asking you to pretend that I'm on the ballot,\" he said in the keynote address... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Fox News's Baier presses Vance on Trump's $5K dividend promise",
+      "url": "https://thehill.com/homenews/administration/6081616-bret-baier-jd-vance-donald-trump-midterms-5k-dividends-gop-convention/",
+      "snapshot": "Fox News anchor Bret Baier pressed Vice President Vance on President Trump's pledge to give Americans $5,000 if Republicans keep control of Congress come November, saying critics would respond to the roughly $1.3 trillion payout as \"bribing voters.\" \"I can hear the critics'... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, GOP, November, President Trump",
-        "Specific figures mentioned: $5, 000",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Fox News, Baier, Vance, Trump",
+        "Specific figures mentioned: 5, $5, 000, $1.3",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention"
+        "Story focus: Fox News's Baier presses Vance on Trump's $5K dividend promise"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -246,45 +276,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Fox News.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 04:14:42 +0000",
-      "age_hours": "10.52",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump pledges $5K 'Trump dividend' if Republicans hold on to Congress",
-      "url": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
-      "snapshot": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold on to their majority in Congress come November. \"Here is my promise: If the Republicans win the House of Representatives and the United States Senate, both of them … because of... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, Congress, President Trump",
-        "Specific figures mentioned: 5, $5, 000",
-        "Politics desk signal: congress, senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pledges $5K 'Trump dividend' if Republicans hold on to Congress"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 02:48:47 +0000",
-      "age_hours": "11.95",
+      "published": "Thu, 10 Sep 2026 14:44:13 +0000",
+      "age_hours": "0.53",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -314,18 +314,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 14:13:03 +0000",
-      "age_hours": "0.54",
+      "age_hours": "1.05",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Supreme Court blocks Missouri's use of GOP-favored congressional map",
     "Trump pitches $5,000 checks, but only if GOP wins House and Senate",
-    "Federal judge backs Missouri's new House map after Supreme Court rebuffs case",
-    "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention"
+    "Federal judge backs Missouri's new House map after Supreme Court rebuffs case"
   ],
   "sections": [
+    {
+      "headline": "Supreme Court blocks Missouri's use of GOP-favored congressional map",
+      "url": "https://thehill.com/regulation/court-battles/6081621-supreme-court-blocks-missouri-congressional-map/",
+      "snapshot": "The Supreme Court on Thursday blocked an order that told Missouri to keep implementing Republicans' favored 7-1 congressional map, which sparked confusion about what boundaries would be used in the November election. By lifting that federal judge's directive, it leaves in... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Missouri, GOP, Republicans",
+        "Specific figures mentioned: 7, 1",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court blocks Missouri's use of GOP-favored congressional map"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 10 Sep 2026 14:52:05 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "135",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump pitches $5,000 checks, but only if GOP wins House and Senate",
       "url": "https://www.cbsnews.com/news/trump-dividends-5000-checks-rnc-midterm-convention/",
@@ -351,7 +381,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 01:11:00 -0400",
-      "age_hours": "9.58",
+      "age_hours": "10.08",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -381,21 +411,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 10 Sep 2026 00:01:47 -0400",
-      "age_hours": "10.73",
+      "age_hours": "11.23",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
-      "url": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-      "snapshot": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds on to the House and Senate. \"I'm asking you to pretend that I'm on the ballot,\" he said in the keynote address... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Fox News's Baier presses Vance on Trump's $5K dividend promise",
+      "url": "https://thehill.com/homenews/administration/6081616-bret-baier-jd-vance-donald-trump-midterms-5k-dividends-gop-convention/",
+      "snapshot": "Fox News anchor Bret Baier pressed Vice President Vance on President Trump's pledge to give Americans $5,000 if Republicans keep control of Congress come November, saying critics would respond to the roughly $1.3 trillion payout as \"bribing voters.\" \"I can hear the critics'... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, GOP, November, President Trump",
-        "Specific figures mentioned: $5, 000",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Fox News, Baier, Vance, Trump",
+        "Specific figures mentioned: 5, $5, 000, $1.3",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention"
+        "Story focus: Fox News's Baier presses Vance on Trump's $5K dividend promise"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -403,45 +433,15 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Fox News.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 04:14:42 +0000",
-      "age_hours": "10.52",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump pledges $5K 'Trump dividend' if Republicans hold on to Congress",
-      "url": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
-      "snapshot": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold on to their majority in Congress come November. \"Here is my promise: If the Republicans win the House of Representatives and the United States Senate, both of them … because of... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, Congress, President Trump",
-        "Specific figures mentioned: 5, $5, 000",
-        "Politics desk signal: congress, senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pledges $5K 'Trump dividend' if Republicans hold on to Congress"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 10 Sep 2026 02:48:47 +0000",
-      "age_hours": "11.95",
+      "published": "Thu, 10 Sep 2026 14:44:13 +0000",
+      "age_hours": "0.53",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -471,7 +471,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 14:13:03 +0000",
-      "age_hours": "0.54",
+      "age_hours": "1.05",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -499,7 +499,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 10 Sep 2026 12:07:30 +0000",
-      "age_hours": "2.64",
+      "age_hours": "3.14",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
