@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Joe diGenova resigns from DOJ after overseeing \"grand conspiracy\" probe",
   "snapshot": "Joe diGenova, the prosecutor who was tapped by Attorney General Todd Blanche to supervise the \"grand conspiracy\" investigation targeting Obama- and Biden-era officials, told CBS News he has resigned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-09-11 06:11:17 PM ET",
-  "generated_at": "2026-09-11 06:11:17 PM ET",
+  "updated_at": "2026-09-11 07:35:38 PM ET",
+  "generated_at": "2026-09-11 07:35:38 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 153,
-    "live_fresh_items": 89,
-    "editor_fresh_items": 150,
-    "public_fallback_items": 153,
-    "stale_or_blocked_items": 64,
+    "total_items_checked": 151,
+    "live_fresh_items": 91,
+    "editor_fresh_items": 148,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 60,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-11 06:11:17 PM ET"
+    "last_checked": "2026-09-11 07:35:38 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "2.40",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
@@ -74,9 +74,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-      "age_hours": "8.19",
+      "age_hours": "9.60",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "snapshot": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Flavio Bolsonaro, Brazil, Supreme Court, Banco Master",
+        "Politics desk signal: supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+        "Source context: The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Flavio Bolsonaro.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 11 Sep 2026 22:57:51 +0000",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,39 +134,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "1.43",
+      "age_hours": "2.83",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Deadly DRC school fire prompts calls for safety reforms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
-      "snapshot": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood",
-      "key_data": [
-        "Key people or organizations: Deadly DRC, Democratic Republic",
-        "Specific figures mentioned: 28",
-        "Story focus: Deadly DRC school fire prompts calls for safety reforms",
-        "Source context: A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood"
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Deadly DRC.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 11 Sep 2026 19:23:41 +0000",
-      "age_hours": "2.79",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "BREAKING"
     },
     {
       "headline": "Carney: Latest Trump trade moves 'relatively modest'",
@@ -163,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 11 Sep 2026 14:27:58 +0000",
-      "age_hours": "7.72",
+      "age_hours": "9.13",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
@@ -195,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "2.40",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
@@ -225,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-      "age_hours": "8.19",
+      "age_hours": "9.60",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -255,9 +256,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "1.43",
+      "age_hours": "2.83",
       "freshness_status": "fresh",
       "editorial_score": "128",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "snapshot": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Flavio Bolsonaro, Brazil, Supreme Court, Banco Master",
+        "Politics desk signal: supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+        "Source context: The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Flavio Bolsonaro.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 11 Sep 2026 22:57:51 +0000",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
@@ -285,40 +316,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 11 Sep 2026 14:27:58 +0000",
-      "age_hours": "7.72",
+      "age_hours": "9.13",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "UK lawmakers vote against bill to legalise assisted dying",
-      "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-      "snapshot": "Parliament's lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Parliament",
-        "Specific figures mentioned: 286, 270",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: UK lawmakers vote against bill to legalise assisted dying"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Parliament.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 11 Sep 2026 17:31:22 +0000",
-      "age_hours": "4.67",
-      "freshness_status": "fresh",
-      "editorial_score": "68",
-      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -352,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "2.40",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
@@ -382,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-      "age_hours": "8.19",
+      "age_hours": "9.60",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -412,9 +413,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "1.43",
+      "age_hours": "2.83",
       "freshness_status": "fresh",
       "editorial_score": "128",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "snapshot": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Flavio Bolsonaro, Brazil, Supreme Court, Banco Master",
+        "Politics desk signal: supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+        "Source context: The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Flavio Bolsonaro.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 11 Sep 2026 22:57:51 +0000",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
@@ -442,7 +473,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 11 Sep 2026 14:27:58 +0000",
-      "age_hours": "7.72",
+      "age_hours": "9.13",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
@@ -472,39 +503,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 11 Sep 2026 17:31:22 +0000",
-      "age_hours": "4.67",
+      "age_hours": "6.07",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": ""
-    },
-    {
-      "headline": "Deadly DRC school fire prompts calls for safety reforms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
-      "snapshot": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood",
-      "key_data": [
-        "Key people or organizations: Deadly DRC, Democratic Republic",
-        "Specific figures mentioned: 28",
-        "Story focus: Deadly DRC school fire prompts calls for safety reforms",
-        "Source context: A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood"
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Deadly DRC.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 11 Sep 2026 19:23:41 +0000",
-      "age_hours": "2.79",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
