@@ -128,7 +128,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-    "age_hours": "0.62",
+    "age_hours": "1.43",
     "freshness_status": "fresh",
     "editorial_score": "128",
     "urgency": "DEVELOPING"
@@ -184,10 +184,39 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-    "age_hours": "1.59",
+    "age_hours": "2.40",
     "freshness_status": "fresh",
     "editorial_score": "132",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Deadly DRC school fire prompts calls for safety reforms",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
+    "snapshot": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood",
+    "key_data": [
+      "Key people or organizations: Deadly DRC, Democratic Republic",
+      "Specific figures mentioned: 28",
+      "Story focus: Deadly DRC school fire prompts calls for safety reforms",
+      "Source context: A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood"
+    ],
+    "why_it_matters": [
+      "This affects the balance of power, policy debate or public trust.",
+      "The newsroom should identify who gains leverage and who faces accountability.",
+      "Editors should connect the story to the next governing, legal or electoral consequence."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Deadly DRC.",
+      "Track responses from lawmakers, courts, agencies or campaigns.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Fri, 11 Sep 2026 19:23:41 +0000",
+    "age_hours": "2.79",
+    "freshness_status": "fresh",
+    "editorial_score": "66",
+    "urgency": "BREAKING"
   },
   {
     "headline": "25 years after 9/11 attacks, America reflects and remembers",
@@ -382,7 +411,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 11 Sep 2026 14:27:58 +0000",
-    "age_hours": "0.83",
+    "age_hours": "7.72",
     "freshness_status": "fresh",
     "editorial_score": "103",
     "urgency": "DEVELOPING"
@@ -468,7 +497,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-    "age_hours": "7.39",
+    "age_hours": "8.19",
     "freshness_status": "fresh",
     "editorial_score": "129",
     "urgency": "DEVELOPING"
