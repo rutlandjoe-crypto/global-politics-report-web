@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Joe diGenova resigns from DOJ after overseeing \"grand conspiracy\" probe",
   "snapshot": "Joe diGenova, the prosecutor who was tapped by Attorney General Todd Blanche to supervise the \"grand conspiracy\" investigation targeting Obama- and Biden-era officials, told CBS News he has resigned. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-09-11 09:39:40 PM ET",
-  "generated_at": "2026-09-11 09:39:40 PM ET",
+  "updated_at": "2026-09-12 01:20:56 AM ET",
+  "generated_at": "2026-09-12 01:20:56 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 152,
-    "live_fresh_items": 83,
-    "editor_fresh_items": 149,
+    "live_fresh_items": 66,
+    "editor_fresh_items": 147,
     "public_fallback_items": 152,
-    "stale_or_blocked_items": 69,
+    "stale_or_blocked_items": 86,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-11 09:39:40 PM ET"
+    "last_checked": "2026-09-12 01:20:56 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "5.87",
+      "age_hours": "9.56",
       "freshness_status": "fresh",
       "editorial_score": "132",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Joe diGenova resigns from DOJ position investigating Trump foes",
-      "url": "https://thehill.com/homenews/administration/6084344-jodigenova-trump-investigation-resigned/",
-      "snapshot": "Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president's perceived enemies, resigned from his post late Thursday, indicating concerns over the strength of the case. The so-called grand conspiracy investigation was led out of a U.S.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Joe, Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Joe diGenova resigns from DOJ position investigating Trump foes",
-        "Source context: Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president's perceived enemies, resigned from his post late..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Joe.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-      "age_hours": "11.67",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,10 +74,37 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 11 Sep 2026 22:57:51 +0000",
-      "age_hours": "2.70",
+      "age_hours": "6.38",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "'The family paid the price': India's deadly online gambling crisis",
+      "url": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
+      "snapshot": "Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.",
+      "key_data": [
+        "Story focus: 'The family paid the price'",
+        "Source context: Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 12 Sep 2026 04:46:56 +0000",
+      "age_hours": "0.57",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Lawsuit seeks to block deployment of ICE, federal agents to polling sites",
@@ -134,39 +131,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "4.90",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Deadly DRC school fire prompts calls for safety reforms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
-      "snapshot": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood",
+      "headline": "Bacon says he's mulling 2028 White House bid",
+      "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
+      "snapshot": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview to be released in full Saturday that he would \"love\" to run. \"I won't lie.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Deadly DRC, Democratic Republic",
-        "Specific figures mentioned: 28",
-        "Story focus: Deadly DRC school fire prompts calls for safety reforms",
-        "Source context: A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood"
+        "Key people or organizations: Bacon, White House, Don Bacon",
+        "Specific figures mentioned: 2028",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Bacon says he's mulling 2028 White House bid"
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Deadly DRC.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Bacon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 11 Sep 2026 19:23:41 +0000",
-      "age_hours": "6.27",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 12 Sep 2026 00:50:58 +0000",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "BREAKING"
+      "editorial_score": "103",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -195,39 +193,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "5.87",
+      "age_hours": "9.56",
       "freshness_status": "fresh",
       "editorial_score": "132",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Joe diGenova resigns from DOJ position investigating Trump foes",
-      "url": "https://thehill.com/homenews/administration/6084344-jodigenova-trump-investigation-resigned/",
-      "snapshot": "Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president's perceived enemies, resigned from his post late Thursday, indicating concerns over the strength of the case. The so-called grand conspiracy investigation was led out of a U.S.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Joe, Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Joe diGenova resigns from DOJ position investigating Trump foes",
-        "Source context: Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president's perceived enemies, resigned from his post late..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Joe.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-      "age_hours": "11.67",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
@@ -255,7 +223,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "4.90",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -285,21 +253,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 11 Sep 2026 22:57:51 +0000",
-      "age_hours": "2.70",
+      "age_hours": "6.38",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Carney: Latest Trump trade moves 'relatively modest'",
-      "url": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
-      "snapshot": "Canadian Prime Minister Mark Carney said Thursday that President Trump's latest round of tariffs is \"relatively modest\" compared with the United States's past moves. When talking with reporters at a Cabinet retreat in Banff, Alberta, Carney was asked if Canada was going to... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Bacon says he's mulling 2028 White House bid",
+      "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
+      "snapshot": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview to be released in full Saturday that he would \"love\" to run. \"I won't lie.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Carney, Latest Trump, Canadian Prime Minister Mark, President Trump",
-        "Politics desk signal: election, campaign, tariff",
+        "Key people or organizations: Bacon, White House, Don Bacon",
+        "Specific figures mentioned: 2028",
+        "Politics desk signal: congress, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Carney",
-        "Source context: Canadian Prime Minister Mark Carney said Thursday that President Trump's latest round of tariffs is \"relatively modest\" compared with the United..."
+        "Story focus: Bacon says he's mulling 2028 White House bid"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -307,24 +275,54 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Carney.",
+        "Watch for the next official action involving Bacon.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 11 Sep 2026 14:27:58 +0000",
-      "age_hours": "11.19",
+      "published": "Sat, 12 Sep 2026 00:50:58 +0000",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
       "editorial_score": "103",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump, Hegseth tie Iran war into 9/11 speeches",
+      "url": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/",
+      "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A link between Iran war and 9/11 in Trump administration speeches President Trump and Defense Secretary Pete Hegseth tied the Iran war to the Sept.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Hegseth, Iran",
+        "Specific figures mentioned: 9, 11",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, Hegseth tie Iran war into 9/11 speeches"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 11 Sep 2026 23:07:09 +0000",
+      "age_hours": "6.23",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Joe diGenova resigns from DOJ after overseeing \"grand conspiracy\" probe",
-    "Joe diGenova resigns from DOJ position investigating Trump foes",
-    "Lawsuit seeks to block deployment of ICE, federal agents to polling sites"
+    "Lawsuit seeks to block deployment of ICE, federal agents to polling sites",
+    "Flavio Bolsonaro faces corruption probe weeks before Brazil election"
   ],
   "sections": [
     {
@@ -352,39 +350,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "5.87",
+      "age_hours": "9.56",
       "freshness_status": "fresh",
       "editorial_score": "132",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Joe diGenova resigns from DOJ position investigating Trump foes",
-      "url": "https://thehill.com/homenews/administration/6084344-jodigenova-trump-investigation-resigned/",
-      "snapshot": "Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president's perceived enemies, resigned from his post late Thursday, indicating concerns over the strength of the case. The so-called grand conspiracy investigation was led out of a U.S.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: Joe, Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Joe diGenova resigns from DOJ position investigating Trump foes",
-        "Source context: Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president's perceived enemies, resigned from his post late..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Joe.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 11 Sep 2026 13:59:44 +0000",
-      "age_hours": "11.67",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
@@ -412,7 +380,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "4.90",
+      "age_hours": "8.59",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -442,21 +410,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 11 Sep 2026 22:57:51 +0000",
-      "age_hours": "2.70",
+      "age_hours": "6.38",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Carney: Latest Trump trade moves 'relatively modest'",
-      "url": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
-      "snapshot": "Canadian Prime Minister Mark Carney said Thursday that President Trump's latest round of tariffs is \"relatively modest\" compared with the United States's past moves. When talking with reporters at a Cabinet retreat in Banff, Alberta, Carney was asked if Canada was going to... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Bacon says he's mulling 2028 White House bid",
+      "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
+      "snapshot": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview to be released in full Saturday that he would \"love\" to run. \"I won't lie.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Carney, Latest Trump, Canadian Prime Minister Mark, President Trump",
-        "Politics desk signal: election, campaign, tariff",
+        "Key people or organizations: Bacon, White House, Don Bacon",
+        "Specific figures mentioned: 2028",
+        "Politics desk signal: congress, house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Carney",
-        "Source context: Canadian Prime Minister Mark Carney said Thursday that President Trump's latest round of tariffs is \"relatively modest\" compared with the United..."
+        "Story focus: Bacon says he's mulling 2028 White House bid"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -464,28 +432,56 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Carney.",
+        "Watch for the next official action involving Bacon.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 11 Sep 2026 14:27:58 +0000",
-      "age_hours": "11.19",
+      "published": "Sat, 12 Sep 2026 00:50:58 +0000",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
       "editorial_score": "103",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
     },
     {
-      "headline": "Deadly DRC school fire prompts calls for safety reforms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
-      "snapshot": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood",
+      "headline": "Trump, Hegseth tie Iran war into 9/11 speeches",
+      "url": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/",
+      "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A link between Iran war and 9/11 in Trump administration speeches President Trump and Defense Secretary Pete Hegseth tied the Iran war to the Sept.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Deadly DRC, Democratic Republic",
-        "Specific figures mentioned: 28",
-        "Story focus: Deadly DRC school fire prompts calls for safety reforms",
-        "Source context: A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood"
+        "Key people or organizations: Trump, Hegseth, Iran",
+        "Specific figures mentioned: 9, 11",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump, Hegseth tie Iran war into 9/11 speeches"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 11 Sep 2026 23:07:09 +0000",
+      "age_hours": "6.23",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "'The family paid the price': India's deadly online gambling crisis",
+      "url": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
+      "snapshot": "Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.",
+      "key_data": [
+        "Story focus: 'The family paid the price'",
+        "Source context: Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban."
       ],
       "why_it_matters": [
         "This affects the balance of power, policy debate or public trust.",
@@ -493,17 +489,17 @@
         "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Deadly DRC.",
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 11 Sep 2026 19:23:41 +0000",
-      "age_hours": "6.27",
+      "published": "Sat, 12 Sep 2026 04:46:56 +0000",
+      "age_hours": "0.57",
       "freshness_status": "fresh",
-      "editorial_score": "66",
+      "editorial_score": "70",
       "urgency": "BREAKING"
     }
   ],
