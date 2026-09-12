@@ -47,7 +47,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 12 Sep 2026 04:46:56 +0000",
-    "age_hours": "1.79",
+    "age_hours": "5.21",
     "freshness_status": "fresh",
     "editorial_score": "70",
     "urgency": "BREAKING"
@@ -129,7 +129,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 12 Sep 2026 00:50:58 +0000",
-    "age_hours": "5.73",
+    "age_hours": "9.14",
     "freshness_status": "fresh",
     "editorial_score": "103",
     "urgency": "WATCH"
@@ -187,6 +187,65 @@
     "urgency": ""
   },
   {
+    "headline": "CIA declassifies dozens of never-before-seen 9/11 documents",
+    "url": "https://www.cbsnews.com/news/cia-declassified-9-11-files-intelligence-reports/",
+    "snapshot": "The CIA released 71 reports from the months and years leading up to 9/11, providing a new look at what the spy agency told two presidents before the deadly strikes.",
+    "key_data": [
+      "Key people or organizations: CIA",
+      "Specific figures mentioned: 9, 11, 71",
+      "Story focus: CIA declassifies dozens of never-before-seen 9/11 documents",
+      "Source context: The CIA released 71 reports from the months and years leading up to 9/11, providing a new look at what the spy agency told two presidents before the..."
+    ],
+    "why_it_matters": [
+      "This affects the balance of power, policy debate or public trust.",
+      "The newsroom should identify who gains leverage and who faces accountability.",
+      "Editors should connect the story to the next governing, legal or electoral consequence."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving CIA.",
+      "Track responses from lawmakers, courts, agencies or campaigns.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Fri, 11 Sep 2026 19:52:06 -0400",
+    "age_hours": "10.12",
+    "freshness_status": "fresh",
+    "editorial_score": "102",
+    "urgency": "BREAKING"
+  },
+  {
+    "headline": "Trump, Hegseth tie Iran war into 9/11 speeches",
+    "url": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/",
+    "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A link between Iran war and 9/11 in Trump administration speeches President Trump and Defense Secretary Pete Hegseth tied the Iran war to the Sept.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "key_data": [
+      "Key people or organizations: Trump, Hegseth, Iran",
+      "Specific figures mentioned: 9, 11",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump, Hegseth tie Iran war into 9/11 speeches"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Fri, 11 Sep 2026 23:07:09 +0000",
+    "age_hours": "10.87",
+    "freshness_status": "fresh",
+    "editorial_score": "99",
+    "urgency": ""
+  },
+  {
     "headline": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
     "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
     "snapshot": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -215,6 +274,36 @@
     "freshness_status": "fresh",
     "editorial_score": "114",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Michigan Senate candidates battle over their records on 9/11 at 25-year mark",
+    "url": "https://www.cbsnews.com/news/michigan-senate-candidates-25-years-9-11-el-sayed-rogers/",
+    "snapshot": "The candidates in Michigan's closely watched U.S. Senate race, Democrat Abdul El-Sayed and Republican Mike Rogers, have exchanged criticism over their records on the 9/11 attacks. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: Michigan Senate, Michigan, Senate, Democrat Abdul El",
+      "Specific figures mentioned: 9, 11, 25",
+      "Politics desk signal: senate",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Michigan Senate candidates battle over their records on 9/11 at 25-year mark"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Michigan Senate.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Fri, 11 Sep 2026 18:10:01 -0400",
+    "age_hours": "11.82",
+    "freshness_status": "fresh",
+    "editorial_score": "100",
+    "urgency": ""
   },
   {
     "headline": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
