@@ -1,10 +1,10 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
-  "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-09-12 09:29:27 AM ET",
-  "generated_at": "2026-09-12 09:29:27 AM ET",
+  "headline": "The Memo: Trump's convention may struggle to turn tide for GOP",
+  "snapshot": "President Trump basked in the approval of the MAGA base during this week's Republican midterm convention in Dallas. But the bigger question is whether the event made any difference to a political landscape that is seriously challenging for Republicans as Election Day looms... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+  "updated_at": "2026-09-12 10:26:18 AM ET",
+  "generated_at": "2026-09-12 10:26:18 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -13,10 +13,10 @@
     "total_items_checked": 153,
     "live_fresh_items": 37,
     "editor_fresh_items": 120,
-    "public_fallback_items": 153,
+    "public_fallback_items": 152,
     "stale_or_blocked_items": 116,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-12 09:29:27 AM ET"
+    "last_checked": "2026-09-12 10:26:18 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 12 Sep 2026 10:36:18 +0000",
-      "age_hours": "2.89",
+      "age_hours": "3.83",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
@@ -70,40 +70,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 12 Sep 2026 11:04:34 +0000",
-      "age_hours": "2.41",
+      "age_hours": "3.36",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
-      "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
-      "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, President Trump",
-        "Specific figures mentioned: 5, $5, 000",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "age_hours": "3.49",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
     },
     {
       "headline": "The Memo: Trump's convention may struggle to turn tide for GOP",
@@ -130,7 +100,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "age_hours": "3.49",
+      "age_hours": "4.44",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
+      "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
+      "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Republicans, President Trump",
+        "Specific figures mentioned: 5, $5, 000",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -138,13 +138,13 @@
     {
       "headline": "Trump says he would \"love\" a unified Ireland as he kicks off visit",
       "url": "https://www.cbsnews.com/news/trump-ireland-dublin-visit-irish-open-golf/",
-      "snapshot": "The visit mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "snapshot": "President Trump's visit to Ireland mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Irish, Irish Open",
+        "Key people or organizations: Trump, Ireland, President Trump, Irish",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump says he would \"love\" a unified Ireland as he kicks off visit",
-        "Source context: The visit mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns. The election angle is..."
+        "Source context: President Trump's visit to Ireland mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -159,8 +159,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 12 Sep 2026 08:30:46 -0400",
-      "age_hours": "0.98",
+      "published": "Sat, 12 Sep 2026 08:30:00 -0400",
+      "age_hours": "1.94",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -192,40 +192,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 15:47:24 -0400",
-      "age_hours": "17.70",
+      "age_hours": "18.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "102",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
-      "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
-      "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, President Trump",
-        "Specific figures mentioned: 5, $5, 000",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "age_hours": "3.49",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
     },
     {
       "headline": "The Memo: Trump's convention may struggle to turn tide for GOP",
@@ -252,7 +222,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "age_hours": "3.49",
+      "age_hours": "4.44",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
+      "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
+      "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Republicans, President Trump",
+        "Specific figures mentioned: 5, $5, 000",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -282,7 +282,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 16:45:46 -0400",
-      "age_hours": "16.73",
+      "age_hours": "17.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "98",
       "urgency": "DEVELOPING"
@@ -310,48 +310,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 12 Sep 2026 10:36:18 +0000",
-      "age_hours": "2.89",
+      "age_hours": "3.83",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
     "The Memo: Trump's convention may struggle to turn tide for GOP",
+    "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
     "Trump says he would \"love\" a unified Ireland as he kicks off visit"
   ],
   "sections": [
-    {
-      "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
-      "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
-      "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, President Trump",
-        "Specific figures mentioned: 5, $5, 000",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "age_hours": "3.49",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
     {
       "headline": "The Memo: Trump's convention may struggle to turn tide for GOP",
       "url": "https://thehill.com/homenews/campaign/6085663-trump-republican-midterm-convention-impact/",
@@ -377,7 +347,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "age_hours": "3.49",
+      "age_hours": "4.44",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
+      "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
+      "snapshot": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. The president announced the so-called \"Trump dividends\" on the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Republicans, President Trump",
+        "Specific figures mentioned: 5, $5, 000",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -385,13 +385,13 @@
     {
       "headline": "Trump says he would \"love\" a unified Ireland as he kicks off visit",
       "url": "https://www.cbsnews.com/news/trump-ireland-dublin-visit-irish-open-golf/",
-      "snapshot": "The visit mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "snapshot": "President Trump's visit to Ireland mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Irish, Irish Open",
+        "Key people or organizations: Trump, Ireland, President Trump, Irish",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Trump says he would \"love\" a unified Ireland as he kicks off visit",
-        "Source context: The visit mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns. The election angle is..."
+        "Source context: President Trump's visit to Ireland mixes official talks with Irish leaders and attendance at the Irish Open at a golf course that the president owns...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -406,8 +406,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 12 Sep 2026 08:30:46 -0400",
-      "age_hours": "0.98",
+      "published": "Sat, 12 Sep 2026 08:30:00 -0400",
+      "age_hours": "1.94",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -437,7 +437,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 11 Sep 2026 22:55:01 -0400",
-      "age_hours": "10.57",
+      "age_hours": "11.52",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -465,7 +465,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 12 Sep 2026 10:36:18 +0000",
-      "age_hours": "2.89",
+      "age_hours": "3.83",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
@@ -493,7 +493,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 12 Sep 2026 11:04:34 +0000",
-      "age_hours": "2.41",
+      "age_hours": "3.36",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
