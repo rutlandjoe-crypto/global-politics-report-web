@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "House votes to limit Trump's power to strike Iran for 3rd time",
   "snapshot": "The previous votes have failed to stop President Trump from waging war with Iran. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-09-16 06:26:02 PM ET",
-  "generated_at": "2026-09-16 06:26:02 PM ET",
+  "updated_at": "2026-09-16 07:30:35 PM ET",
+  "generated_at": "2026-09-16 07:30:35 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 106,
-    "editor_fresh_items": 150,
-    "public_fallback_items": 151,
-    "stale_or_blocked_items": 45,
+    "total_items_checked": 150,
+    "live_fresh_items": 111,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 39,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-16 06:26:02 PM ET"
+    "last_checked": "2026-09-16 07:30:35 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 16 Sep 2026 10:29:12 -0400",
-      "age_hours": "7.95",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "138",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "RFK Jr.'s sister knocks Trump on Kennedy Center shutdown",
-      "url": "https://thehill.com/regulation/court-battles/6092313-kerry-kennedy-rfk-jr-donald-trump-kennedy-center-legal-battle/",
-      "snapshot": "Kerry Kennedy, the sister of Health and Human Services Secretary Robert F. Kennedy Jr., blamed President Trump for the Kennedy Center's board voting to close the performing arts venue, calling the decision a \"tragedy.\" \"The American people love the Kennedy Center,\" she told... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: RFK Jr, Trump, Kennedy Center, Kerry Kennedy",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: RFK Jr.'s sister knocks Trump on Kennedy Center shutdown",
-        "Source context: Kerry Kennedy, the sister of Health and Human Services Secretary Robert F. Kennedy Jr., blamed President Trump for the Kennedy Center's board voting..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving RFK Jr.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 16 Sep 2026 13:24:25 +0000",
-      "age_hours": "9.03",
-      "freshness_status": "fresh",
-      "editorial_score": "105",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,10 +74,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 16 Sep 2026 09:34:31 -0400",
-      "age_hours": "8.86",
+      "age_hours": "9.93",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "House passes Russia sanctions bill, sending it to Trump's desk",
+      "url": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/",
+      "snapshot": "The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose tougher sanctions against the Kremlin over its war in Ukraine. The bill will now be sent to Trump's desk for his signature, marking... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: House, Russia, Trump, President Trump",
+        "Politics desk signal: house, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House passes Russia sanctions bill, sending it to Trump's desk",
+        "Source context: The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 16 Sep 2026 22:32:24 +0000",
+      "age_hours": "0.97",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Top Democrat puts hold on Trump's $2.8B weapons sale to Israel",
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 16 Sep 2026 19:42:18 +0000",
-      "age_hours": "2.73",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -163,7 +163,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 16 Sep 2026 19:45:30 +0000",
-      "age_hours": "2.68",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -195,10 +195,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 16 Sep 2026 10:29:12 -0400",
-      "age_hours": "7.95",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "House passes Russia sanctions bill, sending it to Trump's desk",
+      "url": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/",
+      "snapshot": "The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose tougher sanctions against the Kremlin over its war in Ukraine. The bill will now be sent to Trump's desk for his signature, marking... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: House, Russia, Trump, President Trump",
+        "Politics desk signal: house, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House passes Russia sanctions bill, sending it to Trump's desk",
+        "Source context: The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 16 Sep 2026 22:32:24 +0000",
+      "age_hours": "0.97",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Trump's allies eye big spending cuts as part of postelection agenda",
@@ -225,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 16 Sep 2026 10:00:00 +0000",
-      "age_hours": "12.43",
+      "age_hours": "13.51",
       "freshness_status": "editor_fresh",
       "editorial_score": "123",
       "urgency": "WATCH"
@@ -255,40 +285,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 16 Sep 2026 09:34:31 -0400",
-      "age_hours": "8.86",
+      "age_hours": "9.93",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Top Democrat puts hold on Trump's $2.8B weapons sale to Israel",
-      "url": "https://thehill.com/homenews/house/6093729-trump-israel-bombs-objection/",
-      "snapshot": "The top Democrat on the House Foreign Affairs Committee took the rare step Wednesday of publicly announcing a hold on the Trump administration's $2.8 billion plan to sell 40,000 one-ton bombs to Israel. Rep. Gregory Meeks (D-N.Y.), the ranking member of the panel, said in a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Top Democrat, Trump, Israel, Democrat",
-        "Specific figures mentioned: $2.8B, $2.8 billion, 40, 000",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Top Democrat puts hold on Trump's $2.8B weapons sale to Israel"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Top Democrat.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 16 Sep 2026 19:42:18 +0000",
-      "age_hours": "2.73",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
     },
     {
       "headline": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
@@ -314,7 +314,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 16 Sep 2026 19:45:30 +0000",
-      "age_hours": "2.68",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -322,8 +322,8 @@
   ],
   "key_storylines": [
     "House votes to limit Trump's power to strike Iran for 3rd time",
-    "Board votes to close Kennedy Center immediately for renovations, source says",
-    "Top Democrat puts hold on Trump's $2.8B weapons sale to Israel"
+    "House passes Russia sanctions bill, sending it to Trump's desk",
+    "Board votes to close Kennedy Center immediately for renovations, source says"
   ],
   "sections": [
     {
@@ -351,10 +351,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 16 Sep 2026 10:29:12 -0400",
-      "age_hours": "7.95",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "House passes Russia sanctions bill, sending it to Trump's desk",
+      "url": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/",
+      "snapshot": "The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose tougher sanctions against the Kremlin over its war in Ukraine. The bill will now be sent to Trump's desk for his signature, marking... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: House, Russia, Trump, President Trump",
+        "Politics desk signal: house, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: House passes Russia sanctions bill, sending it to Trump's desk",
+        "Source context: The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 16 Sep 2026 22:32:24 +0000",
+      "age_hours": "0.97",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
     },
     {
       "headline": "Board votes to close Kennedy Center immediately for renovations, source says",
@@ -381,7 +411,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 16 Sep 2026 09:34:31 -0400",
-      "age_hours": "8.86",
+      "age_hours": "9.93",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -411,40 +441,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 16 Sep 2026 19:42:18 +0000",
-      "age_hours": "2.73",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
-    },
-    {
-      "headline": "RFK Jr.'s sister knocks Trump on Kennedy Center shutdown",
-      "url": "https://thehill.com/regulation/court-battles/6092313-kerry-kennedy-rfk-jr-donald-trump-kennedy-center-legal-battle/",
-      "snapshot": "Kerry Kennedy, the sister of Health and Human Services Secretary Robert F. Kennedy Jr., blamed President Trump for the Kennedy Center's board voting to close the performing arts venue, calling the decision a \"tragedy.\" \"The American people love the Kennedy Center,\" she told... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: RFK Jr, Trump, Kennedy Center, Kerry Kennedy",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: RFK Jr.'s sister knocks Trump on Kennedy Center shutdown",
-        "Source context: Kerry Kennedy, the sister of Health and Human Services Secretary Robert F. Kennedy Jr., blamed President Trump for the Kennedy Center's board voting..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving RFK Jr.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 16 Sep 2026 13:24:25 +0000",
-      "age_hours": "9.03",
-      "freshness_status": "fresh",
-      "editorial_score": "105",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
@@ -470,7 +470,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 16 Sep 2026 19:45:30 +0000",
-      "age_hours": "2.68",
+      "age_hours": "3.75",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -500,7 +500,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 16 Sep 2026 16:57:32 +0000",
-      "age_hours": "5.47",
+      "age_hours": "6.55",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": ""
