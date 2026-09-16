@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump lashes out at judges ruling against his priorities, pet projects",
-  "snapshot": "After a federal judge ruled once again that the Kennedy Center could not also bear the name of President Trump, unless Congress directed it, the president's hand-picked board voted to shut the whole thing down. Ed O'Keefe reports from the White House. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and...",
-  "updated_at": "2026-09-16 03:08:07 AM ET",
-  "generated_at": "2026-09-16 03:08:07 AM ET",
+  "headline": "Trump's allies eye big spending cuts as part of postelection agenda",
+  "snapshot": "Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck Congress to offset tens of billions of dollars in new defense spending, including funding for the war in Iran, if Democrats pick... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-09-16 06:21:01 AM ET",
+  "generated_at": "2026-09-16 06:21:01 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 76,
-    "editor_fresh_items": 150,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 74,
+    "total_items_checked": 152,
+    "live_fresh_items": 49,
+    "editor_fresh_items": 151,
+    "public_fallback_items": 152,
+    "stale_or_blocked_items": 103,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-16 03:08:07 AM ET"
+    "last_checked": "2026-09-16 06:21:01 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Trump's allies eye big spending cuts as part of postelection agenda",
+      "url": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/",
+      "snapshot": "Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck Congress to offset tens of billions of dollars in new defense spending, including funding for the war in Iran, if Democrats pick... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate, President Trump, Congress",
+        "Politics desk signal: congress, senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's allies eye big spending cuts as part of postelection agenda",
+        "Source context: Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 16 Sep 2026 10:00:00 +0000",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
+      "editorial_score": "153",
+      "urgency": "WATCH"
+    },
     {
       "headline": "House votes to limit Trump's power to strike Iran for 3rd time",
       "url": "https://www.cbsnews.com/news/house-approves-limiting-trump-on-iran-for-third-time/",
@@ -44,9 +74,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 15 Sep 2026 22:46:34 -0400",
-      "age_hours": "4.36",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "At least five killed in Russian drone strike near Ukraine front line",
+      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+      "snapshot": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Ukraine",
+        "Politics desk signal: ukraine",
+        "Story focus: At least five killed in Russian drone strike near Ukraine front line",
+        "Source context: At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ukraine.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 16 Sep 2026 09:32:52 +0000",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,21 +133,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 15 Sep 2026 20:38:05 -0400",
-      "age_hours": "6.50",
+      "age_hours": "9.72",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": ""
     },
     {
-      "headline": "House sinks Al Green bid to impeach Trump",
-      "url": "https://thehill.com/homenews/house/6091357-trump-impeachment-al-green/",
-      "snapshot": "House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration's aggressive deportation agenda. Sponsored by Rep. Al Green (D-Texas), the resolution accused Trump of abusing his powers by launching an immigration crackdown that led... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "House passes Iran war powers resolution",
+      "url": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
+      "snapshot": "The House on Tuesday passed a Democratic-backed war powers resolution that would limit President Trump's military actions in Iran. The lower chamber voted 220-204 to pass the resolution, sponsored by Rep. Seth Moulton (D-Mass.). Seven Republicans voted in favor of the measure:... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: House, Al Green, Trump",
-        "Politics desk signal: house, immigration",
+        "Key people or organizations: House, Iran, President Trump",
+        "Specific figures mentioned: 220, 204",
+        "Politics desk signal: house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House sinks Al Green bid to impeach Trump",
-        "Source context: House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration's aggressive deportation agenda...."
+        "Story focus: House passes Iran war powers resolution"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -103,75 +162,45 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 15 Sep 2026 20:51:20 +0000",
-      "age_hours": "10.28",
+      "published": "Wed, 16 Sep 2026 02:37:09 +0000",
+      "age_hours": "7.73",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Two Democrats cross aisle to help tee up final vote on Russia sanctions bill",
-      "url": "https://thehill.com/homenews/house/6090848-graham-russia-sanctions-bill-house-advances/",
-      "snapshot": "The House advanced legislation on Tuesday that grants President Trump tariff authorities on countries purchasing Russian energy and extends existing sanctions on Iran, clearing a major procedural hurdle for the Russia Sanctions Act. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Two Democrats, Russia, President Trump",
-        "Politics desk signal: house, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Two Democrats cross aisle to help tee up final vote on Russia sanctions bill",
-        "Source context: The House advanced legislation on Tuesday that grants President Trump tariff authorities on countries purchasing Russian energy and extends existing..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Two Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 15 Sep 2026 21:29:04 +0000",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": ""
-    },
-    {
-      "headline": "Republican forces Congress to hold impeachment vote for Pete Hegseth",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss",
-      "snapshot": "United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Congress, Pete Hegseth, United States Representative Thomas",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Republican forces Congress to hold impeachment vote for Pete Hegseth",
-        "Source context: United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 16 Sep 2026 05:21:18 +0000",
-      "age_hours": "1.78",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "97",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Trump's allies eye big spending cuts as part of postelection agenda",
+      "url": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/",
+      "snapshot": "Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck Congress to offset tens of billions of dollars in new defense spending, including funding for the war in Iran, if Democrats pick... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate, President Trump, Congress",
+        "Politics desk signal: congress, senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's allies eye big spending cuts as part of postelection agenda",
+        "Source context: Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 16 Sep 2026 10:00:00 +0000",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
+      "editorial_score": "153",
+      "urgency": "WATCH"
+    },
+    {
       "headline": "Trump lashes out at judges ruling against his priorities, pet projects",
       "url": "https://www.cbsnews.com/video/trump-lashes-out-judges-ruling-against-priorities-pet-projects/",
       "snapshot": "After a federal judge ruled once again that the Kennedy Center could not also bear the name of President Trump, unless Congress directed it, the president's hand-picked board voted to shut the whole thing down. Ed O'Keefe reports from the White House. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and...",
@@ -196,7 +225,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 15 Sep 2026 20:38:05 -0400",
-      "age_hours": "6.50",
+      "age_hours": "9.72",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": ""
@@ -226,21 +255,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 15 Sep 2026 22:46:34 -0400",
-      "age_hours": "4.36",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "House sinks Al Green bid to impeach Trump",
-      "url": "https://thehill.com/homenews/house/6091357-trump-impeachment-al-green/",
-      "snapshot": "House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration's aggressive deportation agenda. Sponsored by Rep. Al Green (D-Texas), the resolution accused Trump of abusing his powers by launching an immigration crackdown that led... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "House passes Iran war powers resolution",
+      "url": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
+      "snapshot": "The House on Tuesday passed a Democratic-backed war powers resolution that would limit President Trump's military actions in Iran. The lower chamber voted 220-204 to pass the resolution, sponsored by Rep. Seth Moulton (D-Mass.). Seven Republicans voted in favor of the measure:... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: House, Al Green, Trump",
-        "Politics desk signal: house, immigration",
+        "Key people or organizations: House, Iran, President Trump",
+        "Specific figures mentioned: 220, 204",
+        "Politics desk signal: house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House sinks Al Green bid to impeach Trump",
-        "Source context: House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration's aggressive deportation agenda...."
+        "Story focus: House passes Iran war powers resolution"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -255,40 +284,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 15 Sep 2026 20:51:20 +0000",
-      "age_hours": "10.28",
+      "published": "Wed, 16 Sep 2026 02:37:09 +0000",
+      "age_hours": "7.73",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Two Democrats cross aisle to help tee up final vote on Russia sanctions bill",
-      "url": "https://thehill.com/homenews/house/6090848-graham-russia-sanctions-bill-house-advances/",
-      "snapshot": "The House advanced legislation on Tuesday that grants President Trump tariff authorities on countries purchasing Russian energy and extends existing sanctions on Iran, clearing a major procedural hurdle for the Russia Sanctions Act. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Two Democrats, Russia, President Trump",
-        "Politics desk signal: house, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Two Democrats cross aisle to help tee up final vote on Russia sanctions bill",
-        "Source context: The House advanced legislation on Tuesday that grants President Trump tariff authorities on countries purchasing Russian energy and extends existing..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Two Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 15 Sep 2026 21:29:04 +0000",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
+      "editorial_score": "97",
       "urgency": ""
     },
     {
@@ -316,18 +315,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 16 Sep 2026 05:21:18 +0000",
-      "age_hours": "1.78",
+      "age_hours": "5.00",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Trump's allies eye big spending cuts as part of postelection agenda",
     "Trump lashes out at judges ruling against his priorities, pet projects",
-    "House votes to limit Trump's power to strike Iran for 3rd time",
-    "House sinks Al Green bid to impeach Trump"
+    "House votes to limit Trump's power to strike Iran for 3rd time"
   ],
   "sections": [
+    {
+      "headline": "Trump's allies eye big spending cuts as part of postelection agenda",
+      "url": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/",
+      "snapshot": "Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck Congress to offset tens of billions of dollars in new defense spending, including funding for the war in Iran, if Democrats pick... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Senate, President Trump, Congress",
+        "Politics desk signal: congress, senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's allies eye big spending cuts as part of postelection agenda",
+        "Source context: Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 16 Sep 2026 10:00:00 +0000",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
+      "editorial_score": "153",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Trump lashes out at judges ruling against his priorities, pet projects",
       "url": "https://www.cbsnews.com/video/trump-lashes-out-judges-ruling-against-priorities-pet-projects/",
@@ -353,7 +382,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 15 Sep 2026 20:38:05 -0400",
-      "age_hours": "6.50",
+      "age_hours": "9.72",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": ""
@@ -383,21 +412,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 15 Sep 2026 22:46:34 -0400",
-      "age_hours": "4.36",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "House sinks Al Green bid to impeach Trump",
-      "url": "https://thehill.com/homenews/house/6091357-trump-impeachment-al-green/",
-      "snapshot": "House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration's aggressive deportation agenda. Sponsored by Rep. Al Green (D-Texas), the resolution accused Trump of abusing his powers by launching an immigration crackdown that led... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "House passes Iran war powers resolution",
+      "url": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
+      "snapshot": "The House on Tuesday passed a Democratic-backed war powers resolution that would limit President Trump's military actions in Iran. The lower chamber voted 220-204 to pass the resolution, sponsored by Rep. Seth Moulton (D-Mass.). Seven Republicans voted in favor of the measure:... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: House, Al Green, Trump",
-        "Politics desk signal: house, immigration",
+        "Key people or organizations: House, Iran, President Trump",
+        "Specific figures mentioned: 220, 204",
+        "Politics desk signal: house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House sinks Al Green bid to impeach Trump",
-        "Source context: House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration's aggressive deportation agenda...."
+        "Story focus: House passes Iran war powers resolution"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -412,40 +441,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 15 Sep 2026 20:51:20 +0000",
-      "age_hours": "10.28",
+      "published": "Wed, 16 Sep 2026 02:37:09 +0000",
+      "age_hours": "7.73",
       "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Two Democrats cross aisle to help tee up final vote on Russia sanctions bill",
-      "url": "https://thehill.com/homenews/house/6090848-graham-russia-sanctions-bill-house-advances/",
-      "snapshot": "The House advanced legislation on Tuesday that grants President Trump tariff authorities on countries purchasing Russian energy and extends existing sanctions on Iran, clearing a major procedural hurdle for the Russia Sanctions Act. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
-      "key_data": [
-        "Key people or organizations: Two Democrats, Russia, President Trump",
-        "Politics desk signal: house, tariff",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Two Democrats cross aisle to help tee up final vote on Russia sanctions bill",
-        "Source context: The House advanced legislation on Tuesday that grants President Trump tariff authorities on countries purchasing Russian energy and extends existing..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Two Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 15 Sep 2026 21:29:04 +0000",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
+      "editorial_score": "97",
       "urgency": ""
     },
     {
@@ -473,40 +472,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 16 Sep 2026 05:21:18 +0000",
-      "age_hours": "1.78",
+      "age_hours": "5.00",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-      "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
-      "snapshot": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "At least five killed in Russian drone strike near Ukraine front line",
+      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+      "snapshot": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Israel",
-        "Specific figures mentioned: $2, 8, 2, 000",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel"
+        "Key people or organizations: Ukraine",
+        "Politics desk signal: ukraine",
+        "Story focus: At least five killed in Russian drone strike near Ukraine front line",
+        "Source context: At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Ukraine.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 16 Sep 2026 03:39:50 +0000",
-      "age_hours": "3.47",
+      "published": "Wed, 16 Sep 2026 09:32:52 +0000",
+      "age_hours": "0.80",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
