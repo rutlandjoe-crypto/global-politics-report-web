@@ -1,58 +1,84 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
-  "snapshot": "The Arizona politician rose to the second-highest position in the Republican-held Senate caucus thanks to his policy smarts and deft political sensibilities.",
-  "updated_at": "2026-09-17 01:21:03 PM ET",
-  "generated_at": "2026-09-17 01:21:03 PM ET",
+  "headline": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
+  "snapshot": "Pennsylvania’s health department has started the process of requesting emergency assistance from the Centers for Disease Control and Prevention (CDC) to help control a deadly and rapidly spreading measles outbreak, according to a letter sent to CDC from state officials. But the request for that assistance, known as Epi-Aid, comes on the condition that the…",
+  "updated_at": "2026-09-17 05:57:49 PM ET",
+  "generated_at": "2026-09-17 05:57:49 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 169,
-    "live_fresh_items": 94,
-    "editor_fresh_items": 164,
-    "public_fallback_items": 169,
-    "stale_or_blocked_items": 75,
+    "total_items_checked": 167,
+    "live_fresh_items": 121,
+    "editor_fresh_items": 161,
+    "public_fallback_items": 167,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-17 01:21:03 PM ET"
+    "last_checked": "2026-09-17 05:57:49 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
-      "snapshot": "The Arizona politician rose to the second-highest position in the Republican-held Senate caucus thanks to his policy smarts and deft political sensibilities.",
+      "headline": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
+      "url": "https://thehill.com/policy/healthcare/6096824-pennsylvania-measles-outbreak-cdc-emergency-request/",
+      "snapshot": "Pennsylvania’s health department has started the process of requesting emergency assistance from the Centers for Disease Control and Prevention (CDC) to help control a deadly and rapidly spreading measles outbreak, according to a letter sent to CDC from state officials. But the request for that assistance, known as Epi-Aid, comes on the condition that the…",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Sep. 17, 2026 at 01:15 PM ET"
+        "Source: The Hill",
+        "Politics desk: Policy",
+        "Published: Sep. 17, 2026 at 05:43 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "This development may affect public policy, political strategy or institutional decision-making.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Thu, 17 Sep 2026 17:15:27 +0000",
-      "age_hours": "0.09",
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 17 Sep 2026 21:43:59 +0000",
+      "age_hours": "0.23",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "headline": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+      "url": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "snapshot": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Court",
+        "Published: Sep. 17, 2026 at 05:42 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 17 Sep 2026 21:42:31 +0000",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "key_data": [
         "Source: BBC News",
         "Politics desk: Foreign Policy",
-        "Published: Sep. 17, 2026 at 01:08 PM ET"
+        "Published: Sep. 17, 2026 at 05:41 PM ET"
       ],
       "why_it_matters": [
         "This development may affect alliances, security commitments or diplomatic leverage.",
@@ -65,86 +91,60 @@
       "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
       "source_name": "BBC News",
-      "published": "Thu, 17 Sep 2026 17:08:00 GMT",
-      "age_hours": "0.22",
+      "published": "Thu, 17 Sep 2026 21:41:19 GMT",
+      "age_hours": "0.27",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "UN fact-finding mission says US committed possible war crimes in Iran",
-      "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
-      "snapshot": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
+      "headline": "Hasan Piker’s Comments Create Headaches for Abdul El-Sayed",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
+      "snapshot": "Under pressure, the Democratic Senate nominee in Michigan this week rejected Hasan Piker’s argument that the U.S. has caused more terror than Al Qaeda.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 17, 2026 at 01:02 PM ET"
+        "Source: The New York Times",
+        "Politics desk: Congress",
+        "Published: Sep. 17, 2026 at 05:34 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 17 Sep 2026 17:02:31 +0000",
-      "age_hours": "0.31",
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Thu, 17 Sep 2026 21:34:41 +0000",
+      "age_hours": "0.39",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: RFK Jr. speaks at children’s health forum amid vaccine scrutiny",
-      "url": "https://thehill.com/video-clips/6095784-watch-live-rfk-jr-childrens-health-defense-anti-vaccine-conference-2026/",
-      "snapshot": "Health and Human Services Secretary Robert F. Kennedy Jr. will give the keynote address Thursday at a conference put on by Children’s Health Defense, an anti-vaccine advocacy organization that he helped found. The speech comes as Kennedy faces scrutiny over changes the Trump administration made to the childhood vaccine schedule and new dietary guidance under…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Sep. 17, 2026 at 01:00 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 17 Sep 2026 17:00:42 +0000",
-      "age_hours": "0.34",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
-      "snapshot": "In Kai Bird's biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail.",
+      "headline": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
+      "snapshot": "The White House says it is withdrawing its nomination of Lance Schroyer, a former Oklahoma state trooper, to lead ICE, ensuring that an agency at the forefront of President Trump's domestic agenda will remain without a Senate-confirmed leader for at least a while longer.",
       "key_data": [
         "Source: NPR Politics",
-        "Politics desk: Policy",
-        "Published: Sep. 17, 2026 at 12:14 PM ET"
+        "Politics desk: Congress",
+        "Published: Sep. 17, 2026 at 05:17 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
       "source_feed": "https://feeds.npr.org/1014/rss.xml",
       "source_name": "NPR Politics",
-      "published": "Thu, 17 Sep 2026 12:14:06 -0400",
-      "age_hours": "1.12",
+      "published": "Thu, 17 Sep 2026 17:17:39 -0400",
+      "age_hours": "0.67",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": "DEVELOPING"
@@ -152,39 +152,13 @@
   ],
   "editor_signals": [
     {
-      "headline": "Photos Spur Speculation About Possible Demolition of Kennedy Center",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
-      "snapshot": "Images captured through the windows of Air Force One show President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”",
+      "headline": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "snapshot": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Sep. 17, 2026 at 01:10 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Thu, 17 Sep 2026 17:10:16 +0000",
-      "age_hours": "0.18",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Senate bill on carbon dioxide wells threatens rural water supplies",
-      "url": "https://thehill.com/opinion/energy-environment/6094423-bill-threatens-rural-communities/",
-      "snapshot": "A new section of the Water Resources Development Act of 2026 proposes groundwater protection exemptions for carbon dioxide injection wells that critics argue will threaten the livelihoods of rural farmers and ranchers.",
-      "key_data": [
-        "Source: The Hill",
+        "Source: Al Jazeera",
         "Politics desk: Congress",
-        "Published: Sep. 17, 2026 at 01:00 PM ET"
+        "Published: Sep. 17, 2026 at 05:38 PM ET"
       ],
       "why_it_matters": [
         "This development may affect legislative leverage, negotiations or the timing of government action.",
@@ -195,107 +169,48 @@
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
       "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 17 Sep 2026 17:00:00 +0000",
-      "age_hours": "0.35",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-      "snapshot": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 17, 2026 at 12:59 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-      "age_hours": "0.36",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-      "url": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
-      "snapshot": "Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 17, 2026 at 11:40 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 17 Sep 2026 15:40:48 +0000",
-      "age_hours": "1.67",
+      "published": "Thu, 17 Sep 2026 21:38:17 +0000",
+      "age_hours": "0.33",
       "freshness_status": "fresh",
-      "editorial_score": "98",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
-      "snapshot": "The Trump administration wants to build its 250-foot arch near one of the country's busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.",
+      "headline": "Trump administration gets green light to proceed with homelessness program overhaul",
+      "url": "https://thehill.com/homenews/administration/6096671-appeals-court-approves-hud-changes/",
+      "snapshot": "A U.S. appeals court in Boston on Wednesday gave the Trump administration the green light to go forward with a massive overhaul of a homelessness program and its criteria for aid funding. The 1st U.S. Circuit Court of Appeals’ three-judge panel halted a Rhode Island-based federal judge’s ruling in March that the changes to the…",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Government",
-        "Published: Sep. 17, 2026 at 05:01 AM ET"
+        "Source: The Hill",
+        "Politics desk: Court",
+        "Published: Sep. 17, 2026 at 05:29 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
+        "This development may affect legal authority, enforcement or the balance of institutional power.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Thu, 17 Sep 2026 05:01:00 -0400",
-      "age_hours": "8.33",
+      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 17 Sep 2026 21:29:21 +0000",
+      "age_hours": "0.47",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
-    "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-    "UN fact-finding mission says US committed possible war crimes in Iran"
-  ],
-  "sections": [
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
     {
-      "headline": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
-      "snapshot": "The Arizona politician rose to the second-highest position in the Republican-held Senate caucus thanks to his policy smarts and deft political sensibilities.",
+      "headline": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
+      "url": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
+      "snapshot": "The health secretary spoke at a conference featuring misinformation about vaccines, including a claim that the success of the polio vaccines was a “fraud.”",
       "key_data": [
         "Source: The New York Times",
         "Politics desk: Congress",
-        "Published: Sep. 17, 2026 at 01:15 PM ET"
+        "Published: Sep. 17, 2026 at 05:19 PM ET"
       ],
       "why_it_matters": [
         "This development may affect legislative leverage, negotiations or the timing of government action.",
@@ -308,88 +223,36 @@
       "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
       "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
       "source_name": "The New York Times",
-      "published": "Thu, 17 Sep 2026 17:15:27 +0000",
-      "age_hours": "0.09",
+      "published": "Thu, 17 Sep 2026 21:19:58 +0000",
+      "age_hours": "0.63",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
       "key_data": [
         "Source: BBC News",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 17, 2026 at 01:08 PM ET"
+        "Politics desk: Election",
+        "Published: Sep. 17, 2026 at 04:34 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "This development may affect voter attention, campaign strategy or party positioning.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
       "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
       "source_name": "BBC News",
-      "published": "Thu, 17 Sep 2026 17:08:00 GMT",
-      "age_hours": "0.22",
+      "published": "Thu, 17 Sep 2026 20:34:30 GMT",
+      "age_hours": "1.39",
       "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "UN fact-finding mission says US committed possible war crimes in Iran",
-      "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
-      "snapshot": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 17, 2026 at 01:02 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 17 Sep 2026 17:02:31 +0000",
-      "age_hours": "0.31",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch live: RFK Jr. speaks at children’s health forum amid vaccine scrutiny",
-      "url": "https://thehill.com/video-clips/6095784-watch-live-rfk-jr-childrens-health-defense-anti-vaccine-conference-2026/",
-      "snapshot": "Health and Human Services Secretary Robert F. Kennedy Jr. will give the keynote address Thursday at a conference put on by Children’s Health Defense, an anti-vaccine advocacy organization that he helped found. The speech comes as Kennedy faces scrutiny over changes the Trump administration made to the childhood vaccine schedule and new dietary guidance under…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Sep. 17, 2026 at 01:00 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 17 Sep 2026 17:00:42 +0000",
-      "age_hours": "0.34",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
@@ -413,33 +276,170 @@
       "source_feed": "https://feeds.npr.org/1014/rss.xml",
       "source_name": "NPR Politics",
       "published": "Thu, 17 Sep 2026 12:14:06 -0400",
-      "age_hours": "1.12",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
+      "editorial_score": "94",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
+    "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+    "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark"
+  ],
+  "sections": [
     {
-      "headline": "Photos Spur Speculation About Possible Demolition of Kennedy Center",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
-      "snapshot": "Images captured through the windows of Air Force One show President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”",
+      "headline": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
+      "url": "https://thehill.com/policy/healthcare/6096824-pennsylvania-measles-outbreak-cdc-emergency-request/",
+      "snapshot": "Pennsylvania’s health department has started the process of requesting emergency assistance from the Centers for Disease Control and Prevention (CDC) to help control a deadly and rapidly spreading measles outbreak, according to a letter sent to CDC from state officials. But the request for that assistance, known as Epi-Aid, comes on the condition that the…",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Sep. 17, 2026 at 01:10 PM ET"
+        "Source: The Hill",
+        "Politics desk: Policy",
+        "Published: Sep. 17, 2026 at 05:43 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
+        "This development may affect public policy, political strategy or institutional decision-making.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 17 Sep 2026 21:43:59 +0000",
+      "age_hours": "0.23",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+      "url": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "snapshot": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Court",
+        "Published: Sep. 17, 2026 at 05:42 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 17 Sep 2026 21:42:31 +0000",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "key_data": [
+        "Source: BBC News",
+        "Politics desk: Foreign Policy",
+        "Published: Sep. 17, 2026 at 05:41 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Thu, 17 Sep 2026 21:41:19 GMT",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Hasan Piker’s Comments Create Headaches for Abdul El-Sayed",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
+      "snapshot": "Under pressure, the Democratic Senate nominee in Michigan this week rejected Hasan Piker’s argument that the U.S. has caused more terror than Al Qaeda.",
+      "key_data": [
+        "Source: The New York Times",
+        "Politics desk: Congress",
+        "Published: Sep. 17, 2026 at 05:34 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
       "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
       "source_name": "The New York Times",
-      "published": "Thu, 17 Sep 2026 17:10:16 +0000",
-      "age_hours": "0.18",
+      "published": "Thu, 17 Sep 2026 21:34:41 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
+      "snapshot": "The White House says it is withdrawing its nomination of Lance Schroyer, a former Oklahoma state trooper, to lead ICE, ensuring that an agency at the forefront of President Trump's domestic agenda will remain without a Senate-confirmed leader for at least a while longer.",
+      "key_data": [
+        "Source: NPR Politics",
+        "Politics desk: Congress",
+        "Published: Sep. 17, 2026 at 05:17 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Thu, 17 Sep 2026 17:17:39 -0400",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "snapshot": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Congress",
+        "Published: Sep. 17, 2026 at 05:38 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 17 Sep 2026 21:38:17 +0000",
+      "age_hours": "0.33",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
