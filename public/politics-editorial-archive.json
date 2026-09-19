@@ -106,7 +106,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 19 Sep 2026 15:18:00 +0000",
-    "age_hours": "1.55",
+    "age_hours": "2.43",
     "freshness_status": "fresh",
     "editorial_score": "68",
     "urgency": ""
@@ -218,7 +218,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 19 Sep 2026 13:34:23 +0000",
-    "age_hours": "3.28",
+    "age_hours": "4.16",
     "freshness_status": "fresh",
     "editorial_score": "103",
     "urgency": "DEVELOPING"
@@ -248,10 +248,40 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-    "age_hours": "3.85",
+    "age_hours": "4.73",
     "freshness_status": "fresh",
     "editorial_score": "107",
     "urgency": ""
+  },
+  {
+    "headline": "9/19: Saturday Morning",
+    "url": "https://www.cbsnews.com/video/091926-saturday-morning/",
+    "snapshot": "President Trump bans some journalists from the White House, how Apple broke into retail, plus Tex-Mex barbecue on The Dish. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: President Trump, White House",
+      "Specific figures mentioned: 9, 19",
+      "Politics desk signal: house, white house",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: 9/19"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving President Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Sat, 19 Sep 2026 09:00:00 -0400",
+    "age_hours": "4.73",
+    "freshness_status": "fresh",
+    "editorial_score": "99",
+    "urgency": "DEVELOPING"
   },
   {
     "headline": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -531,7 +561,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 18 Sep 2026 20:11:00 -0400",
-    "age_hours": "16.67",
+    "age_hours": "17.55",
     "freshness_status": "editor_fresh",
     "editorial_score": "108",
     "urgency": "DEVELOPING"
