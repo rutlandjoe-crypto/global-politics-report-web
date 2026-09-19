@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Why is the Trump administration targeting foreign journalists?",
   "snapshot": "A new policy disturbingly echoes those found in Russia, China and Iran, which use strict visa compliance rules to punish journalists and media outlets that report on their governments unfavorably. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-09-19 12:51:14 PM ET",
-  "generated_at": "2026-09-19 12:51:14 PM ET",
+  "updated_at": "2026-09-19 01:44:03 PM ET",
+  "generated_at": "2026-09-19 01:44:03 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 144,
-    "live_fresh_items": 40,
-    "editor_fresh_items": 121,
-    "public_fallback_items": 144,
-    "stale_or_blocked_items": 104,
+    "total_items_checked": 143,
+    "live_fresh_items": 41,
+    "editor_fresh_items": 122,
+    "public_fallback_items": 143,
+    "stale_or_blocked_items": 102,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-19 12:51:14 PM ET"
+    "last_checked": "2026-09-19 01:44:03 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 18 Sep 2026 20:11:00 -0400",
-      "age_hours": "16.67",
+      "age_hours": "17.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
@@ -74,9 +74,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 13:34:23 +0000",
-      "age_hours": "3.28",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "103",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "9/19: Saturday Morning",
+      "url": "https://www.cbsnews.com/video/091926-saturday-morning/",
+      "snapshot": "President Trump bans some journalists from the White House, how Apple broke into retail, plus Tex-Mex barbecue on The Dish. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: President Trump, White House",
+        "Specific figures mentioned: 9, 19",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9/19"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving President Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 19 Sep 2026 09:00:00 -0400",
+      "age_hours": "4.73",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,40 +134,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "age_hours": "3.85",
+      "age_hours": "4.73",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
-    },
-    {
-      "headline": "Denmark and Greenland leaders cautiously optimistic after U.S. security deal",
-      "url": "https://www.cbsnews.com/news/denmark-greenland-leaders-us-security-deal-trump/",
-      "snapshot": "President Trump announced he struck a deal to give the U.S. \"permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Greenland, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Denmark and Greenland leaders cautiously optimistic after U.S. security deal",
-        "Source context: President Trump announced he struck a deal to give the U.S. \"permanent control over security, and all other needs, in Greenland, completely..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Greenland.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 19 Sep 2026 11:31:40 -0400",
-      "age_hours": "1.33",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "WATCH"
     },
     {
       "headline": "Russia reports 'powerful' cyberattacks on second day of parliamentary vote",
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 19 Sep 2026 15:18:00 +0000",
-      "age_hours": "1.55",
+      "age_hours": "2.43",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 18 Sep 2026 20:11:00 -0400",
-      "age_hours": "16.67",
+      "age_hours": "17.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "age_hours": "3.85",
+      "age_hours": "4.73",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -256,39 +256,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 13:34:23 +0000",
-      "age_hours": "3.28",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "103",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "DOJ says ban on selling handguns to young adults under 21 is unconstitutional",
-      "url": "https://www.cbsnews.com/news/doj-ban-handguns-under-21-unconstitutional/",
-      "snapshot": "The Justice Department released a new legal opinion that concludes a federal law prohibiting firearms dealers from selling handguns to people between the ages of 18 and 20 is unconstitutional. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "9/19: Saturday Morning",
+      "url": "https://www.cbsnews.com/video/091926-saturday-morning/",
+      "snapshot": "President Trump bans some journalists from the White House, how Apple broke into retail, plus Tex-Mex barbecue on The Dish. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Justice Department",
-        "Specific figures mentioned: 21, 18, 20",
-        "Politics desk signal: court",
+        "Key people or organizations: President Trump, White House",
+        "Specific figures mentioned: 9, 19",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ says ban on selling handguns to young adults under 21 is unconstitutional"
+        "Story focus: 9/19"
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Justice Department.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving President Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 18 Sep 2026 16:06:00 -0400",
-      "age_hours": "20.75",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
+      "published": "Sat, 19 Sep 2026 09:00:00 -0400",
+      "age_hours": "4.73",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 19 Sep 2026 15:18:00 +0000",
-      "age_hours": "1.55",
+      "age_hours": "2.43",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": ""
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Why is the Trump administration targeting foreign journalists?",
     "CNN, MS NOW, Politico say their journalists have been denied access to the White House",
-    "Denmark and Greenland leaders cautiously optimistic after U.S. security deal"
+    "9/19: Saturday Morning"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "age_hours": "3.85",
+      "age_hours": "4.73",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -383,9 +383,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 13:34:23 +0000",
-      "age_hours": "3.28",
+      "age_hours": "4.16",
       "freshness_status": "fresh",
       "editorial_score": "103",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "9/19: Saturday Morning",
+      "url": "https://www.cbsnews.com/video/091926-saturday-morning/",
+      "snapshot": "President Trump bans some journalists from the White House, how Apple broke into retail, plus Tex-Mex barbecue on The Dish. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: President Trump, White House",
+        "Specific figures mentioned: 9, 19",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9/19"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving President Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 19 Sep 2026 09:00:00 -0400",
+      "age_hours": "4.73",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
@@ -413,7 +443,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 19 Sep 2026 11:31:40 -0400",
-      "age_hours": "1.33",
+      "age_hours": "2.21",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "WATCH"
@@ -443,39 +473,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 19 Sep 2026 15:18:00 +0000",
-      "age_hours": "1.55",
+      "age_hours": "2.43",
       "freshness_status": "fresh",
       "editorial_score": "68",
-      "urgency": ""
-    },
-    {
-      "headline": "U.S. touts 1 billion barrels of oil escorted out of Strait of Hormuz",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis/",
-      "snapshot": "Adm. Brad Cooper provided updates on U.S. efforts to get oil out of the Persian Gulf after a bad week of news on the energy markets. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Brad Cooper",
-        "Specific figures mentioned: 1",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: U.S. touts 1 billion barrels of oil escorted out of Strait of Hormuz",
-        "Source context: Adm. Brad Cooper provided updates on U.S. efforts to get oil out of the Persian Gulf after a bad week of news on the energy markets. The key question..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Brad Cooper.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 19 Sep 2026 12:49:45 -0400",
-      "age_hours": "0.02",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": ""
     },
     {
@@ -503,7 +503,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 18 Sep 2026 20:11:00 -0400",
-      "age_hours": "16.67",
+      "age_hours": "17.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": "DEVELOPING"
