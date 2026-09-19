@@ -1,447 +1,511 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump says he is banning CNN and Politico from White House",
-  "snapshot": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-  "updated_at": "2026-09-19 01:38:31 AM ET",
-  "generated_at": "2026-09-19 01:38:31 AM ET",
+  "headline": "Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+  "snapshot": "President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-09-19 05:47:38 AM ET",
+  "generated_at": "2026-09-19 05:47:38 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 169,
-    "live_fresh_items": 75,
-    "editor_fresh_items": 163,
-    "public_fallback_items": 169,
-    "stale_or_blocked_items": 94,
+    "total_items_checked": 144,
+    "live_fresh_items": 43,
+    "editor_fresh_items": 124,
+    "public_fallback_items": 144,
+    "stale_or_blocked_items": 101,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-19 01:38:31 AM ET"
+    "last_checked": "2026-09-19 05:47:38 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Congress",
-        "Published: Sep. 19, 2026 at 01:36 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sat, 19 Sep 2026 05:36:36 GMT",
-      "age_hours": "0.03",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Air Force Officer Charged After Protesting Trump Says He Spoke to Defend Constitution",
-      "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-air-force-officer-protest-trial.html",
-      "snapshot": "Major Jason Watson could face court-martial in what could become a rare test of a service member’s right to publicly dissent.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Court",
-        "Published: Sep. 19, 2026 at 12:49 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sat, 19 Sep 2026 04:49:19 +0000",
-      "age_hours": "0.82",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump bans CNN, MS NOW, Politico from the White House",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
-      "snapshot": "Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Congress",
-        "Published: Sep. 19, 2026 at 12:28 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 19 Sep 2026 04:28:54 +0000",
-      "age_hours": "1.16",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "NAACP sues to block Trump administration from sending armed agents to polls",
       "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
-      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November’s midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), the Department of Justice (DOJ), the FBI and several Trump officials, seeking…",
+      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Election",
-        "Published: Sep. 18, 2026 at 11:39 PM ET"
+        "Key people or organizations: NAACP, Trump",
+        "Politics desk signal: court, election, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: NAACP sues to block Trump administration from sending armed agents to polls",
+        "Source context: The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling..."
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving NAACP.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 03:39:45 +0000",
-      "age_hours": "1.98",
+      "age_hours": "6.13",
       "freshness_status": "fresh",
-      "editorial_score": "98",
+      "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-      "snapshot": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+      "headline": "Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+      "url": "https://www.cbsnews.com/video/trump-says-he-banning-cnn-politico-and-ms-now-from-white-house-effective-immediately/",
+      "snapshot": "President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Sep. 18, 2026 at 04:15 PM ET"
+        "Key people or organizations: Trump, CNN, Politico, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+        "Source context: President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Fri, 18 Sep 2026 16:15:53 -0400",
-      "age_hours": "9.38",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 18 Sep 2026 20:11:00 -0400",
+      "age_hours": "9.61",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Here's how CNN, Politico and MS NOW are responding to Trump's White House ban",
+      "url": "https://thehill.com/homenews/media/6099072-trump-white-house-cnn-politico-msnow-response/",
+      "snapshot": "President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected Democrats and critics from across politics and media. In a Truth Social post Friday afternoon, Trump wrote he was banning CNN,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: CNN, MS NOW, Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Here's how CNN, Politico and MS NOW are responding to Trump's White House ban",
+        "Source context: President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving CNN.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 18 Sep 2026 22:15:16 +0000",
+      "age_hours": "11.54",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Can Trump ban CNN, news outlets he doesn't like from the White House?",
+      "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+      "snapshot": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Can Trump, White House, Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Can Trump ban CNN, news outlets he doesn't like from the White House?",
+        "Source context: The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Can Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 19 Sep 2026 08:47:17 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "9/18: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/091826-cbs-evening-news/",
+      "snapshot": "Trump bans 3 media outlets from White House; Details of power bank fire on plane. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: CBS Evening News, Trump, White House",
+        "Specific figures mentioned: 9, 18, 3",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9/18"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving CBS Evening News.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 18 Sep 2026 18:30:00 -0400",
+      "age_hours": "11.29",
       "freshness_status": "fresh",
       "editorial_score": "91",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
-      "url": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
-      "snapshot": "Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.",
+      "headline": "Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+      "url": "https://www.cbsnews.com/video/trump-says-he-banning-cnn-politico-and-ms-now-from-white-house-effective-immediately/",
+      "snapshot": "President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Congress",
-        "Published: Sep. 19, 2026 at 12:22 AM ET"
+        "Key people or organizations: Trump, CNN, Politico, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+        "Source context: President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 19 Sep 2026 04:22:47 +0000",
-      "age_hours": "1.26",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 18 Sep 2026 20:11:00 -0400",
+      "age_hours": "9.61",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "F.A.A. Safety Request for the Top of Trump’s Arch: Eternal Fire",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/arch-trump-faa-flame.html",
-      "snapshot": "The aviation agency deemed the mammoth arch safe for air travel if it includes a constant flame and other safety measures to help make it visible to planes.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Policy",
-        "Published: Sep. 18, 2026 at 11:46 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sat, 19 Sep 2026 03:46:42 +0000",
-      "age_hours": "1.86",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Shapiro fires back at RFK Jr., Trump on measles: ‘Incompetence’",
-      "url": "https://thehill.com/homenews/state-watch/6099441-shapiro-trump-kennedy-measles-clash/",
-      "snapshot": "Pennsylvania Gov. Josh Shapiro (D) fired back against at President Trump’s Friday Oval Office comments calling him a “bad governor” that’s “close to incompetent” following four measles-related deaths in the state. “Incompetence is letting measles, a disease that was declared eliminated in 2000, reemerge,” Shapiro wrote on social media Friday. “Incompetence is spending your time…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Sep. 18, 2026 at 10:48 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 19 Sep 2026 02:48:16 +0000",
-      "age_hours": "2.84",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Everything we know about the Ed Sheeran and Macklemore controversy",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Here's what led to the controversy surrounding singer Ed Sheeran's tour and all the twists since rapper Macklemore was dropped over pro-Palestinian comments.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Sep. 18, 2026 at 09:28 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sat, 19 Sep 2026 01:28:41 GMT",
-      "age_hours": "4.16",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "White House withdraws nomination of Lance Schroyer to lead ICE",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
-      "snapshot": "President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Sep. 18, 2026 at 06:44 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Fri, 18 Sep 2026 06:44:40 -0400",
-      "age_hours": "18.90",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "81",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Trump says he is banning CNN and Politico from White House",
-    "Air Force Officer Charged After Protesting Trump Says He Spoke to Defend Constitution",
-    "Trump bans CNN, MS NOW, Politico from the White House"
-  ],
-  "sections": [
-    {
-      "headline": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Congress",
-        "Published: Sep. 19, 2026 at 01:36 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sat, 19 Sep 2026 05:36:36 GMT",
-      "age_hours": "0.03",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Air Force Officer Charged After Protesting Trump Says He Spoke to Defend Constitution",
-      "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-air-force-officer-protest-trial.html",
-      "snapshot": "Major Jason Watson could face court-martial in what could become a rare test of a service member’s right to publicly dissent.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Court",
-        "Published: Sep. 19, 2026 at 12:49 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sat, 19 Sep 2026 04:49:19 +0000",
-      "age_hours": "0.82",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump bans CNN, MS NOW, Politico from the White House",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
-      "snapshot": "Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Congress",
-        "Published: Sep. 19, 2026 at 12:28 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 19 Sep 2026 04:28:54 +0000",
-      "age_hours": "1.16",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "138",
       "urgency": "DEVELOPING"
     },
     {
       "headline": "NAACP sues to block Trump administration from sending armed agents to polls",
       "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
-      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November’s midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), the Department of Justice (DOJ), the FBI and several Trump officials, seeking…",
+      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Election",
-        "Published: Sep. 18, 2026 at 11:39 PM ET"
+        "Key people or organizations: NAACP, Trump",
+        "Politics desk signal: court, election, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: NAACP sues to block Trump administration from sending armed agents to polls",
+        "Source context: The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling..."
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving NAACP.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 03:39:45 +0000",
-      "age_hours": "1.98",
+      "age_hours": "6.13",
       "freshness_status": "fresh",
-      "editorial_score": "98",
+      "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-      "snapshot": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+      "headline": "Here's how CNN, Politico and MS NOW are responding to Trump's White House ban",
+      "url": "https://thehill.com/homenews/media/6099072-trump-white-house-cnn-politico-msnow-response/",
+      "snapshot": "President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected Democrats and critics from across politics and media. In a Truth Social post Friday afternoon, Trump wrote he was banning CNN,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Sep. 18, 2026 at 04:15 PM ET"
+        "Key people or organizations: CNN, MS NOW, Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Here's how CNN, Politico and MS NOW are responding to Trump's White House ban",
+        "Source context: President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving CNN.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Fri, 18 Sep 2026 16:15:53 -0400",
-      "age_hours": "9.38",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 18 Sep 2026 22:15:16 +0000",
+      "age_hours": "11.54",
       "freshness_status": "fresh",
-      "editorial_score": "91",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Can Trump ban CNN, news outlets he doesn't like from the White House?",
+      "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+      "snapshot": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Can Trump, White House, Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Can Trump ban CNN, news outlets he doesn't like from the White House?",
+        "Source context: The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Can Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 19 Sep 2026 08:47:17 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+      "snapshot": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Russia, Ukraine",
+        "Specific figures mentioned: 100",
+        "Politics desk signal: election, campaign, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump signs sweeping Russia sanctions over Ukraine war"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 19 Sep 2026 00:46:04 +0000",
+      "age_hours": "9.03",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+    "NAACP sues to block Trump administration from sending armed agents to polls",
+    "Here's how CNN, Politico and MS NOW are responding to Trump's White House ban"
+  ],
+  "sections": [
+    {
+      "headline": "Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+      "url": "https://www.cbsnews.com/video/trump-says-he-banning-cnn-politico-and-ms-now-from-white-house-effective-immediately/",
+      "snapshot": "President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, CNN, Politico, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he's banning CNN, Politico and MS NOW from White House \"effective immediately\"",
+        "Source context: President Trump said Friday he's banning CNN, Politico and MS NOW from the White House in a move that could be challenged by courts. Weijia Jang..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 18 Sep 2026 20:11:00 -0400",
+      "age_hours": "9.61",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "NAACP sues to block Trump administration from sending armed agents to polls",
+      "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
+      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: NAACP, Trump",
+        "Politics desk signal: court, election, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: NAACP sues to block Trump administration from sending armed agents to polls",
+        "Source context: The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving NAACP.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 19 Sep 2026 03:39:45 +0000",
+      "age_hours": "6.13",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Here's how CNN, Politico and MS NOW are responding to Trump's White House ban",
+      "url": "https://thehill.com/homenews/media/6099072-trump-white-house-cnn-politico-msnow-response/",
+      "snapshot": "President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected Democrats and critics from across politics and media. In a Truth Social post Friday afternoon, Trump wrote he was banning CNN,... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: CNN, MS NOW, Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Here's how CNN, Politico and MS NOW are responding to Trump's White House ban",
+        "Source context: President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving CNN.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 18 Sep 2026 22:15:16 +0000",
+      "age_hours": "11.54",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Can Trump ban CNN, news outlets he doesn't like from the White House?",
+      "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+      "snapshot": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Can Trump, White House, Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Can Trump ban CNN, news outlets he doesn't like from the White House?",
+        "Source context: The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Can Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 19 Sep 2026 08:47:17 +0000",
+      "age_hours": "1.01",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+      "snapshot": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Russia, Ukraine",
+        "Specific figures mentioned: 100",
+        "Politics desk signal: election, campaign, tariff, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump signs sweeping Russia sanctions over Ukraine war"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 19 Sep 2026 00:46:04 +0000",
+      "age_hours": "9.03",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
-      "url": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
-      "snapshot": "Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.",
+      "headline": "9/18: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/091826-cbs-evening-news/",
+      "snapshot": "Trump bans 3 media outlets from White House; Details of power bank fire on plane. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Congress",
-        "Published: Sep. 19, 2026 at 12:22 AM ET"
+        "Key people or organizations: CBS Evening News, Trump, White House",
+        "Specific figures mentioned: 9, 18, 3",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9/18"
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving CBS Evening News.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 19 Sep 2026 04:22:47 +0000",
-      "age_hours": "1.26",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 18 Sep 2026 18:30:00 -0400",
+      "age_hours": "11.29",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "91",
       "urgency": "DEVELOPING"
     }
   ],
