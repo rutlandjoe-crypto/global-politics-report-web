@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Why is the Trump administration targeting foreign journalists?",
+    "url": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
+    "snapshot": "A new policy disturbingly echoes those found in Russia, China and Iran, which use strict visa compliance rules to punish journalists and media outlets that report on their governments unfavorably. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, Russia, China, Iran",
+      "Politics desk signal: election, campaign, china",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Why is the Trump administration targeting foreign journalists?",
+      "Source context: A new policy disturbingly echoes those found in Russia, China and Iran, which use strict visa compliance rules to punish journalists and media..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sat, 19 Sep 2026 13:00:00 +0000",
+    "age_hours": "0.52",
+    "freshness_status": "fresh",
+    "editorial_score": "107",
+    "urgency": ""
+  },
+  {
+    "headline": "State Department approves $2.7 billion air defense sale to Ukraine",
+    "url": "https://www.cbsnews.com/news/us-ukraine-russia-war-air-defense-state-department/",
+    "snapshot": "The proposed sale is subject to congressional review. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: State Department, Ukraine",
+      "Specific figures mentioned: $2.7 billion",
+      "Politics desk signal: congress, ukraine",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: State Department approves $2.7 billion air defense sale to Ukraine"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving State Department.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Sat, 19 Sep 2026 06:12:08 -0400",
+    "age_hours": "3.32",
+    "freshness_status": "fresh",
+    "editorial_score": "90",
+    "urgency": ""
+  },
+  {
     "headline": "Can Trump ban CNN, news outlets he doesn't like from the White House?",
     "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
     "snapshot": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
@@ -24,9 +84,38 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 19 Sep 2026 08:47:17 +0000",
-    "age_hours": "1.44",
+    "age_hours": "4.74",
     "freshness_status": "fresh",
     "editorial_score": "108",
+    "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Turkiye revokes operating licence of Iran's Bank Mellat in Istanbul",
+    "url": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+    "snapshot": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+    "key_data": [
+      "Key people or organizations: Iran, Bank Mellat",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Turkiye revokes operating licence of Iran's Bank Mellat in Istanbul",
+      "Source context: The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme. The geopolitical angle is how the decision..."
+    ],
+    "why_it_matters": [
+      "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+      "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+      "Editors should watch official actions, not just statements."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Iran.",
+      "Track responses from lawmakers, courts, agencies or campaigns.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Sat, 19 Sep 2026 08:18:08 +0000",
+    "age_hours": "5.22",
+    "freshness_status": "fresh",
+    "editorial_score": "74",
     "urgency": "DEVELOPING"
   },
   {
@@ -132,7 +221,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 19 Sep 2026 03:39:45 +0000",
-    "age_hours": "6.56",
+    "age_hours": "9.86",
     "freshness_status": "fresh",
     "editorial_score": "133",
     "urgency": "DEVELOPING"
