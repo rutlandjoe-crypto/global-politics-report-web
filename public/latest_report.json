@@ -1,82 +1,53 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump returns to White House as State Department issues security alerts for Middle East",
-  "snapshot": "President Trump cut his weekend trip to Camp David short a day early, returning to Washington, D.C., on Saturday evening. The president touched down at the Ellipse just before 8 p.m., according to a White House pool report. The White House's official social media account... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-09-20 08:39:58 AM ET",
-  "generated_at": "2026-09-20 08:39:58 AM ET",
+  "headline": "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says",
+  "snapshot": "The latest attack brings the number of people who have been killed in boat strikes by the U.S. military in Latin America to at least 231 in 69 strikes since the Trump administration began targeting those it calls \"narcoterrorists\" about one year ago. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-09-20 10:27:50 AM ET",
+  "generated_at": "2026-09-20 10:27:50 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 35,
-    "editor_fresh_items": 67,
+    "live_fresh_items": 40,
+    "editor_fresh_items": 72,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 112,
+    "stale_or_blocked_items": 107,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-20 08:39:58 AM ET"
+    "last_checked": "2026-09-20 10:27:50 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Peruvian journalist shot dead after threatening to expose police",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
-      "snapshot": "Peruvian journalist 'China Polo' has been shot dead a week after receiving death threats over a police investigation. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "NAACP sues to block Trump administration from sending armed agents to polls",
+      "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
+      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Peruvian, China Polo",
-        "Politics desk signal: china",
-        "Story focus: Peruvian journalist shot dead after threatening to expose police",
-        "Source context: Peruvian journalist 'China Polo' has been shot dead a week after receiving death threats over a police investigation. The geopolitical angle is how..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Peruvian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 03:14:40 +0000",
-      "age_hours": "9.42",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump returns to White House as State Department issues security alerts for Middle East",
-      "url": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
-      "snapshot": "President Trump cut his weekend trip to Camp David short a day early, returning to Washington, D.C., on Saturday evening. The president touched down at the Ellipse just before 8 p.m., according to a White House pool report. The White House's official social media account... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, White House, State Department, Middle East",
-        "Specific figures mentioned: 8",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: NAACP, Trump",
+        "Politics desk signal: court, election, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump returns to White House as State Department issues security alerts for Middle East"
+        "Story focus: NAACP sues to block Trump administration from sending armed agents to polls",
+        "Source context: The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving NAACP.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 01:28:05 +0000",
-      "age_hours": "11.20",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": ""
+      "published": "Sat, 19 Sep 2026 03:39:45 +0000",
+      "age_hours": "34.80",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "103",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says",
@@ -103,39 +74,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 19 Sep 2026 23:55:34 -0400",
-      "age_hours": "8.74",
+      "age_hours": "10.54",
       "freshness_status": "fresh",
       "editorial_score": "104",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Journalists locked out of the White House after Trump ban",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
-      "snapshot": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: White House, Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Journalists locked out of the White House after Trump ban",
-        "Source context: Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 05:43:01 +0000",
-      "age_hours": "6.95",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
@@ -163,23 +104,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 11:07:42 +0000",
-      "age_hours": "1.54",
+      "age_hours": "3.34",
       "freshness_status": "fresh",
       "editorial_score": "87",
       "urgency": "WATCH"
-    }
-  ],
-  "editor_signals": [
+    },
     {
-      "headline": "Trump returns to White House as State Department issues security alerts for Middle East",
-      "url": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
-      "snapshot": "President Trump cut his weekend trip to Camp David short a day early, returning to Washington, D.C., on Saturday evening. The president touched down at the Ellipse just before 8 p.m., according to a White House pool report. The White House's official social media account... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump says proposed arch will also be a \"top grade Military Complex\"",
+      "url": "https://www.cbsnews.com/news/trump-triumphal-arch-arlington-top-grade-military-complex/",
+      "snapshot": "President Trump said that he has agreed to convert plans for a massive triumphal arch into a \"top grade Military Complex,\" equipped with snipers and drone storage. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, White House, State Department, Middle East",
-        "Specific figures mentioned: 8",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Trump, Military Complex, President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump returns to White House as State Department issues security alerts for Middle East"
+        "Story focus: Trump says proposed arch will also be a \"top grade Military Complex\"",
+        "Source context: President Trump said that he has agreed to convert plans for a massive triumphal arch into a \"top grade Military Complex,\" equipped with snipers and..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -191,15 +130,47 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 01:28:05 +0000",
-      "age_hours": "11.20",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 20 Sep 2026 08:34:42 -0400",
+      "age_hours": "1.89",
       "freshness_status": "fresh",
-      "editorial_score": "121",
+      "editorial_score": "92",
       "urgency": ""
     },
+    {
+      "headline": "Obama rips Trump over AI policy amid 'doomsday' warnings",
+      "url": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
+      "snapshot": "Former President Obama on Friday slammed President Trump over his handling of how to approach artificial intelligence (AI) amid \"doomsday\" warnings coming from some in the tech industry about the technology's potential existential threat to humanity. Obama said during an... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Obama, Trump, Former President Obama, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Obama rips Trump over AI policy amid 'doomsday' warnings",
+        "Source context: Former President Obama on Friday slammed President Trump over his handling of how to approach artificial intelligence (AI) amid \"doomsday\" warnings..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Obama.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 20 Sep 2026 11:52:36 +0000",
+      "age_hours": "2.59",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
     {
       "headline": "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says",
       "url": "https://www.cbsnews.com/news/4-killed-u-s-strike-drug-boat-caribbean/",
@@ -225,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 19 Sep 2026 23:55:34 -0400",
-      "age_hours": "8.74",
+      "age_hours": "10.54",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
@@ -255,39 +226,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 19 Sep 2026 03:39:45 +0000",
-      "age_hours": "33.00",
+      "age_hours": "34.80",
       "freshness_status": "editor_fresh",
       "editorial_score": "103",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Journalists locked out of the White House after Trump ban",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
-      "snapshot": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: White House, Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Journalists locked out of the White House after Trump ban",
-        "Source context: Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 05:43:01 +0000",
-      "age_hours": "6.95",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
@@ -315,18 +256,11 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 08:34:42 -0400",
-      "age_hours": "0.09",
+      "age_hours": "1.89",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Trump returns to White House as State Department issues security alerts for Middle East",
-    "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says",
-    "Journalists locked out of the White House after Trump ban"
-  ],
-  "sections": [
+    },
     {
       "headline": "Trump returns to White House as State Department issues security alerts for Middle East",
       "url": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
@@ -352,11 +286,46 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 01:28:05 +0000",
-      "age_hours": "11.20",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
+      "age_hours": "13.00",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "91",
       "urgency": ""
     },
+    {
+      "headline": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
+      "snapshot": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Netanyahu, Al, Aqsa Mosque, Israeli Prime Minister Benjamin",
+        "Story focus: Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+        "Source context: Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Netanyahu.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 20 Sep 2026 13:31:25 +0000",
+      "age_hours": "0.94",
+      "freshness_status": "fresh",
+      "editorial_score": "44",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says",
+    "Trump says proposed arch will also be a \"top grade Military Complex\"",
+    "State of Texas: Race for Texas senate, governor heating up"
+  ],
+  "sections": [
     {
       "headline": "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean, Pentagon says",
       "url": "https://www.cbsnews.com/news/4-killed-u-s-strike-drug-boat-caribbean/",
@@ -382,39 +351,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 19 Sep 2026 23:55:34 -0400",
-      "age_hours": "8.74",
+      "age_hours": "10.54",
       "freshness_status": "fresh",
       "editorial_score": "104",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Journalists locked out of the White House after Trump ban",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
-      "snapshot": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: White House, Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Journalists locked out of the White House after Trump ban",
-        "Source context: Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 05:43:01 +0000",
-      "age_hours": "6.95",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
@@ -442,7 +381,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 08:34:42 -0400",
-      "age_hours": "0.09",
+      "age_hours": "1.89",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -472,39 +411,100 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 11:07:42 +0000",
-      "age_hours": "1.54",
+      "age_hours": "3.34",
       "freshness_status": "fresh",
       "editorial_score": "87",
       "urgency": "WATCH"
     },
     {
-      "headline": "Peruvian journalist shot dead after threatening to expose police",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
-      "snapshot": "Peruvian journalist 'China Polo' has been shot dead a week after receiving death threats over a police investigation. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Obama rips Trump over AI policy amid 'doomsday' warnings",
+      "url": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
+      "snapshot": "Former President Obama on Friday slammed President Trump over his handling of how to approach artificial intelligence (AI) amid \"doomsday\" warnings coming from some in the tech industry about the technology's potential existential threat to humanity. Obama said during an... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: Peruvian, China Polo",
-        "Politics desk signal: china",
-        "Story focus: Peruvian journalist shot dead after threatening to expose police",
-        "Source context: Peruvian journalist 'China Polo' has been shot dead a week after receiving death threats over a police investigation. The geopolitical angle is how..."
+        "Key people or organizations: Obama, Trump, Former President Obama, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Obama rips Trump over AI policy amid 'doomsday' warnings",
+        "Source context: Former President Obama on Friday slammed President Trump over his handling of how to approach artificial intelligence (AI) amid \"doomsday\" warnings..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Peruvian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Obama.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 20 Sep 2026 11:52:36 +0000",
+      "age_hours": "2.59",
+      "freshness_status": "fresh",
+      "editorial_score": "83",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump's questionable social media posts on space deserve context",
+      "url": "https://thehill.com/opinion/technology/6098557-trump-space-force-uniforms/",
+      "snapshot": "Two recent social media posts by the president are causing eyebrows to rise. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's questionable social media posts on space deserve context",
+        "Source context: Two recent social media posts by the president are causing eyebrows to rise. The election angle is whether this changes voter attention, campaign..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 20 Sep 2026 14:00:00 +0000",
+      "age_hours": "0.46",
+      "freshness_status": "fresh",
+      "editorial_score": "75",
+      "urgency": ""
+    },
+    {
+      "headline": "NAACP sues to block Trump administration from sending armed agents to polls",
+      "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
+      "snapshot": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: NAACP, Trump",
+        "Politics desk signal: court, election, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: NAACP sues to block Trump administration from sending armed agents to polls",
+        "Source context: The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving NAACP.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 03:14:40 +0000",
-      "age_hours": "9.42",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "BREAKING"
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 19 Sep 2026 03:39:45 +0000",
+      "age_hours": "34.80",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "103",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
