@@ -24,7 +24,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Mon, 21 Sep 2026 01:19:42 +0000",
-    "age_hours": "0.46",
+    "age_hours": "4.51",
     "freshness_status": "fresh",
     "editorial_score": "128",
     "urgency": "BREAKING"
@@ -54,10 +54,40 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-    "age_hours": "2.08",
+    "age_hours": "6.14",
     "freshness_status": "fresh",
     "editorial_score": "120",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Grassley urges Trump to place embargo on diesel exports amid high prices",
+    "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
+    "snapshot": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. \"why doesn't Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products bc [because] food prices... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "key_data": [
+      "Key people or organizations: Grassley, Trump, Iowa Sen, Chuck Grassley",
+      "Specific figures mentioned: 70",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Grassley urges Trump to place embargo on diesel exports amid high prices"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Grassley.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sun, 20 Sep 2026 22:02:18 +0000",
+    "age_hours": "7.80",
+    "freshness_status": "fresh",
+    "editorial_score": "97",
+    "urgency": "BREAKING"
   },
   {
     "headline": "Qatar PM urges Gulf security framework with Iran",
@@ -167,6 +197,36 @@
     "urgency": ""
   },
   {
+    "headline": "Trump, Mamdani to meet in New York on Monday",
+    "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
+    "snapshot": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White House official and the mayor's press office said Sunday. In an emailed statement, Mamdani's press office said that \"the meeting will... The key question is leverage: the next votes, negotiations and public pressure points will...",
+    "key_data": [
+      "Key people or organizations: Trump, Mamdani, York, President Trump",
+      "Politics desk signal: house, white house",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump, Mamdani to meet in New York on Monday",
+      "Source context: President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sun, 20 Sep 2026 19:18:54 +0000",
+    "age_hours": "10.52",
+    "freshness_status": "fresh",
+    "editorial_score": "99",
+    "urgency": ""
+  },
+  {
     "headline": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
     "url": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
     "snapshot": "Mr. Carlson, the far-right podcaster, has promoted Dr. El-Sayed’s comments and sharply criticized his Republican rival in a key Senate race. Strategists are scratching their heads.",
@@ -247,7 +307,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Sun, 20 Sep 2026 14:28:24 -0400",
-    "age_hours": "7.31",
+    "age_hours": "11.37",
     "freshness_status": "fresh",
     "editorial_score": "132",
     "urgency": ""
