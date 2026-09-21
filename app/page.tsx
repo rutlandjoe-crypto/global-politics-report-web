@@ -39,6 +39,7 @@ const GSR_NETWORK = [
   ["Politics", "https://globalpoliticsreport.com"],
   ["Entertainment", "https://globalentertainmentreport.com"],
   ["Betting", "https://globalbettingreport.com"],
+  ["Lone Star", "https://www.gsrlonestarreport.com/"],
 ];
 
 const BAD_CONTENT_PHRASES = [
