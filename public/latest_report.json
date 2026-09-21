@@ -3,22 +3,52 @@
   "vertical": "Politics",
   "headline": "Salazar tells Trump on Hispanic voters: \"Preserve that fortune\"",
   "snapshot": "GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-09-20 08:48:21 PM ET",
-  "generated_at": "2026-09-20 08:48:21 PM ET",
+  "updated_at": "2026-09-20 09:47:04 PM ET",
+  "generated_at": "2026-09-20 09:47:04 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 140,
-    "live_fresh_items": 59,
-    "editor_fresh_items": 90,
-    "public_fallback_items": 140,
-    "stale_or_blocked_items": 81,
+    "total_items_checked": 141,
+    "live_fresh_items": 55,
+    "editor_fresh_items": 89,
+    "public_fallback_items": 141,
+    "stale_or_blocked_items": 86,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-20 08:48:21 PM ET"
+    "last_checked": "2026-09-20 09:47:04 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
+      "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+      "snapshot": "Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration readies sweeping sanctions against ICC, reports say",
+        "Source context: Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 21 Sep 2026 01:19:42 +0000",
+      "age_hours": "0.46",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Moore says Trump uses Constitution like a 'suggestion box' in banning CNN, Politico, MS NOW reporters from White House",
       "url": "https://thehill.com/homenews/media/6100320-wes-moore-trump-press-ban/",
@@ -44,39 +74,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 15:21:26 +0000",
-      "age_hours": "9.45",
+      "age_hours": "10.43",
       "freshness_status": "fresh",
       "editorial_score": "113",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Meloni promises to ban burqas, niqabs in Italy's schools",
-      "url": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
-      "snapshot": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Italy",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meloni promises to ban burqas, niqabs in Italy's schools",
-        "Source context: Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Italy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 17:27:53 +0000",
-      "age_hours": "7.34",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-      "age_hours": "1.11",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 17:18:06 +0000",
-      "age_hours": "7.50",
+      "age_hours": "8.48",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 14:28:24 -0400",
-      "age_hours": "6.33",
+      "age_hours": "7.31",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -196,10 +196,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 14:28:24 -0400",
-      "age_hours": "6.33",
+      "age_hours": "7.31",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
+      "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+      "snapshot": "Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration readies sweeping sanctions against ICC, reports say",
+        "Source context: Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 21 Sep 2026 01:19:42 +0000",
+      "age_hours": "0.46",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump faces pressure as midterms inch closer",
@@ -226,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-      "age_hours": "1.11",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -256,7 +286,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 15:21:26 +0000",
-      "age_hours": "9.45",
+      "age_hours": "10.43",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
@@ -286,46 +316,16 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 17:18:06 +0000",
-      "age_hours": "7.50",
+      "age_hours": "8.48",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Polls close in Russian wartime election with ruling party set to dominate",
-      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-      "snapshot": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Russian, Russian President Vladimir Putin, Ukraine",
-        "Politics desk signal: election, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Polls close in Russian wartime election with ruling party set to dominate",
-        "Source context: Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine. The key question is leverage: the next votes,..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russian.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 22:54:00 +0000",
-      "age_hours": "1.91",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "Salazar tells Trump on Hispanic voters: \"Preserve that fortune\"",
-    "Trump faces pressure as midterms inch closer",
-    "Moore says Trump uses Constitution like a 'suggestion box' in banning CNN, Politico, MS NOW reporters from White House"
+    "Trump administration readies sweeping sanctions against ICC, reports say",
+    "Trump faces pressure as midterms inch closer"
   ],
   "sections": [
     {
@@ -353,10 +353,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 14:28:24 -0400",
-      "age_hours": "6.33",
+      "age_hours": "7.31",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
+      "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+      "snapshot": "Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration readies sweeping sanctions against ICC, reports say",
+        "Source context: Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 21 Sep 2026 01:19:42 +0000",
+      "age_hours": "0.46",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump faces pressure as midterms inch closer",
@@ -383,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-      "age_hours": "1.11",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -413,7 +443,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 15:21:26 +0000",
-      "age_hours": "9.45",
+      "age_hours": "10.43",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
@@ -443,7 +473,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 20 Sep 2026 17:18:06 +0000",
-      "age_hours": "7.50",
+      "age_hours": "8.48",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -473,40 +503,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 20 Sep 2026 22:54:00 +0000",
-      "age_hours": "1.91",
+      "age_hours": "2.88",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": ""
-    },
-    {
-      "headline": "Meloni promises to ban burqas, niqabs in Italy's schools",
-      "url": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
-      "snapshot": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Italy",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meloni promises to ban burqas, niqabs in Italy's schools",
-        "Source context: Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Italy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 17:27:53 +0000",
-      "age_hours": "7.34",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
