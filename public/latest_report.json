@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
-  "snapshot": "Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-09-21 03:17:46 AM ET",
-  "generated_at": "2026-09-21 03:17:46 AM ET",
+  "headline": "News outlets banned from White House to sue Trump administration",
+  "snapshot": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \"This morning, we notified the government that we are filing a lawsuit today to protect our... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-09-21 07:51:22 AM ET",
+  "generated_at": "2026-09-21 07:51:22 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 141,
-    "live_fresh_items": 37,
-    "editor_fresh_items": 80,
+    "live_fresh_items": 35,
+    "editor_fresh_items": 81,
     "public_fallback_items": 141,
-    "stale_or_blocked_items": 104,
+    "stale_or_blocked_items": 106,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-21 03:17:46 AM ET"
+    "last_checked": "2026-09-21 07:51:22 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "News outlets banned from White House to sue Trump administration",
+      "url": "https://thehill.com/homenews/media/6101137-cnn-msnow-politico-sue-trump-administration-white-house-ban/",
+      "snapshot": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \"This morning, we notified the government that we are filing a lawsuit today to protect our... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: White House, Trump, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: News outlets banned from White House to sue Trump administration",
+        "Source context: Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 21 Sep 2026 11:33:02 +0000",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
       "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
@@ -44,21 +74,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 21 Sep 2026 01:19:42 +0000",
-      "age_hours": "5.97",
+      "age_hours": "10.53",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Grassley urges Trump to place embargo on diesel exports amid high prices",
-      "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
-      "snapshot": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. \"why doesn't Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products bc [because] food prices... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Salazar tells Trump on Hispanic voters: \"Preserve that fortune\"",
+      "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-hispanic-voters-2026-midterm-elections/",
+      "snapshot": "GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Grassley, Trump, Iowa Sen, Chuck Grassley",
-        "Specific figures mentioned: 70",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Salazar, Trump",
+        "Politics desk signal: campaign, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Grassley urges Trump to place embargo on diesel exports amid high prices"
+        "Story focus: Salazar tells Trump on Hispanic voters",
+        "Source context: GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\"..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -66,88 +96,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Grassley.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 22:02:18 +0000",
-      "age_hours": "9.26",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump faces pressure as midterms inch closer",
-      "url": "https://www.cbsnews.com/video/trump-faces-pressure-midterms-inch-closer/",
-      "snapshot": "President Trump triggered a showdown over the First Amendment after several journalists had their White House access revoked this weekend. The ban followed a week of bad economic news for the president. Aaron Navarro reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Trump, President Trump, First Amendment, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump faces pressure as midterms inch closer",
-        "Source context: President Trump triggered a showdown over the First Amendment after several journalists had their White House access revoked this weekend. The ban..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-      "age_hours": "7.60",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Cassidy: Trump needs to be \"radically honest\" on vaccines amid measles outbreak",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/",
-      "snapshot": "GOP Sen. Bill Cassidy of Louisiana urged the president to be \"radically honest\" when he's speaking about vaccines, as the U.S. this year has recorded the most measles cases in more than three decades. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Cassidy, Trump, GOP Sen, Bill Cassidy",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy",
-        "Source context: GOP Sen. Bill Cassidy of Louisiana urged the president to be \"radically honest\" when he's speaking about vaccines, as the U.S. this year has recorded..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
+        "Watch for the next official action involving Salazar.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 20 Sep 2026 15:37:19 -0400",
-      "age_hours": "11.67",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
+      "published": "Sun, 20 Sep 2026 14:28:24 -0400",
+      "age_hours": "17.38",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Trump, Mamdani to meet in New York on Monday",
-      "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
-      "snapshot": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White House official and the mayor's press office said Sunday. In an emailed statement, Mamdani's press office said that \"the meeting will... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Bessent meets with Chinese counterpart ahead of Trump-Xi summit",
+      "url": "https://www.cbsnews.com/news/scott-bessent-meeting-china-he-lifeng-ahead-trump-xi-summit/",
+      "snapshot": "Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng, ahead of the planned summit between President Trump and Chinese President Xi Jinping this week. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Mamdani, York, President Trump",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Bessent, Chinese, Trump, Xi",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, Mamdani to meet in New York on Monday",
-        "Source context: President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White..."
+        "Story focus: Bessent meets with Chinese counterpart ahead of Trump-Xi summit",
+        "Source context: Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng, ahead of the planned summit between President Trump and Chinese President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -155,15 +126,45 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Bessent.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 20 Sep 2026 21:16:31 -0400",
+      "age_hours": "10.58",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate GOP sees battleground map widen amid voter anger over economy",
+      "url": "https://thehill.com/homenews/senate/6099197-energy-prices-threaten-gop-majority/",
+      "snapshot": "Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP majority in greater jeopardy. Several solidly Republican-leaning states — including Kansas and Nebraska — are now seen as being... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate GOP, Senate, Election Day",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate GOP sees battleground map widen amid voter anger over economy",
+        "Source context: Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 19:18:54 +0000",
-      "age_hours": "11.98",
+      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "age_hours": "1.86",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -171,6 +172,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "News outlets banned from White House to sue Trump administration",
+      "url": "https://thehill.com/homenews/media/6101137-cnn-msnow-politico-sue-trump-administration-white-house-ban/",
+      "snapshot": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \"This morning, we notified the government that we are filing a lawsuit today to protect our... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: White House, Trump, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: News outlets banned from White House to sue Trump administration",
+        "Source context: Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 21 Sep 2026 11:33:02 +0000",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
       "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
       "snapshot": "Measures targeting the court itself could disrupt payments, IT services and investigations. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -195,21 +226,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 21 Sep 2026 01:19:42 +0000",
-      "age_hours": "5.97",
+      "age_hours": "10.53",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump faces pressure as midterms inch closer",
-      "url": "https://www.cbsnews.com/video/trump-faces-pressure-midterms-inch-closer/",
-      "snapshot": "President Trump triggered a showdown over the First Amendment after several journalists had their White House access revoked this weekend. The ban followed a week of bad economic news for the president. Aaron Navarro reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "headline": "Salazar tells Trump on Hispanic voters: \"Preserve that fortune\"",
+      "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-hispanic-voters-2026-midterm-elections/",
+      "snapshot": "GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump, First Amendment, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Salazar, Trump",
+        "Politics desk signal: campaign, immigration",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump faces pressure as midterms inch closer",
-        "Source context: President Trump triggered a showdown over the First Amendment after several journalists had their White House access revoked this weekend. The ban..."
+        "Story focus: Salazar tells Trump on Hispanic voters",
+        "Source context: GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\"..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -217,58 +248,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-      "age_hours": "7.60",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Cassidy: Trump needs to be \"radically honest\" on vaccines amid measles outbreak",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/",
-      "snapshot": "GOP Sen. Bill Cassidy of Louisiana urged the president to be \"radically honest\" when he's speaking about vaccines, as the U.S. this year has recorded the most measles cases in more than three decades. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Cassidy, Trump, GOP Sen, Bill Cassidy",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy",
-        "Source context: GOP Sen. Bill Cassidy of Louisiana urged the president to be \"radically honest\" when he's speaking about vaccines, as the U.S. this year has recorded..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
+        "Watch for the next official action involving Salazar.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 20 Sep 2026 15:37:19 -0400",
-      "age_hours": "11.67",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
+      "published": "Sun, 20 Sep 2026 14:28:24 -0400",
+      "age_hours": "17.38",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Trump, Mamdani to meet in New York on Monday",
-      "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
-      "snapshot": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White House official and the mayor's press office said Sunday. In an emailed statement, Mamdani's press office said that \"the meeting will... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Bessent meets with Chinese counterpart ahead of Trump-Xi summit",
+      "url": "https://www.cbsnews.com/news/scott-bessent-meeting-china-he-lifeng-ahead-trump-xi-summit/",
+      "snapshot": "Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng, ahead of the planned summit between President Trump and Chinese President Xi Jinping this week. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Mamdani, York, President Trump",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Bessent, Chinese, Trump, Xi",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, Mamdani to meet in New York on Monday",
-        "Source context: President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White..."
+        "Story focus: Bessent meets with Chinese counterpart ahead of Trump-Xi summit",
+        "Source context: Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng, ahead of the planned summit between President Trump and Chinese President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -276,56 +278,86 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Bessent.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 20 Sep 2026 21:16:31 -0400",
+      "age_hours": "10.58",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate GOP sees battleground map widen amid voter anger over economy",
+      "url": "https://thehill.com/homenews/senate/6099197-energy-prices-threaten-gop-majority/",
+      "snapshot": "Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP majority in greater jeopardy. Several solidly Republican-leaning states — including Kansas and Nebraska — are now seen as being... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Senate GOP, Senate, Election Day",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate GOP sees battleground map widen amid voter anger over economy",
+        "Source context: Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 19:18:54 +0000",
-      "age_hours": "11.98",
+      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "age_hours": "1.86",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
-    },
-    {
-      "headline": "Grassley urges Trump to place embargo on diesel exports amid high prices",
-      "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
-      "snapshot": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. \"why doesn't Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products bc [because] food prices... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Grassley, Trump, Iowa Sen, Chuck Grassley",
-        "Specific figures mentioned: 70",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Grassley urges Trump to place embargo on diesel exports amid high prices"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Grassley.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 22:02:18 +0000",
-      "age_hours": "9.26",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
+    "News outlets banned from White House to sue Trump administration",
     "Trump administration readies sweeping sanctions against ICC, reports say",
-    "Trump faces pressure as midterms inch closer",
-    "Cassidy: Trump needs to be \"radically honest\" on vaccines amid measles outbreak"
+    "Bessent meets with Chinese counterpart ahead of Trump-Xi summit"
   ],
   "sections": [
+    {
+      "headline": "News outlets banned from White House to sue Trump administration",
+      "url": "https://thehill.com/homenews/media/6101137-cnn-msnow-politico-sue-trump-administration-white-house-ban/",
+      "snapshot": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \"This morning, we notified the government that we are filing a lawsuit today to protect our... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: White House, Trump, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: News outlets banned from White House to sue Trump administration",
+        "Source context: Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 21 Sep 2026 11:33:02 +0000",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "133",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
       "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
@@ -351,21 +383,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 21 Sep 2026 01:19:42 +0000",
-      "age_hours": "5.97",
+      "age_hours": "10.53",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump faces pressure as midterms inch closer",
-      "url": "https://www.cbsnews.com/video/trump-faces-pressure-midterms-inch-closer/",
-      "snapshot": "President Trump triggered a showdown over the First Amendment after several journalists had their White House access revoked this weekend. The ban followed a week of bad economic news for the president. Aaron Navarro reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "headline": "Bessent meets with Chinese counterpart ahead of Trump-Xi summit",
+      "url": "https://www.cbsnews.com/news/scott-bessent-meeting-china-he-lifeng-ahead-trump-xi-summit/",
+      "snapshot": "Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng, ahead of the planned summit between President Trump and Chinese President Xi Jinping this week. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, President Trump, First Amendment, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Bessent, Chinese, Trump, Xi",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump faces pressure as midterms inch closer",
-        "Source context: President Trump triggered a showdown over the First Amendment after several journalists had their White House access revoked this weekend. The ban..."
+        "Story focus: Bessent meets with Chinese counterpart ahead of Trump-Xi summit",
+        "Source context: Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng, ahead of the planned summit between President Trump and Chinese President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -373,58 +405,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 20 Sep 2026 19:42:00 -0400",
-      "age_hours": "7.60",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Cassidy: Trump needs to be \"radically honest\" on vaccines amid measles outbreak",
-      "url": "https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/",
-      "snapshot": "GOP Sen. Bill Cassidy of Louisiana urged the president to be \"radically honest\" when he's speaking about vaccines, as the U.S. this year has recorded the most measles cases in more than three decades. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Cassidy, Trump, GOP Sen, Bill Cassidy",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Cassidy",
-        "Source context: GOP Sen. Bill Cassidy of Louisiana urged the president to be \"radically honest\" when he's speaking about vaccines, as the U.S. this year has recorded..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Cassidy.",
+        "Watch for the next official action involving Bessent.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 20 Sep 2026 15:37:19 -0400",
-      "age_hours": "11.67",
+      "published": "Sun, 20 Sep 2026 21:16:31 -0400",
+      "age_hours": "10.58",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump, Mamdani to meet in New York on Monday",
-      "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
-      "snapshot": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White House official and the mayor's press office said Sunday. In an emailed statement, Mamdani's press office said that \"the meeting will... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Senate GOP sees battleground map widen amid voter anger over economy",
+      "url": "https://thehill.com/homenews/senate/6099197-energy-prices-threaten-gop-majority/",
+      "snapshot": "Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP majority in greater jeopardy. Several solidly Republican-leaning states — including Kansas and Nebraska — are now seen as being... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Mamdani, York, President Trump",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Senate GOP, Senate, Election Day",
+        "Politics desk signal: senate, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, Mamdani to meet in New York on Monday",
-        "Source context: President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at Gracie Mansion, the mayor's house in the Big Apple, a White..."
+        "Story focus: Senate GOP sees battleground map widen amid voter anger over economy",
+        "Source context: Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -432,29 +435,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Senate GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 19:18:54 +0000",
-      "age_hours": "11.98",
+      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "age_hours": "1.86",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
     },
     {
-      "headline": "Grassley urges Trump to place embargo on diesel exports amid high prices",
-      "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
-      "snapshot": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. \"why doesn't Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products bc [because] food prices... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Iran warns new U.S. assault would see it expand \"geography of the war\"",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-decision-tehran-warns-of-expansion/",
+      "snapshot": "As President Trump touts a looming decision on his next move in the war, Tehran says any \"new aggression\" would be met with different weapons in new places. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Grassley, Trump, Iowa Sen, Chuck Grassley",
-        "Specific figures mentioned: 70",
+        "Key people or organizations: Iran, As President Trump",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Grassley urges Trump to place embargo on diesel exports amid high prices"
+        "Story focus: Iran warns new U.S. assault would see it expand \"geography of the war\"",
+        "Source context: As President Trump touts a looming decision on his next move in the war, Tehran says any \"new aggression\" would be met with different weapons in new..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -462,47 +465,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Grassley.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 20 Sep 2026 22:02:18 +0000",
-      "age_hours": "9.26",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Ruling party dominates early results in Russia's wartime parliamentary vote",
-      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-      "snapshot": "The Kremlin wants the elections to showcase popular support for the war in Ukraine and legitimise its action. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Russia, Ukraine",
-        "Politics desk signal: election, ukraine",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ruling party dominates early results in Russia's wartime parliamentary vote",
-        "Source context: The Kremlin wants the elections to showcase popular support for the war in Ukraine and legitimise its action. The key question is leverage: the next..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russia.",
+        "Watch for the next official action involving Iran.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 20 Sep 2026 22:54:00 +0000",
-      "age_hours": "8.40",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 21 Sep 2026 07:44:03 -0400",
+      "age_hours": "0.12",
       "freshness_status": "fresh",
-      "editorial_score": "68",
+      "editorial_score": "82",
+      "urgency": ""
+    },
+    {
+      "headline": "Salazar tells Trump on Hispanic voters: \"Preserve that fortune\"",
+      "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-hispanic-voters-2026-midterm-elections/",
+      "snapshot": "GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Salazar, Trump",
+        "Politics desk signal: campaign, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Salazar tells Trump on Hispanic voters",
+        "Source context: GOP Rep. Maria Elvira Salazar of Florida warned in a campaign ad last week that President Trump's immigration enforcement policy has \"gone too far.\"..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Salazar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 20 Sep 2026 14:28:24 -0400",
+      "age_hours": "17.38",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "102",
       "urgency": ""
     }
   ],
