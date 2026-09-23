@@ -1,34 +1,34 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-  "snapshot": "Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and former President Biden's business dealings and to subpoena Donald Trump Jr. and Hunter Biden to testify before Congress. Curtis... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-09-22 07:19:09 PM ET",
-  "generated_at": "2026-09-22 07:19:09 PM ET",
+  "headline": "Where the Trump administration's lawsuits seeking voter data stand",
+  "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-09-22 09:12:12 PM ET",
+  "generated_at": "2026-09-22 09:12:12 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 126,
-    "editor_fresh_items": 143,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 25,
+    "total_items_checked": 150,
+    "live_fresh_items": 120,
+    "editor_fresh_items": 145,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-22 07:19:09 PM ET"
+    "last_checked": "2026-09-22 09:12:12 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-      "url": "https://thehill.com/homenews/6103272-senator-subpoena-trump-jr-hunter-biden/",
-      "snapshot": "Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and former President Biden's business dealings and to subpoena Donald Trump Jr. and Hunter Biden to testify before Congress. Curtis... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump backs diesel export ban; Bessent says admin 'examining that'",
+      "url": "https://thehill.com/policy/energy-environment/6104783-president-donald-trump-diesel-export-ban-gas-prices-unga/",
+      "snapshot": "The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking. Asked Tuesday whether he was considering a ban on diesel exports, as some Republican lawmakers have called for in recent days,... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: GOP Sen, John Curtis, Trump Jr, Hunter Biden",
-        "Politics desk signal: congress, senate",
+        "Key people or organizations: Trump, Asked Tuesday",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-        "Source context: Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and..."
+        "Story focus: Trump backs diesel export ban; Bessent says admin 'examining that'",
+        "Source context: The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,18 +36,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP Sen.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 22 Sep 2026 11:56:30 +0000",
-      "age_hours": "11.38",
+      "published": "Tue, 22 Sep 2026 19:07:42 +0000",
+      "age_hours": "6.07",
       "freshness_status": "fresh",
-      "editorial_score": "145",
-      "urgency": "DEVELOPING"
+      "editorial_score": "125",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Where the Trump administration's lawsuits seeking voter data stand",
@@ -74,7 +74,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 22 Sep 2026 12:31:46 -0400",
-      "age_hours": "6.79",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -104,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 22 Sep 2026 18:54:29 +0000",
-      "age_hours": "4.41",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -134,7 +134,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 22 Sep 2026 22:07:50 +0000",
-      "age_hours": "1.19",
+      "age_hours": "3.07",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 22 Sep 2026 12:31:00 -0400",
-      "age_hours": "6.80",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -172,36 +172,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-      "url": "https://thehill.com/homenews/6103272-senator-subpoena-trump-jr-hunter-biden/",
-      "snapshot": "Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and former President Biden's business dealings and to subpoena Donald Trump Jr. and Hunter Biden to testify before Congress. Curtis... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP Sen, John Curtis, Trump Jr, Hunter Biden",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-        "Source context: Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP Sen.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 22 Sep 2026 11:56:30 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "145",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "Where the Trump administration's lawsuits seeking voter data stand",
       "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
       "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
@@ -226,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 22 Sep 2026 12:31:46 -0400",
-      "age_hours": "6.79",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -256,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 22 Sep 2026 18:54:29 +0000",
-      "age_hours": "4.41",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -286,10 +256,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 22 Sep 2026 12:31:00 -0400",
-      "age_hours": "6.80",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump backs diesel export ban; Bessent says admin 'examining that'",
+      "url": "https://thehill.com/policy/energy-environment/6104783-president-donald-trump-diesel-export-ban-gas-prices-unga/",
+      "snapshot": "The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking. Asked Tuesday whether he was considering a ban on diesel exports, as some Republican lawmakers have called for in recent days,... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Asked Tuesday",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump backs diesel export ban; Bessent says admin 'examining that'",
+        "Source context: The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking...."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 22 Sep 2026 19:07:42 +0000",
+      "age_hours": "6.07",
+      "freshness_status": "fresh",
+      "editorial_score": "125",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
@@ -316,48 +316,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 22 Sep 2026 21:30:51 +0000",
-      "age_hours": "1.80",
+      "age_hours": "3.69",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
     "Where the Trump administration's lawsuits seeking voter data stand",
-    "Trump deflects on whether White House will follow court decision on banned media"
+    "Trump deflects on whether White House will follow court decision on banned media",
+    "GOP senator asks Senate committee to subpoena Donald Trump Jr., Hunter Biden"
   ],
   "sections": [
-    {
-      "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-      "url": "https://thehill.com/homenews/6103272-senator-subpoena-trump-jr-hunter-biden/",
-      "snapshot": "Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and former President Biden's business dealings and to subpoena Donald Trump Jr. and Hunter Biden to testify before Congress. Curtis... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP Sen, John Curtis, Trump Jr, Hunter Biden",
-        "Politics desk signal: congress, senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
-        "Source context: Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP Sen.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 22 Sep 2026 11:56:30 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "145",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Where the Trump administration's lawsuits seeking voter data stand",
       "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
@@ -383,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 22 Sep 2026 12:31:46 -0400",
-      "age_hours": "6.79",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -413,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 22 Sep 2026 18:54:29 +0000",
-      "age_hours": "4.41",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -443,10 +413,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 22 Sep 2026 12:31:00 -0400",
-      "age_hours": "6.80",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump backs diesel export ban; Bessent says admin 'examining that'",
+      "url": "https://thehill.com/policy/energy-environment/6104783-president-donald-trump-diesel-export-ban-gas-prices-unga/",
+      "snapshot": "The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking. Asked Tuesday whether he was considering a ban on diesel exports, as some Republican lawmakers have called for in recent days,... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Trump, Asked Tuesday",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump backs diesel export ban; Bessent says admin 'examining that'",
+        "Source context: The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking...."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 22 Sep 2026 19:07:42 +0000",
+      "age_hours": "6.07",
+      "freshness_status": "fresh",
+      "editorial_score": "125",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 22 Sep 2026 21:30:51 +0000",
-      "age_hours": "1.80",
+      "age_hours": "3.69",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 22 Sep 2026 22:07:50 +0000",
-      "age_hours": "1.19",
+      "age_hours": "3.07",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
