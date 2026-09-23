@@ -1,34 +1,34 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-  "snapshot": "Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man is afraid.\" \"Absolutely abhorrent,\" Harris said of the president's decision as she departed an event in Michigan. \"And the man is... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-09-23 03:15:17 AM ET",
-  "generated_at": "2026-09-23 03:15:17 AM ET",
+  "headline": "CNN, MS NOW and Politico sue to restore White House access",
+  "snapshot": "The three news organizations, which were banned from White House grounds by President Trump, are arguing that the ban is unconstitutional. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-09-23 08:21:35 AM ET",
+  "generated_at": "2026-09-23 08:21:35 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 154,
-    "live_fresh_items": 64,
+    "live_fresh_items": 40,
     "editor_fresh_items": 145,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 90,
+    "stale_or_blocked_items": 114,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-23 03:15:17 AM ET"
+    "last_checked": "2026-09-23 08:21:35 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-      "url": "https://thehill.com/homenews/administration/6105227-trump-withdrew-white-house-credentials/",
-      "snapshot": "Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man is afraid.\" \"Absolutely abhorrent,\" Harris said of the president's decision as she departed an event in Michigan. \"And the man is... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
+      "url": "https://thehill.com/homenews/6103272-senator-subpoena-trump-jr-hunter-biden/",
+      "snapshot": "Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and former President Biden's business dealings and to subpoena Donald Trump Jr. and Hunter Biden to testify before Congress. Curtis... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Harris, Trump, Former Vice President Kamala, President Trump",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: GOP Sen, John Curtis, Trump Jr, Hunter Biden",
+        "Politics desk signal: congress, senate",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-        "Source context: Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man..."
+        "Story focus: GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
+        "Source context: Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,47 +36,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Harris.",
+        "Watch for the next official action involving GOP Sen.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 22 Sep 2026 21:27:03 +0000",
-      "age_hours": "9.80",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US Republican calls for probe into Donald Trump Jr's business dealings",
-      "url": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
-      "snapshot": "US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US Republican, Donald Trump Jr, US Senator John Curtis",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US Republican calls for probe into Donald Trump Jr's business dealings",
-        "Source context: US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Republican.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 22 Sep 2026 22:07:50 +0000",
-      "age_hours": "9.12",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "published": "Tue, 22 Sep 2026 11:56:30 +0000",
+      "age_hours": "24.42",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,40 +74,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 23 Sep 2026 01:53:52 -0400",
-      "age_hours": "1.36",
+      "age_hours": "6.46",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "What is the White House press pool and how does it work?",
-      "url": "https://www.cbsnews.com/news/what-is-white-house-press-pool-how-does-it-work/",
-      "snapshot": "President Trump's move to ban CNN, MS NOW and Politico from the White House has highlighted the role of the press pool. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Redrawn Missouri congressional map lands before Supreme Court for third time",
+      "url": "https://www.cbsnews.com/news/missouri-congressional-map-redrawn-supreme-court-third-time/",
+      "snapshot": "The fight over Missouri's congressional map returned to the U.S. Supreme Court for a third time after an appeals court ordered the revival of new districts backed by President Trump​. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: White House, President Trump, MS NOW",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Redrawn Missouri, Supreme Court, Missouri, President Trump",
+        "Politics desk signal: congress, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What is the White House press pool and how does it work?",
-        "Source context: President Trump's move to ban CNN, MS NOW and Politico from the White House has highlighted the role of the press pool. The key question is leverage:..."
+        "Story focus: Redrawn Missouri congressional map lands before Supreme Court for third time",
+        "Source context: The fight over Missouri's congressional map returned to the U.S. Supreme Court for a third time after an appeals court ordered the revival of new..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Redrawn Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 22 Sep 2026 15:51:00 -0400",
-      "age_hours": "11.40",
+      "published": "Wed, 23 Sep 2026 05:18:12 -0400",
+      "age_hours": "3.06",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "DEVELOPING"
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Wicker blasts Xi ahead of summit with Trump in DC",
@@ -164,23 +134,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 03:00:14 +0000",
-      "age_hours": "4.25",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
+    },
     {
-      "headline": "Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-      "url": "https://thehill.com/homenews/administration/6105227-trump-withdrew-white-house-credentials/",
-      "snapshot": "Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man is afraid.\" \"Absolutely abhorrent,\" Harris said of the president's decision as she departed an event in Michigan. \"And the man is... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump rallies Latin American allies against drug cartels",
+      "url": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
+      "snapshot": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Harris, Trump, Former Vice President Kamala, President Trump",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Trump, Latin American",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-        "Source context: Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man..."
+        "Story focus: Trump rallies Latin American allies against drug cartels",
+        "Source context: US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -188,19 +156,21 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Harris.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 22 Sep 2026 21:27:03 +0000",
-      "age_hours": "9.80",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 23 Sep 2026 05:34:40 +0000",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
+      "editorial_score": "70",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
     {
       "headline": "CNN, MS NOW and Politico sue to restore White House access",
       "url": "https://www.cbsnews.com/news/cnn-ms-now-politico-lawsuit-white-house-access-trump/",
@@ -226,40 +196,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 23 Sep 2026 01:53:52 -0400",
-      "age_hours": "1.36",
+      "age_hours": "6.46",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "What is the White House press pool and how does it work?",
-      "url": "https://www.cbsnews.com/news/what-is-white-house-press-pool-how-does-it-work/",
-      "snapshot": "President Trump's move to ban CNN, MS NOW and Politico from the White House has highlighted the role of the press pool. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Redrawn Missouri congressional map lands before Supreme Court for third time",
+      "url": "https://www.cbsnews.com/news/missouri-congressional-map-redrawn-supreme-court-third-time/",
+      "snapshot": "The fight over Missouri's congressional map returned to the U.S. Supreme Court for a third time after an appeals court ordered the revival of new districts backed by President Trump​. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: White House, President Trump, MS NOW",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Redrawn Missouri, Supreme Court, Missouri, President Trump",
+        "Politics desk signal: congress, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What is the White House press pool and how does it work?",
-        "Source context: President Trump's move to ban CNN, MS NOW and Politico from the White House has highlighted the role of the press pool. The key question is leverage:..."
+        "Story focus: Redrawn Missouri congressional map lands before Supreme Court for third time",
+        "Source context: The fight over Missouri's congressional map returned to the U.S. Supreme Court for a third time after an appeals court ordered the revival of new..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Redrawn Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 22 Sep 2026 15:51:00 -0400",
-      "age_hours": "11.40",
+      "published": "Wed, 23 Sep 2026 05:18:12 -0400",
+      "age_hours": "3.06",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "DEVELOPING"
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
@@ -286,136 +256,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 22 Sep 2026 11:56:30 +0000",
-      "age_hours": "19.31",
+      "age_hours": "24.42",
       "freshness_status": "editor_fresh",
       "editorial_score": "115",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
-      "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
-      "snapshot": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Palestinian Americans, US, Trump, Israel",
-        "Specific figures mentioned: $2, 8, 300, 26",
-        "Politics desk signal: senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Palestinian Americans.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 22 Sep 2026 21:30:51 +0000",
-      "age_hours": "9.74",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-    "CNN, MS NOW and Politico sue to restore White House access",
-    "What is the White House press pool and how does it work?"
-  ],
-  "sections": [
-    {
-      "headline": "Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-      "url": "https://thehill.com/homenews/administration/6105227-trump-withdrew-white-house-credentials/",
-      "snapshot": "Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man is afraid.\" \"Absolutely abhorrent,\" Harris said of the president's decision as she departed an event in Michigan. \"And the man is... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Harris, Trump, Former Vice President Kamala, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Harris says Trump's move to ban news outlets shows 'the man is afraid'",
-        "Source context: Former Vice President Kamala Harris on Tuesday blasted President Trump's move to ban news outlets from White House access, saying it shows \"the man..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Harris.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 22 Sep 2026 21:27:03 +0000",
-      "age_hours": "9.80",
-      "freshness_status": "fresh",
-      "editorial_score": "121",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "CNN, MS NOW and Politico sue to restore White House access",
-      "url": "https://www.cbsnews.com/news/cnn-ms-now-politico-lawsuit-white-house-access-trump/",
-      "snapshot": "The three news organizations, which were banned from White House grounds by President Trump, are arguing that the ban is unconstitutional. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: MS NOW, White House",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: CNN, MS NOW and Politico sue to restore White House access",
-        "Source context: The three news organizations, which were banned from White House grounds by President Trump, are arguing that the ban is unconstitutional. The key..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving MS NOW.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 23 Sep 2026 01:53:52 -0400",
-      "age_hours": "1.36",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What is the White House press pool and how does it work?",
-      "url": "https://www.cbsnews.com/news/what-is-white-house-press-pool-how-does-it-work/",
-      "snapshot": "President Trump's move to ban CNN, MS NOW and Politico from the White House has highlighted the role of the press pool. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: White House, President Trump, MS NOW",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: What is the White House press pool and how does it work?",
-        "Source context: President Trump's move to ban CNN, MS NOW and Politico from the White House has highlighted the role of the press pool. The key question is leverage:..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving White House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 22 Sep 2026 15:51:00 -0400",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
@@ -443,21 +286,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 03:00:14 +0000",
-      "age_hours": "4.25",
+      "age_hours": "9.36",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
-      "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
-      "snapshot": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump rallies Latin American allies against drug cartels",
+      "url": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
+      "snapshot": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Palestinian Americans, US, Trump, Israel",
-        "Specific figures mentioned: $2, 8, 300, 26",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Trump, Latin American",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel"
+        "Story focus: Trump rallies Latin American allies against drug cartels",
+        "Source context: US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action. The election angle is whether this..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,29 +308,36 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Palestinian Americans.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 22 Sep 2026 21:30:51 +0000",
-      "age_hours": "9.74",
+      "published": "Wed, 23 Sep 2026 05:34:40 +0000",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "70",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "CNN, MS NOW and Politico sue to restore White House access",
+    "Redrawn Missouri congressional map lands before Supreme Court for third time",
+    "Wicker blasts Xi ahead of summit with Trump in DC"
+  ],
+  "sections": [
     {
-      "headline": "US Republican calls for probe into Donald Trump Jr's business dealings",
-      "url": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
-      "snapshot": "US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "CNN, MS NOW and Politico sue to restore White House access",
+      "url": "https://www.cbsnews.com/news/cnn-ms-now-politico-lawsuit-white-house-access-trump/",
+      "snapshot": "The three news organizations, which were banned from White House grounds by President Trump, are arguing that the ban is unconstitutional. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: US Republican, Donald Trump Jr, US Senator John Curtis",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: MS NOW, White House",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US Republican calls for probe into Donald Trump Jr's business dealings",
-        "Source context: US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable. The election angle is whether..."
+        "Story focus: CNN, MS NOW and Politico sue to restore White House access",
+        "Source context: The three news organizations, which were banned from White House grounds by President Trump, are arguing that the ban is unconstitutional. The key..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +345,167 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US Republican.",
+        "Watch for the next official action involving MS NOW.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 23 Sep 2026 01:53:52 -0400",
+      "age_hours": "6.46",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Redrawn Missouri congressional map lands before Supreme Court for third time",
+      "url": "https://www.cbsnews.com/news/missouri-congressional-map-redrawn-supreme-court-third-time/",
+      "snapshot": "The fight over Missouri's congressional map returned to the U.S. Supreme Court for a third time after an appeals court ordered the revival of new districts backed by President Trump​. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Redrawn Missouri, Supreme Court, Missouri, President Trump",
+        "Politics desk signal: congress, supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Redrawn Missouri congressional map lands before Supreme Court for third time",
+        "Source context: The fight over Missouri's congressional map returned to the U.S. Supreme Court for a third time after an appeals court ordered the revival of new..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Redrawn Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 23 Sep 2026 05:18:12 -0400",
+      "age_hours": "3.06",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Wicker blasts Xi ahead of summit with Trump in DC",
+      "url": "https://thehill.com/homenews/senate/6105609-wicker-slams-trump-xi-summit/",
+      "snapshot": "GOP Sen. Roger Wicker (Miss.) slammed Chinese President Xi Jinping on Tuesday, ahead of the Asian leader's summit with President Trump in Washington, D.C. During remarks on the Senate floor, Wicker said that had the White House asked him for \"advice,\" he would have suggested... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Wicker, Xi, Trump",
+        "Politics desk signal: senate, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Wicker blasts Xi ahead of summit with Trump in DC",
+        "Source context: GOP Sen. Roger Wicker (Miss.) slammed Chinese President Xi Jinping on Tuesday, ahead of the Asian leader's summit with President Trump in Washington,..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Wicker.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 23 Sep 2026 03:00:14 +0000",
+      "age_hours": "9.36",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Missouri redistricting fight reaches Supreme Court for third time",
+      "url": "https://thehill.com/regulation/court-battles/6105766-missouri-redistricting-fight-supreme-court-challenge-2026-midterms/",
+      "snapshot": "The messy legal fight over Missouri's congressional map reached the Supreme Court for a third time in as many weeks late Tuesday as the parties battle less than 50 days before November's elections over whether the GOP can implement its new boundaries. Twice before, the... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "key_data": [
+        "Key people or organizations: Missouri, Supreme Court, GOP",
+        "Specific figures mentioned: 50",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Missouri redistricting fight reaches Supreme Court for third time"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Missouri.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 23 Sep 2026 11:19:04 +0000",
+      "age_hours": "1.04",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump rallies Latin American allies against drug cartels",
+      "url": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
+      "snapshot": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Latin American",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump rallies Latin American allies against drug cartels",
+        "Source context: US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action. The election angle is whether this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 22 Sep 2026 22:07:50 +0000",
-      "age_hours": "9.12",
+      "published": "Wed, 23 Sep 2026 05:34:40 +0000",
+      "age_hours": "6.78",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
+      "url": "https://thehill.com/homenews/6103272-senator-subpoena-trump-jr-hunter-biden/",
+      "snapshot": "Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and former President Biden's business dealings and to subpoena Donald Trump Jr. and Hunter Biden to testify before Congress. Curtis... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: GOP Sen, John Curtis, Trump Jr, Hunter Biden",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP Sen. John Curtis calls for Trump Jr., Hunter Biden investigations",
+        "Source context: Republican Sen. John Curtis (Utah) has sent a letter to leaders of the Senate Judiciary Committee asking them to investigate President Trump's and..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP Sen.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 22 Sep 2026 11:56:30 +0000",
+      "age_hours": "24.42",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
       "urgency": "DEVELOPING"
     }
   ],
