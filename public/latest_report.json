@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Journalists regain access to White House after judge blocks Trump's media ban",
   "snapshot": "Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to restore their press credentials. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-09-24 01:36:19 PM ET",
-  "generated_at": "2026-09-24 01:36:19 PM ET",
+  "updated_at": "2026-09-24 04:15:21 PM ET",
+  "generated_at": "2026-09-24 04:15:21 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 89,
+    "total_items_checked": 148,
+    "live_fresh_items": 107,
     "editor_fresh_items": 145,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 60,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-24 01:36:19 PM ET"
+    "last_checked": "2026-09-24 04:15:21 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,8 +43,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 12:42:48 -0400",
-      "age_hours": "0.89",
+      "published": "Thu, 24 Sep 2026 13:43:23 -0400",
+      "age_hours": "2.53",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -74,10 +74,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 15:34:06 +0000",
-      "age_hours": "2.04",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war powers measure falls short in Senate, despite new GOP support",
+      "url": "https://www.cbsnews.com/news/senate-iran-war-powers-resolution-vote/",
+      "snapshot": "The Senate rejected a resolution aimed at limiting President Trump's war powers in Iran, though the Democrat-led effort picked up one new GOP supporter. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Iran, Senate, GOP, President Trump",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war powers measure falls short in Senate, despite new GOP support",
+        "Source context: The Senate rejected a resolution aimed at limiting President Trump's war powers in Iran, though the Democrat-led effort picked up one new GOP..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 14:45:40 -0400",
+      "age_hours": "1.49",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
       "headline": "Watch live: Trump's pick to lead FDA faces Senate confirmation hearing",
@@ -104,50 +134,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 13:57:42 +0000",
-      "age_hours": "3.64",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Trump hosting China's Xi at White House with AI and tariffs on the agenda",
-      "url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
-      "snapshot": "President Trump is hosting Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, China, Xi, White House",
-        "Politics desk signal: house, white house, tariff, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump hosting China's Xi at White House with AI and tariffs on the agenda",
-        "Source context: President Trump is hosting Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 13:03:53 -0400",
-      "age_hours": "0.54",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Media outlets access to White House restored after a chaotic few hours",
+      "headline": "White House restores CNN, MS NOW, Politico access after hours of chaos",
       "url": "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss",
       "snapshot": "A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: White House",
+        "Key people or organizations: White House, MS NOW",
         "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Media outlets access to White House restored after a chaotic few hours",
+        "Story focus: White House restores CNN, MS NOW, Politico access after hours of chaos",
         "Source context: A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access. The broader significance is..."
       ],
       "why_it_matters": [
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 24 Sep 2026 16:45:39 +0000",
-      "age_hours": "0.84",
+      "age_hours": "3.49",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -195,8 +195,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 12:42:48 -0400",
-      "age_hours": "0.89",
+      "published": "Thu, 24 Sep 2026 13:43:23 -0400",
+      "age_hours": "2.53",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -226,10 +226,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 15:34:06 +0000",
-      "age_hours": "2.04",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war powers measure falls short in Senate, despite new GOP support",
+      "url": "https://www.cbsnews.com/news/senate-iran-war-powers-resolution-vote/",
+      "snapshot": "The Senate rejected a resolution aimed at limiting President Trump's war powers in Iran, though the Democrat-led effort picked up one new GOP supporter. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Iran, Senate, GOP, President Trump",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war powers measure falls short in Senate, despite new GOP support",
+        "Source context: The Senate rejected a resolution aimed at limiting President Trump's war powers in Iran, though the Democrat-led effort picked up one new GOP..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 14:45:40 -0400",
+      "age_hours": "1.49",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
       "headline": "Watch live: Trump's pick to lead FDA faces Senate confirmation hearing",
@@ -256,50 +286,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 13:57:42 +0000",
-      "age_hours": "3.64",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Trump hosting China's Xi at White House with AI and tariffs on the agenda",
-      "url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
-      "snapshot": "President Trump is hosting Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, China, Xi, White House",
-        "Politics desk signal: house, white house, tariff, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump hosting China's Xi at White House with AI and tariffs on the agenda",
-        "Source context: President Trump is hosting Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 13:03:53 -0400",
-      "age_hours": "0.54",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Media outlets access to White House restored after a chaotic few hours",
+      "headline": "White House restores CNN, MS NOW, Politico access after hours of chaos",
       "url": "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss",
       "snapshot": "A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: White House",
+        "Key people or organizations: White House, MS NOW",
         "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Media outlets access to White House restored after a chaotic few hours",
+        "Story focus: White House restores CNN, MS NOW, Politico access after hours of chaos",
         "Source context: A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access. The broader significance is..."
       ],
       "why_it_matters": [
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 24 Sep 2026 16:45:39 +0000",
-      "age_hours": "0.84",
+      "age_hours": "3.49",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Journalists regain access to White House after judge blocks Trump's media ban",
     "Democrats sue Trump administration over threats to deploy federal agents to polls",
-    "Watch live: Trump's pick to lead FDA faces Senate confirmation hearing"
+    "Iran war powers measure falls short in Senate, despite new GOP support"
   ],
   "sections": [
     {
@@ -352,8 +352,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 12:42:48 -0400",
-      "age_hours": "0.89",
+      "published": "Thu, 24 Sep 2026 13:43:23 -0400",
+      "age_hours": "2.53",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -383,10 +383,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 15:34:06 +0000",
-      "age_hours": "2.04",
+      "age_hours": "4.69",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran war powers measure falls short in Senate, despite new GOP support",
+      "url": "https://www.cbsnews.com/news/senate-iran-war-powers-resolution-vote/",
+      "snapshot": "The Senate rejected a resolution aimed at limiting President Trump's war powers in Iran, though the Democrat-led effort picked up one new GOP supporter. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Iran, Senate, GOP, President Trump",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran war powers measure falls short in Senate, despite new GOP support",
+        "Source context: The Senate rejected a resolution aimed at limiting President Trump's war powers in Iran, though the Democrat-led effort picked up one new GOP..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 14:45:40 -0400",
+      "age_hours": "1.49",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
       "headline": "Watch live: Trump's pick to lead FDA faces Senate confirmation hearing",
@@ -413,50 +443,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 13:57:42 +0000",
-      "age_hours": "3.64",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
     },
     {
-      "headline": "Trump hosting China's Xi at White House with AI and tariffs on the agenda",
-      "url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
-      "snapshot": "President Trump is hosting Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, China, Xi, White House",
-        "Politics desk signal: house, white house, tariff, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump hosting China's Xi at White House with AI and tariffs on the agenda",
-        "Source context: President Trump is hosting Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 13:03:53 -0400",
-      "age_hours": "0.54",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Media outlets access to White House restored after a chaotic few hours",
+      "headline": "White House restores CNN, MS NOW, Politico access after hours of chaos",
       "url": "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss",
       "snapshot": "A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: White House",
+        "Key people or organizations: White House, MS NOW",
         "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Media outlets access to White House restored after a chaotic few hours",
+        "Story focus: White House restores CNN, MS NOW, Politico access after hours of chaos",
         "Source context: A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access. The broader significance is..."
       ],
       "why_it_matters": [
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 24 Sep 2026 16:45:39 +0000",
-      "age_hours": "0.84",
+      "age_hours": "3.49",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 24 Sep 2026 15:27:45 +0000",
-      "age_hours": "2.14",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
