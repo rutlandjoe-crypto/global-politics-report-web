@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Moreno, Banks warn of 'Russiagate 2.0' amid GOP push to probe Trump Jr. wedding party",
-  "snapshot": "Republican Sens. Bernie Moreno (Ohio) and Jim Banks (Ind.) warned of a situation similar to previous investigations into President Trump's ties with Russia amid a GOP push to question Donald Trump Jr. over reporting that a Russian oligarch funded his after-wedding party. \"I... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-09-23 09:43:04 PM ET",
-  "generated_at": "2026-09-23 09:43:04 PM ET",
+  "headline": "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+  "snapshot": "A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their journalists' press credentials must be immediately restored. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-09-24 01:48:55 AM ET",
+  "generated_at": "2026-09-24 01:48:55 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 99,
+    "live_fresh_items": 74,
     "editor_fresh_items": 143,
     "public_fallback_items": 143,
-    "stale_or_blocked_items": 50,
+    "stale_or_blocked_items": 75,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-23 09:43:04 PM ET"
+    "last_checked": "2026-09-24 01:48:55 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 21:07:20 +0000",
-      "age_hours": "4.60",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "153",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+      "snapshot": "A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their journalists' press credentials must be immediately restored. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, CNN, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+        "Source context: A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 01:44:17 -0400",
+      "age_hours": "0.08",
+      "freshness_status": "fresh",
+      "editorial_score": "158",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,66 +104,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 20:44:29 +0000",
-      "age_hours": "4.98",
+      "age_hours": "9.07",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results",
-      "url": "https://www.cbsnews.com/news/trump-2024-lawsuit-des-moines-register-poll-results/",
-      "snapshot": "An Iowa judge sided with pollster J. Ann Selzer and The Des Moines Register, saying that allowing the lawsuit and its \"faulty\" claims to proceed could \"discourage others from reporting on and debating public affairs.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the...",
+      "headline": "Iran's president brings receipts of US strikes on civilians to the UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "snapshot": "Iran's president delivered his UN General Assembly address after US President Trump threatened to 'annihilate' Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Judge, Trump, Iowa, Ann Selzer",
-        "Specific figures mentioned: 2024",
-        "Politics desk signal: court",
+        "Key people or organizations: Iran, US, UN General Assembly",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results"
+        "Story focus: Iran's president brings receipts of US strikes on civilians to the UNGA",
+        "Source context: Iran's president delivered his UN General Assembly address after US President Trump threatened to 'annihilate' Iran. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 23 Sep 2026 19:08:00 -0400",
-      "age_hours": "2.58",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
-      "url": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
-      "snapshot": "Legislation seeks to pause advanced AI systems until federal safety standards are established.",
-      "key_data": [
-        "Story focus: US lawmakers propose sweeping AI restrictions with superintelligence ban",
-        "Source context: Legislation seeks to pause advanced AI systems until federal safety standards are established."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 23 Sep 2026 19:29:28 +0000",
-      "age_hours": "6.23",
+      "published": "Thu, 24 Sep 2026 02:17:36 +0000",
+      "age_hours": "3.52",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -161,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 23 Sep 2026 14:05:14 -0400",
-      "age_hours": "7.63",
+      "age_hours": "11.73",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -169,6 +172,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+      "snapshot": "A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their journalists' press credentials must be immediately restored. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, CNN, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+        "Source context: A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 01:44:17 -0400",
+      "age_hours": "0.08",
+      "freshness_status": "fresh",
+      "editorial_score": "158",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Moreno, Banks warn of 'Russiagate 2.0' amid GOP push to probe Trump Jr. wedding party",
       "url": "https://thehill.com/homenews/senate/6107374-gop-warn-russiagate-repeat/",
       "snapshot": "Republican Sens. Bernie Moreno (Ohio) and Jim Banks (Ind.) warned of a situation similar to previous investigations into President Trump's ties with Russia amid a GOP push to question Donald Trump Jr. over reporting that a Russian oligarch funded his after-wedding party. \"I... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
@@ -193,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 21:07:20 +0000",
-      "age_hours": "4.60",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "153",
       "urgency": "DEVELOPING"
@@ -223,39 +256,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 20:44:29 +0000",
-      "age_hours": "4.98",
+      "age_hours": "9.07",
       "freshness_status": "fresh",
       "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results",
-      "url": "https://www.cbsnews.com/news/trump-2024-lawsuit-des-moines-register-poll-results/",
-      "snapshot": "An Iowa judge sided with pollster J. Ann Selzer and The Des Moines Register, saying that allowing the lawsuit and its \"faulty\" claims to proceed could \"discourage others from reporting on and debating public affairs.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the...",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, Iowa, Ann Selzer",
-        "Specific figures mentioned: 2024",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 23 Sep 2026 19:08:00 -0400",
-      "age_hours": "2.58",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
     {
@@ -283,21 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 23 Sep 2026 14:05:14 -0400",
-      "age_hours": "7.63",
+      "age_hours": "11.73",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "China's Xi arrives to Trump welcome on state visit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
-      "snapshot": "China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Iran's president brings receipts of US strikes on civilians to the UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "snapshot": "Iran's president delivered his UN General Assembly address after US President Trump threatened to 'annihilate' Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: China, Xi, Trump, President Xi Jinping",
-        "Politics desk signal: election, campaign, china",
+        "Key people or organizations: Iran, US, UN General Assembly",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: China's Xi arrives to Trump welcome on state visit",
-        "Source context: China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit The election angle is..."
+        "Story focus: Iran's president brings receipts of US strikes on civilians to the UNGA",
+        "Source context: Iran's president delivered his UN General Assembly address after US President Trump threatened to 'annihilate' Iran. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -305,26 +308,56 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving China.",
+        "Watch for the next official action involving Iran.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 23 Sep 2026 23:19:29 +0000",
-      "age_hours": "2.39",
+      "published": "Thu, 24 Sep 2026 02:17:36 +0000",
+      "age_hours": "3.52",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "82",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
     "Moreno, Banks warn of 'Russiagate 2.0' amid GOP push to probe Trump Jr. wedding party",
-    "Judge skeptical of White House press ban on Politico, MS NOW, CNN: Due process 'wasn't followed'",
-    "Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results"
+    "Judge skeptical of White House press ban on Politico, MS NOW, CNN: Due process 'wasn't followed'"
   ],
   "sections": [
+    {
+      "headline": "Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+      "snapshot": "A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their journalists' press credentials must be immediately restored. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, CNN, MS NOW",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge blocks Trump's ban on CNN, MS NOW and Politico, restoring White House access",
+        "Source context: A federal judge temporarily blocked senior Trump administration officials from barring CNN, MS NOW and Politico from the White House and said their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 01:44:17 -0400",
+      "age_hours": "0.08",
+      "freshness_status": "fresh",
+      "editorial_score": "158",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Moreno, Banks warn of 'Russiagate 2.0' amid GOP push to probe Trump Jr. wedding party",
       "url": "https://thehill.com/homenews/senate/6107374-gop-warn-russiagate-repeat/",
@@ -350,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 21:07:20 +0000",
-      "age_hours": "4.60",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "153",
       "urgency": "DEVELOPING"
@@ -380,39 +413,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 23 Sep 2026 20:44:29 +0000",
-      "age_hours": "4.98",
+      "age_hours": "9.07",
       "freshness_status": "fresh",
       "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results",
-      "url": "https://www.cbsnews.com/news/trump-2024-lawsuit-des-moines-register-poll-results/",
-      "snapshot": "An Iowa judge sided with pollster J. Ann Selzer and The Des Moines Register, saying that allowing the lawsuit and its \"faulty\" claims to proceed could \"discourage others from reporting on and debating public affairs.\" The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the...",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, Iowa, Ann Selzer",
-        "Specific figures mentioned: 2024",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge dismisses Trump's 2024 lawsuit against Iowa newspaper over poll results"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 23 Sep 2026 19:08:00 -0400",
-      "age_hours": "2.58",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
     {
@@ -440,9 +443,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 23 Sep 2026 14:05:14 -0400",
-      "age_hours": "7.63",
+      "age_hours": "11.73",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Iran's president brings receipts of US strikes on civilians to the UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "snapshot": "Iran's president delivered his UN General Assembly address after US President Trump threatened to 'annihilate' Iran. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Iran, US, UN General Assembly",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Iran's president brings receipts of US strikes on civilians to the UNGA",
+        "Source context: Iran's president delivered his UN General Assembly address after US President Trump threatened to 'annihilate' Iran. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 24 Sep 2026 02:17:36 +0000",
+      "age_hours": "3.52",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
@@ -470,37 +503,10 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 23 Sep 2026 23:19:29 +0000",
-      "age_hours": "2.39",
+      "age_hours": "6.49",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
-    },
-    {
-      "headline": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
-      "url": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
-      "snapshot": "Legislation seeks to pause advanced AI systems until federal safety standards are established.",
-      "key_data": [
-        "Story focus: US lawmakers propose sweeping AI restrictions with superintelligence ban",
-        "Source context: Legislation seeks to pause advanced AI systems until federal safety standards are established."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 23 Sep 2026 19:29:28 +0000",
-      "age_hours": "6.23",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
