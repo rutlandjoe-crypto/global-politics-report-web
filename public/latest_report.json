@@ -1,52 +1,79 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-  "snapshot": "President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade. Weijia Jiang reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-09-25 05:19:25 AM ET",
-  "generated_at": "2026-09-25 05:19:25 AM ET",
+  "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+  "snapshot": "Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert plans for a massive triumphal arch into a \"top grade Military Complex.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-09-25 09:03:25 AM ET",
+  "generated_at": "2026-09-25 09:03:25 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 49,
-    "editor_fresh_items": 146,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 98,
+    "total_items_checked": 150,
+    "live_fresh_items": 45,
+    "editor_fresh_items": 148,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 105,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-25 05:19:25 AM ET"
+    "last_checked": "2026-09-25 09:03:25 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Meloni government bans burqas, caps foreign students in Italian schools",
-      "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
-      "snapshot": "Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "A diesel export ban would guarantee higher prices",
+      "url": "https://thehill.com/opinion/energy-environment/6110537-diesel-export-ban-risks-scarcity/",
+      "snapshot": "While some Republican lawmakers have considered a diesel export ban to combat high fuel prices, critics argue such a move would ultimately decrease domestic supply and raise costs by disincentivizing refining capacity.",
       "key_data": [
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meloni government bans burqas, caps foreign students in Italian schools",
-        "Source context: Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election. The election angle is whether this..."
+        "Story focus: A diesel export ban would guarantee higher prices",
+        "Source context: While some Republican lawmakers have considered a diesel export ban to combat high fuel prices, critics argue such a move would ultimately decrease..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
         "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 25 Sep 2026 02:07:29 +0000",
-      "age_hours": "7.20",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 12:30:00 +0000",
+      "age_hours": "0.56",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "91",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Journalists regain access to White House after judge blocks Trump's media ban",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+      "snapshot": "Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to restore their press credentials. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: White House, Trump",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Journalists regain access to White House after judge blocks Trump's media ban",
+        "Source context: Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 13:43:23 -0400",
+      "age_hours": "19.33",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,51 +101,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 15:34:06 +0000",
-      "age_hours": "17.75",
+      "age_hours": "21.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-      "url": "https://www.cbsnews.com/video/trump-hosts-xi-jinping-white-house-praising-truly-great-friendship/",
-      "snapshot": "President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade. Weijia Jiang reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+      "url": "https://www.cbsnews.com/news/sen-duckworth-slams-plan-triumphal-arch-military-complex-trump/",
+      "snapshot": "Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert plans for a massive triumphal arch into a \"top grade Military Complex.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Xi Jinping, White House, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-        "Source context: President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 19:18:00 -0400",
-      "age_hours": "10.02",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-      "url": "https://www.cbsnews.com/news/trump-focused-ad-campaign-taxpayers/",
-      "snapshot": "Ads promoting President Trump and paid for by American taxpayers are now airing on network and national cable. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Love Me, President Trump",
+        "Key people or organizations: Duckworth, Trump, Democratic Sen, Tammy Duckworth",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-        "Source context: Ads promoting President Trump and paid for by American taxpayers are now airing on network and national cable. The election angle is whether this..."
+        "Story focus: Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+        "Source context: Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -126,61 +123,61 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Duckworth.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 19:01:33 -0400",
-      "age_hours": "10.30",
+      "published": "Fri, 25 Sep 2026 07:00:12 -0400",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "GOP lawmakers concerned after F-35 equipment ended up in China",
-      "url": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/",
-      "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP lawmakers concerned after F-35 equipment ended up in China Republican lawmakers are concerned and are demanding more information from the Pentagon... The geopolitical angle is how the decision affects alliances, economic pressure, security...",
+      "headline": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+      "url": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
+      "snapshot": "Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in Washington after it was revealed earlier this month that Iran used Chinese satellite imagery to target U.S. troops in Jordan.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Key people or organizations: GOP, China",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: china",
-        "Story focus: GOP lawmakers concerned after F-35 equipment ended up in China",
-        "Source context: Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP lawmakers..."
+        "Key people or organizations: GOP, Trump, Xi, China",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+        "Source context: Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
         "Watch for the next official action involving GOP.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 24 Sep 2026 23:03:48 +0000",
-      "age_hours": "10.26",
+      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
+      "age_hours": "3.06",
       "freshness_status": "fresh",
-      "editorial_score": "81",
+      "editorial_score": "107",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-      "url": "https://www.cbsnews.com/video/trump-hosts-xi-jinping-white-house-praising-truly-great-friendship/",
-      "snapshot": "President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade. Weijia Jiang reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+      "url": "https://www.cbsnews.com/news/sen-duckworth-slams-plan-triumphal-arch-military-complex-trump/",
+      "snapshot": "Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert plans for a massive triumphal arch into a \"top grade Military Complex.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, Xi Jinping, White House, President Trump",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Duckworth, Trump, Democratic Sen, Tammy Duckworth",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-        "Source context: President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade...."
+        "Story focus: Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+        "Source context: Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -188,29 +185,59 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Duckworth.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 19:18:00 -0400",
-      "age_hours": "10.02",
+      "published": "Fri, 25 Sep 2026 07:00:12 -0400",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-      "url": "https://www.cbsnews.com/news/trump-focused-ad-campaign-taxpayers/",
-      "snapshot": "Ads promoting President Trump and paid for by American taxpayers are now airing on network and national cable. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Journalists regain access to White House after judge blocks Trump's media ban",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+      "snapshot": "Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to restore their press credentials. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Love Me, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: White House, Trump",
+        "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-        "Source context: Ads promoting President Trump and paid for by American taxpayers are now airing on network and national cable. The election angle is whether this..."
+        "Story focus: Journalists regain access to White House after judge blocks Trump's media ban",
+        "Source context: Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 13:43:23 -0400",
+      "age_hours": "19.33",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+      "url": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
+      "snapshot": "Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in Washington after it was revealed earlier this month that Iran used Chinese satellite imagery to target U.S. troops in Jordan.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Xi, China",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+        "Source context: Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -218,17 +245,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 19:01:33 -0400",
-      "age_hours": "10.30",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
+      "age_hours": "3.06",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -256,148 +283,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 15:34:06 +0000",
-      "age_hours": "17.75",
+      "age_hours": "21.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: Trump's pick to lead FDA faces Senate confirmation hearing",
-      "url": "https://thehill.com/video-clips/6108354-watch-live-heidi-overton-fda-nominee-senate-help-confirmation-hearing/",
-      "snapshot": "Dr. Heidi Overton, President Trump's pick to lead the Food and Drug Administration (FDA), will testify before the Senate Committee on Health, Education, Labor and Pensions (HELP) on Thursday as she seeks confirmation to lead the agency. Overton, a White House domestic policy... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
+      "snapshot": "Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, FDA, Senate",
-        "Politics desk signal: senate, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: Dr. Heidi Overton, President Trump's pick to lead the Food and Drug Administration (FDA), will testify before the Senate Committee on Health,..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 24 Sep 2026 13:57:42 +0000",
-      "age_hours": "19.36",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "93",
-      "urgency": ""
-    },
-    {
-      "headline": "Meloni government bans burqas, caps foreign students in Italian schools",
-      "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
-      "snapshot": "Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meloni government bans burqas, caps foreign students in Italian schools",
-        "Source context: Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 25 Sep 2026 02:07:29 +0000",
-      "age_hours": "7.20",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    }
-  ],
-  "key_storylines": [
-    "Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-    "New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-    "GOP lawmakers concerned after F-35 equipment ended up in China"
-  ],
-  "sections": [
-    {
-      "headline": "Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-      "url": "https://www.cbsnews.com/video/trump-hosts-xi-jinping-white-house-praising-truly-great-friendship/",
-      "snapshot": "President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade. Weijia Jiang reports. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Xi Jinping, White House, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump hosts Xi Jinping at White House, praising a \"truly great friendship\"",
-        "Source context: President Trump welcomed Chinese President Xi Jinping to the White House on Thursday for his first visit to Washington, D.C., in more than a decade...."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 19:18:00 -0400",
-      "age_hours": "10.02",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-      "url": "https://www.cbsnews.com/news/trump-focused-ad-campaign-taxpayers/",
-      "snapshot": "Ads promoting President Trump and paid for by American taxpayers are now airing on network and national cable. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Love Me, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: New Trump-focused \"Love Me\" ad campaign paid for by taxpayers hits airwaves",
-        "Source context: Ads promoting President Trump and paid for by American taxpayers are now airing on network and national cable. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 24 Sep 2026 19:01:33 -0400",
-      "age_hours": "10.30",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP lawmakers concerned after F-35 equipment ended up in China",
-      "url": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/",
-      "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP lawmakers concerned after F-35 equipment ended up in China Republican lawmakers are concerned and are demanding more information from the Pentagon... The geopolitical angle is how the decision affects alliances, economic pressure, security...",
-      "key_data": [
-        "Key people or organizations: GOP, China",
-        "Specific figures mentioned: 35",
-        "Politics desk signal: china",
-        "Story focus: GOP lawmakers concerned after F-35 equipment ended up in China",
-        "Source context: Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP lawmakers..."
+        "Key people or organizations: Russia, Ukraine",
+        "Politics desk signal: ukraine",
+        "Story focus: US seeking to revive Russia-Ukraine ceasefire talks",
+        "Source context: Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
         "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
@@ -405,59 +304,36 @@
         "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving GOP.",
+        "Watch for the next official action involving Russia.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 24 Sep 2026 23:03:48 +0000",
-      "age_hours": "10.26",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 25 Sep 2026 12:09:14 +0000",
+      "age_hours": "0.90",
       "freshness_status": "fresh",
-      "editorial_score": "81",
+      "editorial_score": "60",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+    "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+    "Trump welcomes China's Xi for state dinner at White House"
+  ],
+  "sections": [
     {
-      "headline": "Trump complains CNN, MS NOW didn't cover 'made for Television' Xi visit",
-      "url": "https://thehill.com/homenews/media/6110466-trump-blasts-cnn-msnow-xi-visit/",
-      "snapshot": "President Trump blasted CNN and MS NOW on Thursday over their coverage of his meeting with Chinese leader Xi Jinping, which did not include live video coverage and came as a federal judge reinstated the outlets' White House access. \"CNN and MSDNC, to show you how fake they... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+      "url": "https://www.cbsnews.com/news/sen-duckworth-slams-plan-triumphal-arch-military-complex-trump/",
+      "snapshot": "Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert plans for a massive triumphal arch into a \"top grade Military Complex.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Trump, CNN, MS NOW",
-        "Politics desk signal: house, white house, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump complains CNN, MS NOW didn't cover 'made for Television' Xi visit",
-        "Source context: President Trump blasted CNN and MS NOW on Thursday over their coverage of his meeting with Chinese leader Xi Jinping, which did not include live..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 24 Sep 2026 21:41:02 +0000",
-      "age_hours": "11.64",
-      "freshness_status": "fresh",
-      "editorial_score": "77",
-      "urgency": ""
-    },
-    {
-      "headline": "Meloni government bans burqas, caps foreign students in Italian schools",
-      "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
-      "snapshot": "Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Specific figures mentioned: 2027",
+        "Key people or organizations: Duckworth, Trump, Democratic Sen, Tammy Duckworth",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Meloni government bans burqas, caps foreign students in Italian schools",
-        "Source context: Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election. The election angle is whether this..."
+        "Story focus: Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
+        "Source context: Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,17 +341,134 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Watch for the next official action involving Duckworth.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 25 Sep 2026 02:07:29 +0000",
-      "age_hours": "7.20",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 25 Sep 2026 07:00:12 -0400",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "74",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+      "url": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
+      "snapshot": "Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in Washington after it was revealed earlier this month that Iran used Chinese satellite imagery to target U.S. troops in Jordan.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Xi, China",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
+        "Source context: Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
+      "age_hours": "3.06",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump welcomes China's Xi for state dinner at White House",
+      "url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
+      "snapshot": "President Trump hosted Chinese President Xi Jinping for a state dinner on Thursday, as the world's two most powerful countries extend a tariff truce and grapple with a rivalry on advanced AI. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, China, Xi, White House",
+        "Politics desk signal: house, white house, tariff, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump welcomes China's Xi for state dinner at White House",
+        "Source context: President Trump hosted Chinese President Xi Jinping for a state dinner on Thursday, as the world's two most powerful countries extend a tariff truce..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 25 Sep 2026 06:35:30 -0400",
+      "age_hours": "2.46",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "A diesel export ban would guarantee higher prices",
+      "url": "https://thehill.com/opinion/energy-environment/6110537-diesel-export-ban-risks-scarcity/",
+      "snapshot": "While some Republican lawmakers have considered a diesel export ban to combat high fuel prices, critics argue such a move would ultimately decrease domestic supply and raise costs by disincentivizing refining capacity.",
+      "key_data": [
+        "Story focus: A diesel export ban would guarantee higher prices",
+        "Source context: While some Republican lawmakers have considered a diesel export ban to combat high fuel prices, critics argue such a move would ultimately decrease..."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 12:30:00 +0000",
+      "age_hours": "0.56",
+      "freshness_status": "fresh",
+      "editorial_score": "91",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Journalists regain access to White House after judge blocks Trump's media ban",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/",
+      "snapshot": "Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to restore their press credentials. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: White House, Trump",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Journalists regain access to White House after judge blocks Trump's media ban",
+        "Source context: Reporters whose White House access was revoked were allowed to enter the complex again, hours after a judge ordered the Trump administration to..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 24 Sep 2026 13:43:23 -0400",
+      "age_hours": "19.33",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
@@ -503,7 +496,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 24 Sep 2026 15:34:06 +0000",
-      "age_hours": "17.75",
+      "age_hours": "21.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
