@@ -1,53 +1,81 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
-  "snapshot": "Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert plans for a massive triumphal arch into a \"top grade Military Complex.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-09-25 02:07:46 PM ET",
-  "generated_at": "2026-09-25 02:07:46 PM ET",
+  "headline": "Jack Smith to testify before Senate Judiciary next week",
+  "snapshot": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe his investigation into President Trump. Smith led a team of Justice Department investigators and ultimately determined he would... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-09-25 03:09:15 PM ET",
+  "generated_at": "2026-09-25 03:09:15 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 81,
+    "live_fresh_items": 89,
     "editor_fresh_items": 146,
     "public_fallback_items": 149,
-    "stale_or_blocked_items": 69,
+    "stale_or_blocked_items": 61,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-25 02:07:46 PM ET"
+    "last_checked": "2026-09-25 03:09:15 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "India's 'cockroach' movement demands election chief's resignation",
-      "url": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
-      "snapshot": "Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Jack Smith to testify before Senate Judiciary next week",
+      "url": "https://thehill.com/homenews/senate/6112039-jack-smith-senate-testimony/",
+      "snapshot": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe his investigation into President Trump. Smith led a team of Justice Department investigators and ultimately determined he would... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Gyanesh Kumar",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Jack Smith, Senate Judiciary, Senate Judiciary Committee",
+        "Politics desk signal: congress, senate, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: India's 'cockroach' movement demands election chief's resignation",
-        "Source context: Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling. The election angle is whether this..."
+        "Story focus: Jack Smith to testify before Senate Judiciary next week",
+        "Source context: Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Gyanesh Kumar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Jack Smith.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 18:46:24 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "131",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Israeli shelling continues as Lebanon's PM demands withdrawal in UN speech",
+      "url": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
+      "snapshot": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: UN",
+        "Story focus: Israeli shelling continues as Lebanon's PM demands withdrawal in UN speech",
+        "Source context: Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving UN.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 25 Sep 2026 12:59:16 +0000",
-      "age_hours": "5.14",
+      "published": "Fri, 25 Sep 2026 16:57:39 +0000",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
@@ -74,7 +102,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 11:21:29 -0400",
-      "age_hours": "2.77",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -104,7 +132,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 12:46:21 -0400",
-      "age_hours": "1.36",
+      "age_hours": "2.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -134,44 +162,44 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 25 Sep 2026 15:42:55 +0000",
-      "age_hours": "2.41",
+      "age_hours": "3.44",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-      "url": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
-      "snapshot": "Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in Washington after it was revealed earlier this month that Iran used Chinese satellite imagery to target U.S. troops in Jordan.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, Xi, China",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-        "Source context: Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
-      "age_hours": "8.13",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Jack Smith to testify before Senate Judiciary next week",
+      "url": "https://thehill.com/homenews/senate/6112039-jack-smith-senate-testimony/",
+      "snapshot": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe his investigation into President Trump. Smith led a team of Justice Department investigators and ultimately determined he would... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Jack Smith, Senate Judiciary, Senate Judiciary Committee",
+        "Politics desk signal: congress, senate, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jack Smith to testify before Senate Judiciary next week",
+        "Source context: Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jack Smith.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 18:46:24 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "131",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
       "url": "https://www.cbsnews.com/news/sen-duckworth-slams-plan-triumphal-arch-military-complex-trump/",
       "snapshot": "Democratic Sen. Tammy Duckworth of Illinois is demanding the Pentagon and Federal Aviation Administration reject President Trump's call to convert plans for a massive triumphal arch into a \"top grade Military Complex.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -196,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 11:21:29 -0400",
-      "age_hours": "2.77",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -226,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 12:46:21 -0400",
-      "age_hours": "1.36",
+      "age_hours": "2.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -256,39 +284,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 25 Sep 2026 15:42:55 +0000",
-      "age_hours": "2.41",
+      "age_hours": "3.44",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-      "url": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
-      "snapshot": "Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in Washington after it was revealed earlier this month that Iran used Chinese satellite imagery to target U.S. troops in Jordan.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, Xi, China",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-        "Source context: Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
-      "age_hours": "8.13",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -316,18 +314,48 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 25 Sep 2026 17:45:24 +0000",
-      "age_hours": "0.37",
+      "age_hours": "1.40",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Jack Smith to testify before Senate Judiciary next week",
     "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
-    "Supreme Court lets Trump administration use SAVE database for now",
-    "Supreme Court, over liberal dissents, lets DHS overhaul immigration database for midterms"
+    "Supreme Court lets Trump administration use SAVE database for now"
   ],
   "sections": [
+    {
+      "headline": "Jack Smith to testify before Senate Judiciary next week",
+      "url": "https://thehill.com/homenews/senate/6112039-jack-smith-senate-testimony/",
+      "snapshot": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe his investigation into President Trump. Smith led a team of Justice Department investigators and ultimately determined he would... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Jack Smith, Senate Judiciary, Senate Judiciary Committee",
+        "Politics desk signal: congress, senate, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jack Smith to testify before Senate Judiciary next week",
+        "Source context: Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as they probe..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jack Smith.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 18:46:24 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "131",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex",
       "url": "https://www.cbsnews.com/news/sen-duckworth-slams-plan-triumphal-arch-military-complex-trump/",
@@ -353,7 +381,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 11:21:29 -0400",
-      "age_hours": "2.77",
+      "age_hours": "3.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -383,7 +411,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 12:46:21 -0400",
-      "age_hours": "1.36",
+      "age_hours": "2.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -413,39 +441,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 25 Sep 2026 15:42:55 +0000",
-      "age_hours": "2.41",
+      "age_hours": "3.44",
       "freshness_status": "fresh",
       "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-      "url": "https://thehill.com/homenews/senate/6110545-gop-senators-criticize-trump-xi-summit-iran-cooperation/",
-      "snapshot": "Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in Washington after it was revealed earlier this month that Iran used Chinese satellite imagery to target U.S. troops in Jordan.... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
-      "key_data": [
-        "Key people or organizations: GOP, Trump, Xi, China",
-        "Politics desk signal: election, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops",
-        "Source context: Republican senators are expressing concern and dismay over President Trump's lavish welcome of Chinese President Xi Jinping to a two-day summit in..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
-      "age_hours": "8.13",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -473,40 +471,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 25 Sep 2026 17:45:24 +0000",
-      "age_hours": "0.37",
+      "age_hours": "1.40",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "India's 'cockroach' movement demands election chief's resignation",
-      "url": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
-      "snapshot": "Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Israeli shelling continues as Lebanon's PM demands withdrawal in UN speech",
+      "url": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
+      "snapshot": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Gyanesh Kumar",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: India's 'cockroach' movement demands election chief's resignation",
-        "Source context: Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling. The election angle is whether this..."
+        "Key people or organizations: UN",
+        "Story focus: Israeli shelling continues as Lebanon's PM demands withdrawal in UN speech",
+        "Source context: Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Gyanesh Kumar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving UN.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 25 Sep 2026 12:59:16 +0000",
-      "age_hours": "5.14",
+      "published": "Fri, 25 Sep 2026 16:57:39 +0000",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": "BREAKING"
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
