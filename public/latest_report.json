@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump cancels nearly $1 billion in spending, a move some lawmakers called illegal",
   "snapshot": "President Trump moved to cancel almost $1 billion in spending that was approved by Congress, marking the second time his administration has employed a rarely used tactic that some lawmakers in both parties have called illegal. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-  "updated_at": "2026-09-26 05:01:48 AM ET",
-  "generated_at": "2026-09-26 05:01:48 AM ET",
+  "updated_at": "2026-09-26 06:20:56 AM ET",
+  "generated_at": "2026-09-26 06:20:56 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 145,
-    "live_fresh_items": 48,
-    "editor_fresh_items": 134,
+    "live_fresh_items": 41,
+    "editor_fresh_items": 128,
     "public_fallback_items": 145,
-    "stale_or_blocked_items": 97,
+    "stale_or_blocked_items": 104,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-26 05:01:48 AM ET"
+    "last_checked": "2026-09-26 06:20:56 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 25 Sep 2026 23:27:20 +0000",
-      "age_hours": "9.57",
+      "age_hours": "10.89",
       "freshness_status": "fresh",
       "editorial_score": "113",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court blocks use of GOP-favored map in Missouri — again",
-      "url": "https://thehill.com/regulation/court-battles/6112550-mo-congressional-redistricting-battle/",
-      "snapshot": "The Supreme Court on Friday blocked a directive for Missouri Republicans to use their favored congressional map, again, making clear to officials they must return to an old design for November after the state's messy redistricting battle. The decision is a blow for the GOP,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, GOP, Missouri, Missouri Republicans",
-        "Politics desk signal: congress, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court blocks use of GOP-favored map in Missouri — again",
-        "Source context: The Supreme Court on Friday blocked a directive for Missouri Republicans to use their favored congressional map, again, making clear to officials..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 25 Sep 2026 22:03:47 +0000",
-      "age_hours": "10.97",
-      "freshness_status": "fresh",
-      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +74,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 21:38:11 -0400",
-      "age_hours": "7.39",
+      "age_hours": "8.71",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -134,9 +104,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 19:47:35 -0400",
-      "age_hours": "9.24",
+      "age_hours": "10.56",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+      "url": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
+      "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP senators not happy with Trump's embrace of Xi after China helped Iran Republican senators are dismayed over President Trump's lavish welcome of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Xi, China",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+        "Source context: Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP senators not happy..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 23:36:03 +0000",
+      "age_hours": "10.75",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 26 Sep 2026 04:37:22 +0000",
-      "age_hours": "4.41",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 21:38:11 -0400",
-      "age_hours": "7.39",
+      "age_hours": "8.71",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -226,21 +226,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 25 Sep 2026 23:27:20 +0000",
-      "age_hours": "9.57",
+      "age_hours": "10.89",
       "freshness_status": "fresh",
       "editorial_score": "113",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Supreme Court blocks use of GOP-favored map in Missouri — again",
-      "url": "https://thehill.com/regulation/court-battles/6112550-mo-congressional-redistricting-battle/",
-      "snapshot": "The Supreme Court on Friday blocked a directive for Missouri Republicans to use their favored congressional map, again, making clear to officials they must return to an old design for November after the state's messy redistricting battle. The decision is a blow for the GOP,... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Anti-Trump attorney: 'Don't overreact' to Supreme Court voter database decision",
+      "url": "https://thehill.com/regulation/court-battles/6112248-norm-eisen-supreme-court-immigration-database/",
+      "snapshot": "Norm Eisen, a former White House ethics lawyer and frequent critic of President Trump, urged Americans not to \"overreact\" after the Supreme Court's Friday ruling permitting the administration to move forward with its new immigration database ahead of the midterm elections. In... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Supreme Court, GOP, Missouri, Missouri Republicans",
-        "Politics desk signal: congress, supreme court, court",
+        "Key people or organizations: Trump, Supreme Court",
+        "Politics desk signal: house, white house, supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court blocks use of GOP-favored map in Missouri — again",
-        "Source context: The Supreme Court on Friday blocked a directive for Missouri Republicans to use their favored congressional map, again, making clear to officials..."
+        "Story focus: Anti-Trump attorney",
+        "Source context: Norm Eisen, a former White House ethics lawyer and frequent critic of President Trump, urged Americans not to \"overreact\" after the Supreme Court's..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -248,18 +248,18 @@
         "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
+        "Watch for the next official action involving Trump.",
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 25 Sep 2026 22:03:47 +0000",
-      "age_hours": "10.97",
-      "freshness_status": "fresh",
-      "editorial_score": "111",
-      "urgency": "DEVELOPING"
+      "published": "Fri, 25 Sep 2026 20:04:25 +0000",
+      "age_hours": "14.27",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "109",
+      "urgency": ""
     },
     {
       "headline": "Trump-Xi visit wraps up with few achievements announced",
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 19:47:35 -0400",
-      "age_hours": "9.24",
+      "age_hours": "10.56",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 26 Sep 2026 04:37:22 +0000",
-      "age_hours": "4.41",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Trump cancels nearly $1 billion in spending, a move some lawmakers called illegal",
     "Senate Democrats question if Kennedy struck a deal in vaccine lawsuit",
-    "Supreme Court blocks use of GOP-favored map in Missouri — again"
+    "Trump-Xi visit wraps up with few achievements announced"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 21:38:11 -0400",
-      "age_hours": "7.39",
+      "age_hours": "8.71",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -383,39 +383,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 25 Sep 2026 23:27:20 +0000",
-      "age_hours": "9.57",
+      "age_hours": "10.89",
       "freshness_status": "fresh",
       "editorial_score": "113",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court blocks use of GOP-favored map in Missouri — again",
-      "url": "https://thehill.com/regulation/court-battles/6112550-mo-congressional-redistricting-battle/",
-      "snapshot": "The Supreme Court on Friday blocked a directive for Missouri Republicans to use their favored congressional map, again, making clear to officials they must return to an old design for November after the state's messy redistricting battle. The decision is a blow for the GOP,... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, GOP, Missouri, Missouri Republicans",
-        "Politics desk signal: congress, supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court blocks use of GOP-favored map in Missouri — again",
-        "Source context: The Supreme Court on Friday blocked a directive for Missouri Republicans to use their favored congressional map, again, making clear to officials..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 25 Sep 2026 22:03:47 +0000",
-      "age_hours": "10.97",
-      "freshness_status": "fresh",
-      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
@@ -443,9 +413,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 25 Sep 2026 19:47:35 -0400",
-      "age_hours": "9.24",
+      "age_hours": "10.56",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+      "url": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
+      "snapshot": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP senators not happy with Trump's embrace of Xi after China helped Iran Republican senators are dismayed over President Trump's lavish welcome of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Xi, China",
+        "Politics desk signal: election, campaign, china",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+        "Source context: Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP senators not happy..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 25 Sep 2026 23:36:03 +0000",
+      "age_hours": "10.75",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": ""
     },
     {
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 26 Sep 2026 04:37:22 +0000",
-      "age_hours": "4.41",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 26 Sep 2026 04:27:07 +0000",
-      "age_hours": "4.58",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
