@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Senate Democratic PAC hits Collins over Medicaid cuts she voted against",
   "snapshot": "A Democratic super PAC on Monday launched a new ad campaign attacking Sen. Susan Collins (R-Maine) for the closure of about a dozen birthing centers in Maine, arguing she helped enable the massive Medicaid cuts in the One Big Beautiful Bill Act even though she voted against... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-09-28 08:00:24 PM ET",
-  "generated_at": "2026-09-28 08:00:24 PM ET",
+  "updated_at": "2026-09-28 11:56:51 PM ET",
+  "generated_at": "2026-09-28 11:56:51 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 146,
-    "live_fresh_items": 101,
-    "editor_fresh_items": 139,
-    "public_fallback_items": 144,
-    "stale_or_blocked_items": 45,
+    "total_items_checked": 145,
+    "live_fresh_items": 79,
+    "editor_fresh_items": 140,
+    "public_fallback_items": 142,
+    "stale_or_blocked_items": 66,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-28 08:00:24 PM ET"
+    "last_checked": "2026-09-28 11:56:51 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 28 Sep 2026 18:42:00 -0400",
-      "age_hours": "1.31",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -74,9 +74,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 19:58:51 +0000",
-      "age_hours": "4.03",
+      "age_hours": "7.97",
       "freshness_status": "fresh",
       "editorial_score": "109",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "snapshot": "Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
+      "key_data": [
+        "Key people or organizations: Hungary, Prime Minister Magyar, Parliament",
+        "Story focus: Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+        "Source context: Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Hungary.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 29 Sep 2026 01:01:38 +0000",
+      "age_hours": "2.92",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 21:16:14 +0000",
-      "age_hours": "2.74",
+      "age_hours": "6.68",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "WATCH"
@@ -134,39 +162,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 28 Sep 2026 12:52:12 -0400",
-      "age_hours": "7.14",
+      "age_hours": "11.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump made the right decision to reject Iran's offer",
-      "url": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-      "snapshot": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, US",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump made the right decision to reject Iran's offer",
-        "Source context: The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The election angle is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 28 Sep 2026 18:16:26 +0000",
-      "age_hours": "5.73",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
       "urgency": ""
     }
   ],
@@ -196,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 21:16:14 +0000",
-      "age_hours": "2.74",
+      "age_hours": "6.68",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "WATCH"
@@ -226,7 +224,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 28 Sep 2026 18:42:00 -0400",
-      "age_hours": "1.31",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -256,7 +254,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 28 Sep 2026 12:52:12 -0400",
-      "age_hours": "7.14",
+      "age_hours": "11.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -286,40 +284,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 10:00:00 +0000",
-      "age_hours": "14.01",
+      "age_hours": "17.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "113",
       "urgency": ""
     },
     {
-      "headline": "Trump made the right decision to reject Iran's offer",
-      "url": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-      "snapshot": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "snapshot": "Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, US",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump made the right decision to reject Iran's offer",
-        "Source context: The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The election angle is whether this changes..."
+        "Key people or organizations: Hungary, Prime Minister Magyar, Parliament",
+        "Story focus: Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+        "Source context: Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Hungary.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 28 Sep 2026 18:16:26 +0000",
-      "age_hours": "5.73",
+      "published": "Tue, 29 Sep 2026 01:01:38 +0000",
+      "age_hours": "2.92",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
+      "editorial_score": "70",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -353,7 +349,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 21:16:14 +0000",
-      "age_hours": "2.74",
+      "age_hours": "6.68",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "WATCH"
@@ -383,7 +379,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 28 Sep 2026 18:42:00 -0400",
-      "age_hours": "1.31",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -413,7 +409,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 28 Sep 2026 12:52:12 -0400",
-      "age_hours": "7.14",
+      "age_hours": "11.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -443,40 +439,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 19:58:51 +0000",
-      "age_hours": "4.03",
+      "age_hours": "7.97",
       "freshness_status": "fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump made the right decision to reject Iran's offer",
-      "url": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-      "snapshot": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "snapshot": "Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, US",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump made the right decision to reject Iran's offer",
-        "Source context: The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The election angle is whether this changes..."
+        "Key people or organizations: Hungary, Prime Minister Magyar, Parliament",
+        "Story focus: Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+        "Source context: Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Hungary.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 28 Sep 2026 18:16:26 +0000",
-      "age_hours": "5.73",
+      "published": "Tue, 29 Sep 2026 01:01:38 +0000",
+      "age_hours": "2.92",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
+      "editorial_score": "70",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "GOP lawmakers urge Trump to reimpose sanctions on Russian-owned Serbian refinery",
@@ -503,7 +497,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 28 Sep 2026 10:00:00 +0000",
-      "age_hours": "14.01",
+      "age_hours": "17.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "113",
       "urgency": ""
