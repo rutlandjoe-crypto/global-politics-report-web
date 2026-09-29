@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Banned news outlets ask judge to extend block on White House enforcement",
-  "snapshot": "News outlets that sued to regain access to the White House after President Trump banned their reporters from the grounds are asking a federal judge to intervene in the administration's ongoing efforts to keep CNN from covering the president via pool duty. In a new court filing... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-09-29 12:46:04 PM ET",
-  "generated_at": "2026-09-29 12:46:04 PM ET",
+  "headline": "Jack Smith defends handling of Trump probes at heated Senate hearing",
+  "snapshot": "Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at several points. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-09-29 05:06:59 PM ET",
+  "generated_at": "2026-09-29 05:06:59 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 86,
-    "editor_fresh_items": 148,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 65,
+    "total_items_checked": 153,
+    "live_fresh_items": 115,
+    "editor_fresh_items": 152,
+    "public_fallback_items": 153,
+    "stale_or_blocked_items": 38,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-29 12:46:04 PM ET"
+    "last_checked": "2026-09-29 05:06:59 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Jack Smith defends handling of Trump probes at heated Senate hearing",
+      "url": "https://www.cbsnews.com/live-updates/jack-smith-trump-senate-judiciary-committee-hearing/",
+      "snapshot": "Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at several points. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Jack Smith, Trump, Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jack Smith defends handling of Trump probes at heated Senate hearing",
+        "Source context: Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jack Smith.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 29 Sep 2026 13:15:58 -0400",
+      "age_hours": "3.85",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Banned news outlets ask judge to extend block on White House enforcement",
       "url": "https://thehill.com/homenews/media/6116933-cnn-msnow-politico-trump-white-house-media-ban-legal-battle/",
@@ -44,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 29 Sep 2026 13:04:13 +0000",
-      "age_hours": "3.70",
+      "age_hours": "8.05",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -74,37 +104,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 29 Sep 2026 10:27:44 -0400",
-      "age_hours": "2.31",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "138",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Turkiye arrests president, six members of football refereeing body in probe",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
-      "snapshot": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
-      "key_data": [
-        "Key people or organizations: Arrests",
-        "Story focus: Turkiye arrests president, six members of football refereeing body in probe",
-        "Source context: Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Arrests.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 29 Sep 2026 12:37:18 +0000",
-      "age_hours": "4.15",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -132,21 +134,20 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 29 Sep 2026 14:15:44 +0000",
-      "age_hours": "2.51",
+      "age_hours": "6.85",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump, Johnson to meet with AI execs at White House amid debate over safety",
-      "url": "https://www.cbsnews.com/news/trump-johnson-ai-executives-meeting-anthropic-openai/",
-      "snapshot": "The meeting comes as some industry leaders warn about the risks of rapid AI advancements. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump administration 'must be changed': Iran's IRGC appeals to US voters",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
+      "snapshot": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Trump, Iran, US",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, Johnson to meet with AI execs at White House amid debate over safety",
-        "Source context: The meeting comes as some industry leaders warn about the risks of rapid AI advancements. The key question is leverage: the next votes, negotiations..."
+        "Story focus: Trump administration 'must be changed'",
+        "Source context: Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -159,17 +160,47 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 29 Sep 2026 09:01:00 -0400",
-      "age_hours": "3.75",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 29 Sep 2026 17:51:11 +0000",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "86",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Jack Smith defends handling of Trump probes at heated Senate hearing",
+      "url": "https://www.cbsnews.com/live-updates/jack-smith-trump-senate-judiciary-committee-hearing/",
+      "snapshot": "Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at several points. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Jack Smith, Trump, Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jack Smith defends handling of Trump probes at heated Senate hearing",
+        "Source context: Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jack Smith.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 29 Sep 2026 13:15:58 -0400",
+      "age_hours": "3.85",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Banned news outlets ask judge to extend block on White House enforcement",
       "url": "https://thehill.com/homenews/media/6116933-cnn-msnow-politico-trump-white-house-media-ban-legal-battle/",
       "snapshot": "News outlets that sued to regain access to the White House after President Trump banned their reporters from the grounds are asking a federal judge to intervene in the administration's ongoing efforts to keep CNN from covering the president via pool duty. In a new court filing... The broader significance is institutional: court action can alter policy timelines, executive...",
@@ -194,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 29 Sep 2026 13:04:13 +0000",
-      "age_hours": "3.70",
+      "age_hours": "8.05",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -224,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 29 Sep 2026 14:15:44 +0000",
-      "age_hours": "2.51",
+      "age_hours": "6.85",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "WATCH"
@@ -254,21 +285,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 29 Sep 2026 10:27:44 -0400",
-      "age_hours": "2.31",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump, Johnson to meet with AI execs at White House amid debate over safety",
-      "url": "https://www.cbsnews.com/news/trump-johnson-ai-executives-meeting-anthropic-openai/",
-      "snapshot": "The meeting comes as some industry leaders warn about the risks of rapid AI advancements. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump administration 'must be changed': Iran's IRGC appeals to US voters",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
+      "snapshot": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Trump, Iran, US",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, Johnson to meet with AI execs at White House amid debate over safety",
-        "Source context: The meeting comes as some industry leaders warn about the risks of rapid AI advancements. The key question is leverage: the next votes, negotiations..."
+        "Story focus: Trump administration 'must be changed'",
+        "Source context: Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -281,49 +311,51 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 29 Sep 2026 09:01:00 -0400",
-      "age_hours": "3.75",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Turkiye arrests president, six members of football refereeing body in probe",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
-      "snapshot": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
-      "key_data": [
-        "Key people or organizations: Arrests",
-        "Story focus: Turkiye arrests president, six members of football refereeing body in probe",
-        "Source context: Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Arrests.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 29 Sep 2026 12:37:18 +0000",
-      "age_hours": "4.15",
+      "published": "Tue, 29 Sep 2026 17:51:11 +0000",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": ""
     }
   ],
   "key_storylines": [
+    "Jack Smith defends handling of Trump probes at heated Senate hearing",
     "Banned news outlets ask judge to extend block on White House enforcement",
-    "GOP lawmakers challenge Trump's nearly $1B funding clawback",
-    "CNN, Politico, MS NOW ask court to keep blocking Trump's press ban against them"
+    "GOP lawmakers challenge Trump's nearly $1B funding clawback"
   ],
   "sections": [
+    {
+      "headline": "Jack Smith defends handling of Trump probes at heated Senate hearing",
+      "url": "https://www.cbsnews.com/live-updates/jack-smith-trump-senate-judiciary-committee-hearing/",
+      "snapshot": "Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at several points. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Jack Smith, Trump, Senate",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jack Smith defends handling of Trump probes at heated Senate hearing",
+        "Source context: Former special counsel Jack Smith defended his handling of his investigations into President Trump during a Senate hearing that grew contentious at..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jack Smith.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 29 Sep 2026 13:15:58 -0400",
+      "age_hours": "3.85",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Banned news outlets ask judge to extend block on White House enforcement",
       "url": "https://thehill.com/homenews/media/6116933-cnn-msnow-politico-trump-white-house-media-ban-legal-battle/",
@@ -349,7 +381,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 29 Sep 2026 13:04:13 +0000",
-      "age_hours": "3.70",
+      "age_hours": "8.05",
       "freshness_status": "fresh",
       "editorial_score": "145",
       "urgency": "DEVELOPING"
@@ -379,7 +411,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 29 Sep 2026 14:15:44 +0000",
-      "age_hours": "2.51",
+      "age_hours": "6.85",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "WATCH"
@@ -409,21 +441,20 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 29 Sep 2026 10:27:44 -0400",
-      "age_hours": "2.31",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump, Johnson to meet with AI execs at White House amid debate over safety",
-      "url": "https://www.cbsnews.com/news/trump-johnson-ai-executives-meeting-anthropic-openai/",
-      "snapshot": "The meeting comes as some industry leaders warn about the risks of rapid AI advancements. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump administration 'must be changed': Iran's IRGC appeals to US voters",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
+      "snapshot": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, White House",
-        "Politics desk signal: house, white house",
+        "Key people or organizations: Trump, Iran, US",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump, Johnson to meet with AI execs at White House amid debate over safety",
-        "Source context: The meeting comes as some industry leaders warn about the risks of rapid AI advancements. The key question is leverage: the next votes, negotiations..."
+        "Story focus: Trump administration 'must be changed'",
+        "Source context: Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -436,69 +467,42 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Tue, 29 Sep 2026 09:01:00 -0400",
-      "age_hours": "3.75",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 29 Sep 2026 17:51:11 +0000",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "Turkiye arrests president, six members of football refereeing body in probe",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
-      "snapshot": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
+      "headline": "Trump unveils new site to simplify access to government services",
+      "url": "https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss",
+      "snapshot": "America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Arrests",
-        "Story focus: Turkiye arrests president, six members of football refereeing body in probe",
-        "Source context: Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Arrests.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 29 Sep 2026 12:37:18 +0000",
-      "age_hours": "4.15",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Iranians stock up on food and medicine as fears of new US fighting grow",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
-      "snapshot": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Iran",
+        "Key people or organizations: Trump, America",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Iranians stock up on food and medicine as fears of new US fighting grow",
-        "Source context: Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains. The geopolitical angle is how the decision..."
+        "Story focus: Trump unveils new site to simplify access to government services",
+        "Source context: America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites. The election angle is..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Iran.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 29 Sep 2026 12:32:10 +0000",
-      "age_hours": "4.23",
+      "published": "Tue, 29 Sep 2026 18:21:33 +0000",
+      "age_hours": "2.76",
       "freshness_status": "fresh",
-      "editorial_score": "52",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
