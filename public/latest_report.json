@@ -1,448 +1,510 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Legal Immigrants Lose Medicaid Coverage Under Trump’s Bill",
-  "snapshot": "Many immigrants without green cards will no longer be eligible for the health insurance program for low-income people.",
-  "updated_at": "2026-09-30 02:11:47 PM ET",
-  "generated_at": "2026-09-30 02:11:47 PM ET",
+  "headline": "GOP breaks with Trump on multiple issues",
+  "snapshot": "Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the GOP's unpopular standard-bearer will help avert a blue wave in the midterm elections. The divisions are highly unusual for a... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+  "updated_at": "2026-09-30 02:38:48 PM ET",
+  "generated_at": "2026-09-30 02:38:48 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 165,
-    "live_fresh_items": 93,
-    "editor_fresh_items": 161,
-    "public_fallback_items": 165,
-    "stale_or_blocked_items": 72,
+    "total_items_checked": 148,
+    "live_fresh_items": 88,
+    "editor_fresh_items": 137,
+    "public_fallback_items": 138,
+    "stale_or_blocked_items": 60,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-30 02:11:47 PM ET"
+    "last_checked": "2026-09-30 02:38:48 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Legal Immigrants Lose Medicaid Coverage Under Trump’s Bill",
-      "url": "https://www.nytimes.com/2026/09/30/us/politics/immigrants-medicaid-trump-bill.html",
-      "snapshot": "Many immigrants without green cards will no longer be eligible for the health insurance program for low-income people.",
+      "headline": "GOP breaks with Trump on multiple issues",
+      "url": "https://thehill.com/homenews/campaign/6118768-gop-trump-gas-prices-data-centers-iran-war-immigration-enforcement/",
+      "snapshot": "Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the GOP's unpopular standard-bearer will help avert a blue wave in the midterm elections. The divisions are highly unusual for a... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Sep. 30, 2026 at 02:02 PM ET"
+        "Key people or organizations: GOP, Trump, Republicans, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP breaks with Trump on multiple issues",
+        "Source context: Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 30 Sep 2026 18:02:51 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "DOJ seeks to censure judges who spokes to NYT about Minnesota immigration raids",
-      "url": "https://thehill.com/homenews/6120701-minnesota-judges-immigration-controversy/",
-      "snapshot": "The Justice Department on Wednesday took the remarkable step of seeking to censure both a former and sitting federal judge in Minnesota after they spoke to The New York Times about the Trump administration’s immigration surge in the state. The two judges are Patrick Schiltz, a George W. Bush appointee, and Judge John Tunheim, an…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Sep. 30, 2026 at 02:01 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 30 Sep 2026 18:01:58 +0000",
-      "age_hours": "0.16",
+      "published": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "age_hours": "8.65",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "133",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate Democrats block data center bill aimed at addressing energy costs",
+      "url": "https://www.cbsnews.com/news/senate-data-center-bill-vote-democrats/",
+      "snapshot": "Senate Democrats blocked a GOP-led effort to approve a bill aimed at shielding Americans from energy costs attributed to data centers, arguing it doesn't go far enough. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate Democrats, GOP",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Democrats block data center bill aimed at addressing energy costs",
+        "Source context: Senate Democrats blocked a GOP-led effort to approve a bill aimed at shielding Americans from energy costs attributed to data centers, arguing it..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 30 Sep 2026 13:51:39 -0400",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Hegseth expected to fire more top-ranking US military",
-      "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Roughly 20 admirals and generals have already either been fired or resigned since Hegseth took over the defence department.",
+      "headline": "Oregon eyes nation's first single-payer healthcare system. Will it work?",
+      "url": "https://www.cbsnews.com/news/oregon-universal-healthcare-single-payer-plan/",
+      "snapshot": "While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon officials are crafting a more ambitious plan to implement universal coverage in their state. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 30, 2026 at 01:11 PM ET"
+        "Key people or organizations: Oregon, Will, While Democratic, Affordable Care Act",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Oregon eyes nation's first single-payer healthcare system. Will it work?",
+        "Source context: While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Oregon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 30 Sep 2026 17:11:00 GMT",
-      "age_hours": "1.01",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "94",
+      "urgency": "BREAKING"
     },
     {
-      "headline": "US appeals court halts Tennessee execution of Christa Pike",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "snapshot": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years.",
+      "headline": "Watch live: Trump honors Hispanic Heritage Month as midterms loom",
+      "url": "https://thehill.com/homenews/administration/6120559-watch-live-donald-trump-hispanic-heritage-month-ceremony-white-house-midterms/",
+      "snapshot": "President Trump will host a Hispanic Heritage Month celebration Wednesday at the White House, as both the GOP and Democrats seek to appeal to Hispanic voters with the midterms just more than a month away. Democrats have shown signs of making gains with the voting bloc in key... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Court",
-        "Published: Sep. 30, 2026 at 12:44 PM ET"
+        "Key people or organizations: Trump, Hispanic Heritage Month, President Trump, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live",
+        "Source context: President Trump will host a Hispanic Heritage Month celebration Wednesday at the White House, as both the GOP and Democrats seek to appeal to..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 30 Sep 2026 16:33:50 +0000",
+      "age_hours": "2.08",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump set to announce $200bn in energy investments from South Korea",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+      "snapshot": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, South Korea, Republican Party",
+        "Specific figures mentioned: 200",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump set to announce $200bn in energy investments from South Korea"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 16:44:16 +0000",
-      "age_hours": "1.46",
+      "published": "Wed, 30 Sep 2026 18:01:14 +0000",
+      "age_hours": "0.63",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
-      "snapshot": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Election",
-        "Published: Sep. 30, 2026 at 12:32 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 30 Sep 2026 12:32:12 -0400",
-      "age_hours": "1.66",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
-      "url": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
-      "snapshot": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that the agency said discriminated against white men.",
+      "headline": "GOP breaks with Trump on multiple issues",
+      "url": "https://thehill.com/homenews/campaign/6118768-gop-trump-gas-prices-data-centers-iran-war-immigration-enforcement/",
+      "snapshot": "Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the GOP's unpopular standard-bearer will help avert a blue wave in the midterm elections. The divisions are highly unusual for a... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Court",
-        "Published: Sep. 30, 2026 at 02:02 PM ET"
+        "Key people or organizations: GOP, Trump, Republicans, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP breaks with Trump on multiple issues",
+        "Source context: Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 30 Sep 2026 18:02:13 +0000",
-      "age_hours": "0.16",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Democrats block data center electricity bill, calling it ‘toothless’",
-      "url": "https://thehill.com/policy/energy-environment/6119834-senate-data-center-bill-ratepayer-protection-act/",
-      "snapshot": "Senate Democrats have blocked a bill that seeks to address data center electricity costs, calling it ineffective and “toothless,” though the legislation passed the House with significant bipartisan support. The Democrats did not provide the Ratepayer Protection Act with the 60 votes needed to overcome the filibuster, blocking it in a procedural vote on Wednesday,…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Congress",
-        "Published: Sep. 30, 2026 at 01:43 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 30 Sep 2026 17:43:28 +0000",
-      "age_hours": "0.47",
+      "published": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "age_hours": "8.65",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "133",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate Democrats block data center bill aimed at addressing energy costs",
+      "url": "https://www.cbsnews.com/news/senate-data-center-bill-vote-democrats/",
+      "snapshot": "Senate Democrats blocked a GOP-led effort to approve a bill aimed at shielding Americans from energy costs attributed to data centers, arguing it doesn't go far enough. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate Democrats, GOP",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Democrats block data center bill aimed at addressing energy costs",
+        "Source context: Senate Democrats blocked a GOP-led effort to approve a bill aimed at shielding Americans from energy costs attributed to data centers, arguing it..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 30 Sep 2026 13:51:39 -0400",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "What we know about Cornell University frat house rape investigation",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
+      "headline": "Watch live: Trump honors Hispanic Heritage Month as midterms loom",
+      "url": "https://thehill.com/homenews/administration/6120559-watch-live-donald-trump-hispanic-heritage-month-ceremony-white-house-midterms/",
+      "snapshot": "President Trump will host a Hispanic Heritage Month celebration Wednesday at the White House, as both the GOP and Democrats seek to appeal to Hispanic voters with the midterms just more than a month away. Democrats have shown signs of making gains with the voting bloc in key... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Congress",
-        "Published: Sep. 30, 2026 at 12:48 PM ET"
+        "Key people or organizations: Trump, Hispanic Heritage Month, President Trump, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live",
+        "Source context: President Trump will host a Hispanic Heritage Month celebration Wednesday at the White House, as both the GOP and Democrats seek to appeal to..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 30 Sep 2026 16:48:03 GMT",
-      "age_hours": "1.40",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 30 Sep 2026 16:33:50 +0000",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": ""
     },
     {
-      "headline": "Pentagon says US troop withdrawal from Iraq is complete",
-      "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-      "snapshot": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight.",
+      "headline": "Oregon eyes nation's first single-payer healthcare system. Will it work?",
+      "url": "https://www.cbsnews.com/news/oregon-universal-healthcare-single-payer-plan/",
+      "snapshot": "While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon officials are crafting a more ambitious plan to implement universal coverage in their state. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 30, 2026 at 12:33 PM ET"
+        "Key people or organizations: Oregon, Will, While Democratic, Affordable Care Act",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Oregon eyes nation's first single-payer healthcare system. Will it work?",
+        "Source context: While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Oregon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "age_hours": "9.65",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump set to announce $200bn in energy investments from South Korea",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+      "snapshot": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, South Korea, Republican Party",
+        "Specific figures mentioned: 200",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump set to announce $200bn in energy investments from South Korea"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 16:33:02 +0000",
-      "age_hours": "1.65",
+      "published": "Wed, 30 Sep 2026 18:01:14 +0000",
+      "age_hours": "0.63",
       "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "How Trump keeps undercutting his anti-communist message",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
-      "snapshot": "The Trump administration has taken government equity stakes in more than three dozen private companies.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Government",
-        "Published: Sep. 30, 2026 at 10:58 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 30 Sep 2026 10:58:51 -0400",
-      "age_hours": "3.22",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Legal Immigrants Lose Medicaid Coverage Under Trump’s Bill",
-    "DOJ seeks to censure judges who spokes to NYT about Minnesota immigration raids",
-    "Hegseth expected to fire more top-ranking US military"
+    "GOP breaks with Trump on multiple issues",
+    "Senate Democrats block data center bill aimed at addressing energy costs",
+    "Watch live: Trump honors Hispanic Heritage Month as midterms loom"
   ],
   "sections": [
     {
-      "headline": "Legal Immigrants Lose Medicaid Coverage Under Trump’s Bill",
-      "url": "https://www.nytimes.com/2026/09/30/us/politics/immigrants-medicaid-trump-bill.html",
-      "snapshot": "Many immigrants without green cards will no longer be eligible for the health insurance program for low-income people.",
+      "headline": "GOP breaks with Trump on multiple issues",
+      "url": "https://thehill.com/homenews/campaign/6118768-gop-trump-gas-prices-data-centers-iran-war-immigration-enforcement/",
+      "snapshot": "Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the GOP's unpopular standard-bearer will help avert a blue wave in the midterm elections. The divisions are highly unusual for a... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Sep. 30, 2026 at 02:02 PM ET"
+        "Key people or organizations: GOP, Trump, Republicans, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP breaks with Trump on multiple issues",
+        "Source context: Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 30 Sep 2026 18:02:51 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "DOJ seeks to censure judges who spokes to NYT about Minnesota immigration raids",
-      "url": "https://thehill.com/homenews/6120701-minnesota-judges-immigration-controversy/",
-      "snapshot": "The Justice Department on Wednesday took the remarkable step of seeking to censure both a former and sitting federal judge in Minnesota after they spoke to The New York Times about the Trump administration’s immigration surge in the state. The two judges are Patrick Schiltz, a George W. Bush appointee, and Judge John Tunheim, an…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Court",
-        "Published: Sep. 30, 2026 at 02:01 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 30 Sep 2026 18:01:58 +0000",
-      "age_hours": "0.16",
+      "published": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "age_hours": "8.65",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "133",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Senate Democrats block data center bill aimed at addressing energy costs",
+      "url": "https://www.cbsnews.com/news/senate-data-center-bill-vote-democrats/",
+      "snapshot": "Senate Democrats blocked a GOP-led effort to approve a bill aimed at shielding Americans from energy costs attributed to data centers, arguing it doesn't go far enough. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate Democrats, GOP",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate Democrats block data center bill aimed at addressing energy costs",
+        "Source context: Senate Democrats blocked a GOP-led effort to approve a bill aimed at shielding Americans from energy costs attributed to data centers, arguing it..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 30 Sep 2026 13:51:39 -0400",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Hegseth expected to fire more top-ranking US military",
-      "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Roughly 20 admirals and generals have already either been fired or resigned since Hegseth took over the defence department.",
+      "headline": "Watch live: Trump honors Hispanic Heritage Month as midterms loom",
+      "url": "https://thehill.com/homenews/administration/6120559-watch-live-donald-trump-hispanic-heritage-month-ceremony-white-house-midterms/",
+      "snapshot": "President Trump will host a Hispanic Heritage Month celebration Wednesday at the White House, as both the GOP and Democrats seek to appeal to Hispanic voters with the midterms just more than a month away. Democrats have shown signs of making gains with the voting bloc in key... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Foreign Policy",
-        "Published: Sep. 30, 2026 at 01:11 PM ET"
+        "Key people or organizations: Trump, Hispanic Heritage Month, President Trump, White House",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Watch live",
+        "Source context: President Trump will host a Hispanic Heritage Month celebration Wednesday at the White House, as both the GOP and Democrats seek to appeal to..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Wed, 30 Sep 2026 17:11:00 GMT",
-      "age_hours": "1.01",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 30 Sep 2026 16:33:50 +0000",
+      "age_hours": "2.08",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": ""
     },
     {
-      "headline": "US appeals court halts Tennessee execution of Christa Pike",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "snapshot": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years.",
+      "headline": "Oregon eyes nation's first single-payer healthcare system. Will it work?",
+      "url": "https://www.cbsnews.com/news/oregon-universal-healthcare-single-payer-plan/",
+      "snapshot": "While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon officials are crafting a more ambitious plan to implement universal coverage in their state. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or...",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Court",
-        "Published: Sep. 30, 2026 at 12:44 PM ET"
+        "Key people or organizations: Oregon, Will, While Democratic, Affordable Care Act",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Oregon eyes nation's first single-payer healthcare system. Will it work?",
+        "Source context: While Democratic congressional candidates are floating the restoration of federal Affordable Care Act subsidies and Medicaid funding, Oregon..."
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Oregon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "age_hours": "9.65",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump set to announce $200bn in energy investments from South Korea",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+      "snapshot": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, South Korea, Republican Party",
+        "Specific figures mentioned: 200",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump set to announce $200bn in energy investments from South Korea"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 16:44:16 +0000",
-      "age_hours": "1.46",
+      "published": "Wed, 30 Sep 2026 18:01:14 +0000",
+      "age_hours": "0.63",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "editorial_score": "70",
+      "urgency": ""
     },
     {
-      "headline": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
-      "snapshot": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting.",
+      "headline": "Strong indications' Iran linked to suspected UK airbase plot",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+      "snapshot": "UK Prime Minister says there are 'strong indications' Iran played a part in the suspected RAF Fairford airbase plot. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Election",
-        "Published: Sep. 30, 2026 at 12:32 PM ET"
+        "Key people or organizations: Strong, Iran, UK, UK Prime Minister",
+        "Story focus: Strong indications' Iran linked to suspected UK airbase plot",
+        "Source context: UK Prime Minister says there are 'strong indications' Iran played a part in the suspected RAF Fairford airbase plot. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Strong.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Wed, 30 Sep 2026 12:32:12 -0400",
-      "age_hours": "1.66",
+      "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 30 Sep 2026 18:09:51 +0000",
+      "age_hours": "0.48",
       "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
-      "url": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
-      "snapshot": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that the agency said discriminated against white men.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Court",
-        "Published: Sep. 30, 2026 at 02:02 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Wed, 30 Sep 2026 18:02:13 +0000",
-      "age_hours": "0.16",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "editorial_score": "44",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
