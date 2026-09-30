@@ -24,9 +24,38 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Wed, 30 Sep 2026 11:03:01 +0000",
-    "age_hours": "2.05",
+    "age_hours": "2.25",
     "freshness_status": "fresh",
     "editorial_score": "60",
+    "urgency": ""
+  },
+  {
+    "headline": "Hawley unveils bill aimed at stopping Flock camera abuse",
+    "url": "https://www.cbsnews.com/news/flock-cameras-abuse-josh-hawley-bill/",
+    "snapshot": "Sen. Josh Hawley is unveiling legislation to establish guardrails for Flock cameras and other artificial intelligence-powered surveillance technology, CBS News has learned. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: Hawley, Flock, Josh Hawley",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Hawley unveils bill aimed at stopping Flock camera abuse",
+      "Source context: Sen. Josh Hawley is unveiling legislation to establish guardrails for Flock cameras and other artificial intelligence-powered surveillance..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Hawley.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Wed, 30 Sep 2026 06:59:00 -0400",
+    "age_hours": "2.32",
+    "freshness_status": "fresh",
+    "editorial_score": "66",
     "urgency": ""
   },
   {
@@ -54,7 +83,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Wed, 30 Sep 2026 10:00:00 +0000",
-    "age_hours": "3.10",
+    "age_hours": "3.30",
     "freshness_status": "fresh",
     "editorial_score": "133",
     "urgency": "BREAKING"
@@ -84,7 +113,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Wed, 30 Sep 2026 05:00:15 -0400",
-    "age_hours": "4.09",
+    "age_hours": "4.30",
     "freshness_status": "fresh",
     "editorial_score": "94",
     "urgency": "BREAKING"
@@ -248,7 +277,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Wed, 30 Sep 2026 01:24:18 +0000",
-    "age_hours": "11.69",
+    "age_hours": "11.90",
     "freshness_status": "fresh",
     "editorial_score": "115",
     "urgency": "WATCH"
