@@ -1,34 +1,34 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-  "snapshot": "Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-10-01 04:14:23 AM ET",
-  "generated_at": "2026-10-01 04:14:23 AM ET",
+  "headline": "Where the Trump administration's lawsuits seeking voter data stand",
+  "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+  "updated_at": "2026-10-01 10:51:35 AM ET",
+  "generated_at": "2026-10-01 10:51:35 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 59,
-    "editor_fresh_items": 136,
+    "live_fresh_items": 67,
+    "editor_fresh_items": 137,
     "public_fallback_items": 137,
-    "stale_or_blocked_items": 88,
+    "stale_or_blocked_items": 80,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-01 04:14:23 AM ET"
+    "last_checked": "2026-10-01 10:51:35 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Democrats block data center bill in Senate",
-      "url": "https://thehill.com/homenews/6121735-senate-blocks-data-center-bill-newsletter/",
-      "snapshot": "{beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data center electricity costs, calling it ineffective and \"toothless.\" Though the legislation passed the House with significant... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+      "url": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/",
+      "snapshot": "Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its inspector general, a move they say could effectively shut down the independent watchdog. Senate Minority Leader Chuck Schumer... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Democrats, Senate, Technology Technology The Big, Story Democrats",
-        "Politics desk signal: senate, house",
+        "Key people or organizations: Democrats, Pulte, FHFA, Top Democratic",
+        "Politics desk signal: senate, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats block data center bill in Senate",
-        "Source context: {beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data..."
+        "Story focus: Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+        "Source context: Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -43,10 +43,98 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 30 Sep 2026 21:50:26 +0000",
-      "age_hours": "10.40",
+      "published": "Thu, 01 Oct 2026 14:05:51 +0000",
+      "age_hours": "0.76",
       "freshness_status": "fresh",
-      "editorial_score": "103",
+      "editorial_score": "123",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Where the Trump administration's lawsuits seeking voter data stand",
+      "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
+      "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Justice Department",
+        "Specific figures mentioned: 30",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Where the Trump administration's lawsuits seeking voter data stand"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 01 Oct 2026 08:08:32 -0400",
+      "age_hours": "2.72",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "How will investigation into Flydubai flight attack unfold?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss",
+      "snapshot": "Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Flydubai, Israel",
+        "Story focus: How will investigation into Flydubai flight attack unfold?",
+        "Source context: Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel. The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Flydubai.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 01 Oct 2026 10:16:40 +0000",
+      "age_hours": "4.58",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court takes up Trump's mandatory detention policy",
+      "url": "https://thehill.com/regulation/court-battles/6122542-supreme-court-mandatory-detention-policy-trump/",
+      "snapshot": "The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner immigration programs on the justices' docket for their upcoming term. The Trump administration argues it can detain people without bond... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, President Trump",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court takes up Trump's mandatory detention policy",
+        "Source context: The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 13:39:09 +0000",
+      "age_hours": "1.21",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -73,105 +161,75 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 30 Sep 2026 21:36:18 -0400",
-      "age_hours": "6.63",
+      "published": "Thu, 01 Oct 2026 10:08:20 -0400",
+      "age_hours": "0.72",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump unveils South Korean investment in Alaska gas pipeline",
-      "url": "https://www.cbsnews.com/news/trump-south-korean-investment-alaska-gas-pipeline/",
-      "snapshot": "This marks the second time in three days President Trump has sought to highlight planned foreign investments in states where GOP Senate candidates are in tight election campaigns The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, South Korean, President Trump",
-        "Politics desk signal: senate, election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump unveils South Korean investment in Alaska gas pipeline",
-        "Source context: This marks the second time in three days President Trump has sought to highlight planned foreign investments in states where GOP Senate candidates..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 30 Sep 2026 18:55:33 -0400",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-      "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
-      "snapshot": "The Senate voted 47-41 Wednesday night to confirm Keith Sonderling, acting Secretary of Labor, to the post permanently — filling a seat in President Trump's cabinet that has been officially empty since April. All Republicans present voted for Sonderling's nomination, and all... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate, Keith Sonderling, Labor",
-        "Specific figures mentioned: 47, 41",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate confirms insider Keith Sonderling to lead Department of Labor"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 03:28:57 +0000",
-      "age_hours": "4.76",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
-      "snapshot": "An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Israeli, Flydubai, US President Donald Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
-        "Source context: An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 23:50:17 +0000",
-      "age_hours": "8.40",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Where the Trump administration's lawsuits seeking voter data stand",
+      "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
+      "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Justice Department",
+        "Specific figures mentioned: 30",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Where the Trump administration's lawsuits seeking voter data stand"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 01 Oct 2026 08:08:32 -0400",
+      "age_hours": "2.72",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court takes up Trump's mandatory detention policy",
+      "url": "https://thehill.com/regulation/court-battles/6122542-supreme-court-mandatory-detention-policy-trump/",
+      "snapshot": "The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner immigration programs on the justices' docket for their upcoming term. The Trump administration argues it can detain people without bond... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, President Trump",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court takes up Trump's mandatory detention policy",
+        "Source context: The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 13:39:09 +0000",
+      "age_hours": "1.21",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
       "url": "https://www.cbsnews.com/news/ken-paxton-leaked-audio-trump-midterm-convention-texas-senate-talarico/",
       "snapshot": "Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
@@ -195,82 +253,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 30 Sep 2026 21:36:18 -0400",
-      "age_hours": "6.63",
+      "published": "Thu, 01 Oct 2026 10:08:20 -0400",
+      "age_hours": "0.72",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Trump unveils South Korean investment in Alaska gas pipeline",
-      "url": "https://www.cbsnews.com/news/trump-south-korean-investment-alaska-gas-pipeline/",
-      "snapshot": "This marks the second time in three days President Trump has sought to highlight planned foreign investments in states where GOP Senate candidates are in tight election campaigns The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+      "url": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/",
+      "snapshot": "Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its inspector general, a move they say could effectively shut down the independent watchdog. Senate Minority Leader Chuck Schumer... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, South Korean, President Trump",
-        "Politics desk signal: senate, election, campaign",
+        "Key people or organizations: Democrats, Pulte, FHFA, Top Democratic",
+        "Politics desk signal: senate, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump unveils South Korean investment in Alaska gas pipeline",
-        "Source context: This marks the second time in three days President Trump has sought to highlight planned foreign investments in states where GOP Senate candidates..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 30 Sep 2026 18:55:33 -0400",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-      "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
-      "snapshot": "The Senate voted 47-41 Wednesday night to confirm Keith Sonderling, acting Secretary of Labor, to the post permanently — filling a seat in President Trump's cabinet that has been officially empty since April. All Republicans present voted for Sonderling's nomination, and all... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate, Keith Sonderling, Labor",
-        "Specific figures mentioned: 47, 41",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate confirms insider Keith Sonderling to lead Department of Labor"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 03:28:57 +0000",
-      "age_hours": "4.76",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Democrats block data center bill in Senate",
-      "url": "https://thehill.com/homenews/6121735-senate-blocks-data-center-bill-newsletter/",
-      "snapshot": "{beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data center electricity costs, calling it ineffective and \"toothless.\" Though the legislation passed the House with significant... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Democrats, Senate, Technology Technology The Big, Story Democrats",
-        "Politics desk signal: senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats block data center bill in Senate",
-        "Source context: {beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data..."
+        "Story focus: Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+        "Source context: Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -285,49 +283,107 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 30 Sep 2026 21:50:26 +0000",
-      "age_hours": "10.40",
+      "published": "Thu, 01 Oct 2026 14:05:51 +0000",
+      "age_hours": "0.76",
       "freshness_status": "fresh",
-      "editorial_score": "103",
-      "urgency": "DEVELOPING"
+      "editorial_score": "123",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
-      "snapshot": "An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "How will investigation into Flydubai flight attack unfold?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss",
+      "snapshot": "Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Israeli, Flydubai, US President Donald Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
-        "Source context: An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this..."
+        "Key people or organizations: Flydubai, Israel",
+        "Story focus: How will investigation into Flydubai flight attack unfold?",
+        "Source context: Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel. The geopolitical angle is how the decision affects..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Flydubai.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 23:50:17 +0000",
-      "age_hours": "8.40",
+      "published": "Thu, 01 Oct 2026 10:16:40 +0000",
+      "age_hours": "4.58",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-    "Trump unveils South Korean investment in Alaska gas pipeline",
-    "Senate confirms insider Keith Sonderling to lead Department of Labor"
+    "Where the Trump administration's lawsuits seeking voter data stand",
+    "Supreme Court takes up Trump's mandatory detention policy",
+    "Trump deflects on audio of Paxton calling GOP convention a drag on polls"
   ],
   "sections": [
+    {
+      "headline": "Where the Trump administration's lawsuits seeking voter data stand",
+      "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
+      "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Justice Department",
+        "Specific figures mentioned: 30",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Where the Trump administration's lawsuits seeking voter data stand"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 01 Oct 2026 08:08:32 -0400",
+      "age_hours": "2.72",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Supreme Court takes up Trump's mandatory detention policy",
+      "url": "https://thehill.com/regulation/court-battles/6122542-supreme-court-mandatory-detention-policy-trump/",
+      "snapshot": "The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner immigration programs on the justices' docket for their upcoming term. The Trump administration argues it can detain people without bond... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Trump, President Trump",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court takes up Trump's mandatory detention policy",
+        "Source context: The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 13:39:09 +0000",
+      "age_hours": "1.21",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
       "url": "https://www.cbsnews.com/news/ken-paxton-leaked-audio-trump-midterm-convention-texas-senate-talarico/",
@@ -352,82 +408,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 30 Sep 2026 21:36:18 -0400",
-      "age_hours": "6.63",
+      "published": "Thu, 01 Oct 2026 10:08:20 -0400",
+      "age_hours": "0.72",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Trump unveils South Korean investment in Alaska gas pipeline",
-      "url": "https://www.cbsnews.com/news/trump-south-korean-investment-alaska-gas-pipeline/",
-      "snapshot": "This marks the second time in three days President Trump has sought to highlight planned foreign investments in states where GOP Senate candidates are in tight election campaigns The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+      "url": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/",
+      "snapshot": "Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its inspector general, a move they say could effectively shut down the independent watchdog. Senate Minority Leader Chuck Schumer... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, South Korean, President Trump",
-        "Politics desk signal: senate, election, campaign",
+        "Key people or organizations: Democrats, Pulte, FHFA, Top Democratic",
+        "Politics desk signal: senate, budget",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump unveils South Korean investment in Alaska gas pipeline",
-        "Source context: This marks the second time in three days President Trump has sought to highlight planned foreign investments in states where GOP Senate candidates..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 30 Sep 2026 18:55:33 -0400",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-      "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
-      "snapshot": "The Senate voted 47-41 Wednesday night to confirm Keith Sonderling, acting Secretary of Labor, to the post permanently — filling a seat in President Trump's cabinet that has been officially empty since April. All Republicans present voted for Sonderling's nomination, and all... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Senate, Keith Sonderling, Labor",
-        "Specific figures mentioned: 47, 41",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate confirms insider Keith Sonderling to lead Department of Labor"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 03:28:57 +0000",
-      "age_hours": "4.76",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Democrats block data center bill in Senate",
-      "url": "https://thehill.com/homenews/6121735-senate-blocks-data-center-bill-newsletter/",
-      "snapshot": "{beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data center electricity costs, calling it ineffective and \"toothless.\" Though the legislation passed the House with significant... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Democrats, Senate, Technology Technology The Big, Story Democrats",
-        "Politics desk signal: senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats block data center bill in Senate",
-        "Source context: {beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data..."
+        "Story focus: Democrats call for Pulte resignation over FHFA watchdog budget cuts",
+        "Source context: Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -442,70 +438,66 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 30 Sep 2026 21:50:26 +0000",
-      "age_hours": "10.40",
+      "published": "Thu, 01 Oct 2026 14:05:51 +0000",
+      "age_hours": "0.76",
       "freshness_status": "fresh",
-      "editorial_score": "103",
+      "editorial_score": "123",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "How will investigation into Flydubai flight attack unfold?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss",
+      "snapshot": "Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Flydubai, Israel",
+        "Story focus: How will investigation into Flydubai flight attack unfold?",
+        "Source context: Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel. The geopolitical angle is how the decision affects..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Flydubai.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 01 Oct 2026 10:16:40 +0000",
+      "age_hours": "4.58",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
-      "snapshot": "An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Funeral held for DR Congo politician killed after defending Ebola response",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss",
+      "snapshot": "A funeral has been held for the politician who was killed in the Democratic Republic of the Congo.",
       "key_data": [
-        "Key people or organizations: Trump, Israeli, Flydubai, US President Donald Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
-        "Source context: An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this..."
+        "Key people or organizations: Funeral, DR Congo, Democratic Republic",
+        "Story focus: Funeral held for DR Congo politician killed after defending Ebola response",
+        "Source context: A funeral has been held for the politician who was killed in the Democratic Republic of the Congo."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Funeral.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Power, policy or public-trust angle.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 23:50:17 +0000",
-      "age_hours": "8.40",
+      "published": "Thu, 01 Oct 2026 12:07:31 +0000",
+      "age_hours": "2.73",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "US Senate rejects bill targeting AI data centre electricity costs",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
-      "snapshot": "Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: US Senate, Democrats",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US Senate rejects bill targeting AI data centre electricity costs",
-        "Source context: Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills. The key question is leverage: the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 30 Sep 2026 22:58:21 +0000",
-      "age_hours": "9.27",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "44",
       "urgency": ""
     }
   ],
