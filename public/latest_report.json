@@ -3,52 +3,22 @@
   "vertical": "Politics",
   "headline": "Where the Trump administration's lawsuits seeking voter data stand",
   "snapshot": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-10-01 10:51:35 AM ET",
-  "generated_at": "2026-10-01 10:51:35 AM ET",
+  "updated_at": "2026-10-01 11:57:52 AM ET",
+  "generated_at": "2026-10-01 11:57:52 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 67,
-    "editor_fresh_items": 137,
-    "public_fallback_items": 137,
-    "stale_or_blocked_items": 80,
+    "live_fresh_items": 77,
+    "editor_fresh_items": 138,
+    "public_fallback_items": 138,
+    "stale_or_blocked_items": 70,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-01 10:51:35 AM ET"
+    "last_checked": "2026-10-01 11:57:52 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
-      "url": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/",
-      "snapshot": "Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its inspector general, a move they say could effectively shut down the independent watchdog. Senate Minority Leader Chuck Schumer... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Democrats, Pulte, FHFA, Top Democratic",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats call for Pulte resignation over FHFA watchdog budget cuts",
-        "Source context: Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 14:05:51 +0000",
-      "age_hours": "0.76",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
-    },
     {
       "headline": "Where the Trump administration's lawsuits seeking voter data stand",
       "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
@@ -74,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 08:08:32 -0400",
-      "age_hours": "2.72",
+      "age_hours": "3.82",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -102,9 +72,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 10:16:40 +0000",
-      "age_hours": "4.58",
+      "age_hours": "5.69",
       "freshness_status": "fresh",
       "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
+      "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
+      "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Appeals, Trump, Institute, Peace",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Appeals court rules Trump's name can't be carved into Institute of Peace building",
+        "Source context: A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 15:14:03 +0000",
+      "age_hours": "0.73",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -132,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 13:39:09 +0000",
-      "age_hours": "1.21",
+      "age_hours": "2.31",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -162,7 +162,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 10:08:20 -0400",
-      "age_hours": "0.72",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -194,9 +194,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 08:08:32 -0400",
-      "age_hours": "2.72",
+      "age_hours": "3.82",
       "freshness_status": "fresh",
       "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
+      "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
+      "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Appeals, Trump, Institute, Peace",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Appeals court rules Trump's name can't be carved into Institute of Peace building",
+        "Source context: A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 15:14:03 +0000",
+      "age_hours": "0.73",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -224,7 +254,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 13:39:09 +0000",
-      "age_hours": "1.21",
+      "age_hours": "2.31",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -254,40 +284,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 10:08:20 -0400",
-      "age_hours": "0.72",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
-    },
-    {
-      "headline": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
-      "url": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/",
-      "snapshot": "Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its inspector general, a move they say could effectively shut down the independent watchdog. Senate Minority Leader Chuck Schumer... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Democrats, Pulte, FHFA, Top Democratic",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats call for Pulte resignation over FHFA watchdog budget cuts",
-        "Source context: Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 14:05:51 +0000",
-      "age_hours": "0.76",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
     },
     {
       "headline": "How will investigation into Flydubai flight attack unfold?",
@@ -312,7 +312,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 10:16:40 +0000",
-      "age_hours": "4.58",
+      "age_hours": "5.69",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -320,8 +320,8 @@
   ],
   "key_storylines": [
     "Where the Trump administration's lawsuits seeking voter data stand",
-    "Supreme Court takes up Trump's mandatory detention policy",
-    "Trump deflects on audio of Paxton calling GOP convention a drag on polls"
+    "Appeals court rules Trump's name can't be carved into Institute of Peace building",
+    "Supreme Court takes up Trump's mandatory detention policy"
   ],
   "sections": [
     {
@@ -349,9 +349,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 08:08:32 -0400",
-      "age_hours": "2.72",
+      "age_hours": "3.82",
       "freshness_status": "fresh",
       "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
+      "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
+      "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Appeals, Trump, Institute, Peace",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Appeals court rules Trump's name can't be carved into Institute of Peace building",
+        "Source context: A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Appeals.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 15:14:03 +0000",
+      "age_hours": "0.73",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -379,7 +409,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 13:39:09 +0000",
-      "age_hours": "1.21",
+      "age_hours": "2.31",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -409,40 +439,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 10:08:20 -0400",
-      "age_hours": "0.72",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
-    },
-    {
-      "headline": "Democrats call for Pulte resignation over FHFA watchdog budget cuts",
-      "url": "https://thehill.com/homenews/senate/6122945-democrats-call-pulte-resign/",
-      "snapshot": "Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its inspector general, a move they say could effectively shut down the independent watchdog. Senate Minority Leader Chuck Schumer... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Democrats, Pulte, FHFA, Top Democratic",
-        "Politics desk signal: senate, budget",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democrats call for Pulte resignation over FHFA watchdog budget cuts",
-        "Source context: Top Democratic lawmakers are calling on Federal Housing Finance Agency (FHFA) Director Bill Pulte to resign after the agency cut funding for its..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 14:05:51 +0000",
-      "age_hours": "0.76",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": "WATCH"
     },
     {
       "headline": "How will investigation into Flydubai flight attack unfold?",
@@ -467,37 +467,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 10:16:40 +0000",
-      "age_hours": "4.58",
+      "age_hours": "5.69",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Funeral held for DR Congo politician killed after defending Ebola response",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss",
-      "snapshot": "A funeral has been held for the politician who was killed in the Democratic Republic of the Congo.",
+      "headline": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+      "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+      "snapshot": "Motive behind Flydubai incident still unclear, but Israeli PM is framing it within his warnings of threats to Israelis. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Funeral, DR Congo, Democratic Republic",
-        "Story focus: Funeral held for DR Congo politician killed after defending Ebola response",
-        "Source context: A funeral has been held for the politician who was killed in the Democratic Republic of the Congo."
+        "Key people or organizations: Flydubai, Israel",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+        "Source context: Motive behind Flydubai incident still unclear, but Israeli PM is framing it within his warnings of threats to Israelis. The key question is leverage:..."
       ],
       "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Funeral.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Flydubai.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Power, policy or public-trust angle.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 01 Oct 2026 12:07:31 +0000",
-      "age_hours": "2.73",
+      "published": "Thu, 01 Oct 2026 15:47:23 +0000",
+      "age_hours": "0.17",
       "freshness_status": "fresh",
-      "editorial_score": "44",
+      "editorial_score": "52",
       "urgency": ""
     }
   ],
