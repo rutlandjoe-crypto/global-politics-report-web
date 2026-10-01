@@ -128,7 +128,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 01 Oct 2026 03:28:57 +0000",
-    "age_hours": "4.39",
+    "age_hours": "4.76",
     "freshness_status": "fresh",
     "editorial_score": "115",
     "urgency": ""
@@ -158,9 +158,39 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Wed, 30 Sep 2026 21:36:18 -0400",
-    "age_hours": "6.27",
+    "age_hours": "6.63",
     "freshness_status": "fresh",
     "editorial_score": "124",
+    "urgency": ""
+  },
+  {
+    "headline": "Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+    "snapshot": "An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, Israeli, Flydubai, US President Donald Trump",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump amazed that an 'Israeli plumber' helped land Flydubai flight",
+      "Source context: An amazed US President Donald Trump relayed the story of how an 'Israeli plumber' helped land a Flydubai flight. The election angle is whether this..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Wed, 30 Sep 2026 23:50:17 +0000",
+    "age_hours": "8.40",
+    "freshness_status": "fresh",
+    "editorial_score": "78",
     "urgency": ""
   },
   {
@@ -188,7 +218,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Wed, 30 Sep 2026 18:55:33 -0400",
-    "age_hours": "8.95",
+    "age_hours": "9.31",
     "freshness_status": "fresh",
     "editorial_score": "124",
     "urgency": ""
@@ -352,6 +382,36 @@
     "freshness_status": "fresh",
     "editorial_score": "91",
     "urgency": ""
+  },
+  {
+    "headline": "Democrats block data center bill in Senate",
+    "url": "https://thehill.com/homenews/6121735-senate-blocks-data-center-bill-newsletter/",
+    "snapshot": "{beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data center electricity costs, calling it ineffective and \"toothless.\" Though the legislation passed the House with significant... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+    "key_data": [
+      "Key people or organizations: Democrats, Senate, Technology Technology The Big, Story Democrats",
+      "Politics desk signal: senate, house",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Democrats block data center bill in Senate",
+      "Source context: {beacon} Technology Technology The Big Story Democrats block data center bill in Senate Senate Democrats blocked a bill that seeks to address data..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Democrats.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Wed, 30 Sep 2026 21:50:26 +0000",
+    "age_hours": "10.40",
+    "freshness_status": "fresh",
+    "editorial_score": "103",
+    "urgency": "DEVELOPING"
   },
   {
     "headline": "Hegseth says he's cutting generals and admirals by 20%, ousting \"woke\"",
