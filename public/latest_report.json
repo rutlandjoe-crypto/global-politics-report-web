@@ -1,24 +1,54 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
-  "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-10-01 10:38:53 PM ET",
-  "generated_at": "2026-10-01 10:38:53 PM ET",
+  "headline": "Trump promotes tariffs, tries to shore up support for Ken Paxton in Texas",
+  "snapshot": "President Trump has launched a campaign blitz for Republicans in the run-up to the midterm elections, with some unexpected early stops in deep-red Oklahoma and Texas. Nancy Cordes reports from Denton, Texas. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-10-02 02:38:00 AM ET",
+  "generated_at": "2026-10-02 02:38:00 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 91,
-    "editor_fresh_items": 146,
+    "live_fresh_items": 66,
+    "editor_fresh_items": 145,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 56,
+    "stale_or_blocked_items": 81,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-01 10:38:53 PM ET"
+    "last_checked": "2026-10-02 02:38:00 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
+      "url": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
+      "snapshot": "A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon's lethal boat strikes in the Caribbean and Pacific. U.S. District Judge Paul Engelmayer rejected two of the administration's three... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge rejects Trump administration arguments for withholding boat strike justification memo",
+        "Source context: A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon's..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 22:59:18 +0000",
+      "age_hours": "7.64",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Brazilian government calls for probe into US funding of far-right causes",
       "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
@@ -44,39 +74,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 22:48:17 +0000",
-      "age_hours": "3.84",
+      "age_hours": "7.83",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
-      "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
-      "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Appeals, Trump, Institute, Peace",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Appeals court rules Trump's name can't be carved into Institute of Peace building",
-        "Source context: A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Appeals.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 15:14:03 +0000",
-      "age_hours": "11.41",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 19:50:45 -0400",
-      "age_hours": "2.80",
+      "age_hours": "6.79",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 20:02:39 +0000",
-      "age_hours": "6.60",
+      "age_hours": "10.59",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 20:50:24 -0400",
-      "age_hours": "1.81",
+      "age_hours": "5.79",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -172,36 +172,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
-      "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
-      "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Appeals, Trump, Institute, Peace",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Appeals court rules Trump's name can't be carved into Institute of Peace building",
-        "Source context: A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Appeals.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 15:14:03 +0000",
-      "age_hours": "11.41",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "Trump promotes tariffs, tries to shore up support for Ken Paxton in Texas",
       "url": "https://www.cbsnews.com/video/trump-promotes-tariffs-tries-shore-up-support-ken-paxton-texas/",
       "snapshot": "President Trump has launched a campaign blitz for Republicans in the run-up to the midterm elections, with some unexpected early stops in deep-red Oklahoma and Texas. Nancy Cordes reports from Denton, Texas. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -226,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 19:50:45 -0400",
-      "age_hours": "2.80",
+      "age_hours": "6.79",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -256,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 20:02:39 +0000",
-      "age_hours": "6.60",
+      "age_hours": "10.59",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -286,10 +256,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 20:50:24 -0400",
-      "age_hours": "1.81",
+      "age_hours": "5.79",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
+    },
+    {
+      "headline": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
+      "url": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
+      "snapshot": "A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon's lethal boat strikes in the Caribbean and Pacific. U.S. District Judge Paul Engelmayer rejected two of the administration's three... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge rejects Trump administration arguments for withholding boat strike justification memo",
+        "Source context: A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon's..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 22:59:18 +0000",
+      "age_hours": "7.64",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Brazilian government calls for probe into US funding of far-right causes",
@@ -316,48 +316,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 22:48:17 +0000",
-      "age_hours": "3.84",
+      "age_hours": "7.83",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Appeals court rules Trump's name can't be carved into Institute of Peace building",
     "Trump promotes tariffs, tries to shore up support for Ken Paxton in Texas",
-    "Trump says 'it's possible' Iran war could cost him the midterms"
+    "Trump says 'it's possible' Iran war could cost him the midterms",
+    "Homan defends ICE crackdown: \"Give me an example of where we went too far\""
   ],
   "sections": [
-    {
-      "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
-      "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
-      "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Appeals, Trump, Institute, Peace",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Appeals court rules Trump's name can't be carved into Institute of Peace building",
-        "Source context: A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Appeals.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 15:14:03 +0000",
-      "age_hours": "11.41",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Trump promotes tariffs, tries to shore up support for Ken Paxton in Texas",
       "url": "https://www.cbsnews.com/video/trump-promotes-tariffs-tries-shore-up-support-ken-paxton-texas/",
@@ -383,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 19:50:45 -0400",
-      "age_hours": "2.80",
+      "age_hours": "6.79",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -413,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 20:02:39 +0000",
-      "age_hours": "6.60",
+      "age_hours": "10.59",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -443,10 +413,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 20:50:24 -0400",
-      "age_hours": "1.81",
+      "age_hours": "5.79",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
+    },
+    {
+      "headline": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
+      "url": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
+      "snapshot": "A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon's lethal boat strikes in the Caribbean and Pacific. U.S. District Judge Paul Engelmayer rejected two of the administration's three... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge rejects Trump administration arguments for withholding boat strike justification memo",
+        "Source context: A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon's..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 22:59:18 +0000",
+      "age_hours": "7.64",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Brazilian government calls for probe into US funding of far-right causes",
@@ -473,40 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 22:48:17 +0000",
-      "age_hours": "3.84",
+      "age_hours": "7.83",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump launches midterms campaign blitz amid record low approval ratings",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
-      "snapshot": "In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+      "url": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss",
+      "snapshot": "Brazilian president and opposition candidate snub the final debate ahead of the presidential election. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, Iran",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Election, Supreme Court",
+        "Politics desk signal: supreme court, court, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump launches midterms campaign blitz amid record low approval ratings",
-        "Source context: In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs. The election angle is whether this..."
+        "Story focus: Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+        "Source context: Brazilian president and opposition candidate snub the final debate ahead of the presidential election. The broader significance is institutional:..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Election.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 02 Oct 2026 01:39:08 +0000",
-      "age_hours": "1.00",
+      "published": "Fri, 02 Oct 2026 06:09:57 +0000",
+      "age_hours": "0.47",
       "freshness_status": "fresh",
       "editorial_score": "86",
-      "urgency": "WATCH"
+      "urgency": ""
     }
   ],
   "editorial_brain": {
