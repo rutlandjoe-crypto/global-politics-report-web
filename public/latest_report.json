@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
   "snapshot": "A federal appeals court on Wednesday night ruled that President Trump's name can't be carved into the U.S. Institute of Peace building, for now. The judges are considering a lawsuit brought by removed board members, who challenge the administration's takeover of the institute.... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-10-01 08:29:19 PM ET",
-  "generated_at": "2026-10-01 08:29:19 PM ET",
+  "updated_at": "2026-10-01 10:38:53 PM ET",
+  "generated_at": "2026-10-01 10:38:53 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 106,
-    "editor_fresh_items": 144,
-    "public_fallback_items": 144,
-    "stale_or_blocked_items": 43,
+    "total_items_checked": 147,
+    "live_fresh_items": 91,
+    "editor_fresh_items": 146,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 56,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-01 08:29:19 PM ET"
+    "last_checked": "2026-10-01 10:38:53 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 22:48:17 +0000",
-      "age_hours": "1.68",
+      "age_hours": "3.84",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -74,37 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 15:14:03 +0000",
-      "age_hours": "9.25",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court takes up Trump's mandatory detention policy",
-      "url": "https://thehill.com/regulation/court-battles/6122542-supreme-court-mandatory-detention-policy-trump/",
-      "snapshot": "The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner immigration programs on the justices' docket for their upcoming term. The Trump administration argues it can detain people without bond... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, Trump, President Trump",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court takes up Trump's mandatory detention policy",
-        "Source context: The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 13:39:09 +0000",
-      "age_hours": "10.84",
+      "age_hours": "11.41",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -134,21 +104,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 19:50:45 -0400",
-      "age_hours": "0.64",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-      "url": "https://www.cbsnews.com/news/ken-paxton-leaked-audio-trump-midterm-convention-texas-senate-talarico/",
-      "snapshot": "Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump says 'it's possible' Iran war could cost him the midterms",
+      "url": "https://thehill.com/homenews/administration/6124271-trump-iran-midterm-risk/",
+      "snapshot": "President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the House, Senate or both. \"Well, it's possible. It should help,\" Trump told reporters outside the White House before heading to a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Paxton, GOP, Republican Senate",
-        "Politics desk signal: senate, campaign",
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Politics desk signal: senate, house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-        "Source context: Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted..."
+        "Story focus: Trump says 'it's possible' Iran war could cost him the midterms",
+        "Source context: President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -161,12 +131,42 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 20:02:39 +0000",
+      "age_hours": "6.60",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Homan defends ICE crackdown: \"Give me an example of where we went too far\"",
+      "url": "https://www.cbsnews.com/news/homan-ice-crackdown-gop-criticism-salazar-trump/",
+      "snapshot": "As the Trump administration's crackdown on illegal immigration draws pushback from some GOP lawmakers, White House border czar Tom Homan told CBS News critics should \"educate themselves.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Homan",
+        "Politics desk signal: house, white house, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Homan defends ICE crackdown",
+        "Source context: As the Trump administration's crackdown on illegal immigration draws pushback from some GOP lawmakers, White House border czar Tom Homan told CBS..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Homan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 01 Oct 2026 10:08:20 -0400",
-      "age_hours": "10.35",
+      "published": "Thu, 01 Oct 2026 20:50:24 -0400",
+      "age_hours": "1.81",
       "freshness_status": "fresh",
-      "editorial_score": "124",
+      "editorial_score": "122",
       "urgency": ""
     }
   ],
@@ -196,37 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 15:14:03 +0000",
-      "age_hours": "9.25",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court takes up Trump's mandatory detention policy",
-      "url": "https://thehill.com/regulation/court-battles/6122542-supreme-court-mandatory-detention-policy-trump/",
-      "snapshot": "The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner immigration programs on the justices' docket for their upcoming term. The Trump administration argues it can detain people without bond... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, Trump, President Trump",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court takes up Trump's mandatory detention policy",
-        "Source context: The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 13:39:09 +0000",
-      "age_hours": "10.84",
+      "age_hours": "11.41",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -256,21 +226,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 19:50:45 -0400",
-      "age_hours": "0.64",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-      "url": "https://www.cbsnews.com/news/ken-paxton-leaked-audio-trump-midterm-convention-texas-senate-talarico/",
-      "snapshot": "Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump says 'it's possible' Iran war could cost him the midterms",
+      "url": "https://thehill.com/homenews/administration/6124271-trump-iran-midterm-risk/",
+      "snapshot": "President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the House, Senate or both. \"Well, it's possible. It should help,\" Trump told reporters outside the White House before heading to a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Paxton, GOP, Republican Senate",
-        "Politics desk signal: senate, campaign",
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Politics desk signal: senate, house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-        "Source context: Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted..."
+        "Story focus: Trump says 'it's possible' Iran war could cost him the midterms",
+        "Source context: President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -283,12 +253,42 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 20:02:39 +0000",
+      "age_hours": "6.60",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Homan defends ICE crackdown: \"Give me an example of where we went too far\"",
+      "url": "https://www.cbsnews.com/news/homan-ice-crackdown-gop-criticism-salazar-trump/",
+      "snapshot": "As the Trump administration's crackdown on illegal immigration draws pushback from some GOP lawmakers, White House border czar Tom Homan told CBS News critics should \"educate themselves.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Homan",
+        "Politics desk signal: house, white house, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Homan defends ICE crackdown",
+        "Source context: As the Trump administration's crackdown on illegal immigration draws pushback from some GOP lawmakers, White House border czar Tom Homan told CBS..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Homan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 01 Oct 2026 10:08:20 -0400",
-      "age_hours": "10.35",
+      "published": "Thu, 01 Oct 2026 20:50:24 -0400",
+      "age_hours": "1.81",
       "freshness_status": "fresh",
-      "editorial_score": "124",
+      "editorial_score": "122",
       "urgency": ""
     },
     {
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 22:48:17 +0000",
-      "age_hours": "1.68",
+      "age_hours": "3.84",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
@@ -324,8 +324,8 @@
   ],
   "key_storylines": [
     "Appeals court rules Trump's name can't be carved into Institute of Peace building",
-    "Supreme Court takes up Trump's mandatory detention policy",
-    "Trump promotes tariffs, tries to shore up support for Ken Paxton in Texas"
+    "Trump promotes tariffs, tries to shore up support for Ken Paxton in Texas",
+    "Trump says 'it's possible' Iran war could cost him the midterms"
   ],
   "sections": [
     {
@@ -353,37 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 01 Oct 2026 15:14:03 +0000",
-      "age_hours": "9.25",
-      "freshness_status": "fresh",
-      "editorial_score": "127",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Supreme Court takes up Trump's mandatory detention policy",
-      "url": "https://thehill.com/regulation/court-battles/6122542-supreme-court-mandatory-detention-policy-trump/",
-      "snapshot": "The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner immigration programs on the justices' docket for their upcoming term. The Trump administration argues it can detain people without bond... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, Trump, President Trump",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court takes up Trump's mandatory detention policy",
-        "Source context: The Supreme Court announced Thursday it will decide the legality of President Trump's mandatory detention policy, putting one of his banner..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 01 Oct 2026 13:39:09 +0000",
-      "age_hours": "10.84",
+      "age_hours": "11.41",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -413,21 +383,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 01 Oct 2026 19:50:45 -0400",
-      "age_hours": "0.64",
+      "age_hours": "2.80",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-      "url": "https://www.cbsnews.com/news/ken-paxton-leaked-audio-trump-midterm-convention-texas-senate-talarico/",
-      "snapshot": "Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump says 'it's possible' Iran war could cost him the midterms",
+      "url": "https://thehill.com/homenews/administration/6124271-trump-iran-midterm-risk/",
+      "snapshot": "President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the House, Senate or both. \"Well, it's possible. It should help,\" Trump told reporters outside the White House before heading to a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Paxton, GOP, Republican Senate",
-        "Politics desk signal: senate, campaign",
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Politics desk signal: senate, house, white house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump deflects on audio of Paxton calling GOP convention a drag on polls",
-        "Source context: Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted..."
+        "Story focus: Trump says 'it's possible' Iran war could cost him the midterms",
+        "Source context: President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -440,12 +410,42 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 01 Oct 2026 20:02:39 +0000",
+      "age_hours": "6.60",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": ""
+    },
+    {
+      "headline": "Homan defends ICE crackdown: \"Give me an example of where we went too far\"",
+      "url": "https://www.cbsnews.com/news/homan-ice-crackdown-gop-criticism-salazar-trump/",
+      "snapshot": "As the Trump administration's crackdown on illegal immigration draws pushback from some GOP lawmakers, White House border czar Tom Homan told CBS News critics should \"educate themselves.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Homan",
+        "Politics desk signal: house, white house, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Homan defends ICE crackdown",
+        "Source context: As the Trump administration's crackdown on illegal immigration draws pushback from some GOP lawmakers, White House border czar Tom Homan told CBS..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Homan.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 01 Oct 2026 10:08:20 -0400",
-      "age_hours": "10.35",
+      "published": "Thu, 01 Oct 2026 20:50:24 -0400",
+      "age_hours": "1.81",
       "freshness_status": "fresh",
-      "editorial_score": "124",
+      "editorial_score": "122",
       "urgency": ""
     },
     {
@@ -473,40 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 01 Oct 2026 22:48:17 +0000",
-      "age_hours": "1.68",
+      "age_hours": "3.84",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "ICC ends contract with French insurer amid US sanctions threat",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
-      "snapshot": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Trump launches midterms campaign blitz amid record low approval ratings",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
+      "snapshot": "In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: ICC, US",
-        "Politics desk signal: court",
+        "Key people or organizations: Trump, Iran",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: ICC ends contract with French insurer amid US sanctions threat",
-        "Source context: ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports. The broader significance is..."
+        "Story focus: Trump launches midterms campaign blitz amid record low approval ratings",
+        "Source context: In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs. The election angle is whether this..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving ICC.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 01 Oct 2026 20:20:00 +0000",
-      "age_hours": "4.16",
+      "published": "Fri, 02 Oct 2026 01:39:08 +0000",
+      "age_hours": "1.00",
       "freshness_status": "fresh",
-      "editorial_score": "52",
-      "urgency": ""
+      "editorial_score": "86",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
