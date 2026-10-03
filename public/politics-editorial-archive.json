@@ -50,7 +50,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 03 Oct 2026 03:54:58 +0000",
-    "age_hours": "1.94",
+    "age_hours": "3.60",
     "freshness_status": "fresh",
     "editorial_score": "86",
     "urgency": "BREAKING"
@@ -80,6 +80,36 @@
     "freshness_status": "fresh",
     "editorial_score": "98",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Trump vows Iran war to end \"very quickly\" as more troops head to Mideast",
+    "url": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
+    "snapshot": "Some 9,000 more U.S. forces are headed for the Middle East as President Trump vows the war will end \"right after the election,\" if not sooner. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, Iran",
+      "Specific figures mentioned: 9, 000",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump vows Iran war to end \"very quickly\" as more troops head to Mideast"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Fri, 02 Oct 2026 23:43:36 -0400",
+    "age_hours": "3.79",
+    "freshness_status": "fresh",
+    "editorial_score": "108",
+    "urgency": ""
   },
   {
     "headline": "Rove says if Paxton doesn’t debate Talarico, ‘he loses’",
@@ -158,7 +188,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 02 Oct 2026 19:05:14 -0400",
-    "age_hours": "6.77",
+    "age_hours": "8.43",
     "freshness_status": "fresh",
     "editorial_score": "124",
     "urgency": "BREAKING"
@@ -240,7 +270,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 02 Oct 2026 22:00:00 +0000",
-    "age_hours": "7.86",
+    "age_hours": "9.52",
     "freshness_status": "fresh",
     "editorial_score": "115",
     "urgency": ""
@@ -352,6 +382,36 @@
     "freshness_status": "fresh",
     "editorial_score": "98",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Trump says US won't ban diesel exports",
+    "url": "https://thehill.com/policy/energy-environment/6126914-g7-releases-massive-fuel-stock/",
+    "snapshot": "President Trump said Friday that he will not ban exports of diesel after the Group of Seven (G7) major economies announced that they would release fuel from their stocks. \"Europe has a lot of diesel, and they're going to be making a major world contribution, and so are we, and... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "key_data": [
+      "Key people or organizations: Trump, President Trump",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump says US won't ban diesel exports",
+      "Source context: President Trump said Friday that he will not ban exports of diesel after the Group of Seven (G7) major economies announced that they would release..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Fri, 02 Oct 2026 20:43:59 +0000",
+    "age_hours": "10.79",
+    "freshness_status": "fresh",
+    "editorial_score": "109",
+    "urgency": "BREAKING"
   },
   {
     "headline": "California leads lawsuit against Trump fuel efficiency standards rollback",
