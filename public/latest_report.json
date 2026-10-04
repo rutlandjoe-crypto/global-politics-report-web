@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Senior Trump administration officials met to discuss Iran war at Camp David",
   "snapshot": "Vice President JD Vance, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth were among the officials to meet on Friday to discuss a path forward. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-10-04 06:52:29 AM ET",
-  "generated_at": "2026-10-04 06:52:29 AM ET",
+  "updated_at": "2026-10-04 08:54:23 AM ET",
+  "generated_at": "2026-10-04 08:54:23 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 29,
+    "total_items_checked": 151,
+    "live_fresh_items": 35,
     "editor_fresh_items": 74,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 121,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 116,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-04 06:52:29 AM ET"
+    "last_checked": "2026-10-04 08:54:23 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,10 +43,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 03 Oct 2026 23:30:10 -0400",
-      "age_hours": "7.37",
+      "published": "Sun, 04 Oct 2026 08:33:23 -0400",
+      "age_hours": "0.35",
       "freshness_status": "fresh",
       "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Supreme Court gears up for new term with major cases on climate change, guns",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
+      "snapshot": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, President Trump, Second Amendment",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court gears up for new term with major cases on climate change, guns",
+        "Source context: The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 07:00:16 -0400",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 10:00:00 +0000",
-      "age_hours": "0.87",
+      "age_hours": "2.91",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -104,39 +134,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 03 Oct 2026 20:37:40 +0000",
-      "age_hours": "14.25",
+      "age_hours": "16.28",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-      "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-      "snapshot": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, Ohio",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-        "Source context: US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 04 Oct 2026 04:10:17 +0000",
-      "age_hours": "6.70",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 04 Oct 2026 07:21:19 +0000",
-      "age_hours": "3.52",
+      "age_hours": "5.55",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -195,10 +195,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 03 Oct 2026 23:30:10 -0400",
-      "age_hours": "7.37",
+      "published": "Sun, 04 Oct 2026 08:33:23 -0400",
+      "age_hours": "0.35",
       "freshness_status": "fresh",
       "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Supreme Court gears up for new term with major cases on climate change, guns",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
+      "snapshot": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, President Trump, Second Amendment",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court gears up for new term with major cases on climate change, guns",
+        "Source context: The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 07:00:16 -0400",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -226,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 10:00:00 +0000",
-      "age_hours": "0.87",
+      "age_hours": "2.91",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
@@ -256,196 +286,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 03 Oct 2026 20:37:40 +0000",
-      "age_hours": "14.25",
+      "age_hours": "16.28",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
-      "urgency": ""
-    },
-    {
-      "headline": "Judge says federal law banning noncitizen voting is unconstitutional",
-      "url": "https://www.cbsnews.com/news/judge-federal-law-banning-noncitizen-voting-unconstitutional/",
-      "snapshot": "In a possible blow to the Trump administration's efforts to charge noncitizens with voting, a judge has dismissed a case against a Jamaican national accused of illegally voting, finding the law she was charged under is unconstitutional. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political...",
-      "key_data": [
-        "Key people or organizations: Judge, Trump",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge says federal law banning noncitizen voting is unconstitutional",
-        "Source context: In a possible blow to the Trump administration's efforts to charge noncitizens with voting, a judge has dismissed a case against a Jamaican national..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 02 Oct 2026 19:05:14 -0400",
-      "age_hours": "35.79",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-      "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-      "snapshot": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, Ohio",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-        "Source context: US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 04 Oct 2026 04:10:17 +0000",
-      "age_hours": "6.70",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Senior Trump administration officials met to discuss Iran war at Camp David",
-    "Trump funnels millions from massive war chest into key House, Senate races: Here's where",
-    "Trump backs data centers in Ohio amid tight Senate race"
-  ],
-  "sections": [
-    {
-      "headline": "Senior Trump administration officials met to discuss Iran war at Camp David",
-      "url": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
-      "snapshot": "Vice President JD Vance, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth were among the officials to meet on Friday to discuss a path forward. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Senior Trump, Iran, Camp David, Vice President JD Vance",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senior Trump administration officials met to discuss Iran war at Camp David",
-        "Source context: Vice President JD Vance, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth were among the officials to meet on Friday to discuss a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Senior Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 03 Oct 2026 23:30:10 -0400",
-      "age_hours": "7.37",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump funnels millions from massive war chest into key House, Senate races: Here's where",
-      "url": "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/",
-      "snapshot": "President Trump's super PAC and affiliates have injected tens of millions of dollars into pivotal Senate and House races just one month from Election Day as the GOP looks to keep control of Congress. Trump's MAGA Inc. and several affiliated groups — No Going Back PAC Inc. and... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Trump, House, Senate, President Trump",
-        "Politics desk signal: congress, senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump funnels millions from massive war chest into key House, Senate races",
-        "Source context: President Trump's super PAC and affiliates have injected tens of millions of dollars into pivotal Senate and House races just one month from Election..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 04 Oct 2026 10:00:00 +0000",
-      "age_hours": "0.87",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump backs data centers in Ohio amid tight Senate race",
-      "url": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
-      "snapshot": "President Trump defended data centers at a midterm campaign rally in Vandalia, Ohio Saturday, arguing that the U.S. will risk losing ground in the global artificial intelligence race against China without the massive facilities that have come under heightened scrutiny in... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Ohio, Senate, President Trump",
-        "Politics desk signal: senate, campaign, china",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump backs data centers in Ohio amid tight Senate race",
-        "Source context: President Trump defended data centers at a midterm campaign rally in Vandalia, Ohio Saturday, arguing that the U.S. will risk losing ground in the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 04 Oct 2026 02:39:12 +0000",
-      "age_hours": "8.22",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-      "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-      "snapshot": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans, Ohio",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-        "Source context: US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections. The election angle is whether this..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 04 Oct 2026 04:10:17 +0000",
-      "age_hours": "6.70",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -473,7 +316,164 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 04 Oct 2026 07:21:19 +0000",
-      "age_hours": "3.52",
+      "age_hours": "5.55",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Senior Trump administration officials met to discuss Iran war at Camp David",
+    "Supreme Court gears up for new term with major cases on climate change, guns",
+    "Trump funnels millions from massive war chest into key House, Senate races: Here's where"
+  ],
+  "sections": [
+    {
+      "headline": "Senior Trump administration officials met to discuss Iran war at Camp David",
+      "url": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
+      "snapshot": "Vice President JD Vance, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth were among the officials to meet on Friday to discuss a path forward. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Senior Trump, Iran, Camp David, Vice President JD Vance",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senior Trump administration officials met to discuss Iran war at Camp David",
+        "Source context: Vice President JD Vance, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth were among the officials to meet on Friday to discuss a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senior Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 08:33:23 -0400",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Supreme Court gears up for new term with major cases on climate change, guns",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
+      "snapshot": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, President Trump, Second Amendment",
+        "Politics desk signal: supreme court, court, immigration",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court gears up for new term with major cases on climate change, guns",
+        "Source context: The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 07:00:16 -0400",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump funnels millions from massive war chest into key House, Senate races: Here's where",
+      "url": "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/",
+      "snapshot": "President Trump's super PAC and affiliates have injected tens of millions of dollars into pivotal Senate and House races just one month from Election Day as the GOP looks to keep control of Congress. Trump's MAGA Inc. and several affiliated groups — No Going Back PAC Inc. and... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, House, Senate, President Trump",
+        "Politics desk signal: congress, senate, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump funnels millions from massive war chest into key House, Senate races",
+        "Source context: President Trump's super PAC and affiliates have injected tens of millions of dollars into pivotal Senate and House races just one month from Election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 04 Oct 2026 10:00:00 +0000",
+      "age_hours": "2.91",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Congressional hearings are no longer a check on power — they're now a circus",
+      "url": "https://thehill.com/opinion/congress-blog/6126730-congressional-oversight-deteriorates-partisan/",
+      "snapshot": "Unfortunately, despite a vast expansion of executive branch authority, Congress seems prepared to let partisan advantage trump comity, cooperation and the public's right to know. And with Republicans now controlling Congress and the White House, reform seems out of reach. The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Congress, And",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Congressional hearings are no longer a check on power — they're now a circus",
+        "Source context: Unfortunately, despite a vast expansion of executive branch authority, Congress seems prepared to let partisan advantage trump comity, cooperation..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Congress.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 04 Oct 2026 12:00:00 +0000",
+      "age_hours": "0.91",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Fury to invite US President Trump to lead ring walk before Joshua fight",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/fury-to-invite-us-president-trump-to-lead-ring-walk-before-joshua-fight?traffic_source=rss",
+      "snapshot": "Tyson Fury is keen for his 'old pal' to join his procession to the ring for the fight on December 11 in Cardiff. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Fury, US President Trump, Tyson Fury",
+        "Specific figures mentioned: 11",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Fury to invite US President Trump to lead ring walk before Joshua fight"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Fury.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 04 Oct 2026 07:21:19 +0000",
+      "age_hours": "5.55",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 03 Oct 2026 20:37:40 +0000",
-      "age_hours": "14.25",
+      "age_hours": "16.28",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
       "urgency": ""
