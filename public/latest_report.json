@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
   "snapshot": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm elections. \"I'm for the investigations. Hold this administration accountable, which... The key question is leverage: the next votes, negotiations and public pressure points will...",
-  "updated_at": "2026-10-04 06:16:30 PM ET",
-  "generated_at": "2026-10-04 06:16:30 PM ET",
+  "updated_at": "2026-10-04 07:39:02 PM ET",
+  "generated_at": "2026-10-04 07:39:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 61,
-    "editor_fresh_items": 95,
+    "live_fresh_items": 60,
+    "editor_fresh_items": 97,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 86,
+    "stale_or_blocked_items": 87,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-04 06:16:30 PM ET"
+    "last_checked": "2026-10-04 07:39:02 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 04 Oct 2026 16:55:03 +0000",
-      "age_hours": "5.36",
+      "age_hours": "6.73",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -74,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 18:09:38 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.49",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
@@ -104,39 +104,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 04 Oct 2026 18:06:48 -0400",
-      "age_hours": "0.16",
+      "age_hours": "1.54",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court gears up for new term with major cases on climate change, guns",
-      "url": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
-      "snapshot": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, President Trump, Second Amendment",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court gears up for new term with major cases on climate change, guns",
-        "Source context: The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 04 Oct 2026 07:00:16 -0400",
-      "age_hours": "11.27",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -164,10 +134,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 21:00:00 +0000",
-      "age_hours": "1.27",
+      "age_hours": "2.65",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
+    },
+    {
+      "headline": "Energy Secretary: Trump was \"aware of the risks to energy flows\" before Iran war",
+      "url": "https://www.cbsnews.com/news/chris-wright-trump-iran-war-aware-energy-flow-risks/",
+      "snapshot": "Energy Secretary Chris Wright said that President Trump was \"well aware of the risks to energy flows\" before launching the war in Iran earlier this year, but argued \"the world cannot sustain a nuclear-armed Iran.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Energy Secretary, Trump, Iran, Energy Secretary Chris Wright",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Energy Secretary",
+        "Source context: Energy Secretary Chris Wright said that President Trump was \"well aware of the risks to energy flows\" before launching the war in Iran earlier this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Energy Secretary.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 13:47:25 -0400",
+      "age_hours": "5.86",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 18:09:38 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.49",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
@@ -226,39 +226,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 04 Oct 2026 18:06:48 -0400",
-      "age_hours": "0.16",
+      "age_hours": "1.54",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court gears up for new term with major cases on climate change, guns",
-      "url": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
-      "snapshot": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, President Trump, Second Amendment",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court gears up for new term with major cases on climate change, guns",
-        "Source context: The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 04 Oct 2026 07:00:16 -0400",
-      "age_hours": "11.27",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -286,10 +256,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 21:00:00 +0000",
-      "age_hours": "1.27",
+      "age_hours": "2.65",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
+    },
+    {
+      "headline": "Energy Secretary: Trump was \"aware of the risks to energy flows\" before Iran war",
+      "url": "https://www.cbsnews.com/news/chris-wright-trump-iran-war-aware-energy-flow-risks/",
+      "snapshot": "Energy Secretary Chris Wright said that President Trump was \"well aware of the risks to energy flows\" before launching the war in Iran earlier this year, but argued \"the world cannot sustain a nuclear-armed Iran.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Energy Secretary, Trump, Iran, Energy Secretary Chris Wright",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Energy Secretary",
+        "Source context: Energy Secretary Chris Wright said that President Trump was \"well aware of the risks to energy flows\" before launching the war in Iran earlier this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Energy Secretary.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 13:47:25 -0400",
+      "age_hours": "5.86",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
     },
     {
       "headline": "Mass protests demanding poll chief resignation shake India for third day",
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 04 Oct 2026 16:55:03 +0000",
-      "age_hours": "5.36",
+      "age_hours": "6.73",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -325,7 +325,7 @@
   "key_storylines": [
     "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
     "Senior Trump administration officials met to discuss Iran war at Camp David",
-    "Supreme Court gears up for new term with major cases on climate change, guns"
+    "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 18:09:38 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.49",
       "freshness_status": "fresh",
       "editorial_score": "135",
       "urgency": "DEVELOPING"
@@ -383,39 +383,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 04 Oct 2026 18:06:48 -0400",
-      "age_hours": "0.16",
+      "age_hours": "1.54",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court gears up for new term with major cases on climate change, guns",
-      "url": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
-      "snapshot": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, President Trump, Second Amendment",
-        "Politics desk signal: supreme court, court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court gears up for new term with major cases on climate change, guns",
-        "Source context: The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 04 Oct 2026 07:00:16 -0400",
-      "age_hours": "11.27",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -443,10 +413,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 04 Oct 2026 21:00:00 +0000",
-      "age_hours": "1.27",
+      "age_hours": "2.65",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": ""
+    },
+    {
+      "headline": "Energy Secretary: Trump was \"aware of the risks to energy flows\" before Iran war",
+      "url": "https://www.cbsnews.com/news/chris-wright-trump-iran-war-aware-energy-flow-risks/",
+      "snapshot": "Energy Secretary Chris Wright said that President Trump was \"well aware of the risks to energy flows\" before launching the war in Iran earlier this year, but argued \"the world cannot sustain a nuclear-armed Iran.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Energy Secretary, Trump, Iran, Energy Secretary Chris Wright",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Energy Secretary",
+        "Source context: Energy Secretary Chris Wright said that President Trump was \"well aware of the risks to energy flows\" before launching the war in Iran earlier this..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Energy Secretary.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 04 Oct 2026 13:47:25 -0400",
+      "age_hours": "5.86",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
     },
     {
       "headline": "Mass protests demanding poll chief resignation shake India for third day",
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 04 Oct 2026 16:55:03 +0000",
-      "age_hours": "5.36",
+      "age_hours": "6.73",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -502,7 +502,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 04 Oct 2026 17:17:42 +0000",
-      "age_hours": "4.98",
+      "age_hours": "6.36",
       "freshness_status": "fresh",
       "editorial_score": "60",
       "urgency": ""
