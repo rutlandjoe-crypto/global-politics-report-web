@@ -1,34 +1,63 @@
-import type { MetadataRoute } from "next";
-import { getEditorialItems, SITE_URL } from "./lib/editorial-archive";
+﻿import type { MetadataRoute } from "next";
+import fs from "fs";
+import path from "path";
+import {
+  isClearlyWrongPoliticsSlug,
+  normalizePoliticsStorySlug,
+} from "@/lib/politicsUrlQuality";
 
-export const dynamic = "force-dynamic";
+const baseUrl = "https://www.globalpoliticsreport.com";
 
-export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const items = await getEditorialItems();
-  const latestPublished = items.reduce<Date | undefined>((latest, item) => {
-    const published = new Date(item.published);
-    if (Number.isNaN(published.getTime())) return latest;
-    return !latest || published > latest ? published : latest;
-  }, undefined);
-
-  return [
+export default function sitemap(): MetadataRoute.Sitemap {
+  const entries: MetadataRoute.Sitemap = [
     {
-      url: `${SITE_URL}/`,
-      ...(latestPublished ? { lastModified: latestPublished } : {}),
+      url: baseUrl,
       changeFrequency: "hourly",
       priority: 1,
     },
-    {
-      url: `${SITE_URL}/archive`,
-      ...(latestPublished ? { lastModified: latestPublished } : {}),
-      changeFrequency: "daily",
-      priority: 0.8,
-    },
-    ...items.map((item) => ({
-      url: `${SITE_URL}/editorial/${item.slug}`,
-      lastModified: new Date(item.published),
-      changeFrequency: "monthly" as const,
-      priority: 0.7,
-    })),
   ];
+
+  const editorialDir = path.join(process.cwd(), "app", "editorial");
+
+  if (!fs.existsSync(editorialDir)) {
+    return entries;
+  }
+
+  const directories = fs
+    .readdirSync(editorialDir, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => entry.name);
+
+  const newestByStory = new Map<string, string>();
+
+  for (const slug of directories) {
+    if (isClearlyWrongPoliticsSlug(slug)) {
+      continue;
+    }
+
+    const identity = normalizePoliticsStorySlug(slug);
+
+    if (!identity) {
+      continue;
+    }
+
+    const current = newestByStory.get(identity);
+
+    if (!current || slug > current) {
+      newestByStory.set(identity, slug);
+    }
+  }
+
+  const uniqueSlugs =
+    Array.from(newestByStory.values()).sort().reverse();
+
+  for (const slug of uniqueSlugs) {
+    entries.push({
+      url: `${baseUrl}/editorial/${slug}`,
+      changeFrequency: "monthly",
+      priority: 0.7,
+    });
+  }
+
+  return entries;
 }
