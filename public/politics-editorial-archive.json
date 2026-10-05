@@ -24,7 +24,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Mon, 05 Oct 2026 17:05:46 +0000",
-    "age_hours": "0.70",
+    "age_hours": "1.81",
     "freshness_status": "fresh",
     "editorial_score": "60",
     "urgency": ""
@@ -54,7 +54,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Mon, 05 Oct 2026 16:26:42 +0000",
-    "age_hours": "1.35",
+    "age_hours": "2.46",
     "freshness_status": "fresh",
     "editorial_score": "123",
     "urgency": "BREAKING"
@@ -114,10 +114,40 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Mon, 05 Oct 2026 13:46:00 +0000",
-    "age_hours": "4.03",
+    "age_hours": "5.14",
     "freshness_status": "fresh",
     "editorial_score": "113",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Justice Samuel Alito reacts to Trump jabs: \"We are not attempting to further any political agenda\"",
+    "url": "https://www.cbsnews.com/video/justice-samuel-alito-reacts-to-trump-jabs-we-are-not-attempting-to-further-any-political-agenda/",
+    "snapshot": "Supreme Court Justice Samuel Alito, whose new book, \"So Ordered: An Originalist's View of the Constitution, the Court, and Our Country,\" comes out this week, sat down with CBS News chief legal correspondent Jan Crawford. He addressed President Trump's criticisms of the Court... The broader significance is institutional: court action can alter policy timelines, executive...",
+    "key_data": [
+      "Key people or organizations: Justice Samuel Alito, Trump, Supreme Court Justice Samuel",
+      "Politics desk signal: supreme court, court",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Justice Samuel Alito reacts to Trump jabs",
+      "Source context: Supreme Court Justice Samuel Alito, whose new book, \"So Ordered: An Originalist's View of the Constitution, the Court, and Our Country,\" comes out..."
+    ],
+    "why_it_matters": [
+      "This has legal and institutional consequences beyond one news cycle.",
+      "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+      "Editors should frame the story around who gains power and who faces new limits."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Justice Samuel Alito.",
+      "Track filings, rulings, appeals and agency responses.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Mon, 05 Oct 2026 09:02:16 -0400",
+    "age_hours": "5.87",
+    "freshness_status": "fresh",
+    "editorial_score": "108",
+    "urgency": ""
   },
   {
     "headline": "Senior Trump administration officials met to discuss Iran war at Camp David",
@@ -144,9 +174,9 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Mon, 05 Oct 2026 02:40:00 -0400",
-    "age_hours": "11.13",
-    "freshness_status": "fresh",
-    "editorial_score": "124",
+    "age_hours": "12.24",
+    "freshness_status": "editor_fresh",
+    "editorial_score": "94",
     "urgency": ""
   },
   {
