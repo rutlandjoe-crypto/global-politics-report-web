@@ -24,7 +24,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Sun, 04 Oct 2026 18:06:48 -0400",
-    "age_hours": "1.54",
+    "age_hours": "3.43",
     "freshness_status": "fresh",
     "editorial_score": "124",
     "urgency": ""
@@ -158,7 +158,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 04 Oct 2026 21:00:00 +0000",
-    "age_hours": "2.65",
+    "age_hours": "4.54",
     "freshness_status": "fresh",
     "editorial_score": "115",
     "urgency": ""
@@ -214,7 +214,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 04 Oct 2026 18:09:38 +0000",
-    "age_hours": "5.49",
+    "age_hours": "7.38",
     "freshness_status": "fresh",
     "editorial_score": "135",
     "urgency": "DEVELOPING"
@@ -244,10 +244,39 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Sun, 04 Oct 2026 13:47:25 -0400",
-    "age_hours": "5.86",
+    "age_hours": "7.75",
     "freshness_status": "fresh",
     "editorial_score": "108",
     "urgency": "WATCH"
+  },
+  {
+    "headline": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+    "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+    "snapshot": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+    "key_data": [
+      "Key people or organizations: Ukraine, US, Russia",
+      "Politics desk signal: ukraine",
+      "Story focus: Ukraine ready for US-backed talks with Russia",
+      "Source context: Trilateral talks could happen this month in UAE or another US-proposed venue, says the president. The geopolitical angle is how the decision affects..."
+    ],
+    "why_it_matters": [
+      "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+      "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+      "Editors should watch official actions, not just statements."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Ukraine.",
+      "Track responses from lawmakers, courts, agencies or campaigns.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Sun, 04 Oct 2026 17:17:42 +0000",
+    "age_hours": "8.25",
+    "freshness_status": "fresh",
+    "editorial_score": "60",
+    "urgency": ""
   },
   {
     "headline": "Iran did not collapse after Khamenei — it just became harder to read",
