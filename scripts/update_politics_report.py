@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import html
 import json
@@ -266,6 +266,87 @@ def build_report(stories: list[dict[str, Any]], checked: int) -> dict[str, Any]:
     return report
 
 
+
+
+# ----------------------------------------------------------------------
+# GSR POLITICS EDITORIAL INTEGRITY GATE
+#
+# Permanent publication rule:
+#   source-supported, story-specific copy -> preserve
+#   generic manufactured political analysis -> remove
+#
+# This gate intentionally runs on the completed report immediately
+# before publication so generic fallback prose cannot leak into the
+# homepage even if an upstream construction path reintroduces it.
+# ----------------------------------------------------------------------
+
+_GSR_POLITICS_BOILERPLATE_MARKERS = (
+    "The key question is leverage:",
+    "The practical question is whether the development changes votes, negotiations or public pressure.",
+    "Editors should watch for the gap between messaging and actual governing outcomes.",
+)
+
+_GSR_POLITICS_DROP_EXACT = {
+    "This could affect legislative leverage, policy timing or party strategy.",
+    "The practical question is whether the development changes votes, negotiations or public pressure.",
+    "Editors should watch for the gap between messaging and actual governing outcomes.",
+    "Institutional context: story may affect policy, legal pressure or governing leverage",
+}
+
+
+def _gsr_clean_politics_string(value):
+    if not isinstance(value, str):
+        return value
+
+    cleaned = value.strip()
+
+    if cleaned in _GSR_POLITICS_DROP_EXACT:
+        return ""
+
+    marker = "The key question is leverage:"
+    marker_index = cleaned.find(marker)
+
+    if marker_index >= 0:
+        cleaned = cleaned[:marker_index].rstrip()
+
+    return cleaned
+
+
+def _gsr_remove_editorial_boilerplate(value):
+    if isinstance(value, dict):
+        cleaned_dict = {}
+
+        for key, item in value.items():
+            cleaned_item = _gsr_remove_editorial_boilerplate(item)
+
+            if isinstance(cleaned_item, str):
+                cleaned_item = cleaned_item.strip()
+
+            cleaned_dict[key] = cleaned_item
+
+        return cleaned_dict
+
+    if isinstance(value, list):
+        cleaned_list = []
+
+        for item in value:
+            cleaned_item = _gsr_remove_editorial_boilerplate(item)
+
+            if cleaned_item is None:
+                continue
+
+            if isinstance(cleaned_item, str) and not cleaned_item.strip():
+                continue
+
+            cleaned_list.append(cleaned_item)
+
+        return cleaned_list
+
+    if isinstance(value, str):
+        return _gsr_clean_politics_string(value)
+
+    return value
+
 def main() -> int:
     fetched: list[dict[str, Any]] = []
     successful_feeds = 0
@@ -290,6 +371,9 @@ def main() -> int:
         return 1
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    # Final GSR Politics editorial-integrity sanitation before publication.
+    report = _gsr_remove_editorial_boilerplate(report)
+
     (OUTPUT_DIR / "latest_report.json").write_text(
         json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
@@ -305,3 +389,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
