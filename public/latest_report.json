@@ -1,448 +1,512 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "How a Maryland Shipyard Turned Into a Squabble Between Trump and Wes Moore",
-  "snapshot": "President Trump traveled to Baltimore to announce a major investment that he said would create new jobs. Gov. Wes Moore of Maryland, a Democrat, says he deserves credit, too.",
-  "updated_at": "2026-10-06 06:58:36 PM ET",
-  "generated_at": "2026-10-06 06:58:36 PM ET",
+  "headline": "White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower",
+  "snapshot": "A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open investigations into Los Angeles protesters, violating the Constitution and bureau policy by targeting them for First Amendment... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-10-06 07:23:20 PM ET",
+  "generated_at": "2026-10-06 07:23:20 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 165,
-    "live_fresh_items": 127,
-    "editor_fresh_items": 164,
-    "public_fallback_items": 165,
-    "stale_or_blocked_items": 38,
+    "total_items_checked": 153,
+    "live_fresh_items": 116,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 152,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-06 06:58:36 PM ET"
+    "last_checked": "2026-10-06 07:23:20 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "How a Maryland Shipyard Turned Into a Squabble Between Trump and Wes Moore",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-maryland-submarines-anduril-baltimore.html",
-      "snapshot": "President Trump traveled to Baltimore to announce a major investment that he said would create new jobs. Gov. Wes Moore of Maryland, a Democrat, says he deserves credit, too.",
+      "headline": "Amid protests, Kosovo's political deadlock raises prospect of new elections",
+      "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
+      "snapshot": "Kosovo faces tensions as protests against former rebel leaders' convictions coincide with the prospect of new elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Oct. 06, 2026 at 06:48 PM ET"
+        "Key people or organizations: Kosovo",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Amid protests, Kosovo's political deadlock raises prospect of new elections",
+        "Source context: Kosovo faces tensions as protests against former rebel leaders' convictions coincide with the prospect of new elections. The election angle is..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Kosovo.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Tue, 06 Oct 2026 22:48:56 +0000",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 06 Oct 2026 18:25:45 +0000",
+      "age_hours": "4.96",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower",
+      "url": "https://thehill.com/homenews/administration/6132431-white-house-fbi-whistleblower/",
+      "snapshot": "A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open investigations into Los Angeles protesters, violating the Constitution and bureau policy by targeting them for First Amendment... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: White House, FBI, Whistleblower",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House, DOJ pushed FBI to investigate protesters, violating rights",
+        "Source context: A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 06 Oct 2026 20:43:10 +0000",
+      "age_hours": "2.67",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump's 'Super Intelligence Force' takes shape",
+      "url": "https://thehill.com/newsletters/technology/6132622-trumps-super-intelligence-force-takes-shape/",
+      "snapshot": "{beacon} Technology Technology The Big Story Trump's 'Super Intelligence Force' gives glimpse into AI approach President Trump's selection of four administration officials to head up his new \"Super Intelligence Force\" is offering a window into how the White House will approach... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Super Intelligence Force, Technology Technology The Big, Story Trump",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's 'Super Intelligence Force' takes shape",
+        "Source context: {beacon} Technology Technology The Big Story Trump's 'Super Intelligence Force' gives glimpse into AI approach President Trump's selection of four..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 06 Oct 2026 21:29:16 +0000",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+      "url": "https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/",
+      "snapshot": "Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, San Diego",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+        "Source context: Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego. The election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 06 Oct 2026 19:13:33 -0400",
       "age_hours": "0.16",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     },
     {
-      "headline": "US trade deficit passes $100B for first time since March 2025",
-      "url": "https://thehill.com/business/6132688-august-trade-gap-exceeds-100b/",
-      "snapshot": "The U.S. trade deficit rose to a 17-month high in August, topping $100 billion for the first time since March 2025. U.S. imports of goods and services that month were worth $105.6 billion more than the value of exports, according to data the Census Bureau and Bureau of Economic Analysis released Tuesday. That marked an…",
+      "headline": "Trump says he'll start paying for ads after pushback over taxpayer funding",
+      "url": "https://www.cbsnews.com/news/trump-super-pac-maga-inc-taxpayer-funded-ads/",
+      "snapshot": "President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC instead of taxpayer dollars. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Policy",
-        "Published: Oct. 06, 2026 at 06:44 PM ET"
+        "Key people or organizations: Trump, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he'll start paying for ads after pushback over taxpayer funding",
+        "Source context: President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC..."
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 06 Oct 2026 22:44:04 +0000",
-      "age_hours": "0.24",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 06 Oct 2026 15:37:07 -0400",
+      "age_hours": "3.77",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Experts say her survival after the lethal injections is highly unusual.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Oct. 06, 2026 at 06:00 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Tue, 06 Oct 2026 22:00:43 GMT",
-      "age_hours": "0.96",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tokyo protests US military presence after Okinawa killing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-      "snapshot": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 06, 2026 at 05:20 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 06 Oct 2026 21:20:28 +0000",
-      "age_hours": "1.64",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "snapshot": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Election",
-        "Published: Oct. 06, 2026 at 07:19 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Tue, 06 Oct 2026 07:19:25 -0400",
-      "age_hours": "11.65",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-map-iceland-rubio.html",
-      "snapshot": "President Trump had posted a map on his Truth Social account in September depicting Iceland as part of U.S. territory.",
+      "headline": "White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower",
+      "url": "https://thehill.com/homenews/administration/6132431-white-house-fbi-whistleblower/",
+      "snapshot": "A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open investigations into Los Angeles protesters, violating the Constitution and bureau policy by targeting them for First Amendment... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Oct. 06, 2026 at 06:42 PM ET"
+        "Key people or organizations: White House, FBI, Whistleblower",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House, DOJ pushed FBI to investigate protesters, violating rights",
+        "Source context: A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Tue, 06 Oct 2026 22:42:26 +0000",
-      "age_hours": "0.27",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump: Government will take massive stake in ‘next generation’ submarine shipyard",
-      "url": "https://thehill.com/policy/defense/6132760-trump-taxpayers-stake-maryland-shipyard/",
-      "snapshot": "President Trump said Tuesday that American taxpayers will get a 40 percent stake in the planned shipyard in Sparrows Point, Md., an unincorporated industrial area in Baltimore County, which he visited Tuesday. “In the ultimate proof of our commitment to ensuring shipyards enduring success American taxpayers will receive 40 percent stake in the new shipyard,”…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Oct. 06, 2026 at 06:20 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 06 Oct 2026 22:20:56 +0000",
-      "age_hours": "0.63",
+      "published": "Tue, 06 Oct 2026 20:43:10 +0000",
+      "age_hours": "2.67",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "What happened in the failed execution of Christa Pike - and what next?",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "headline": "Trump's 'Super Intelligence Force' takes shape",
+      "url": "https://thehill.com/newsletters/technology/6132622-trumps-super-intelligence-force-takes-shape/",
+      "snapshot": "{beacon} Technology Technology The Big Story Trump's 'Super Intelligence Force' gives glimpse into AI approach President Trump's selection of four administration officials to head up his new \"Super Intelligence Force\" is offering a window into how the White House will approach... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Oct. 06, 2026 at 05:59 PM ET"
+        "Key people or organizations: Trump, Super Intelligence Force, Technology Technology The Big, Story Trump",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's 'Super Intelligence Force' takes shape",
+        "Source context: {beacon} Technology Technology The Big Story Trump's 'Super Intelligence Force' gives glimpse into AI approach President Trump's selection of four..."
       ],
       "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Tue, 06 Oct 2026 21:59:55 GMT",
-      "age_hours": "0.98",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 06 Oct 2026 21:29:16 +0000",
+      "age_hours": "1.90",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
-      "url": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
-      "snapshot": "Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 06, 2026 at 05:11 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 06 Oct 2026 21:11:39 +0000",
-      "age_hours": "1.78",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What voters in 6 key states could tell us about the 2026 midterms",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-      "snapshot": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Election",
-        "Published: Oct. 06, 2026 at 07:00 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Tue, 06 Oct 2026 07:00:00 -0400",
-      "age_hours": "11.98",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "107",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "How a Maryland Shipyard Turned Into a Squabble Between Trump and Wes Moore",
-    "US trade deficit passes $100B for first time since March 2025",
-    "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say"
-  ],
-  "sections": [
+    },
     {
-      "headline": "How a Maryland Shipyard Turned Into a Squabble Between Trump and Wes Moore",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-maryland-submarines-anduril-baltimore.html",
-      "snapshot": "President Trump traveled to Baltimore to announce a major investment that he said would create new jobs. Gov. Wes Moore of Maryland, a Democrat, says he deserves credit, too.",
+      "headline": "Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+      "url": "https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/",
+      "snapshot": "Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Oct. 06, 2026 at 06:48 PM ET"
+        "Key people or organizations: Trump, Iran, San Diego",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+        "Source context: Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego. The election..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Tue, 06 Oct 2026 22:48:56 +0000",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 06 Oct 2026 19:13:33 -0400",
       "age_hours": "0.16",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US trade deficit passes $100B for first time since March 2025",
-      "url": "https://thehill.com/business/6132688-august-trade-gap-exceeds-100b/",
-      "snapshot": "The U.S. trade deficit rose to a 17-month high in August, topping $100 billion for the first time since March 2025. U.S. imports of goods and services that month were worth $105.6 billion more than the value of exports, according to data the Census Bureau and Bureau of Economic Analysis released Tuesday. That marked an…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Policy",
-        "Published: Oct. 06, 2026 at 06:44 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 06 Oct 2026 22:44:04 +0000",
-      "age_hours": "0.24",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Experts say her survival after the lethal injections is highly unusual.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Oct. 06, 2026 at 06:00 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Tue, 06 Oct 2026 22:00:43 GMT",
-      "age_hours": "0.96",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tokyo protests US military presence after Okinawa killing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-      "snapshot": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 06, 2026 at 05:20 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 06 Oct 2026 21:20:28 +0000",
-      "age_hours": "1.64",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "snapshot": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Election",
-        "Published: Oct. 06, 2026 at 07:19 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Tue, 06 Oct 2026 07:19:25 -0400",
-      "age_hours": "11.65",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
       "urgency": ""
     },
     {
-      "headline": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map",
-      "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-map-iceland-rubio.html",
-      "snapshot": "President Trump had posted a map on his Truth Social account in September depicting Iceland as part of U.S. territory.",
+      "headline": "Trump says he'll start paying for ads after pushback over taxpayer funding",
+      "url": "https://www.cbsnews.com/news/trump-super-pac-maga-inc-taxpayer-funded-ads/",
+      "snapshot": "President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC instead of taxpayer dollars. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Government",
-        "Published: Oct. 06, 2026 at 06:42 PM ET"
+        "Key people or organizations: Trump, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he'll start paying for ads after pushback over taxpayer funding",
+        "Source context: President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Tue, 06 Oct 2026 22:42:26 +0000",
-      "age_hours": "0.27",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 06 Oct 2026 15:37:07 -0400",
+      "age_hours": "3.77",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amid protests, Kosovo's political deadlock raises prospect of new elections",
+      "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
+      "snapshot": "Kosovo faces tensions as protests against former rebel leaders' convictions coincide with the prospect of new elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Kosovo",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Amid protests, Kosovo's political deadlock raises prospect of new elections",
+        "Source context: Kosovo faces tensions as protests against former rebel leaders' convictions coincide with the prospect of new elections. The election angle is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Kosovo.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 06 Oct 2026 18:25:45 +0000",
+      "age_hours": "4.96",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "BREAKING"
+    }
+  ],
+  "key_storylines": [
+    "White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower",
+    "Trump's 'Super Intelligence Force' takes shape",
+    "Trump suggests letting Iran \"take out\" LA, San Diego during rally"
+  ],
+  "sections": [
+    {
+      "headline": "White House, DOJ pushed FBI to investigate protesters, violating rights: Whistleblower",
+      "url": "https://thehill.com/homenews/administration/6132431-white-house-fbi-whistleblower/",
+      "snapshot": "A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open investigations into Los Angeles protesters, violating the Constitution and bureau policy by targeting them for First Amendment... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: White House, FBI, Whistleblower",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: White House, DOJ pushed FBI to investigate protesters, violating rights",
+        "Source context: A new whistleblower complaint accuses the White House as well as top leadership at the Justice Department and the FBI of directing agents to open..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving White House.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 06 Oct 2026 20:43:10 +0000",
+      "age_hours": "2.67",
+      "freshness_status": "fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump's 'Super Intelligence Force' takes shape",
+      "url": "https://thehill.com/newsletters/technology/6132622-trumps-super-intelligence-force-takes-shape/",
+      "snapshot": "{beacon} Technology Technology The Big Story Trump's 'Super Intelligence Force' gives glimpse into AI approach President Trump's selection of four administration officials to head up his new \"Super Intelligence Force\" is offering a window into how the White House will approach... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Trump, Super Intelligence Force, Technology Technology The Big, Story Trump",
+        "Politics desk signal: house, white house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's 'Super Intelligence Force' takes shape",
+        "Source context: {beacon} Technology Technology The Big Story Trump's 'Super Intelligence Force' gives glimpse into AI approach President Trump's selection of four..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 06 Oct 2026 21:29:16 +0000",
+      "age_hours": "1.90",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+      "url": "https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/",
+      "snapshot": "Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, San Diego",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+        "Source context: Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego. The election..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 06 Oct 2026 19:13:33 -0400",
+      "age_hours": "0.16",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump says he'll start paying for ads after pushback over taxpayer funding",
+      "url": "https://www.cbsnews.com/news/trump-super-pac-maga-inc-taxpayer-funded-ads/",
+      "snapshot": "President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC instead of taxpayer dollars. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he'll start paying for ads after pushback over taxpayer funding",
+        "Source context: President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Tue, 06 Oct 2026 15:37:07 -0400",
+      "age_hours": "3.77",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amid protests, Kosovo's political deadlock raises prospect of new elections",
+      "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
+      "snapshot": "Kosovo faces tensions as protests against former rebel leaders' convictions coincide with the prospect of new elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Kosovo",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Amid protests, Kosovo's political deadlock raises prospect of new elections",
+        "Source context: Kosovo faces tensions as protests against former rebel leaders' convictions coincide with the prospect of new elections. The election angle is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Kosovo.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 06 Oct 2026 18:25:45 +0000",
+      "age_hours": "4.96",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "US CDC says it's 'aware of and closely monitoring' Russian plague case",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+      "snapshot": "The top US public health agency's remarks come as the Trump administration said it's 'closely' watching the incident. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: US CDC, US, Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US CDC says it's 'aware of and closely monitoring' Russian plague case",
+        "Source context: The top US public health agency's remarks come as the Trump administration said it's 'closely' watching the incident. The election angle is whether..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US CDC.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 06 Oct 2026 20:54:07 +0000",
+      "age_hours": "2.49",
+      "freshness_status": "fresh",
+      "editorial_score": "60",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
