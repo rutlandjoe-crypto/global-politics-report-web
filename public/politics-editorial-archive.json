@@ -76,7 +76,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Wed, 07 Oct 2026 05:12:55 +0000",
-    "age_hours": "4.21",
+    "age_hours": "4.50",
     "freshness_status": "fresh",
     "editorial_score": "44",
     "urgency": ""
@@ -132,7 +132,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Wed, 07 Oct 2026 00:03:00 -0400",
-    "age_hours": "5.37",
+    "age_hours": "5.66",
     "freshness_status": "fresh",
     "editorial_score": "116",
     "urgency": ""
@@ -214,7 +214,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Tue, 06 Oct 2026 19:13:33 -0400",
-    "age_hours": "10.20",
+    "age_hours": "10.49",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": ""
@@ -300,6 +300,36 @@
     "urgency": "DEVELOPING"
   },
   {
+    "headline": "Appeals panel wrestles with block of RFK Jr.'s vaccine panel appointments",
+    "url": "https://thehill.com/policy/healthcare/6132695-appeals-court-considers-kennedy-acip-block/",
+    "snapshot": "The Trump administration told a federal appeals panel Tuesday that a lower court erred in blocking Health Secretary Robert F. Kennedy Jr.'s handpicked appointees from serving on a key vaccine advisory panel. Justice Department attorney Matthew Zorn told the 1st U.S. Circuit... The broader significance is institutional: court action can alter policy timelines, executive...",
+    "key_data": [
+      "Key people or organizations: Appeals, RFK Jr, Trump, Health Secretary Robert",
+      "Specific figures mentioned: 1",
+      "Politics desk signal: court",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Appeals panel wrestles with block of RFK Jr.'s vaccine panel appointments"
+    ],
+    "why_it_matters": [
+      "This has legal and institutional consequences beyond one news cycle.",
+      "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+      "Editors should frame the story around who gains power and who faces new limits."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Appeals.",
+      "Track filings, rulings, appeals and agency responses.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Tue, 06 Oct 2026 22:01:39 +0000",
+    "age_hours": "11.68",
+    "freshness_status": "fresh",
+    "editorial_score": "89",
+    "urgency": ""
+  },
+  {
     "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
     "snapshot": "Experts say her survival after the lethal injections is highly unusual.",
@@ -348,7 +378,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 06 Oct 2026 21:50:18 +0000",
-    "age_hours": "11.58",
+    "age_hours": "11.87",
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": "DEVELOPING"
