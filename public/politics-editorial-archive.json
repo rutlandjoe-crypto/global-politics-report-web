@@ -24,7 +24,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 08 Oct 2026 20:35:51 -0400",
-    "age_hours": "0.92",
+    "age_hours": "2.13",
     "freshness_status": "fresh",
     "editorial_score": "130",
     "urgency": "DEVELOPING"
@@ -54,7 +54,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 08 Oct 2026 20:23:27 -0400",
-    "age_hours": "1.13",
+    "age_hours": "2.33",
     "freshness_status": "fresh",
     "editorial_score": "154",
     "urgency": "DEVELOPING"
@@ -162,6 +162,34 @@
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Putin pledges Russia's support to end US-led war on Iran",
+    "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+    "snapshot": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+    "key_data": [
+      "Key people or organizations: Russia, Iran",
+      "Story focus: Putin pledges Russia's support to end US-led war on Iran",
+      "Source context: The Russian and Iranian presidents met in Turkmenistan ahead of regional summit. The geopolitical angle is how the decision affects alliances,..."
+    ],
+    "why_it_matters": [
+      "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+      "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+      "Editors should watch official actions, not just statements."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Russia.",
+      "Track responses from lawmakers, courts, agencies or campaigns.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Geopolitical/economic angle: alliances, pressure points and policy follow-through.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Thu, 08 Oct 2026 22:30:37 +0000",
+    "age_hours": "4.21",
+    "freshness_status": "fresh",
+    "editorial_score": "60",
+    "urgency": ""
   },
   {
     "headline": "Trump promises not to resume Iran strikes before midterm elections",
@@ -390,13 +418,13 @@
   {
     "headline": "Trump says US will not strike Iran before midterms",
     "url": "https://thehill.com/homenews/administration/6136781-trump-vows-no-iran-attack/",
-    "snapshot": "President Trump said on Thursday that the U.S. military will not launch strikes against Iran before the midterm elections, claiming the administration is having \"productive discussions\" with the Islamic Republic. \"I want to make it clear to everybody that, while Iran is in... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "snapshot": "President Trump said Thursday the U.S. military will not launch strikes against Iran before the midterm elections, claiming the administration is having \"productive discussions\" with the Islamic Republic. \"I want to make it clear to everybody that, while Iran is in very bad... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
     "key_data": [
       "Key people or organizations: Trump, Iran, President Trump",
       "Politics desk signal: election, campaign",
       "Institutional context: story may affect policy, legal pressure or governing leverage",
       "Story focus: Trump says US will not strike Iran before midterms",
-      "Source context: President Trump said on Thursday that the U.S. military will not launch strikes against Iran before the midterm elections, claiming the..."
+      "Source context: President Trump said Thursday the U.S. military will not launch strikes against Iran before the midterm elections, claiming the administration is..."
     ],
     "why_it_matters": [
       "This could affect legislative leverage, policy timing or party strategy.",
@@ -412,7 +440,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 08 Oct 2026 16:52:29 +0000",
-    "age_hours": "0.28",
+    "age_hours": "9.85",
     "freshness_status": "fresh",
     "editorial_score": "121",
     "urgency": "DEVELOPING"
@@ -472,7 +500,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 08 Oct 2026 16:40:47 +0000",
-    "age_hours": "8.84",
+    "age_hours": "10.04",
     "freshness_status": "fresh",
     "editorial_score": "129",
     "urgency": "DEVELOPING"
