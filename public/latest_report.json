@@ -3,52 +3,22 @@
   "vertical": "Politics",
   "headline": "Judge presses Justice Department on justifications for White House media ban",
   "snapshot": "Lawyers for CNN, MS NOW and Politico were back in court as the legal battle continues over President Trump's decision to ban their reporters from the White House. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-10-09 04:22:46 PM ET",
-  "generated_at": "2026-10-09 04:22:46 PM ET",
+  "updated_at": "2026-10-09 05:26:33 PM ET",
+  "generated_at": "2026-10-09 05:26:33 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 95,
+    "live_fresh_items": 100,
     "editor_fresh_items": 146,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 52,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-09 04:22:46 PM ET"
+    "last_checked": "2026-10-09 05:26:33 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Russia will supply US and global markets with diesel, Trump says",
-      "url": "https://thehill.com/policy/energy-environment/6139544-trump-putin-us-diesel-supply-high-costs/",
-      "snapshot": "Russia will supply the U.S. and global market with diesel, President Trump announced Friday. His comments come after Russia had banned diesel exports as its refineries became targets of Ukrainian strikes. Late last month, Russia had extended its ban until the end of October.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Russia, Trump, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Russia will supply US and global markets with diesel, Trump says",
-        "Source context: Russia will supply the U.S. and global market with diesel, President Trump announced Friday. His comments come after Russia had banned diesel exports..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russia.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 09 Oct 2026 19:09:34 +0000",
-      "age_hours": "1.22",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "BREAKING"
-    },
     {
       "headline": "Judge presses Justice Department on justifications for White House media ban",
       "url": "https://www.cbsnews.com/news/cnn-ms-now-politico-trump-white-house-ban-hearing/",
@@ -74,10 +44,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 09 Oct 2026 08:32:58 -0400",
-      "age_hours": "7.83",
+      "age_hours": "8.89",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Russia will supply US and global markets with diesel, Trump says",
+      "url": "https://thehill.com/policy/energy-environment/6139544-trump-putin-us-diesel-supply-high-costs/",
+      "snapshot": "Russia will supply the U.S. and global market with diesel, President Trump announced Friday, responding to sky-rocketing prices exacerbated by both the Russia-Ukraine and U.S.-Iran wars. The president's move comes less than a month from the midterm elections, where rising... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Russia, Trump, President Trump",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Russia will supply US and global markets with diesel, Trump says",
+        "Source context: Russia will supply the U.S. and global market with diesel, President Trump announced Friday, responding to sky-rocketing prices exacerbated by both..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Russia.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 09 Oct 2026 19:09:34 +0000",
+      "age_hours": "2.28",
+      "freshness_status": "fresh",
+      "editorial_score": "129",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump announces Russia will release millions of tons of diesel to help with costs",
@@ -103,8 +103,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 09 Oct 2026 15:38:40 -0400",
-      "age_hours": "0.73",
+      "published": "Fri, 09 Oct 2026 17:02:47 -0400",
+      "age_hours": "0.40",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "BREAKING"
@@ -134,7 +134,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 09 Oct 2026 16:01:37 +0000",
-      "age_hours": "4.35",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 09 Oct 2026 18:23:52 +0000",
-      "age_hours": "1.98",
+      "age_hours": "3.04",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 09 Oct 2026 08:32:58 -0400",
-      "age_hours": "7.83",
+      "age_hours": "8.89",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": "DEVELOPING"
@@ -204,13 +204,13 @@
     {
       "headline": "Russia will supply US and global markets with diesel, Trump says",
       "url": "https://thehill.com/policy/energy-environment/6139544-trump-putin-us-diesel-supply-high-costs/",
-      "snapshot": "Russia will supply the U.S. and global market with diesel, President Trump announced Friday. His comments come after Russia had banned diesel exports as its refineries became targets of Ukrainian strikes. Late last month, Russia had extended its ban until the end of October.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "snapshot": "Russia will supply the U.S. and global market with diesel, President Trump announced Friday, responding to sky-rocketing prices exacerbated by both the Russia-Ukraine and U.S.-Iran wars. The president's move comes less than a month from the midterm elections, where rising... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
         "Key people or organizations: Russia, Trump, President Trump",
-        "Politics desk signal: election, campaign",
+        "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Russia will supply US and global markets with diesel, Trump says",
-        "Source context: Russia will supply the U.S. and global market with diesel, President Trump announced Friday. His comments come after Russia had banned diesel exports..."
+        "Source context: Russia will supply the U.S. and global market with diesel, President Trump announced Friday, responding to sky-rocketing prices exacerbated by both..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 09 Oct 2026 19:09:34 +0000",
-      "age_hours": "1.22",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "BREAKING"
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 09 Oct 2026 18:23:52 +0000",
-      "age_hours": "1.98",
+      "age_hours": "3.04",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -285,8 +285,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 09 Oct 2026 15:38:40 -0400",
-      "age_hours": "0.73",
+      "published": "Fri, 09 Oct 2026 17:02:47 -0400",
+      "age_hours": "0.40",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "BREAKING"
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 09 Oct 2026 16:01:37 +0000",
-      "age_hours": "4.35",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 09 Oct 2026 08:32:58 -0400",
-      "age_hours": "7.83",
+      "age_hours": "8.89",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": "DEVELOPING"
@@ -361,13 +361,13 @@
     {
       "headline": "Russia will supply US and global markets with diesel, Trump says",
       "url": "https://thehill.com/policy/energy-environment/6139544-trump-putin-us-diesel-supply-high-costs/",
-      "snapshot": "Russia will supply the U.S. and global market with diesel, President Trump announced Friday. His comments come after Russia had banned diesel exports as its refineries became targets of Ukrainian strikes. Late last month, Russia had extended its ban until the end of October.... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "snapshot": "Russia will supply the U.S. and global market with diesel, President Trump announced Friday, responding to sky-rocketing prices exacerbated by both the Russia-Ukraine and U.S.-Iran wars. The president's move comes less than a month from the midterm elections, where rising... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
         "Key people or organizations: Russia, Trump, President Trump",
-        "Politics desk signal: election, campaign",
+        "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
         "Story focus: Russia will supply US and global markets with diesel, Trump says",
-        "Source context: Russia will supply the U.S. and global market with diesel, President Trump announced Friday. His comments come after Russia had banned diesel exports..."
+        "Source context: Russia will supply the U.S. and global market with diesel, President Trump announced Friday, responding to sky-rocketing prices exacerbated by both..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 09 Oct 2026 19:09:34 +0000",
-      "age_hours": "1.22",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "BREAKING"
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 09 Oct 2026 18:23:52 +0000",
-      "age_hours": "1.98",
+      "age_hours": "3.04",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
@@ -442,8 +442,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 09 Oct 2026 15:38:40 -0400",
-      "age_hours": "0.73",
+      "published": "Fri, 09 Oct 2026 17:02:47 -0400",
+      "age_hours": "0.40",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "BREAKING"
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 09 Oct 2026 16:01:37 +0000",
-      "age_hours": "4.35",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
@@ -501,7 +501,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 09 Oct 2026 18:30:58 +0000",
-      "age_hours": "1.86",
+      "age_hours": "2.93",
       "freshness_status": "fresh",
       "editorial_score": "68",
       "urgency": ""
