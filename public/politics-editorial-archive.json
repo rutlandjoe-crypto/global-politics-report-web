@@ -76,7 +76,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 10 Oct 2026 04:30:34 +0000",
-    "age_hours": "1.98",
+    "age_hours": "3.52",
     "freshness_status": "fresh",
     "editorial_score": "120",
     "urgency": "BREAKING"
@@ -158,7 +158,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 10 Oct 2026 02:47:13 +0000",
-    "age_hours": "3.70",
+    "age_hours": "5.24",
     "freshness_status": "fresh",
     "editorial_score": "153",
     "urgency": "DEVELOPING"
@@ -214,7 +214,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 09 Oct 2026 18:46:05 -0400",
-    "age_hours": "7.72",
+    "age_hours": "9.26",
     "freshness_status": "fresh",
     "editorial_score": "136",
     "urgency": "DEVELOPING"
@@ -272,6 +272,36 @@
     "urgency": "DEVELOPING"
   },
   {
+    "headline": "Watch live: Trump takes midterm campaign push to deep-blue New York",
+    "url": "https://thehill.com/video-clips/6139465-watch-live-donald-trump-syracuse-new-york-rally-2026-midterms/",
+    "snapshot": "President Trump will take his midterm message to Syracuse, N.Y., Friday evening, rallying Republicans as the party looks to flip the governor's mansion and make gains in next month's elections. Trump is expected to campaign alongside GOP gubernatorial nominee Bruce Blakeman,... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "key_data": [
+      "Key people or organizations: Trump, President Trump",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Watch live",
+      "Source context: President Trump will take his midterm message to Syracuse, N.Y., Friday evening, rallying Republicans as the party looks to flip the governor's..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Fri, 09 Oct 2026 22:30:00 +0000",
+    "age_hours": "9.53",
+    "freshness_status": "fresh",
+    "editorial_score": "115",
+    "urgency": ""
+  },
+  {
     "headline": "Trump announces Russia will release millions of tons of diesel to help with costs",
     "url": "https://www.cbsnews.com/news/trump-russia-release-diesel-oil-iran-skyrocketing-costs/",
     "snapshot": "Russian President Vladimir Putin agreed to release 300,000 tons of diesel immediately and millions more over the coming months. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
@@ -296,7 +326,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 09 Oct 2026 18:19:47 -0400",
-    "age_hours": "8.16",
+    "age_hours": "9.70",
     "freshness_status": "fresh",
     "editorial_score": "122",
     "urgency": "BREAKING"
