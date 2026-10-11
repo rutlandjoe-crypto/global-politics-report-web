@@ -23,8 +23,8 @@
     "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
-    "published": "Sun, 11 Oct 2026 10:16:20 -0400",
-    "age_hours": "0.15",
+    "published": "Sun, 11 Oct 2026 12:02:00 -0400",
+    "age_hours": "0.47",
     "freshness_status": "fresh",
     "editorial_score": "122",
     "urgency": "DEVELOPING"
@@ -54,7 +54,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Sun, 11 Oct 2026 09:59:00 -0400",
-    "age_hours": "0.44",
+    "age_hours": "2.52",
     "freshness_status": "fresh",
     "editorial_score": "136",
     "urgency": "DEVELOPING"
@@ -84,7 +84,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sun, 11 Oct 2026 11:42:50 +0000",
-    "age_hours": "2.71",
+    "age_hours": "4.79",
     "freshness_status": "fresh",
     "editorial_score": "78",
     "urgency": ""
@@ -114,7 +114,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 11 Oct 2026 10:00:00 +0000",
-    "age_hours": "4.43",
+    "age_hours": "6.51",
     "freshness_status": "fresh",
     "editorial_score": "105",
     "urgency": ""
@@ -341,6 +341,36 @@
     "age_hours": "11.38",
     "freshness_status": "fresh",
     "editorial_score": "145",
+    "urgency": "BREAKING"
+  },
+  {
+    "headline": "GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+    "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+    "snapshot": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen. John Kennedy (R-La.) said on Friday he supported the president's decision but he doesn't... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+    "key_data": [
+      "Key people or organizations: GOP, Russia, Trump",
+      "Politics desk signal: election, campaign, ukraine",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+      "Source context: Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving GOP.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sat, 10 Oct 2026 23:09:54 +0000",
+    "age_hours": "17.34",
+    "freshness_status": "editor_fresh",
+    "editorial_score": "115",
     "urgency": "BREAKING"
   },
   {
