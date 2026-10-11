@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Steve Bannon on the GOP and the midterms: \"We can't afford to lose\"",
   "snapshot": "A key figure in President Trump's 2016 campaign and a former White House adviser, Steve Bannon remains an outspoken champion of the MAGA movement, who believes a Republican victory in the midterms is imperative. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-10-11 10:25:36 AM ET",
-  "generated_at": "2026-10-11 10:25:36 AM ET",
+  "updated_at": "2026-10-11 12:30:29 PM ET",
+  "generated_at": "2026-10-11 12:30:29 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 40,
-    "editor_fresh_items": 77,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 108,
+    "total_items_checked": 141,
+    "live_fresh_items": 47,
+    "editor_fresh_items": 82,
+    "public_fallback_items": 141,
+    "stale_or_blocked_items": 94,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-11 10:25:36 AM ET"
+    "last_checked": "2026-10-11 12:30:29 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 11 Oct 2026 09:59:00 -0400",
-      "age_hours": "0.44",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "136",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-      "url": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
-      "snapshot": "President Trump asked the Supreme Court on Friday to reopen his dismissed lawsuit against former Secretary of State Hillary Clinton, reviving claims that she and other political adversaries orchestrated an effort to sabotage his 2016 presidential campaign by tying it to... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, Supreme Court, Clinton, President Trump",
-        "Specific figures mentioned: 2016",
-        "Politics desk signal: supreme court, court, election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump asks Supreme Court to look at 2016 election lawsuit against Clinton"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 10 Oct 2026 02:47:13 +0000",
-      "age_hours": "35.64",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "123",
       "urgency": "DEVELOPING"
     },
     {
@@ -103,11 +73,41 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 11 Oct 2026 10:16:20 -0400",
-      "age_hours": "0.15",
+      "published": "Sun, 11 Oct 2026 12:02:00 -0400",
+      "age_hours": "0.47",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+      "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+      "snapshot": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen. John Kennedy (R-La.) said on Friday he supported the president's decision but he doesn't... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: GOP, Russia, Trump",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+        "Source context: Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 10 Oct 2026 23:09:54 +0000",
+      "age_hours": "17.34",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
+      "urgency": "BREAKING"
     },
     {
       "headline": "GOP sees House prospects grow bleaker as districts shift to blue",
@@ -134,7 +134,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 11 Oct 2026 10:00:00 +0000",
-      "age_hours": "4.43",
+      "age_hours": "6.51",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 11 Oct 2026 11:42:50 +0000",
-      "age_hours": "2.71",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -196,39 +196,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 11 Oct 2026 09:59:00 -0400",
-      "age_hours": "0.44",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "136",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-      "url": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
-      "snapshot": "President Trump asked the Supreme Court on Friday to reopen his dismissed lawsuit against former Secretary of State Hillary Clinton, reviving claims that she and other political adversaries orchestrated an effort to sabotage his 2016 presidential campaign by tying it to... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Trump, Supreme Court, Clinton, President Trump",
-        "Specific figures mentioned: 2016",
-        "Politics desk signal: supreme court, court, election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump asks Supreme Court to look at 2016 election lawsuit against Clinton"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 10 Oct 2026 02:47:13 +0000",
-      "age_hours": "35.64",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "123",
       "urgency": "DEVELOPING"
     },
     {
@@ -255,8 +225,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 11 Oct 2026 10:16:20 -0400",
-      "age_hours": "0.15",
+      "published": "Sun, 11 Oct 2026 12:02:00 -0400",
+      "age_hours": "0.47",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -286,7 +256,37 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 10 Oct 2026 23:09:54 +0000",
-      "age_hours": "15.26",
+      "age_hours": "17.34",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Democrats explode over Trump's Russia diesel deal",
+      "url": "https://thehill.com/homenews/administration/6140462-democrats-slam-trump-putin-diesel-deal/",
+      "snapshot": "Democratic lawmakers pushed back Friday on President Trump's decision to lift sanctions on Russian oil amid global fuel shortages during U.S. military operations against Iran and the Russia-Ukraine war. The deal will permit Russian President Vladimir Putin's government to... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "key_data": [
+        "Key people or organizations: Democrats, Trump, Russia",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Democrats explode over Trump's Russia diesel deal",
+        "Source context: Democratic lawmakers pushed back Friday on President Trump's decision to lift sanctions on Russian oil amid global fuel shortages during U.S...."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 10 Oct 2026 13:02:54 +0000",
+      "age_hours": "27.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "115",
       "urgency": "BREAKING"
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 11 Oct 2026 11:42:50 +0000",
-      "age_hours": "2.71",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 11 Oct 2026 09:59:00 -0400",
-      "age_hours": "0.44",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
@@ -382,8 +382,8 @@
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 11 Oct 2026 10:16:20 -0400",
-      "age_hours": "0.15",
+      "published": "Sun, 11 Oct 2026 12:02:00 -0400",
+      "age_hours": "0.47",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 11 Oct 2026 10:00:00 +0000",
-      "age_hours": "4.43",
+      "age_hours": "6.51",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": ""
@@ -443,7 +443,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 11 Oct 2026 12:44:42 +0000",
-      "age_hours": "1.68",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -473,40 +473,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 11 Oct 2026 11:42:50 +0000",
-      "age_hours": "2.71",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-      "url": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
-      "snapshot": "President Trump asked the Supreme Court on Friday to reopen his dismissed lawsuit against former Secretary of State Hillary Clinton, reviving claims that she and other political adversaries orchestrated an effort to sabotage his 2016 presidential campaign by tying it to... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
+      "headline": "GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+      "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+      "snapshot": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen. John Kennedy (R-La.) said on Friday he supported the president's decision but he doesn't... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Trump, Supreme Court, Clinton, President Trump",
-        "Specific figures mentioned: 2016",
-        "Politics desk signal: supreme court, court, election, campaign",
+        "Key people or organizations: GOP, Russia, Trump",
+        "Politics desk signal: election, campaign, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump asks Supreme Court to look at 2016 election lawsuit against Clinton"
+        "Story focus: GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+        "Source context: Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 10 Oct 2026 02:47:13 +0000",
-      "age_hours": "35.64",
+      "published": "Sat, 10 Oct 2026 23:09:54 +0000",
+      "age_hours": "17.34",
       "freshness_status": "editor_fresh",
-      "editorial_score": "123",
-      "urgency": "DEVELOPING"
+      "editorial_score": "115",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
