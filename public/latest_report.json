@@ -1,448 +1,508 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
-  "snapshot": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner.",
-  "updated_at": "2026-10-12 03:09:59 AM ET",
-  "generated_at": "2026-10-12 03:09:59 AM ET",
+  "headline": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+  "snapshot": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy. \"Congress explicitly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-10-12 05:50:53 AM ET",
+  "generated_at": "2026-10-12 05:50:53 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 156,
-    "live_fresh_items": 32,
-    "editor_fresh_items": 87,
-    "public_fallback_items": 156,
-    "stale_or_blocked_items": 124,
+    "total_items_checked": 141,
+    "live_fresh_items": 38,
+    "editor_fresh_items": 85,
+    "public_fallback_items": 139,
+    "stale_or_blocked_items": 103,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-12 03:09:59 AM ET"
+    "last_checked": "2026-10-12 05:50:53 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
-      "snapshot": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner.",
+      "headline": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+      "snapshot": "Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Election",
-        "Published: Oct. 12, 2026 at 02:07 AM ET"
+        "Key people or organizations: Iran, Saudi Arabia, Houthis",
+        "Story focus: Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
+        "Source context: Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 12 Oct 2026 00:39:08 +0000",
+      "age_hours": "9.20",
+      "freshness_status": "fresh",
+      "editorial_score": "68",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+      "url": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
+      "snapshot": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy. \"Congress explicitly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Lawmakers, Trump, Russian, Senate Foreign Relations Committee",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lawmakers in bipartisan statement push back on Trump over Russian oil",
+        "Source context: A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Lawmakers.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 11 Oct 2026 22:54:10 +0000",
+      "age_hours": "10.94",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Judge orders cancellation of Trump's government-funded ads",
+      "url": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/",
+      "snapshot": "A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and must stop — including any set to be aired later in the day. The administration had indicated the ad campaign is set to end on Sunday, so there was no need for... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump",
+        "Politics desk signal: court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge orders cancellation of Trump's government-funded ads",
+        "Source context: A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and must stop — including any set to..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 12 Oct 2026 00:20:38 +0000",
+      "age_hours": "9.50",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "India protest live: Opposition marches to Supreme Court over 'vote theft'",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
+      "snapshot": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Opposition, Supreme Court",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: India protest live",
+        "Source context: Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Opposition.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 12 Oct 2026 06:07:44 +0000",
-      "age_hours": "1.04",
+      "age_hours": "3.72",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Three signs that America is on the run",
-      "url": "https://thehill.com/opinion/national-security/6141464-us-military-vulnerability-threats/",
-      "snapshot": "These three events show how vulnerable bases and infrastructure can be to remote attacks.",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Policy",
-        "Published: Oct. 12, 2026 at 12:30 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 12 Oct 2026 04:30:00 +0000",
-      "age_hours": "2.67",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
-      "url": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
-      "snapshot": "A group of liberal organizations sued last week over the ads that praised the administration.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Court",
-        "Published: Oct. 11, 2026 at 11:14 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Mon, 12 Oct 2026 03:14:37 +0000",
-      "age_hours": "3.92",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "Trump faces growing backlash over plans to import diesel from Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "headline": "Trump administration ordered to cancel taxpayer-funded TV ads",
+      "url": "https://www.cbsnews.com/news/trump-taxpayer-funded-ads-judge-cancels/",
+      "snapshot": "The Department of Homeland Security tapped $20 million in taxpayer money for the ads, which the White House has defended as public service announcements. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Election",
-        "Published: Oct. 11, 2026 at 07:18 PM ET"
+        "Key people or organizations: Trump, Homeland Security",
+        "Specific figures mentioned: $20 million",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration ordered to cancel taxpayer-funded TV ads"
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sun, 11 Oct 2026 23:18:45 GMT",
-      "age_hours": "7.85",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 12 Oct 2026 00:06:58 -0400",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "86",
       "urgency": ""
-    },
-    {
-      "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-      "snapshot": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 12, 2026 at 12:58 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 12 Oct 2026 04:58:01 +0000",
-      "age_hours": "2.20",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
-      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-      "snapshot": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+      "headline": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+      "url": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
+      "snapshot": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy. \"Congress explicitly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 12, 2026 at 12:24 AM ET"
+        "Key people or organizations: Lawmakers, Trump, Russian, Senate Foreign Relations Committee",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lawmakers in bipartisan statement push back on Trump over Russian oil",
+        "Source context: A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Lawmakers.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 12 Oct 2026 04:24:18 +0000",
-      "age_hours": "2.76",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 11 Oct 2026 22:54:10 +0000",
+      "age_hours": "10.94",
       "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Top Senate Republican calls Guilfoyle reports ‘very troubling’",
-      "url": "https://thehill.com/homenews/senate/6142003-barrasso-concerns-guilfoyle-finances/",
-      "snapshot": "Sen. John Barrasso (R-Wyo.), the Senate Majority Whip, on Sunday expressed concern about the recent reporting on U.S. Ambassador to Greece Kimberly Guilfoyle and her finances. “Well, what we’ve seen in the reports is very troubling. It’s concerning. And I’m sure there’s going to be an investigation. I would assume the State Department would be…",
+      "headline": "GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+      "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+      "snapshot": "Several Republicans voiced objections to the Trump administration's Russian diesel deal and President Trump's suggestion that Ukraine needs a new leader. When asked about the deal, Sen. John Kennedy (R-La.) said Friday he supported the president's decision, but he doesn't... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Congress",
-        "Published: Oct. 11, 2026 at 11:10 PM ET"
+        "Key people or organizations: GOP, Russia, Trump",
+        "Politics desk signal: election, campaign, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
+        "Source context: Several Republicans voiced objections to the Trump administration's Russian diesel deal and President Trump's suggestion that Ukraine needs a new..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 12 Oct 2026 03:10:35 +0000",
-      "age_hours": "3.99",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
-      "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html",
-      "snapshot": "Inflation has hurt Americans at many levels: Farmers, truckers, consumers. It has also expanded the electoral map into what was safely Republican country just a few months ago.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Policy",
-        "Published: Oct. 11, 2026 at 07:07 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sun, 11 Oct 2026 23:07:21 +0000",
-      "age_hours": "8.04",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 11, 2026 at 05:36 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sun, 11 Oct 2026 21:36:40 GMT",
-      "age_hours": "9.56",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Justice Department investigates TV networks, citing possible anti-trust violations",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
-      "snapshot": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Oct. 11, 2026 at 08:04 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Sun, 11 Oct 2026 08:04:00 -0400",
-      "age_hours": "19.10",
+      "published": "Sat, 10 Oct 2026 23:09:54 +0000",
+      "age_hours": "34.68",
       "freshness_status": "editor_fresh",
-      "editorial_score": "81",
+      "editorial_score": "115",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Steve Bannon on the GOP and the midterms: \"We can't afford to lose\"",
+      "url": "https://www.cbsnews.com/news/steve-bannon-on-the-gop-and-the-midterms-we-cant-afford-to-lose/",
+      "snapshot": "A key figure in President Trump's 2016 campaign and a former White House adviser, Steve Bannon remains an outspoken champion of the MAGA movement, who believes a Republican victory in the midterms is imperative. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Steve Bannon, GOP, President Trump",
+        "Specific figures mentioned: 2016",
+        "Politics desk signal: house, white house, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Steve Bannon on the GOP and the midterms"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Steve Bannon.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 11 Oct 2026 09:59:00 -0400",
+      "age_hours": "19.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "India protest live: Opposition marches to Supreme Court over 'vote theft'",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
+      "snapshot": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Opposition, Supreme Court",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: India protest live",
+        "Source context: Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Opposition.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 12 Oct 2026 06:07:44 +0000",
+      "age_hours": "3.72",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump administration ordered to cancel taxpayer-funded TV ads",
+      "url": "https://www.cbsnews.com/news/trump-taxpayer-funded-ads-judge-cancels/",
+      "snapshot": "The Department of Homeland Security tapped $20 million in taxpayer money for the ads, which the White House has defended as public service announcements. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Homeland Security",
+        "Specific figures mentioned: $20 million",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration ordered to cancel taxpayer-funded TV ads"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 12 Oct 2026 00:06:58 -0400",
+      "age_hours": "5.73",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
-    "Three signs that America is on the run",
-    "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads"
+    "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+    "Judge orders cancellation of Trump's government-funded ads",
+    "India protest live: Opposition marches to Supreme Court over 'vote theft'"
   ],
   "sections": [
     {
-      "headline": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
-      "snapshot": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner.",
+      "headline": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+      "url": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
+      "snapshot": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy. \"Congress explicitly... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Election",
-        "Published: Oct. 12, 2026 at 02:07 AM ET"
+        "Key people or organizations: Lawmakers, Trump, Russian, Senate Foreign Relations Committee",
+        "Politics desk signal: congress, senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Lawmakers in bipartisan statement push back on Trump over Russian oil",
+        "Source context: A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump's recent deal with Russian President..."
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Lawmakers.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 11 Oct 2026 22:54:10 +0000",
+      "age_hours": "10.94",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Judge orders cancellation of Trump's government-funded ads",
+      "url": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/",
+      "snapshot": "A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and must stop — including any set to be aired later in the day. The administration had indicated the ad campaign is set to end on Sunday, so there was no need for... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump",
+        "Politics desk signal: court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge orders cancellation of Trump's government-funded ads",
+        "Source context: A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and must stop — including any set to..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 12 Oct 2026 00:20:38 +0000",
+      "age_hours": "9.50",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "India protest live: Opposition marches to Supreme Court over 'vote theft'",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
+      "snapshot": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Opposition, Supreme Court",
+        "Politics desk signal: congress, supreme court, court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: India protest live",
+        "Source context: Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Opposition.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Mon, 12 Oct 2026 06:07:44 +0000",
-      "age_hours": "1.04",
+      "age_hours": "3.72",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Three signs that America is on the run",
-      "url": "https://thehill.com/opinion/national-security/6141464-us-military-vulnerability-threats/",
-      "snapshot": "These three events show how vulnerable bases and infrastructure can be to remote attacks.",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Policy",
-        "Published: Oct. 12, 2026 at 12:30 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Mon, 12 Oct 2026 04:30:00 +0000",
-      "age_hours": "2.67",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
-      "url": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
-      "snapshot": "A group of liberal organizations sued last week over the ads that praised the administration.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Court",
-        "Published: Oct. 11, 2026 at 11:14 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Mon, 12 Oct 2026 03:14:37 +0000",
-      "age_hours": "3.92",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "Trump faces growing backlash over plans to import diesel from Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "headline": "Trump administration ordered to cancel taxpayer-funded TV ads",
+      "url": "https://www.cbsnews.com/news/trump-taxpayer-funded-ads-judge-cancels/",
+      "snapshot": "The Department of Homeland Security tapped $20 million in taxpayer money for the ads, which the White House has defended as public service announcements. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: BBC News",
-        "Politics desk: Election",
-        "Published: Oct. 11, 2026 at 07:18 PM ET"
+        "Key people or organizations: Trump, Homeland Security",
+        "Specific figures mentioned: $20 million",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration ordered to cancel taxpayer-funded TV ads"
       ],
       "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sun, 11 Oct 2026 23:18:45 GMT",
-      "age_hours": "7.85",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 12 Oct 2026 00:06:58 -0400",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "Justice Department investigates TV networks, citing possible anti-trust violations",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
-      "snapshot": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+      "headline": "\"Heaven forbid\": Mike Johnson says he intends to stay on as GOP leader",
+      "url": "https://www.cbsnews.com/news/mike-johnson-republican-leader-midterms-2026/",
+      "snapshot": "House Speaker Mike Johnson said last week that he could start a lawn business if the GOP loses the House majority, which he told CBS News' Robert Costa was \"tongue in cheek.\" The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Oct. 11, 2026 at 08:04 AM ET"
+        "Key people or organizations: Mike Johnson, GOP, House Speaker Mike Johnson",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: \"Heaven forbid\"",
+        "Source context: House Speaker Mike Johnson said last week that he could start a lawn business if the GOP loses the House majority, which he told CBS News' Robert..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Mike Johnson.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Sun, 11 Oct 2026 08:04:00 -0400",
-      "age_hours": "19.10",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "81",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 12 Oct 2026 05:00:09 -0400",
+      "age_hours": "0.85",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
       "urgency": ""
     },
     {
-      "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-      "snapshot": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
+      "headline": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+      "snapshot": "Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Oct. 12, 2026 at 12:58 AM ET"
+        "Key people or organizations: Iran, Saudi Arabia, Houthis",
+        "Story focus: Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
+        "Source context: Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 12 Oct 2026 04:58:01 +0000",
-      "age_hours": "2.20",
+      "published": "Mon, 12 Oct 2026 00:39:08 +0000",
+      "age_hours": "9.20",
       "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
+      "editorial_score": "68",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
