@@ -128,7 +128,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Tue, 13 Oct 2026 17:00:00 -0400",
-    "age_hours": "3.10",
+    "age_hours": "3.68",
     "freshness_status": "fresh",
     "editorial_score": "98",
     "urgency": ""
@@ -184,7 +184,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Tue, 13 Oct 2026 19:33:11 +0000",
-    "age_hours": "4.54",
+    "age_hours": "5.13",
     "freshness_status": "fresh",
     "editorial_score": "86",
     "urgency": ""
@@ -318,7 +318,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Tue, 13 Oct 2026 14:46:25 -0400",
-    "age_hours": "5.32",
+    "age_hours": "5.91",
     "freshness_status": "fresh",
     "editorial_score": "112",
     "urgency": "DEVELOPING"
@@ -348,7 +348,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Tue, 13 Oct 2026 16:56:36 +0000",
-    "age_hours": "7.15",
+    "age_hours": "7.74",
     "freshness_status": "fresh",
     "editorial_score": "121",
     "urgency": "BREAKING"
@@ -472,6 +472,36 @@
     "freshness_status": "fresh",
     "editorial_score": "92",
     "urgency": ""
+  },
+  {
+    "headline": "Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit",
+    "url": "https://thehill.com/regulation/court-battles/6144798-supreme-court-kari-lake-lawyer-andrew-parker-appeal/",
+    "snapshot": "The Supreme Court on Tuesday declined to hear an appeal from a lawyer who was sanctioned while representing former GOP gubernatorial candidate Kari Lake in a 2022 lawsuit challenging Arizona's use of electronic voting machines. The high court did not provide any explanation... The broader significance is institutional: court action can alter policy timelines, executive...",
+    "key_data": [
+      "Key people or organizations: Supreme Court, Kari Lake, Arizona, GOP",
+      "Specific figures mentioned: 2022",
+      "Politics desk signal: supreme court, court",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit"
+    ],
+    "why_it_matters": [
+      "This has legal and institutional consequences beyond one news cycle.",
+      "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+      "Editors should frame the story around who gains power and who faces new limits."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Supreme Court.",
+      "Track filings, rulings, appeals and agency responses.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Tue, 13 Oct 2026 13:38:31 +0000",
+    "age_hours": "11.04",
+    "freshness_status": "fresh",
+    "editorial_score": "121",
+    "urgency": "DEVELOPING"
   },
   {
     "headline": "Trump's diesel deal opens a new rift with Europe over Ukraine",
