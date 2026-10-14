@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump says he could be 'last Republican president'",
-  "snapshot": "President Trump declared during a Monday political rally that he would \"be the last Republican president\" if Democrats clinch control of Congress and the White House in the next two elections. \"I will be the last Republican president because they will add about 12 more... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-10-13 08:05:53 PM ET",
-  "generated_at": "2026-10-13 08:05:53 PM ET",
+  "headline": "GOP senators condemn Trump's Russia diesel deal as 'betrayal of our allies'",
+  "snapshot": "A growing group of Republican senators is condemning President Trump's deal with Russian President Vladimir Putin to import an estimated 2.5 million tons of Russian diesel as a \"gift to our adversary and a betrayal of our allies.\" Six Republican senators, including former... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+  "updated_at": "2026-10-13 08:40:58 PM ET",
+  "generated_at": "2026-10-13 08:40:58 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 115,
+    "live_fresh_items": 113,
     "editor_fresh_items": 141,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 35,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-13 08:05:53 PM ET"
+    "last_checked": "2026-10-13 08:40:58 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 13 Oct 2026 17:00:00 -0400",
-      "age_hours": "3.10",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -74,10 +74,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 13 Oct 2026 16:56:36 +0000",
-      "age_hours": "7.15",
+      "age_hours": "7.74",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit",
+      "url": "https://thehill.com/regulation/court-battles/6144798-supreme-court-kari-lake-lawyer-andrew-parker-appeal/",
+      "snapshot": "The Supreme Court on Tuesday declined to hear an appeal from a lawyer who was sanctioned while representing former GOP gubernatorial candidate Kari Lake in a 2022 lawsuit challenging Arizona's use of electronic voting machines. The high court did not provide any explanation... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Kari Lake, Arizona, GOP",
+        "Specific figures mentioned: 2022",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 13 Oct 2026 13:38:31 +0000",
+      "age_hours": "11.04",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge blocks Trump admin. from felling trees at D.C. golf course",
@@ -104,40 +134,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 13 Oct 2026 14:46:25 -0400",
-      "age_hours": "5.32",
+      "age_hours": "5.91",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump says he could be 'last Republican president'",
-      "url": "https://thehill.com/homenews/administration/6144713-donald-trump-republican-party-midterm-struggles/",
-      "snapshot": "President Trump declared during a Monday political rally that he would \"be the last Republican president\" if Democrats clinch control of Congress and the White House in the next two elections. \"I will be the last Republican president because they will add about 12 more... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republican, President Trump, Democrats",
-        "Specific figures mentioned: 12",
-        "Politics desk signal: congress, house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he could be 'last Republican president'"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 13 Oct 2026 12:09:00 +0000",
-      "age_hours": "11.95",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
     },
     {
       "headline": "Trump says Houthis trying to increase oil prices before US elections",
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 13 Oct 2026 19:33:11 +0000",
-      "age_hours": "4.54",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -172,36 +172,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "Trump says he could be 'last Republican president'",
-      "url": "https://thehill.com/homenews/administration/6144713-donald-trump-republican-party-midterm-struggles/",
-      "snapshot": "President Trump declared during a Monday political rally that he would \"be the last Republican president\" if Democrats clinch control of Congress and the White House in the next two elections. \"I will be the last Republican president because they will add about 12 more... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republican, President Trump, Democrats",
-        "Specific figures mentioned: 12",
-        "Politics desk signal: congress, house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he could be 'last Republican president'"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 13 Oct 2026 12:09:00 +0000",
-      "age_hours": "11.95",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
-    {
       "headline": "GOP senators condemn Trump's Russia diesel deal as 'betrayal of our allies'",
       "url": "https://thehill.com/homenews/senate/6145760-trump-russian-diesel-deal-ukraine-gas-prices/",
       "snapshot": "A growing group of Republican senators is condemning President Trump's deal with Russian President Vladimir Putin to import an estimated 2.5 million tons of Russian diesel as a \"gift to our adversary and a betrayal of our allies.\" Six Republican senators, including former... The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
@@ -226,10 +196,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 13 Oct 2026 16:56:36 +0000",
-      "age_hours": "7.15",
+      "age_hours": "7.74",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit",
+      "url": "https://thehill.com/regulation/court-battles/6144798-supreme-court-kari-lake-lawyer-andrew-parker-appeal/",
+      "snapshot": "The Supreme Court on Tuesday declined to hear an appeal from a lawyer who was sanctioned while representing former GOP gubernatorial candidate Kari Lake in a 2022 lawsuit challenging Arizona's use of electronic voting machines. The high court did not provide any explanation... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Kari Lake, Arizona, GOP",
+        "Specific figures mentioned: 2022",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 13 Oct 2026 13:38:31 +0000",
+      "age_hours": "11.04",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge blocks Trump admin. from felling trees at D.C. golf course",
@@ -256,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 13 Oct 2026 14:46:25 -0400",
-      "age_hours": "5.32",
+      "age_hours": "5.91",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
@@ -286,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 13 Oct 2026 17:00:00 -0400",
-      "age_hours": "3.10",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -316,48 +316,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 13 Oct 2026 19:33:11 +0000",
-      "age_hours": "4.54",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump says he could be 'last Republican president'",
     "GOP senators condemn Trump's Russia diesel deal as 'betrayal of our allies'",
+    "Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit",
     "Judge blocks Trump admin. from felling trees at D.C. golf course"
   ],
   "sections": [
-    {
-      "headline": "Trump says he could be 'last Republican president'",
-      "url": "https://thehill.com/homenews/administration/6144713-donald-trump-republican-party-midterm-struggles/",
-      "snapshot": "President Trump declared during a Monday political rally that he would \"be the last Republican president\" if Democrats clinch control of Congress and the White House in the next two elections. \"I will be the last Republican president because they will add about 12 more... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Republican, President Trump, Democrats",
-        "Specific figures mentioned: 12",
-        "Politics desk signal: congress, house, white house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he could be 'last Republican president'"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 13 Oct 2026 12:09:00 +0000",
-      "age_hours": "11.95",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
-    },
     {
       "headline": "GOP senators condemn Trump's Russia diesel deal as 'betrayal of our allies'",
       "url": "https://thehill.com/homenews/senate/6145760-trump-russian-diesel-deal-ukraine-gas-prices/",
@@ -383,10 +353,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 13 Oct 2026 16:56:36 +0000",
-      "age_hours": "7.15",
+      "age_hours": "7.74",
       "freshness_status": "fresh",
       "editorial_score": "121",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit",
+      "url": "https://thehill.com/regulation/court-battles/6144798-supreme-court-kari-lake-lawyer-andrew-parker-appeal/",
+      "snapshot": "The Supreme Court on Tuesday declined to hear an appeal from a lawyer who was sanctioned while representing former GOP gubernatorial candidate Kari Lake in a 2022 lawsuit challenging Arizona's use of electronic voting machines. The high court did not provide any explanation... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Kari Lake, Arizona, GOP",
+        "Specific figures mentioned: 2022",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Supreme Court turns away Kari Lake lawyer's challenge to sanctions in Arizona voting machine lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 13 Oct 2026 13:38:31 +0000",
+      "age_hours": "11.04",
+      "freshness_status": "fresh",
+      "editorial_score": "121",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge blocks Trump admin. from felling trees at D.C. golf course",
@@ -413,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 13 Oct 2026 14:46:25 -0400",
-      "age_hours": "5.32",
+      "age_hours": "5.91",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "DEVELOPING"
@@ -443,7 +443,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 13 Oct 2026 17:00:00 -0400",
-      "age_hours": "3.10",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 13 Oct 2026 19:33:11 +0000",
-      "age_hours": "4.54",
+      "age_hours": "5.13",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -502,7 +502,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 13 Oct 2026 20:00:32 +0000",
-      "age_hours": "4.09",
+      "age_hours": "4.67",
       "freshness_status": "fresh",
       "editorial_score": "44",
       "urgency": ""
