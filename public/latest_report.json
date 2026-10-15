@@ -1,34 +1,34 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-  "snapshot": "Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-10-15 06:24:24 AM ET",
-  "generated_at": "2026-10-15 06:24:24 AM ET",
+  "headline": "Judge extends block on taxpayer-funded Trump ads until after midterms",
+  "snapshot": "A federal judge on Wednesday extended a temporary block on the Trump administration's controversial ad campaign featuring President Trump until after the midterms. A temporary restraining order issued Sunday, which required the administration to stop airing the commercials and... The broader significance is institutional: court action can alter policy timelines, executive...",
+  "updated_at": "2026-10-15 09:53:03 AM ET",
+  "generated_at": "2026-10-15 09:53:03 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 152,
-    "live_fresh_items": 44,
-    "editor_fresh_items": 140,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 108,
+    "total_items_checked": 150,
+    "live_fresh_items": 53,
+    "editor_fresh_items": 135,
+    "public_fallback_items": 146,
+    "stale_or_blocked_items": 97,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-15 06:24:24 AM ET"
+    "last_checked": "2026-10-15 09:53:03 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack",
-      "url": "https://www.cbsnews.com/video/ukrainian-officials-accuse-us-withholding-intelligence-russian-missile-attack/",
-      "snapshot": "Ukrainian officials suspect the U.S. has been withholding information about incoming Russian air strikes. The U.S. has threatened to do so if Ukraine continues striking Russian energy targets, which President Trump blames for driving up diesel prices. Aidan Stretch reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "GOP rep warns that Trump's agenda is 'dead' unless he reverses course on Ukraine",
+      "url": "https://thehill.com/homenews/administration/6148954-gop-rep-warns-that-trumps-agenda-is-dead-unless-he-reverses-course-on-ukraine/",
+      "snapshot": "A prominent House Republican warned Wednesday that President Trump's legislative wish list will be \"dead\" on Capitol Hill during the lame-duck session unless the administration reverses recent moves that could help Russia in its war with Ukraine. Rep. Don Bacon (R-Neb.), an... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Ukrainian, Russian, Ukraine, President Trump",
-        "Politics desk signal: election, campaign, ukraine",
+        "Key people or organizations: GOP, Trump, Ukraine, House Republican",
+        "Politics desk signal: house, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack",
-        "Source context: Ukrainian officials suspect the U.S. has been withholding information about incoming Russian air strikes. The U.S. has threatened to do so if Ukraine..."
+        "Story focus: GOP rep warns that Trump's agenda is 'dead' unless he reverses course on Ukraine",
+        "Source context: A prominent House Republican warned Wednesday that President Trump's legislative wish list will be \"dead\" on Capitol Hill during the lame-duck..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -36,106 +36,78 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ukrainian.",
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 14 Oct 2026 20:17:46 +0000",
+      "age_hours": "17.59",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Greene labels Trump administration's Omar investigation 'bulls—'",
+      "url": "https://thehill.com/homenews/administration/6150146-greene-criticizes-omar-raid/",
+      "snapshot": "Former Rep. Marjorie Taylor Greene (R-Ga.) went after the Trump administration on Wednesday over the investigation into Rep. Ilhan Omar (D-Minn.), who recently had her home raided. \"Me and Ilhan Omar are far apart policy wise. I'm pro life, she's pro abortion. I'm pro [Second... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Greene, Trump, Omar, Former Rep",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Greene labels Trump administration's Omar investigation 'bulls—'",
+        "Source context: Former Rep. Marjorie Taylor Greene (R-Ga.) went after the Trump administration on Wednesday over the investigation into Rep. Ilhan Omar (D-Minn.),..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Greene.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 13:12:01 +0000",
+      "age_hours": "0.68",
+      "freshness_status": "fresh",
+      "editorial_score": "113",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Judge says Trump's White House media ban likely violated First Amendment",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/",
+      "snapshot": "U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, White House, First Amendment",
+        "Politics desk signal: house, white house, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge says Trump's White House media ban likely violated First Amendment",
+        "Source context: U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Wed, 14 Oct 2026 19:55:00 -0400",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-      "url": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/",
-      "snapshot": "Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Lisa Cook, Trump, Lawyers, Federal Reserve",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-        "Source context: Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lisa Cook.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 14 Oct 2026 23:16:51 +0000",
-      "age_hours": "11.13",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
+      "published": "Wed, 14 Oct 2026 13:07:00 -0400",
+      "age_hours": "20.77",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Russia says Ukraine resumes attacks on oil refineries",
-      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-      "snapshot": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Russia, Ukraine",
-        "Politics desk signal: ukraine",
-        "Story focus: Russia says Ukraine resumes attacks on oil refineries",
-        "Source context: Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume. The geopolitical..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Russia.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 15 Oct 2026 10:02:17 +0000",
-      "age_hours": "0.37",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch live: Trump rallies Montana Republicans with key House seat on the line",
-      "url": "https://thehill.com/video-clips/6149034-watch-live-donald-trump-montana-rally-aaron-flint-house-race/",
-      "snapshot": "President Trump is campaigning Wednesday evening in Montana, as Republicans fight to hold on to their majorities in both chambers of Congress. Trump is expected to rally supporters for GOP candidate Aaron Flint, who is facing Democrat Sam Forstag in the race to replace... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Montana Republicans, President Trump",
-        "Politics desk signal: congress, house, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump is campaigning Wednesday evening in Montana, as Republicans fight to hold on to their majorities in both chambers of Congress. Trump..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 14 Oct 2026 22:30:00 +0000",
-      "age_hours": "11.91",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
     },
     {
       "headline": "DOJ tells California to review whether noncitizens got mail ballots",
@@ -162,52 +134,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 14 Oct 2026 22:34:20 -0400",
-      "age_hours": "7.83",
+      "age_hours": "11.31",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-      "url": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/",
-      "snapshot": "Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Lisa Cook, Trump, Lawyers, Federal Reserve",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-        "Source context: Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lisa Cook.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 14 Oct 2026 23:16:51 +0000",
-      "age_hours": "11.13",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Watch live: Trump rallies Montana Republicans with key House seat on the line",
-      "url": "https://thehill.com/video-clips/6149034-watch-live-donald-trump-montana-rally-aaron-flint-house-race/",
-      "snapshot": "President Trump is campaigning Wednesday evening in Montana, as Republicans fight to hold on to their majorities in both chambers of Congress. Trump is expected to rally supporters for GOP candidate Aaron Flint, who is facing Democrat Sam Forstag in the race to replace... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump's flood-the-zone strategy drowns state-specific midterm messaging",
+      "url": "https://thehill.com/homenews/campaign/6149466-donald-trump-midterm-economic-initiatives-rallies/",
+      "snapshot": "President Trump is seeking to boost Republican candidates facing tough elections by rolling out a number of key initiatives meant to foster goodwill with voters in battleground states, but he risks overshadowing these announcements with his focus on unrelated issues. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Montana Republicans, President Trump",
-        "Politics desk signal: congress, house, campaign",
+        "Key people or organizations: Trump, President Trump",
+        "Politics desk signal: election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump is campaigning Wednesday evening in Montana, as Republicans fight to hold on to their majorities in both chambers of Congress. Trump..."
+        "Story focus: Trump's flood-the-zone strategy drowns state-specific midterm messaging",
+        "Source context: President Trump is seeking to boost Republican candidates facing tough elections by rolling out a number of key initiatives meant to foster goodwill..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -219,25 +160,57 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 14 Oct 2026 22:30:00 +0000",
-      "age_hours": "11.91",
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "age_hours": "3.88",
       "freshness_status": "fresh",
-      "editorial_score": "123",
+      "editorial_score": "111",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Judge extends block on taxpayer-funded Trump ads until after midterms",
+      "url": "https://thehill.com/regulation/court-battles/6150263-donald-trump-taxpayer-funded-ads-block-extended/",
+      "snapshot": "A federal judge on Wednesday extended a temporary block on the Trump administration's controversial ad campaign featuring President Trump until after the midterms. A temporary restraining order issued Sunday, which required the administration to stop airing the commercials and... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, President Trump",
+        "Politics desk signal: court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge extends block on taxpayer-funded Trump ads until after midterms",
+        "Source context: A federal judge on Wednesday extended a temporary block on the Trump administration's controversial ad campaign featuring President Trump until after..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 13:44:41 +0000",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
       "urgency": ""
     },
     {
-      "headline": "Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack",
-      "url": "https://www.cbsnews.com/video/ukrainian-officials-accuse-us-withholding-intelligence-russian-missile-attack/",
-      "snapshot": "Ukrainian officials suspect the U.S. has been withholding information about incoming Russian air strikes. The U.S. has threatened to do so if Ukraine continues striking Russian energy targets, which President Trump blames for driving up diesel prices. Aidan Stretch reports. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond...",
+      "headline": "GOP rep warns that Trump's agenda is 'dead' unless he reverses course on Ukraine",
+      "url": "https://thehill.com/homenews/administration/6148954-gop-rep-warns-that-trumps-agenda-is-dead-unless-he-reverses-course-on-ukraine/",
+      "snapshot": "A prominent House Republican warned Wednesday that President Trump's legislative wish list will be \"dead\" on Capitol Hill during the lame-duck session unless the administration reverses recent moves that could help Russia in its war with Ukraine. Rep. Don Bacon (R-Neb.), an... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Ukrainian, Russian, Ukraine, President Trump",
-        "Politics desk signal: election, campaign, ukraine",
+        "Key people or organizations: GOP, Trump, Ukraine, House Republican",
+        "Politics desk signal: house, ukraine",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack",
-        "Source context: Ukrainian officials suspect the U.S. has been withholding information about incoming Russian air strikes. The U.S. has threatened to do so if Ukraine..."
+        "Story focus: GOP rep warns that Trump's agenda is 'dead' unless he reverses course on Ukraine",
+        "Source context: A prominent House Republican warned Wednesday that President Trump's legislative wish list will be \"dead\" on Capitol Hill during the lame-duck..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -245,17 +218,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ukrainian.",
+        "Watch for the next official action involving GOP.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 14 Oct 2026 19:55:00 -0400",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 14 Oct 2026 20:17:46 +0000",
+      "age_hours": "17.59",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
       "urgency": "BREAKING"
     },
     {
@@ -283,105 +256,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 14 Oct 2026 13:07:00 -0400",
-      "age_hours": "17.29",
+      "age_hours": "20.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Argentina's Milei backs Trump for US midterms, calls vote crucial for West",
-      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
-      "snapshot": "The US President's ally says conservatives \"cannot give an inch\" in Latin America as he accepts an award in Washington. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, US",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Argentina's Milei backs Trump for US midterms, calls vote crucial for West",
-        "Source context: The US President's ally says conservatives \"cannot give an inch\" in Latin America as he accepts an award in Washington. The key question is leverage:..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 15 Oct 2026 03:50:14 +0000",
-      "age_hours": "6.57",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-    "Watch live: Trump rallies Montana Republicans with key House seat on the line",
-    "Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack"
-  ],
-  "sections": [
-    {
-      "headline": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-      "url": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/",
-      "snapshot": "Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Lisa Cook, Trump, Lawyers, Federal Reserve",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-        "Source context: Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump's investigation committee into her \"demonstrably biased.\" \"A..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lisa Cook.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 14 Oct 2026 23:16:51 +0000",
-      "age_hours": "11.13",
-      "freshness_status": "fresh",
-      "editorial_score": "129",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Watch live: Trump rallies Montana Republicans with key House seat on the line",
-      "url": "https://thehill.com/video-clips/6149034-watch-live-donald-trump-montana-rally-aaron-flint-house-race/",
-      "snapshot": "President Trump is campaigning Wednesday evening in Montana, as Republicans fight to hold on to their majorities in both chambers of Congress. Trump is expected to rally supporters for GOP candidate Aaron Flint, who is facing Democrat Sam Forstag in the race to replace... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Montana Republicans, President Trump",
-        "Politics desk signal: congress, house, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Watch live",
-        "Source context: President Trump is campaigning Wednesday evening in Montana, as Republicans fight to hold on to their majorities in both chambers of Congress. Trump..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 14 Oct 2026 22:30:00 +0000",
-      "age_hours": "11.91",
-      "freshness_status": "fresh",
-      "editorial_score": "123",
-      "urgency": ""
     },
     {
       "headline": "Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack",
@@ -408,10 +286,106 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 14 Oct 2026 19:55:00 -0400",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
+      "age_hours": "13.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "84",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
+      "url": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
+      "snapshot": "Data investigation casts doubt on claims that Israeli counter-documentary to 'NAZA' received 40 million views. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Al Jazeera, Israeli",
+        "Specific figures mentioned: 40",
+        "Story focus: Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
+        "Source context: Data investigation casts doubt on claims that Israeli counter-documentary to 'NAZA' received 40 million views. The geopolitical angle is how the..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Al Jazeera.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 15 Oct 2026 13:35:46 +0000",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "56",
+      "urgency": "DEVELOPING"
+    }
+  ],
+  "key_storylines": [
+    "Judge extends block on taxpayer-funded Trump ads until after midterms",
+    "Greene labels Trump administration's Omar investigation 'bulls—'",
+    "DOJ tells California to review whether noncitizens got mail ballots"
+  ],
+  "sections": [
+    {
+      "headline": "Judge extends block on taxpayer-funded Trump ads until after midterms",
+      "url": "https://thehill.com/regulation/court-battles/6150263-donald-trump-taxpayer-funded-ads-block-extended/",
+      "snapshot": "A federal judge on Wednesday extended a temporary block on the Trump administration's controversial ad campaign featuring President Trump until after the midterms. A temporary restraining order issued Sunday, which required the administration to stop airing the commercials and... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Trump, President Trump",
+        "Politics desk signal: court, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge extends block on taxpayer-funded Trump ads until after midterms",
+        "Source context: A federal judge on Wednesday extended a temporary block on the Trump administration's controversial ad campaign featuring President Trump until after..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 13:44:41 +0000",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
+      "urgency": ""
+    },
+    {
+      "headline": "Greene labels Trump administration's Omar investigation 'bulls—'",
+      "url": "https://thehill.com/homenews/administration/6150146-greene-criticizes-omar-raid/",
+      "snapshot": "Former Rep. Marjorie Taylor Greene (R-Ga.) went after the Trump administration on Wednesday over the investigation into Rep. Ilhan Omar (D-Minn.), who recently had her home raided. \"Me and Ilhan Omar are far apart policy wise. I'm pro life, she's pro abortion. I'm pro [Second... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Greene, Trump, Omar, Former Rep",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Greene labels Trump administration's Omar investigation 'bulls—'",
+        "Source context: Former Rep. Marjorie Taylor Greene (R-Ga.) went after the Trump administration on Wednesday over the investigation into Rep. Ilhan Omar (D-Minn.),..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Greene.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 13:12:01 +0000",
+      "age_hours": "0.68",
+      "freshness_status": "fresh",
+      "editorial_score": "113",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "DOJ tells California to review whether noncitizens got mail ballots",
@@ -438,20 +412,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 14 Oct 2026 22:34:20 -0400",
-      "age_hours": "7.83",
+      "age_hours": "11.31",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
     },
     {
-      "headline": "Argentina's Milei backs Trump for US midterms, calls vote crucial for West",
-      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
-      "snapshot": "The US President's ally says conservatives \"cannot give an inch\" in Latin America as he accepts an award in Washington. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Judge says Trump's White House media ban likely violated First Amendment",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/",
+      "snapshot": "U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Trump, US",
+        "Key people or organizations: Judge, Trump, White House, First Amendment",
+        "Politics desk signal: house, white house, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Argentina's Milei backs Trump for US midterms, calls vote crucial for West",
-        "Source context: The US President's ally says conservatives \"cannot give an inch\" in Latin America as he accepts an award in Washington. The key question is leverage:..."
+        "Story focus: Judge says Trump's White House media ban likely violated First Amendment",
+        "Source context: U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Wed, 14 Oct 2026 13:07:00 -0400",
+      "age_hours": "20.77",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump's flood-the-zone strategy drowns state-specific midterm messaging",
+      "url": "https://thehill.com/homenews/campaign/6149466-donald-trump-midterm-economic-initiatives-rallies/",
+      "snapshot": "President Trump is seeking to boost Republican candidates facing tough elections by rolling out a number of key initiatives meant to foster goodwill with voters in battleground states, but he risks overshadowing these announcements with his focus on unrelated issues. Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, President Trump",
+        "Politics desk signal: election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump's flood-the-zone strategy drowns state-specific midterm messaging",
+        "Source context: President Trump is seeking to boost Republican candidates facing tough elections by rolling out a number of key initiatives meant to foster goodwill..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -463,43 +468,44 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 15 Oct 2026 03:50:14 +0000",
-      "age_hours": "6.57",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "age_hours": "3.88",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "111",
       "urgency": ""
     },
     {
-      "headline": "Russia says Ukraine resumes attacks on oil refineries",
-      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-      "snapshot": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "GOP rep warns that Trump's agenda is 'dead' unless he reverses course on Ukraine",
+      "url": "https://thehill.com/homenews/administration/6148954-gop-rep-warns-that-trumps-agenda-is-dead-unless-he-reverses-course-on-ukraine/",
+      "snapshot": "A prominent House Republican warned Wednesday that President Trump's legislative wish list will be \"dead\" on Capitol Hill during the lame-duck session unless the administration reverses recent moves that could help Russia in its war with Ukraine. Rep. Don Bacon (R-Neb.), an... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Russia, Ukraine",
-        "Politics desk signal: ukraine",
-        "Story focus: Russia says Ukraine resumes attacks on oil refineries",
-        "Source context: Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume. The geopolitical..."
+        "Key people or organizations: GOP, Trump, Ukraine, House Republican",
+        "Politics desk signal: house, ukraine",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP rep warns that Trump's agenda is 'dead' unless he reverses course on Ukraine",
+        "Source context: A prominent House Republican warned Wednesday that President Trump's legislative wish list will be \"dead\" on Capitol Hill during the lame-duck..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Russia.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 15 Oct 2026 10:02:17 +0000",
-      "age_hours": "0.37",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": "DEVELOPING"
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Wed, 14 Oct 2026 20:17:46 +0000",
+      "age_hours": "17.59",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "115",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
