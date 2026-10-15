@@ -1,24 +1,84 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Appeals court revives Virginia school boards' suits against Trump administration over transgender policy threats",
-  "snapshot": "A split federal appeals court panel on Thursday revived two Virginia school boards' lawsuits against the Education Department challenging threatened federal funding changes over their policies concerning transgender students. It wipes a judge's finding that school boards in... The broader significance is institutional: court action can alter policy timelines, executive...",
-  "updated_at": "2026-10-15 01:58:50 PM ET",
-  "generated_at": "2026-10-15 01:58:50 PM ET",
+  "headline": "9 fired FBI employees who worked on Trump documents case sue",
+  "snapshot": "Nine former FBI employees sued the bureau, saying they were unlawfully terminated for working on the investigation into President Trump's classified documents case. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+  "updated_at": "2026-10-15 03:30:17 PM ET",
+  "generated_at": "2026-10-15 03:30:17 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 151,
-    "live_fresh_items": 91,
-    "editor_fresh_items": 139,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 60,
+    "total_items_checked": 150,
+    "live_fresh_items": 103,
+    "editor_fresh_items": 141,
+    "public_fallback_items": 145,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-15 01:58:50 PM ET"
+    "last_checked": "2026-10-15 03:30:17 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe",
+      "url": "https://thehill.com/regulation/court-battles/6151954-judge-tosses-brennan-lawsuit/",
+      "snapshot": "A federal judge on Thursday agreed to toss a lawsuit from former CIA Director John Brennan, arguing he did not yet have standing to sue over an investigation targeting him for his role in reviewing the 2016 election. Brennan brought the suit in July, seeking to compel the... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Brennan, CIA Director John Brennan",
+        "Specific figures mentioned: 2016",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 18:52:30 +0000",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "9 fired FBI employees who worked on Trump documents case sue",
+      "url": "https://www.cbsnews.com/news/fbi-employees-trump-classified-documents-case-lawsuit/",
+      "snapshot": "Nine former FBI employees sued the bureau, saying they were unlawfully terminated for working on the investigation into President Trump's classified documents case. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: FBI, Trump, President Trump",
+        "Specific figures mentioned: 9",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9 fired FBI employees who worked on Trump documents case sue"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving FBI.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 15 Oct 2026 14:15:38 -0400",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Albania's PM dismisses calls to resign as student protests spread",
       "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
@@ -42,39 +102,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 15 Oct 2026 16:41:30 +0000",
-      "age_hours": "1.29",
+      "age_hours": "2.81",
       "freshness_status": "fresh",
       "editorial_score": "70",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Judge says Trump's White House media ban likely violated First Amendment",
-      "url": "https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/",
-      "snapshot": "U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, White House, First Amendment",
-        "Politics desk signal: house, white house, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge says Trump's White House media ban likely violated First Amendment",
-        "Source context: U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 14 Oct 2026 13:07:00 -0400",
-      "age_hours": "24.86",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,21 +132,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 15 Oct 2026 15:54:48 +0000",
-      "age_hours": "2.07",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Former New Hampshire GOP Senate candidate endorses Pappas over Sununu",
-      "url": "https://thehill.com/homenews/campaign/6151294-bolduc-backs-pappas-nh-senate/",
-      "snapshot": "Former Republican congressional candidate Don Bolduc on Friday backed Democratic Rep. Chris Pappas in New Hampshire's open Senate race. Bolduc launched an unsuccessful bid to represent the state in the U.S. Senate in 2022 with the support of President Trump. Pappas is running... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "White House prepares plans to use \"mother of all bombs\" on Iran",
+      "url": "https://www.cbsnews.com/news/iran-trump-administration-mother-of-all-bombs/",
+      "snapshot": "The White House and Pentagon have prepared plans to use a Massive Ordnance Air Blast bomb to hit military sites in Iran if ordered by President Trump, sources familiar with the matter told CBS News. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Former New Hampshire GOP, Senate, Pappas",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: congress, senate",
+        "Key people or organizations: White House, Iran, Pentagon, Massive Ordnance Air Blast",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Former New Hampshire GOP Senate candidate endorses Pappas over Sununu"
+        "Story focus: White House prepares plans to use \"mother of all bombs\" on Iran",
+        "Source context: The White House and Pentagon have prepared plans to use a Massive Ordnance Air Blast bomb to hit military sites in Iran if ordered by President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -124,52 +154,82 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Former New Hampshire GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 15 Oct 2026 16:25:25 +0000",
-      "age_hours": "1.56",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump invokes executive privilege in Kennedy Center legal fight",
-      "url": "https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/",
-      "snapshot": "President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Kennedy Center, President Trump",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump invokes executive privilege in Kennedy Center legal fight",
-        "Source context: President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 15 Oct 2026 11:54:31 -0400",
-      "age_hours": "2.07",
+      "published": "Thu, 15 Oct 2026 15:20:20 -0400",
+      "age_hours": "0.17",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "124",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "9 fired FBI employees who worked on Trump documents case sue",
+      "url": "https://www.cbsnews.com/news/fbi-employees-trump-classified-documents-case-lawsuit/",
+      "snapshot": "Nine former FBI employees sued the bureau, saying they were unlawfully terminated for working on the investigation into President Trump's classified documents case. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: FBI, Trump, President Trump",
+        "Specific figures mentioned: 9",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9 fired FBI employees who worked on Trump documents case sue"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving FBI.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 15 Oct 2026 14:15:38 -0400",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe",
+      "url": "https://thehill.com/regulation/court-battles/6151954-judge-tosses-brennan-lawsuit/",
+      "snapshot": "A federal judge on Thursday agreed to toss a lawsuit from former CIA Director John Brennan, arguing he did not yet have standing to sue over an investigation targeting him for his role in reviewing the 2016 election. Brennan brought the suit in July, seeking to compel the... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Brennan, CIA Director John Brennan",
+        "Specific figures mentioned: 2016",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 18:52:30 +0000",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Appeals court revives Virginia school boards' suits against Trump administration over transgender policy threats",
       "url": "https://thehill.com/homenews/education/6151056-transgender-student-policy-legal-battle/",
       "snapshot": "A split federal appeals court panel on Thursday revived two Virginia school boards' lawsuits against the Education Department challenging threatened federal funding changes over their policies concerning transgender students. It wipes a judge's finding that school boards in... The broader significance is institutional: court action can alter policy timelines, executive...",
@@ -194,21 +254,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 15 Oct 2026 15:54:48 +0000",
-      "age_hours": "2.07",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Former New Hampshire GOP Senate candidate endorses Pappas over Sununu",
-      "url": "https://thehill.com/homenews/campaign/6151294-bolduc-backs-pappas-nh-senate/",
-      "snapshot": "Former Republican congressional candidate Don Bolduc on Friday backed Democratic Rep. Chris Pappas in New Hampshire's open Senate race. Bolduc launched an unsuccessful bid to represent the state in the U.S. Senate in 2022 with the support of President Trump. Pappas is running... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "White House prepares plans to use \"mother of all bombs\" on Iran",
+      "url": "https://www.cbsnews.com/news/iran-trump-administration-mother-of-all-bombs/",
+      "snapshot": "The White House and Pentagon have prepared plans to use a Massive Ordnance Air Blast bomb to hit military sites in Iran if ordered by President Trump, sources familiar with the matter told CBS News. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Former New Hampshire GOP, Senate, Pappas",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: congress, senate",
+        "Key people or organizations: White House, Iran, Pentagon, Massive Ordnance Air Blast",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Former New Hampshire GOP Senate candidate endorses Pappas over Sununu"
+        "Story focus: White House prepares plans to use \"mother of all bombs\" on Iran",
+        "Source context: The White House and Pentagon have prepared plans to use a Massive Ordnance Air Blast bomb to hit military sites in Iran if ordered by President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -216,29 +276,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Former New Hampshire GOP.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 15 Oct 2026 16:25:25 +0000",
-      "age_hours": "1.56",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 15 Oct 2026 15:20:20 -0400",
+      "age_hours": "0.17",
       "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": "WATCH"
+      "editorial_score": "124",
+      "urgency": ""
     },
     {
-      "headline": "Trump invokes executive privilege in Kennedy Center legal fight",
-      "url": "https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/",
-      "snapshot": "President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
+      "snapshot": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Kennedy Center, President Trump",
-        "Politics desk signal: congress",
+        "Key people or organizations: Trump",
+        "Politics desk signal: election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump invokes executive privilege in Kennedy Center legal fight",
-        "Source context: President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center..."
+        "Story focus: Ahead of US midterms, voters are frustrated with Trump, want change",
+        "Source context: Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -251,79 +311,81 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 15 Oct 2026 11:54:31 -0400",
-      "age_hours": "2.07",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Judge says Trump's White House media ban likely violated First Amendment",
-      "url": "https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/",
-      "snapshot": "U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, White House, First Amendment",
-        "Politics desk signal: house, white house, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge says Trump's White House media ban likely violated First Amendment",
-        "Source context: U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 14 Oct 2026 13:07:00 -0400",
-      "age_hours": "24.86",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Albania's PM dismisses calls to resign as student protests spread",
-      "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
-      "snapshot": "Prime Minister Edi Rama condemns 'chaos' as protests continue for third day in the capital and spread to other cities.",
-      "key_data": [
-        "Key people or organizations: Prime Minister Edi Rama",
-        "Story focus: Albania's PM dismisses calls to resign as student protests spread",
-        "Source context: Prime Minister Edi Rama condemns 'chaos' as protests continue for third day in the capital and spread to other cities."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Prime Minister Edi Rama.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 15 Oct 2026 16:41:30 +0000",
-      "age_hours": "1.29",
+      "published": "Thu, 15 Oct 2026 18:17:57 +0000",
+      "age_hours": "1.21",
       "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Appeals court revives Virginia school boards' suits against Trump administration over transgender policy threats",
-    "Former New Hampshire GOP Senate candidate endorses Pappas over Sununu",
-    "Trump invokes executive privilege in Kennedy Center legal fight"
+    "9 fired FBI employees who worked on Trump documents case sue",
+    "Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe",
+    "Appeals court revives Virginia school boards' suits against Trump administration over transgender policy threats"
   ],
   "sections": [
+    {
+      "headline": "9 fired FBI employees who worked on Trump documents case sue",
+      "url": "https://www.cbsnews.com/news/fbi-employees-trump-classified-documents-case-lawsuit/",
+      "snapshot": "Nine former FBI employees sued the bureau, saying they were unlawfully terminated for working on the investigation into President Trump's classified documents case. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: FBI, Trump, President Trump",
+        "Specific figures mentioned: 9",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 9 fired FBI employees who worked on Trump documents case sue"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving FBI.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 15 Oct 2026 14:15:38 -0400",
+      "age_hours": "1.24",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe",
+      "url": "https://thehill.com/regulation/court-battles/6151954-judge-tosses-brennan-lawsuit/",
+      "snapshot": "A federal judge on Thursday agreed to toss a lawsuit from former CIA Director John Brennan, arguing he did not yet have standing to sue over an investigation targeting him for his role in reviewing the 2016 election. Brennan brought the suit in July, seeking to compel the... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Judge, Brennan, CIA Director John Brennan",
+        "Specific figures mentioned: 2016",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Judge tosses Brennan suit demanding preservation of records in 'grand conspiracy' probe"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Judge.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 15 Oct 2026 18:52:30 +0000",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "127",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Appeals court revives Virginia school boards' suits against Trump administration over transgender policy threats",
       "url": "https://thehill.com/homenews/education/6151056-transgender-student-policy-legal-battle/",
@@ -349,21 +411,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 15 Oct 2026 15:54:48 +0000",
-      "age_hours": "2.07",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Former New Hampshire GOP Senate candidate endorses Pappas over Sununu",
-      "url": "https://thehill.com/homenews/campaign/6151294-bolduc-backs-pappas-nh-senate/",
-      "snapshot": "Former Republican congressional candidate Don Bolduc on Friday backed Democratic Rep. Chris Pappas in New Hampshire's open Senate race. Bolduc launched an unsuccessful bid to represent the state in the U.S. Senate in 2022 with the support of President Trump. Pappas is running... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "White House prepares plans to use \"mother of all bombs\" on Iran",
+      "url": "https://www.cbsnews.com/news/iran-trump-administration-mother-of-all-bombs/",
+      "snapshot": "The White House and Pentagon have prepared plans to use a Massive Ordnance Air Blast bomb to hit military sites in Iran if ordered by President Trump, sources familiar with the matter told CBS News. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Former New Hampshire GOP, Senate, Pappas",
-        "Specific figures mentioned: 2022",
-        "Politics desk signal: congress, senate",
+        "Key people or organizations: White House, Iran, Pentagon, Massive Ordnance Air Blast",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Former New Hampshire GOP Senate candidate endorses Pappas over Sununu"
+        "Story focus: White House prepares plans to use \"mother of all bombs\" on Iran",
+        "Source context: The White House and Pentagon have prepared plans to use a Massive Ordnance Air Blast bomb to hit military sites in Iran if ordered by President..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -371,59 +433,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Former New Hampshire GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 15 Oct 2026 16:25:25 +0000",
-      "age_hours": "1.56",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump invokes executive privilege in Kennedy Center legal fight",
-      "url": "https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/",
-      "snapshot": "President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, Kennedy Center, President Trump",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump invokes executive privilege in Kennedy Center legal fight",
-        "Source context: President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 15 Oct 2026 11:54:31 -0400",
-      "age_hours": "2.07",
+      "published": "Thu, 15 Oct 2026 15:20:20 -0400",
+      "age_hours": "0.17",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Trump calls off plan to livestream Fort Hood shooter's execution",
-      "url": "https://www.cbsnews.com/news/trump-fort-hood-shooter-nidal-hasan-execution-live-stream/",
-      "snapshot": "\"He will die, as scheduled, by firing squad, but this event will not be streamed,\" President Trump wrote on Truth Social. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
+      "snapshot": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Fort Hood, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump",
+        "Politics desk signal: election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump calls off plan to livestream Fort Hood shooter's execution",
-        "Source context: \"He will die, as scheduled, by firing squad, but this event will not be streamed,\" President Trump wrote on Truth Social. The election angle is..."
+        "Story focus: Ahead of US midterms, voters are frustrated with Trump, want change",
+        "Source context: Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -436,12 +468,12 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 15 Oct 2026 13:07:48 -0400",
-      "age_hours": "0.85",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 15 Oct 2026 18:17:57 +0000",
+      "age_hours": "1.21",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "86",
       "urgency": ""
     },
     {
@@ -467,39 +499,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 15 Oct 2026 16:41:30 +0000",
-      "age_hours": "1.29",
+      "age_hours": "2.81",
       "freshness_status": "fresh",
       "editorial_score": "70",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Judge says Trump's White House media ban likely violated First Amendment",
-      "url": "https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/",
-      "snapshot": "U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, White House, First Amendment",
-        "Politics desk signal: house, white house, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge says Trump's White House media ban likely violated First Amendment",
-        "Source context: U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 14 Oct 2026 13:07:00 -0400",
-      "age_hours": "24.86",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "100",
       "urgency": "DEVELOPING"
     }
   ],
