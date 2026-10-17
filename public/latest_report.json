@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Trump waives tariffs on largest buyers of Russian oil",
   "snapshot": "President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he seeks to ease prices by tapping Russian energy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-10-17 09:18:10 AM ET",
-  "generated_at": "2026-10-17 09:18:10 AM ET",
+  "updated_at": "2026-10-17 10:02:19 AM ET",
+  "generated_at": "2026-10-17 10:02:19 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 37,
-    "editor_fresh_items": 118,
+    "live_fresh_items": 36,
+    "editor_fresh_items": 119,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 110,
+    "stale_or_blocked_items": 111,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-17 09:18:10 AM ET"
+    "last_checked": "2026-10-17 10:02:19 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 09:16:48 +0000",
-      "age_hours": "4.02",
+      "age_hours": "4.76",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -72,9 +72,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 05:39:30 -0400",
-      "age_hours": "3.64",
+      "age_hours": "4.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
+      "url": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
+      "snapshot": "Several GOP lawmakers criticized President Trump's move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R- N.C.) calling the move \"beyond irresponsible.\" Trump signed an executive order Friday evening to waive sanctions against Russia... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Russia, Beyond",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers bash Trump's decision to waive Russia sanctions",
+        "Source context: Several GOP lawmakers criticized President Trump's move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R-..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 17 Oct 2026 13:23:47 +0000",
+      "age_hours": "0.64",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
       "urgency": ""
     },
     {
@@ -102,39 +131,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 02:29:45 +0000",
-      "age_hours": "10.81",
+      "age_hours": "11.54",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
-      "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/",
-      "snapshot": "President Trump signed an executive order Friday evening to waive sanctions against Russia set to take effect soon under a recently signed legislative package. The president officially signed the sanctions package into law last month, which was posthumously dedicated to the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Graham Act, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump waives Russian sanctions outlined in Graham Act before they take effect",
-        "Source context: President Trump signed an executive order Friday evening to waive sanctions against Russia set to take effect soon under a recently signed..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 17 Oct 2026 02:46:56 +0000",
-      "age_hours": "10.52",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -162,7 +161,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 11:10:22 +0000",
-      "age_hours": "2.13",
+      "age_hours": "2.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -194,9 +193,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 05:39:30 -0400",
-      "age_hours": "3.64",
+      "age_hours": "4.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
+      "url": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
+      "snapshot": "Several GOP lawmakers criticized President Trump's move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R- N.C.) calling the move \"beyond irresponsible.\" Trump signed an executive order Friday evening to waive sanctions against Russia... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Russia, Beyond",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers bash Trump's decision to waive Russia sanctions",
+        "Source context: Several GOP lawmakers criticized President Trump's move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R-..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 17 Oct 2026 13:23:47 +0000",
+      "age_hours": "0.64",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
       "urgency": ""
     },
     {
@@ -224,40 +252,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 02:29:45 +0000",
-      "age_hours": "10.81",
+      "age_hours": "11.54",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
-    },
-    {
-      "headline": "Judge tosses Trump administration lawsuit over New York City 'sanctuary' laws",
-      "url": "https://thehill.com/homenews/administration/6154032-judge-dismisses-nyc-immigration-lawsuit/",
-      "snapshot": "A federal judge dismissed a lawsuit brought by the Trump administration to block New York City laws that limit cooperation with federal immigration enforcement, saying the government lacked a valid basis to sue. U.S. District ​Judge Ramon Reyes in Brooklyn said the Trump... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-      "key_data": [
-        "Key people or organizations: Judge, Trump, York City",
-        "Politics desk signal: court, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge tosses Trump administration lawsuit over New York City 'sanctuary' laws",
-        "Source context: A federal judge dismissed a lawsuit brought by the Trump administration to block New York City laws that limit cooperation with federal immigration..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Judge.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 16 Oct 2026 16:59:41 +0000",
-      "age_hours": "20.31",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Trump eases Russia oil sanctions, but is Europe still buying Moscow's gas?",
@@ -284,7 +282,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 11:10:22 +0000",
-      "age_hours": "2.13",
+      "age_hours": "2.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -312,7 +310,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 07:54:06 -0400",
-      "age_hours": "1.40",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -320,8 +318,8 @@
   ],
   "key_storylines": [
     "Trump waives tariffs on largest buyers of Russian oil",
-    "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
-    "Trump waives Russian sanctions outlined in Graham Act before they take effect"
+    "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
+    "Zacharia speaks out after White House press secretary exit: 'It was an honor'"
   ],
   "sections": [
     {
@@ -349,9 +347,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 05:39:30 -0400",
-      "age_hours": "3.64",
+      "age_hours": "4.38",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
+      "url": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
+      "snapshot": "Several GOP lawmakers criticized President Trump's move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R- N.C.) calling the move \"beyond irresponsible.\" Trump signed an executive order Friday evening to waive sanctions against Russia... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: GOP, Trump, Russia, Beyond",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers bash Trump's decision to waive Russia sanctions",
+        "Source context: Several GOP lawmakers criticized President Trump's move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R-..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 17 Oct 2026 13:23:47 +0000",
+      "age_hours": "0.64",
+      "freshness_status": "fresh",
+      "editorial_score": "115",
       "urgency": ""
     },
     {
@@ -379,39 +406,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 02:29:45 +0000",
-      "age_hours": "10.81",
+      "age_hours": "11.54",
       "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
-      "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/",
-      "snapshot": "President Trump signed an executive order Friday evening to waive sanctions against Russia set to take effect soon under a recently signed legislative package. The president officially signed the sanctions package into law last month, which was posthumously dedicated to the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Trump, Graham Act, President Trump",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump waives Russian sanctions outlined in Graham Act before they take effect",
-        "Source context: President Trump signed an executive order Friday evening to waive sanctions against Russia set to take effect soon under a recently signed..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 17 Oct 2026 02:46:56 +0000",
-      "age_hours": "10.52",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
       "urgency": ""
     },
     {
@@ -439,7 +436,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 11:10:22 +0000",
-      "age_hours": "2.13",
+      "age_hours": "2.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -467,7 +464,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 07:54:06 -0400",
-      "age_hours": "1.40",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -495,7 +492,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 09:16:48 +0000",
-      "age_hours": "4.02",
+      "age_hours": "4.76",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
