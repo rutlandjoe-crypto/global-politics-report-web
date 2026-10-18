@@ -3,50 +3,22 @@
   "vertical": "Politics",
   "headline": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
   "snapshot": "President Trump's new executive order on Friday evening sparked a new wave of bipartisan backlash to his administration's recent easing of Russian sanctions. The order halted the implementation of new penalties on Russia set to go into effect under a sweeping legislative... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-10-18 02:40:18 AM ET",
-  "generated_at": "2026-10-18 02:40:18 AM ET",
+  "updated_at": "2026-10-18 06:17:58 AM ET",
+  "generated_at": "2026-10-18 06:17:58 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 49,
-    "editor_fresh_items": 101,
+    "live_fresh_items": 40,
+    "editor_fresh_items": 81,
     "public_fallback_items": 147,
-    "stale_or_blocked_items": 99,
+    "stale_or_blocked_items": 108,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-18 02:40:18 AM ET"
+    "last_checked": "2026-10-18 06:17:58 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-      "snapshot": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, European, West Bank, Masked Israeli",
-        "Story focus: Israeli settlers attack European diplomats in the occupied West Bank",
-        "Source context: Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 18 Oct 2026 01:02:37 +0000",
-      "age_hours": "5.63",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
       "url": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/",
@@ -72,10 +44,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 22:19:54 +0000",
-      "age_hours": "8.34",
+      "age_hours": "11.97",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": ""
+    },
+    {
+      "headline": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+      "url": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
+      "snapshot": "A growing chorus of House Republicans is warning President Trump that they're ready to block additional Pentagon funding unless the administration gets tougher on Russia. Behind Defense Secretary Pete Hegseth, the administration is pushing Republicans on Capitol Hill to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Republicans, Pentagon, Trump, Russia",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+        "Source context: A growing chorus of House Republicans is warning President Trump that they're ready to block additional Pentagon funding unless the administration..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Republicans.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 18 Oct 2026 10:00:00 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump waives tariffs on largest buyers of Russian oil",
@@ -102,7 +104,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 22:49:27 -0400",
-      "age_hours": "3.85",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -132,20 +134,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 22:44:53 -0400",
-      "age_hours": "3.92",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Sen. Graham on Trump waiving Russia sanctions: 'I look forward to talking to him'",
-      "url": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/",
-      "snapshot": "Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the country that were enacted through a bill Graham championed. Trump signed an executive order Friday waiving sanctions on Russian... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "'No Kings' protests spread across the US ahead of midterm elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+      "snapshot": "Thousands rallied across the US against President Donald Trump in 'No Kings' demonstrations. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Sen, Graham, Trump, Russia",
+        "Key people or organizations: No Kings, US, President Donald Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sen. Graham on Trump waiving Russia sanctions",
-        "Source context: Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the..."
+        "Story focus: 'No Kings' protests spread across the US ahead of midterm elections",
+        "Source context: Thousands rallied across the US against President Donald Trump in 'No Kings' demonstrations. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -153,17 +156,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Sen.",
+        "Watch for the next official action involving No Kings.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 18 Oct 2026 00:18:31 +0000",
-      "age_hours": "6.36",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 18 Oct 2026 08:25:24 +0000",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "60",
       "urgency": ""
     }
   ],
@@ -193,10 +196,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 22:19:54 +0000",
-      "age_hours": "8.34",
+      "age_hours": "11.97",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": ""
+    },
+    {
+      "headline": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+      "url": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
+      "snapshot": "A growing chorus of House Republicans is warning President Trump that they're ready to block additional Pentagon funding unless the administration gets tougher on Russia. Behind Defense Secretary Pete Hegseth, the administration is pushing Republicans on Capitol Hill to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Republicans, Pentagon, Trump, Russia",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+        "Source context: A growing chorus of House Republicans is warning President Trump that they're ready to block additional Pentagon funding unless the administration..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Republicans.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 18 Oct 2026 10:00:00 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump waives tariffs on largest buyers of Russian oil",
@@ -223,7 +256,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 22:49:27 -0400",
-      "age_hours": "3.85",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -253,20 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 22:44:53 -0400",
-      "age_hours": "3.92",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Sen. Graham on Trump waiving Russia sanctions: 'I look forward to talking to him'",
-      "url": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/",
-      "snapshot": "Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the country that were enacted through a bill Graham championed. Trump signed an executive order Friday waiving sanctions on Russian... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "'No Kings' protests spread across the US ahead of midterm elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+      "snapshot": "Thousands rallied across the US against President Donald Trump in 'No Kings' demonstrations. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Sen, Graham, Trump, Russia",
+        "Key people or organizations: No Kings, US, President Donald Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sen. Graham on Trump waiving Russia sanctions",
-        "Source context: Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the..."
+        "Story focus: 'No Kings' protests spread across the US ahead of midterm elections",
+        "Source context: Thousands rallied across the US against President Donald Trump in 'No Kings' demonstrations. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -274,52 +308,24 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Sen.",
+        "Watch for the next official action involving No Kings.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 18 Oct 2026 00:18:31 +0000",
-      "age_hours": "6.36",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": ""
-    },
-    {
-      "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-      "snapshot": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Israeli, European, West Bank, Masked Israeli",
-        "Story focus: Israeli settlers attack European diplomats in the occupied West Bank",
-        "Source context: Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 18 Oct 2026 01:02:37 +0000",
-      "age_hours": "5.63",
+      "published": "Sun, 18 Oct 2026 08:25:24 +0000",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editorial_score": "60",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
-    "Trump waives tariffs on largest buyers of Russian oil",
-    "In Kentucky campaign stop, Trump says he \"can do stuff that is unbelievable\""
+    "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+    "Trump waives tariffs on largest buyers of Russian oil"
   ],
   "sections": [
     {
@@ -347,10 +353,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 22:19:54 +0000",
-      "age_hours": "8.34",
+      "age_hours": "11.97",
       "freshness_status": "fresh",
       "editorial_score": "127",
       "urgency": ""
+    },
+    {
+      "headline": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+      "url": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
+      "snapshot": "A growing chorus of House Republicans is warning President Trump that they're ready to block additional Pentagon funding unless the administration gets tougher on Russia. Behind Defense Secretary Pete Hegseth, the administration is pushing Republicans on Capitol Hill to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Republicans, Pentagon, Trump, Russia",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+        "Source context: A growing chorus of House Republicans is warning President Trump that they're ready to block additional Pentagon funding unless the administration..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Republicans.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 18 Oct 2026 10:00:00 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "123",
+      "urgency": "WATCH"
     },
     {
       "headline": "Trump waives tariffs on largest buyers of Russian oil",
@@ -377,7 +413,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 22:49:27 -0400",
-      "age_hours": "3.85",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -407,20 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 17 Oct 2026 22:44:53 -0400",
-      "age_hours": "3.92",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Sen. Graham on Trump waiving Russia sanctions: 'I look forward to talking to him'",
-      "url": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/",
-      "snapshot": "Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the country that were enacted through a bill Graham championed. Trump signed an executive order Friday waiving sanctions on Russian... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "'No Kings' protests spread across the US ahead of midterm elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+      "snapshot": "Thousands rallied across the US against President Donald Trump in 'No Kings' demonstrations. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Sen, Graham, Trump, Russia",
+        "Key people or organizations: No Kings, US, President Donald Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Sen. Graham on Trump waiving Russia sanctions",
-        "Source context: Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the..."
+        "Story focus: 'No Kings' protests spread across the US ahead of midterm elections",
+        "Source context: Thousands rallied across the US against President Donald Trump in 'No Kings' demonstrations. The election angle is whether this changes voter..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -428,73 +465,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Sen.",
+        "Watch for the next official action involving No Kings.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 18 Oct 2026 00:18:31 +0000",
-      "age_hours": "6.36",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sun, 18 Oct 2026 08:25:24 +0000",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "60",
       "urgency": ""
     },
     {
-      "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-      "snapshot": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Israel's ties with Europe are fraying. Can its election change that?",
+      "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "snapshot": "European condemnation is mounting, but Israel's election offers little prospect of a material change for Palestinians. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Israeli, European, West Bank, Masked Israeli",
-        "Story focus: Israeli settlers attack European diplomats in the occupied West Bank",
-        "Source context: Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank. The geopolitical angle is how the..."
+        "Key people or organizations: Israel",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Israel's ties with Europe are fraying. Can its election change that?",
+        "Source context: European condemnation is mounting, but Israel's election offers little prospect of a material change for Palestinians. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Israel.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 18 Oct 2026 01:02:37 +0000",
-      "age_hours": "5.63",
+      "published": "Sun, 18 Oct 2026 07:05:00 +0000",
+      "age_hours": "3.22",
       "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
-      "snapshot": "Kabila's move raises new questions about the war in eastern Congo and prospects for peace.",
-      "key_data": [
-        "Key people or organizations: President Joseph Kabila, Kabila",
-        "Story focus: Fears grow in DRC as former President Joseph Kabila joins rebellion",
-        "Source context: Kabila's move raises new questions about the war in eastern Congo and prospects for peace."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving President Joseph Kabila.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Power, policy or public-trust angle.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 18 Oct 2026 02:21:48 +0000",
-      "age_hours": "4.31",
-      "freshness_status": "fresh",
-      "editorial_score": "44",
+      "editorial_score": "52",
       "urgency": ""
     }
   ],
