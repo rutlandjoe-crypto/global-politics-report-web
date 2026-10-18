@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
   "snapshot": "President Trump's new executive order on Friday evening sparked a new wave of bipartisan backlash to his administration's recent easing of Russian sanctions. The order halted the implementation of new penalties on Russia set to go into effect under a sweeping legislative... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-10-17 09:36:46 PM ET",
-  "generated_at": "2026-10-17 09:36:46 PM ET",
+  "updated_at": "2026-10-18 01:22:29 AM ET",
+  "generated_at": "2026-10-18 01:22:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 55,
-    "editor_fresh_items": 130,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 92,
+    "total_items_checked": 148,
+    "live_fresh_items": 51,
+    "editor_fresh_items": 107,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 97,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-17 09:36:46 PM ET"
+    "last_checked": "2026-10-18 01:22:29 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,37 +42,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 19:26:13 +0000",
-      "age_hours": "6.18",
+      "age_hours": "9.94",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Man whose wife died in Iran strike presses Vance: \"Fundamental failures\"",
-      "url": "https://www.cbsnews.com/news/joey-amor-wife-iran-strike-jd-vance/",
-      "snapshot": "During a CBS News town hall, a man whose wife was killed in the early hours of the U.S.-Iran war pressed Vice President JD Vance on \"mistakes\" and \"fundamental failures.\" The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Man, Iran, Vance, Fundamental",
-        "Story focus: Man whose wife died in Iran strike presses Vance",
-        "Source context: During a CBS News town hall, a man whose wife was killed in the early hours of the U.S.-Iran war pressed Vice President JD Vance on \"mistakes\" and..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Man.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 17 Oct 2026 21:24:48 -0400",
-      "age_hours": "0.20",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
       "urgency": "DEVELOPING"
     },
     {
@@ -98,7 +70,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 18 Oct 2026 01:02:37 +0000",
-      "age_hours": "0.57",
+      "age_hours": "4.33",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
@@ -128,9 +100,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 22:19:54 +0000",
-      "age_hours": "3.28",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "127",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump waives tariffs on largest buyers of Russian oil",
+      "url": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham/",
+      "snapshot": "President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he seeks to ease prices by tapping Russian energy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Russian, President Trump, Russia",
+        "Politics desk signal: election, campaign, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump waives tariffs on largest buyers of Russian oil",
+        "Source context: President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 17 Oct 2026 22:49:27 -0400",
+      "age_hours": "2.55",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -157,8 +159,8 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 17 Oct 2026 16:48:51 -0400",
-      "age_hours": "4.80",
+      "published": "Sat, 17 Oct 2026 22:44:53 -0400",
+      "age_hours": "2.63",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -190,9 +192,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 22:19:54 +0000",
-      "age_hours": "3.28",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "127",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump waives tariffs on largest buyers of Russian oil",
+      "url": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham/",
+      "snapshot": "President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he seeks to ease prices by tapping Russian energy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Russian, President Trump, Russia",
+        "Politics desk signal: election, campaign, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump waives tariffs on largest buyers of Russian oil",
+        "Source context: President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 17 Oct 2026 22:49:27 -0400",
+      "age_hours": "2.55",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -219,69 +251,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 17 Oct 2026 16:48:51 -0400",
-      "age_hours": "4.80",
+      "published": "Sat, 17 Oct 2026 22:44:53 -0400",
+      "age_hours": "2.63",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump: California officials will 'go to jail' if state ignores DOJ voter roll suit",
-      "url": "https://thehill.com/homenews/administration/6155838-trump-california-doj-voter-rolls-jail/",
-      "snapshot": "President Trump reupped the Justice Department's (DOJ) warning that California officials could face criminal charges if they include the mail-in ballots of the over 200,000 people the federal government identified as potential non-U.S. citizens in their midterm election count.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Sen. Graham on Trump waiving Russia sanctions: 'I look forward to talking to him'",
+      "url": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/",
+      "snapshot": "Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the country that were enacted through a bill Graham championed. Trump signed an executive order Friday waiving sanctions on Russian... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, California, DOJ, President Trump",
-        "Specific figures mentioned: 200, 000",
-        "Politics desk signal: court, election",
+        "Key people or organizations: Sen, Graham, Trump, Russia",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump"
+        "Story focus: Sen. Graham on Trump waiving Russia sanctions",
+        "Source context: Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Sen.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 17 Oct 2026 16:00:23 +0000",
-      "age_hours": "9.61",
+      "published": "Sun, 18 Oct 2026 00:18:31 +0000",
+      "age_hours": "5.07",
       "freshness_status": "fresh",
-      "editorial_score": "107",
+      "editorial_score": "99",
       "urgency": ""
-    },
-    {
-      "headline": "Man whose wife died in Iran strike presses Vance: \"Fundamental failures\"",
-      "url": "https://www.cbsnews.com/news/joey-amor-wife-iran-strike-jd-vance/",
-      "snapshot": "During a CBS News town hall, a man whose wife was killed in the early hours of the U.S.-Iran war pressed Vice President JD Vance on \"mistakes\" and \"fundamental failures.\" The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Man, Iran, Vance, Fundamental",
-        "Story focus: Man whose wife died in Iran strike presses Vance",
-        "Source context: During a CBS News town hall, a man whose wife was killed in the early hours of the U.S.-Iran war pressed Vice President JD Vance on \"mistakes\" and..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Man.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 17 Oct 2026 21:24:48 -0400",
-      "age_hours": "0.20",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Albanian police fire rubber bullets as protests against Rama escalate",
@@ -306,7 +309,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 19:26:13 +0000",
-      "age_hours": "6.18",
+      "age_hours": "9.94",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -314,8 +317,8 @@
   ],
   "key_storylines": [
     "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
-    "In Kentucky campaign stop, Trump says he \"can do stuff that is unbelievable\"",
-    "Trump: California officials will 'go to jail' if state ignores DOJ voter roll suit"
+    "Trump waives tariffs on largest buyers of Russian oil",
+    "In Kentucky campaign stop, Trump says he \"can do stuff that is unbelievable\""
   ],
   "sections": [
     {
@@ -343,9 +346,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 17 Oct 2026 22:19:54 +0000",
-      "age_hours": "3.28",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "127",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump waives tariffs on largest buyers of Russian oil",
+      "url": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham/",
+      "snapshot": "President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he seeks to ease prices by tapping Russian energy. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Russian, President Trump, Russia",
+        "Politics desk signal: election, campaign, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump waives tariffs on largest buyers of Russian oil",
+        "Source context: President Trump prevented some new sanctions on Russia and hefty tariffs on large-scale buyers of Russian oil from taking effect late Friday, as he..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 17 Oct 2026 22:49:27 -0400",
+      "age_hours": "2.55",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -372,69 +405,40 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sat, 17 Oct 2026 16:48:51 -0400",
-      "age_hours": "4.80",
+      "published": "Sat, 17 Oct 2026 22:44:53 -0400",
+      "age_hours": "2.63",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump: California officials will 'go to jail' if state ignores DOJ voter roll suit",
-      "url": "https://thehill.com/homenews/administration/6155838-trump-california-doj-voter-rolls-jail/",
-      "snapshot": "President Trump reupped the Justice Department's (DOJ) warning that California officials could face criminal charges if they include the mail-in ballots of the over 200,000 people the federal government identified as potential non-U.S. citizens in their midterm election count.... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Sen. Graham on Trump waiving Russia sanctions: 'I look forward to talking to him'",
+      "url": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/",
+      "snapshot": "Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the country that were enacted through a bill Graham championed. Trump signed an executive order Friday waiving sanctions on Russian... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, California, DOJ, President Trump",
-        "Specific figures mentioned: 200, 000",
-        "Politics desk signal: court, election",
+        "Key people or organizations: Sen, Graham, Trump, Russia",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump"
+        "Story focus: Sen. Graham on Trump waiving Russia sanctions",
+        "Source context: Sen. Darline Graham (R-S.C.) said Saturday that she would prefer to keep sanctions pressure on Russia after President Trump waived sanctions on the..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Sen.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 17 Oct 2026 16:00:23 +0000",
-      "age_hours": "9.61",
+      "published": "Sun, 18 Oct 2026 00:18:31 +0000",
+      "age_hours": "5.07",
       "freshness_status": "fresh",
-      "editorial_score": "107",
+      "editorial_score": "99",
       "urgency": ""
-    },
-    {
-      "headline": "Man whose wife died in Iran strike presses Vance: \"Fundamental failures\"",
-      "url": "https://www.cbsnews.com/news/joey-amor-wife-iran-strike-jd-vance/",
-      "snapshot": "During a CBS News town hall, a man whose wife was killed in the early hours of the U.S.-Iran war pressed Vice President JD Vance on \"mistakes\" and \"fundamental failures.\" The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Man, Iran, Vance, Fundamental",
-        "Story focus: Man whose wife died in Iran strike presses Vance",
-        "Source context: During a CBS News town hall, a man whose wife was killed in the early hours of the U.S.-Iran war pressed Vice President JD Vance on \"mistakes\" and..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Man.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 17 Oct 2026 21:24:48 -0400",
-      "age_hours": "0.20",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Albanian police fire rubber bullets as protests against Rama escalate",
@@ -459,7 +463,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 17 Oct 2026 19:26:13 +0000",
-      "age_hours": "6.18",
+      "age_hours": "9.94",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
@@ -487,7 +491,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 18 Oct 2026 01:02:37 +0000",
-      "age_hours": "0.57",
+      "age_hours": "4.33",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "DEVELOPING"
