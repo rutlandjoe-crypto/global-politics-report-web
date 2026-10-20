@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Former Minnesota GOP governor sees 'political layer' to Omar probe",
   "snapshot": "Tim Pawlenty, the former Republican governor of Minnesota, acknowledged on Tuesday morning there was a \"political layer\" to the Trump administration's investigation into Rep. Ilhan Omar (D-Minn.). Federal agents searched the Democrat's Washington, D.C., home on Oct. 12 as part... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-  "updated_at": "2026-10-20 02:17:18 PM ET",
-  "generated_at": "2026-10-20 02:17:18 PM ET",
+  "updated_at": "2026-10-20 05:58:12 PM ET",
+  "generated_at": "2026-10-20 05:58:12 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 149,
-    "live_fresh_items": 86,
-    "editor_fresh_items": 141,
-    "public_fallback_items": 148,
-    "stale_or_blocked_items": 63,
+    "total_items_checked": 151,
+    "live_fresh_items": 114,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 150,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-20 02:17:18 PM ET"
+    "last_checked": "2026-10-20 05:58:12 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 20 Oct 2026 15:52:28 +0000",
-      "age_hours": "2.41",
+      "age_hours": "6.10",
       "freshness_status": "fresh",
       "editorial_score": "139",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "snapshot": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Canadian, Congress",
+        "Specific figures mentioned: 50",
+        "Politics desk signal: congress, court, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US food importer sues Trump over 50 percent tariffs on Canadian goods"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 20 Oct 2026 16:44:27 +0000",
-      "age_hours": "1.55",
+      "age_hours": "5.23",
       "freshness_status": "fresh",
       "editorial_score": "129",
       "urgency": "DEVELOPING"
@@ -104,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 20 Oct 2026 08:29:58 -0400",
-      "age_hours": "5.79",
+      "age_hours": "9.47",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -134,39 +164,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 20 Oct 2026 11:49:13 -0400",
-      "age_hours": "2.47",
+      "age_hours": "6.15",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "'Not getting involved': US Vice President refuses to endorse Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
-      "snapshot": "JD Vance's comments follow Donald Trump's backing of Israeli prime minister ahead of October 27 elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US Vice President, JD Vance",
-        "Specific figures mentioned: 27",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 'Not getting involved'"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Vice President.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 20 Oct 2026 15:46:30 +0000",
-      "age_hours": "2.51",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 20 Oct 2026 15:52:28 +0000",
-      "age_hours": "2.41",
+      "age_hours": "6.10",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -226,9 +226,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 20 Oct 2026 16:44:27 +0000",
-      "age_hours": "1.55",
+      "age_hours": "5.23",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "snapshot": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Canadian, Congress",
+        "Specific figures mentioned: 50",
+        "Politics desk signal: congress, court, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US food importer sues Trump over 50 percent tariffs on Canadian goods"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
@@ -256,7 +286,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 20 Oct 2026 08:29:58 -0400",
-      "age_hours": "5.79",
+      "age_hours": "9.47",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -286,46 +316,16 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 20 Oct 2026 11:49:13 -0400",
-      "age_hours": "2.47",
+      "age_hours": "6.15",
       "freshness_status": "fresh",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "'Not getting involved': US Vice President refuses to endorse Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
-      "snapshot": "JD Vance's comments follow Donald Trump's backing of Israeli prime minister ahead of October 27 elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: US Vice President, JD Vance",
-        "Specific figures mentioned: 27",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 'Not getting involved'"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Vice President.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 20 Oct 2026 15:46:30 +0000",
-      "age_hours": "2.51",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Former Minnesota GOP governor sees 'political layer' to Omar probe",
     "Bannon 'not wild' about Trump endorsing Netanyahu",
-    "Trump faces bipartisan backlash over waiving Russia sanctions"
+    "US food importer sues Trump over 50 percent tariffs on Canadian goods"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 20 Oct 2026 15:52:28 +0000",
-      "age_hours": "2.41",
+      "age_hours": "6.10",
       "freshness_status": "fresh",
       "editorial_score": "139",
       "urgency": "DEVELOPING"
@@ -383,9 +383,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Tue, 20 Oct 2026 16:44:27 +0000",
-      "age_hours": "1.55",
+      "age_hours": "5.23",
       "freshness_status": "fresh",
       "editorial_score": "129",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "snapshot": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump, Canadian, Congress",
+        "Specific figures mentioned: 50",
+        "Politics desk signal: congress, court, tariff",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US food importer sues Trump over 50 percent tariffs on Canadian goods"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "age_hours": "0.65",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
@@ -413,7 +443,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 20 Oct 2026 08:29:58 -0400",
-      "age_hours": "5.79",
+      "age_hours": "9.47",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -443,50 +473,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 20 Oct 2026 11:49:13 -0400",
-      "age_hours": "2.47",
+      "age_hours": "6.15",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "'Not getting involved': US Vice President refuses to endorse Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
-      "snapshot": "JD Vance's comments follow Donald Trump's backing of Israeli prime minister ahead of October 27 elections. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "snapshot": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: US Vice President, JD Vance",
-        "Specific figures mentioned: 27",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Republican Party, Congress",
+        "Specific figures mentioned: $400m",
+        "Politics desk signal: congress, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 'Not getting involved'"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving US Vice President.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Tue, 20 Oct 2026 15:46:30 +0000",
-      "age_hours": "2.51",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "'You have to sacrifice': Trump voters stay loyal as US midterms approach",
-      "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
-      "snapshot": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump's most loyal supporters. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, US",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: 'You have to sacrifice'",
-        "Source context: Rising economic pain confronting US voters has not translated into a loss of faith among Trump's most loyal supporters. The key question is leverage:..."
+        "Story focus: Trump commits more than $400m ahead of high-stakes midterm elections"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -501,10 +502,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 20 Oct 2026 15:57:47 +0000",
-      "age_hours": "2.33",
+      "published": "Tue, 20 Oct 2026 21:27:38 +0000",
+      "age_hours": "0.51",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "94",
       "urgency": ""
     }
   ],
