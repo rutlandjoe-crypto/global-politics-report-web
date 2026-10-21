@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Zelensky, US allies bet on strike concessions to placate Trump",
   "snapshot": "Ukrainian President Volodymyr Zelensky and his powerful allies in Congress are seeking to use President Trump's desire for Kyiv to stop targeting Russian diesel facilities to boost his support for Ukraine in other ways. Sen. Roger Wicker (R-Miss.), the chair of the Senate... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-  "updated_at": "2026-10-21 03:42:30 PM ET",
-  "generated_at": "2026-10-21 03:42:30 PM ET",
+  "updated_at": "2026-10-21 05:11:21 PM ET",
+  "generated_at": "2026-10-21 05:11:21 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 101,
-    "editor_fresh_items": 143,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 47,
+    "total_items_checked": 149,
+    "live_fresh_items": 115,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-21 03:42:30 PM ET"
+    "last_checked": "2026-10-21 05:11:21 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "age_hours": "9.71",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -72,10 +72,37 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 21 Oct 2026 18:24:42 +0000",
-      "age_hours": "1.30",
+      "age_hours": "2.78",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+      "url": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+      "snapshot": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
+      "key_data": [
+        "Story focus: Macron makes surprise Saudi visit as France secures extra diesel supplies",
+        "Source context: French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 21 Oct 2026 16:58:39 +0000",
+      "age_hours": "4.21",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump weighs moving White House press corps out of building",
@@ -102,7 +129,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 21 Oct 2026 10:22:32 -0400",
-      "age_hours": "5.33",
+      "age_hours": "6.81",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -132,39 +159,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "age_hours": "9.71",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court rejects bid to restrict treatments for trans inmates",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-gender-affirming-care-transgender-inmates/",
-      "snapshot": "In an unsigned order, the Supreme Court rejected an emergency appeal seeking to revive a policy ending certain medical treatments for transgender inmates. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Supreme Court",
-        "Politics desk signal: supreme court, court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rejects bid to restrict treatments for trans inmates",
-        "Source context: In an unsigned order, the Supreme Court rejected an emergency appeal seeking to revive a policy ending certain medical treatments for transgender..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Wed, 21 Oct 2026 13:03:56 -0400",
-      "age_hours": "2.64",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
       "urgency": ""
     }
   ],
@@ -194,7 +191,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "age_hours": "9.71",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -224,7 +221,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "age_hours": "9.71",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -254,7 +251,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 21 Oct 2026 10:22:32 -0400",
-      "age_hours": "5.33",
+      "age_hours": "6.81",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -284,40 +281,38 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 21 Oct 2026 13:03:56 -0400",
-      "age_hours": "2.64",
+      "age_hours": "4.12",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Trump says AI data centres should pay 'dividends' in pre-midterm shift",
-      "url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
-      "snapshot": "US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+      "snapshot": "Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Republicans",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says AI data centres should pay 'dividends' in pre-midterm shift",
-        "Source context: US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans. The election angle is whether..."
+        "Key people or organizations: Jerusalem Daily, Israeli, West Bank",
+        "Story focus: Jerusalem Daily",
+        "Source context: Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres. The geopolitical angle is how the..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Jerusalem Daily.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 21 Oct 2026 15:09:33 +0000",
-      "age_hours": "4.55",
+      "published": "Wed, 21 Oct 2026 18:24:42 +0000",
+      "age_hours": "2.78",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -351,7 +346,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "age_hours": "9.71",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "141",
       "urgency": "BREAKING"
@@ -381,7 +376,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "age_hours": "9.71",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -411,7 +406,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 21 Oct 2026 10:22:32 -0400",
-      "age_hours": "5.33",
+      "age_hours": "6.81",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -441,39 +436,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 21 Oct 2026 13:03:56 -0400",
-      "age_hours": "2.64",
+      "age_hours": "4.12",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump says AI data centres should pay 'dividends' in pre-midterm shift",
-      "url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
-      "snapshot": "US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Republicans",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says AI data centres should pay 'dividends' in pre-midterm shift",
-        "Source context: US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans. The election angle is whether..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 21 Oct 2026 15:09:33 +0000",
-      "age_hours": "4.55",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
       "urgency": ""
     },
     {
@@ -499,10 +464,37 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Wed, 21 Oct 2026 18:24:42 +0000",
-      "age_hours": "1.30",
+      "age_hours": "2.78",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+      "url": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+      "snapshot": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
+      "key_data": [
+        "Story focus: Macron makes surprise Saudi visit as France secures extra diesel supplies",
+        "Source context: French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Wed, 21 Oct 2026 16:58:39 +0000",
+      "age_hours": "4.21",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
