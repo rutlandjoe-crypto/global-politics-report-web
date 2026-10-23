@@ -24,7 +24,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 22 Oct 2026 19:09:59 -0400",
-    "age_hours": "0.69",
+    "age_hours": "2.91",
     "freshness_status": "fresh",
     "editorial_score": "122",
     "urgency": "DEVELOPING"
@@ -110,27 +110,31 @@
   {
     "headline": "US judge blocks federal operations seeking to identify non-citizen voters",
     "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
-    "snapshot": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+    "snapshot": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
     "key_data": [
-      "Source: Al Jazeera",
-      "Politics desk: Election",
-      "Published: Oct. 22, 2026 at 05:52 PM ET"
+      "Key people or organizations: Homeland Security",
+      "Politics desk signal: court",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: US judge blocks federal operations seeking to identify non-citizen voters",
+      "Source context: Homeland Security targets nine states in fraud investigations that critics say intimidate voters. The broader significance is institutional: court..."
     ],
     "why_it_matters": [
-      "This development may affect voter attention, campaign strategy or party positioning.",
-      "The practical test is whether official decisions follow the public statements and political reaction."
+      "This has legal and institutional consequences beyond one news cycle.",
+      "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+      "Editors should frame the story around who gains power and who faces new limits."
     ],
     "what_to_watch": [
-      "Watch for official documents, votes, rulings or agency actions.",
-      "Track responses from elected officials, courts, campaigns and affected institutions."
+      "Watch for the next official action involving Homeland Security.",
+      "Track filings, rulings, appeals and agency responses.",
+      "Separate official action from political messaging."
     ],
-    "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Thu, 22 Oct 2026 21:52:52 +0000",
-    "age_hours": "0.31",
+    "age_hours": "4.19",
     "freshness_status": "fresh",
-    "editorial_score": "100",
+    "editorial_score": "80",
     "urgency": "DEVELOPING"
   },
   {
@@ -184,7 +188,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Thu, 22 Oct 2026 21:20:32 +0000",
-    "age_hours": "2.51",
+    "age_hours": "4.73",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": "DEVELOPING"
@@ -214,7 +218,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 22 Oct 2026 20:46:19 +0000",
-    "age_hours": "3.08",
+    "age_hours": "5.30",
     "freshness_status": "fresh",
     "editorial_score": "113",
     "urgency": "BREAKING"
@@ -381,7 +385,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 22 Oct 2026 12:40:45 -0400",
-    "age_hours": "7.18",
+    "age_hours": "9.40",
     "freshness_status": "fresh",
     "editorial_score": "136",
     "urgency": "DEVELOPING"
