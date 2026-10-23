@@ -1,34 +1,64 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump says Iran is making up strikes on ships to drive up oil prices",
-  "snapshot": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-10-23 05:03:13 AM ET",
-  "generated_at": "2026-10-23 05:03:13 AM ET",
+  "headline": "Trump ties big promises to GOP midterm election wins",
+  "snapshot": "President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections. Trump and the GOP are hoping his big promises to voters will get them out to the polls on Election Day in less than two weeks.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-10-23 09:01:29 AM ET",
+  "generated_at": "2026-10-23 09:01:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 57,
-    "editor_fresh_items": 145,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 91,
+    "total_items_checked": 149,
+    "live_fresh_items": 42,
+    "editor_fresh_items": 144,
+    "public_fallback_items": 147,
+    "stale_or_blocked_items": 107,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-23 05:03:13 AM ET"
+    "last_checked": "2026-10-23 09:01:29 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Trump says Iran is making up strikes on ships to drive up oil prices",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
-      "snapshot": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
+      "url": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/",
+      "snapshot": "The Department of Justice (DOJ) on Thursday asked an appeals court to intervene in its lawsuit against California to temporarily block the state from counting more than 20,000 mail-in ballots cast by what the Trump administration claims are from non-U.S. citizens. The request,... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: DOJ, California",
+        "Specific figures mentioned: 20, 000",
+        "Politics desk signal: court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says Iran is making up strikes on ships to drive up oil prices",
-        "Source context: President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in..."
+        "Story focus: DOJ asks appeals court to intervene for California mail-in ballot lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving DOJ.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 03:12:45 +0000",
+      "age_hours": "9.81",
+      "freshness_status": "fresh",
+      "editorial_score": "95",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump ties big promises to GOP midterm election wins",
+      "url": "https://thehill.com/homenews/administration/6166920-trump-midterm-campaign-promises-republicans/",
+      "snapshot": "President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections. Trump and the GOP are hoping his big promises to voters will get them out to the polls on Election Day in less than two weeks.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, GOP, President Trump, Republicans",
+        "Politics desk signal: election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump ties big promises to GOP midterm election wins",
+        "Source context: President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -41,42 +71,42 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 22 Oct 2026 19:09:59 -0400",
-      "age_hours": "9.89",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
+      "editorial_score": "119",
+      "urgency": "BREAKING"
     },
     {
-      "headline": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
-      "snapshot": "US federal agents raided the congresswoman's home last week as part of an investigation into alleged immigration fraud. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "DOJ asks Supreme Court to allow border wall construction in Big Bend region",
+      "url": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
+      "snapshot": "The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a border wall and related infrastructure in the Big Bend Sector. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Ilhan Omar, Washington DC",
-        "Politics desk signal: congress, immigration",
+        "Key people or organizations: Supreme Court, Big Bend, Justice Department",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ilhan Omar plans to move out of her Washington DC home after federal raid",
-        "Source context: US federal agents raided the congresswoman's home last week as part of an investigation into alleged immigration fraud. The key question is leverage:..."
+        "Story focus: DOJ asks Supreme Court to allow border wall construction in Big Bend region",
+        "Source context: The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ilhan Omar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 23 Oct 2026 02:09:38 +0000",
-      "age_hours": "6.89",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 22 Oct 2026 12:40:45 -0400",
+      "age_hours": "20.35",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,83 +134,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 22 Oct 2026 23:22:56 -0400",
-      "age_hours": "5.67",
+      "age_hours": "9.64",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-      "url": "https://thehill.com/homenews/campaign/6166837-ramaswamy-acton-mother-ad-controversy/",
-      "snapshot": "The controversy over Ohio GOP gubernatorial candidate Vivek Ramaswamy's ad featuring his Democratic opponent Amy Acton's mother is pitting President Trump and Vice President Vance against Ohio's Republican establishment less than two weeks out from Election Day. A number of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "url": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
+      "snapshot": "Cameroonians are wondering who Biya will appoint as vice president and possible successor.",
       "key_data": [
-        "Key people or organizations: Ramaswamy, Trump, Vance, Ohio GOP",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-        "Source context: The controversy over Ohio GOP gubernatorial candidate Vivek Ramaswamy's ad featuring his Democratic opponent Amy Acton's mother is pitting President..."
+        "Key people or organizations: As President Paul Biya, Biya",
+        "Story focus: As President Paul Biya returns to Cameroon, can he still rule?",
+        "Source context: Cameroonians are wondering who Biya will appoint as vice president and possible successor."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ramaswamy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving As President Paul Biya.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 22 Oct 2026 22:04:15 +0000",
-      "age_hours": "10.98",
+      "editor_note": "Power, policy or public-trust angle.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 23 Oct 2026 12:52:28 +0000",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court rules NH can block voters from using student IDs",
-      "url": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/",
-      "snapshot": "The Supreme Court on Thursday ruled New Hampshire's top election official can fully stop voters from using their student IDs when showing up to the polls in the midterms — a request backed by the Republican National Committee (RNC). A lower judge ruled officials had improperly... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, IDs",
-        "Politics desk signal: supreme court, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rules NH can block voters from using student IDs",
-        "Source context: The Supreme Court on Thursday ruled New Hampshire's top election official can fully stop voters from using their student IDs when showing up to the..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 22 Oct 2026 22:50:58 +0000",
-      "age_hours": "10.20",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
+      "editorial_score": "52",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Trump says Iran is making up strikes on ships to drive up oil prices",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
-      "snapshot": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump ties big promises to GOP midterm election wins",
+      "url": "https://thehill.com/homenews/administration/6166920-trump-midterm-campaign-promises-republicans/",
+      "snapshot": "President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections. Trump and the GOP are hoping his big promises to voters will get them out to the polls on Election Day in less than two weeks.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, GOP, President Trump, Republicans",
+        "Politics desk signal: election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says Iran is making up strikes on ships to drive up oil prices",
-        "Source context: President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in..."
+        "Story focus: Trump ties big promises to GOP midterm election wins",
+        "Source context: President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -193,13 +191,13 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 22 Oct 2026 19:09:59 -0400",
-      "age_hours": "9.89",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
+      "editorial_score": "119",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump focuses on farmers in Iowa visit, as GOP struggles on fertile ground",
@@ -226,51 +224,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 22 Oct 2026 23:22:56 -0400",
-      "age_hours": "5.67",
+      "age_hours": "9.64",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-      "url": "https://thehill.com/homenews/campaign/6166837-ramaswamy-acton-mother-ad-controversy/",
-      "snapshot": "The controversy over Ohio GOP gubernatorial candidate Vivek Ramaswamy's ad featuring his Democratic opponent Amy Acton's mother is pitting President Trump and Vice President Vance against Ohio's Republican establishment less than two weeks out from Election Day. A number of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "DOJ asks Supreme Court to allow border wall construction in Big Bend region",
+      "url": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
+      "snapshot": "The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a border wall and related infrastructure in the Big Bend Sector. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Ramaswamy, Trump, Vance, Ohio GOP",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Supreme Court, Big Bend, Justice Department",
+        "Politics desk signal: supreme court, court",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-        "Source context: The controversy over Ohio GOP gubernatorial candidate Vivek Ramaswamy's ad featuring his Democratic opponent Amy Acton's mother is pitting President..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ramaswamy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 22 Oct 2026 22:04:15 +0000",
-      "age_hours": "10.98",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court rules NH can block voters from using student IDs",
-      "url": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/",
-      "snapshot": "The Supreme Court on Thursday ruled New Hampshire's top election official can fully stop voters from using their student IDs when showing up to the polls in the midterms — a request backed by the Republican National Committee (RNC). A lower judge ruled officials had improperly... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, IDs",
-        "Politics desk signal: supreme court, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rules NH can block voters from using student IDs",
-        "Source context: The Supreme Court on Thursday ruled New Hampshire's top election official can fully stop voters from using their student IDs when showing up to the..."
+        "Story focus: DOJ asks Supreme Court to allow border wall construction in Big Bend region",
+        "Source context: The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a..."
       ],
       "why_it_matters": [
         "This has legal and institutional consequences beyond one news cycle.",
@@ -282,25 +250,25 @@
         "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 22 Oct 2026 22:50:58 +0000",
-      "age_hours": "10.20",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 22 Oct 2026 12:40:45 -0400",
+      "age_hours": "20.35",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
-      "snapshot": "US federal agents raided the congresswoman's home last week as part of an investigation into alleged immigration fraud. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump announces he'll use Defense Production Act to increase domestic gas production",
+      "url": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/",
+      "snapshot": "President Trump invoked the Defense Production Act on Thursday, announcing that the government would be spending $150 million toward boosting domestic gas and diesel production as the White House looks to ease consumer pain at the gas pump. The announcement was made in a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Ilhan Omar, Washington DC",
-        "Politics desk signal: congress, immigration",
+        "Key people or organizations: Trump, Defense Production Act, President Trump, White House",
+        "Specific figures mentioned: $150 million",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ilhan Omar plans to move out of her Washington DC home after federal raid",
-        "Source context: US federal agents raided the congresswoman's home last week as part of an investigation into alleged immigration fraud. The key question is leverage:..."
+        "Story focus: Trump announces he'll use Defense Production Act to increase domestic gas production"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,36 +276,64 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ilhan Omar.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 02:54:59 +0000",
+      "age_hours": "10.11",
+      "freshness_status": "fresh",
+      "editorial_score": "103",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "url": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
+      "snapshot": "Cameroonians are wondering who Biya will appoint as vice president and possible successor.",
+      "key_data": [
+        "Key people or organizations: As President Paul Biya, Biya",
+        "Story focus: As President Paul Biya returns to Cameroon, can he still rule?",
+        "Source context: Cameroonians are wondering who Biya will appoint as vice president and possible successor."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving As President Paul Biya.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Power, policy or public-trust angle.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 23 Oct 2026 02:09:38 +0000",
-      "age_hours": "6.89",
+      "published": "Fri, 23 Oct 2026 12:52:28 +0000",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "DEVELOPING"
+      "editorial_score": "52",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump says Iran is making up strikes on ships to drive up oil prices",
+    "Trump ties big promises to GOP midterm election wins",
     "Trump focuses on farmers in Iowa visit, as GOP struggles on fertile ground",
-    "Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment"
+    "Trump announces he'll use Defense Production Act to increase domestic gas production"
   ],
   "sections": [
     {
-      "headline": "Trump says Iran is making up strikes on ships to drive up oil prices",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
-      "snapshot": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump ties big promises to GOP midterm election wins",
+      "url": "https://thehill.com/homenews/administration/6166920-trump-midterm-campaign-promises-republicans/",
+      "snapshot": "President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections. Trump and the GOP are hoping his big promises to voters will get them out to the polls on Election Day in less than two weeks.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, GOP, President Trump, Republicans",
+        "Politics desk signal: election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says Iran is making up strikes on ships to drive up oil prices",
-        "Source context: President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in..."
+        "Story focus: Trump ties big promises to GOP midterm election wins",
+        "Source context: President Trump's growing list of promised \"goodies\" if Republicans win has become more niche the closer the country gets to the midterm elections...."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -350,13 +346,13 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Thu, 22 Oct 2026 19:09:59 -0400",
-      "age_hours": "9.89",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "age_hours": "3.02",
       "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
+      "editorial_score": "119",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Trump focuses on farmers in Iowa visit, as GOP struggles on fertile ground",
@@ -383,111 +379,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 22 Oct 2026 23:22:56 -0400",
-      "age_hours": "5.67",
+      "age_hours": "9.64",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-      "url": "https://thehill.com/homenews/campaign/6166837-ramaswamy-acton-mother-ad-controversy/",
-      "snapshot": "The controversy over Ohio GOP gubernatorial candidate Vivek Ramaswamy's ad featuring his Democratic opponent Amy Acton's mother is pitting President Trump and Vice President Vance against Ohio's Republican establishment less than two weeks out from Election Day. A number of... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "headline": "Trump announces he'll use Defense Production Act to increase domestic gas production",
+      "url": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/",
+      "snapshot": "President Trump invoked the Defense Production Act on Thursday, announcing that the government would be spending $150 million toward boosting domestic gas and diesel production as the White House looks to ease consumer pain at the gas pump. The announcement was made in a... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Ramaswamy, Trump, Vance, Ohio GOP",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Trump, Defense Production Act, President Trump, White House",
+        "Specific figures mentioned: $150 million",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ramaswamy controversy pits Trump, Vance against Ohio GOP establishment",
-        "Source context: The controversy over Ohio GOP gubernatorial candidate Vivek Ramaswamy's ad featuring his Democratic opponent Amy Acton's mother is pitting President..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ramaswamy.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 22 Oct 2026 22:04:15 +0000",
-      "age_hours": "10.98",
-      "freshness_status": "fresh",
-      "editorial_score": "115",
-      "urgency": ""
-    },
-    {
-      "headline": "Supreme Court rules NH can block voters from using student IDs",
-      "url": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/",
-      "snapshot": "The Supreme Court on Thursday ruled New Hampshire's top election official can fully stop voters from using their student IDs when showing up to the polls in the midterms — a request backed by the Republican National Committee (RNC). A lower judge ruled officials had improperly... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Supreme Court, IDs",
-        "Politics desk signal: supreme court, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Supreme Court rules NH can block voters from using student IDs",
-        "Source context: The Supreme Court on Thursday ruled New Hampshire's top election official can fully stop voters from using their student IDs when showing up to the..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Supreme Court.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 22 Oct 2026 22:50:58 +0000",
-      "age_hours": "10.20",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
-      "snapshot": "US federal agents raided the congresswoman's home last week as part of an investigation into alleged immigration fraud. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Ilhan Omar, Washington DC",
-        "Politics desk signal: congress, immigration",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ilhan Omar plans to move out of her Washington DC home after federal raid",
-        "Source context: US federal agents raided the congresswoman's home last week as part of an investigation into alleged immigration fraud. The key question is leverage:..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ilhan Omar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Fri, 23 Oct 2026 02:09:38 +0000",
-      "age_hours": "6.89",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump backs Ramaswamy ad featuring rival Amy Acton's estranged mother",
-      "url": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
-      "snapshot": "Trump advises the Republican gubernatorial candidate to keep running the controversial advertisement. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Amy Acton",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump backs Ramaswamy ad featuring rival Amy Acton's estranged mother",
-        "Source context: Trump advises the Republican gubernatorial candidate to keep running the controversial advertisement. The election angle is whether this changes..."
+        "Story focus: Trump announces he'll use Defense Production Act to increase domestic gas production"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -499,14 +405,102 @@
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 02:54:59 +0000",
+      "age_hours": "10.11",
+      "freshness_status": "fresh",
+      "editorial_score": "103",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "DOJ asks Supreme Court to allow border wall construction in Big Bend region",
+      "url": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
+      "snapshot": "The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a border wall and related infrastructure in the Big Bend Sector. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Supreme Court, Big Bend, Justice Department",
+        "Politics desk signal: supreme court, court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: DOJ asks Supreme Court to allow border wall construction in Big Bend region",
+        "Source context: The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Supreme Court.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 22 Oct 2026 12:40:45 -0400",
+      "age_hours": "20.35",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "url": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
+      "snapshot": "Cameroonians are wondering who Biya will appoint as vice president and possible successor.",
+      "key_data": [
+        "Key people or organizations: As President Paul Biya, Biya",
+        "Story focus: As President Paul Biya returns to Cameroon, can he still rule?",
+        "Source context: Cameroonians are wondering who Biya will appoint as vice president and possible successor."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving As President Paul Biya.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Power, policy or public-trust angle.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Fri, 23 Oct 2026 02:22:24 +0000",
-      "age_hours": "6.68",
+      "published": "Fri, 23 Oct 2026 12:52:28 +0000",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "52",
       "urgency": ""
+    },
+    {
+      "headline": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
+      "url": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/",
+      "snapshot": "The Department of Justice (DOJ) on Thursday asked an appeals court to intervene in its lawsuit against California to temporarily block the state from counting more than 20,000 mail-in ballots cast by what the Trump administration claims are from non-U.S. citizens. The request,... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: DOJ, California",
+        "Specific figures mentioned: 20, 000",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: DOJ asks appeals court to intervene for California mail-in ballot lawsuit"
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving DOJ.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 23 Oct 2026 03:12:45 +0000",
+      "age_hours": "9.81",
+      "freshness_status": "fresh",
+      "editorial_score": "95",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
