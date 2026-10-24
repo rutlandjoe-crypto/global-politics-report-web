@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
   "snapshot": "The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary Peltola because of the other Dan Sullivan who is on the ballot. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-10-24 03:39:11 AM ET",
-  "generated_at": "2026-10-24 03:39:11 AM ET",
+  "updated_at": "2026-10-24 06:11:53 AM ET",
+  "generated_at": "2026-10-24 06:11:53 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 58,
-    "editor_fresh_items": 148,
+    "live_fresh_items": 41,
+    "editor_fresh_items": 133,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 91,
+    "stale_or_blocked_items": 108,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-24 03:39:11 AM ET"
+    "last_checked": "2026-10-24 06:11:53 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 22:42:42 -0400",
-      "age_hours": "4.94",
+      "age_hours": "7.49",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -74,9 +74,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 01:53:56 +0000",
-      "age_hours": "5.75",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "111",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
+      "snapshot": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Ilhan Omar, Trump, US Congresswoman Ilhan Omar, US",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Ilhan Omar votes as Trump renews attacks amid federal probe",
+        "Source context: US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Ilhan Omar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 24 Oct 2026 09:16:19 +0000",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,37 +134,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 24 Oct 2026 05:04:32 +0000",
-      "age_hours": "2.58",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-      "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
-      "snapshot": "President Javier Milei's role in cryptocurrency launch does not translate into a fraudulent scheme, judge says. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Milei, President Javier Milei",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Argentinian judge drops fraud investigation into Milei over crypto scandal",
-        "Source context: President Javier Milei's role in cryptocurrency launch does not translate into a fraudulent scheme, judge says. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Milei.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 01:21:18 +0000",
-      "age_hours": "6.30",
+      "age_hours": "5.12",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 21:08:49 -0400",
-      "age_hours": "6.51",
+      "age_hours": "9.05",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 22:42:42 -0400",
-      "age_hours": "4.94",
+      "age_hours": "7.49",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -226,7 +226,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 21:08:49 -0400",
-      "age_hours": "6.51",
+      "age_hours": "9.05",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 01:53:56 +0000",
-      "age_hours": "5.75",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
@@ -286,21 +286,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 23 Oct 2026 15:35:47 +0000",
-      "age_hours": "16.06",
+      "age_hours": "18.60",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-      "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
-      "snapshot": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
+      "snapshot": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Israeli",
-        "Specific figures mentioned: 27",
+        "Key people or organizations: Ilhan Omar, Trump, US Congresswoman Ilhan Omar, US",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Lebanese sceptical Israeli polls will bring change, end occupation of south",
-        "Source context: Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country. The key question is leverage:..."
+        "Story focus: Ilhan Omar votes as Trump renews attacks amid federal probe",
+        "Source context: US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,17 +308,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israeli.",
+        "Watch for the next official action involving Ilhan Omar.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 05:04:32 +0000",
-      "age_hours": "2.58",
+      "published": "Sat, 24 Oct 2026 09:16:19 +0000",
+      "age_hours": "0.93",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "108",
       "urgency": "DEVELOPING"
     }
   ],
@@ -353,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 22:42:42 -0400",
-      "age_hours": "4.94",
+      "age_hours": "7.49",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 21:08:49 -0400",
-      "age_hours": "6.51",
+      "age_hours": "9.05",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -413,21 +413,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 01:53:56 +0000",
-      "age_hours": "5.75",
+      "age_hours": "8.30",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Bipartisan lawmakers press Hegseth to expand Ukraine's access to Starshield",
-      "url": "https://thehill.com/homenews/house/6169094-lawmakers-press-trump-hegseth-starshield-ukraine/",
-      "snapshot": "A bipartisan group of House and Senate lawmakers is pressing the Trump administration to restore and expand Ukraine's access to Starshield satellite systems, warning that a failure to do so will cripple Kyiv's military operations against Russia. In a letter to Defense... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
+      "snapshot": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Bipartisan, Ukraine, Starshield",
-        "Politics desk signal: senate, house, ukraine",
+        "Key people or organizations: Ilhan Omar, Trump, US Congresswoman Ilhan Omar, US",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Bipartisan lawmakers press Hegseth to expand Ukraine's access to Starshield",
-        "Source context: A bipartisan group of House and Senate lawmakers is pressing the Trump administration to restore and expand Ukraine's access to Starshield satellite..."
+        "Story focus: Ilhan Omar votes as Trump renews attacks amid federal probe",
+        "Source context: US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,17 +435,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Bipartisan.",
+        "Watch for the next official action involving Ilhan Omar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 24 Oct 2026 09:16:19 +0000",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Why a blue wave might miss Minnesota's Senate race",
+      "url": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/",
+      "snapshot": "Political headwinds are blowing in Democrats' favor nationally, with high gas prices and President Trump's record-low approval rating creating a difficult midterm environment for Republicans. But in Minnesota's open Senate race to replace retiring Sen. Tina Smith (D),... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Minnesota, Senate, Democrats",
+        "Politics desk signal: senate",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Why a blue wave might miss Minnesota's Senate race",
+        "Source context: Political headwinds are blowing in Democrats' favor nationally, with high gas prices and President Trump's record-low approval rating creating a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Minnesota.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Fri, 23 Oct 2026 19:41:02 +0000",
-      "age_hours": "11.97",
+      "published": "Sat, 24 Oct 2026 10:00:00 +0000",
+      "age_hours": "0.20",
       "freshness_status": "fresh",
-      "editorial_score": "105",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -473,37 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 24 Oct 2026 05:04:32 +0000",
-      "age_hours": "2.58",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-      "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
-      "snapshot": "President Javier Milei's role in cryptocurrency launch does not translate into a fraudulent scheme, judge says. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Milei, President Javier Milei",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Argentinian judge drops fraud investigation into Milei over crypto scandal",
-        "Source context: President Javier Milei's role in cryptocurrency launch does not translate into a fraudulent scheme, judge says. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Milei.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 01:21:18 +0000",
-      "age_hours": "6.30",
+      "age_hours": "5.12",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
