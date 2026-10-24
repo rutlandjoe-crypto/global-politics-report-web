@@ -3,52 +3,22 @@
   "vertical": "Politics",
   "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
   "snapshot": "The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary Peltola because of the other Dan Sullivan who is on the ballot. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-10-24 06:02:08 PM ET",
-  "generated_at": "2026-10-24 06:02:08 PM ET",
+  "updated_at": "2026-10-24 06:51:09 PM ET",
+  "generated_at": "2026-10-24 06:51:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 149,
-    "live_fresh_items": 54,
+    "live_fresh_items": 55,
     "editor_fresh_items": 139,
     "public_fallback_items": 148,
-    "stale_or_blocked_items": 95,
+    "stale_or_blocked_items": 94,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-24 06:02:08 PM ET"
+    "last_checked": "2026-10-24 06:51:09 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Justice Department sues to block Alaska results if Sullivan loses",
-      "url": "https://thehill.com/homenews/campaign/6168331-justice-department-sues-to-block-alaska-results-if-sullivan-loses/",
-      "snapshot": "The Trump administration has filed a lawsuit that aims to block certification of the Senate election in Alaska if incumbent Republican Sen. Dan Sullivan loses his reelection bid. The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska, argues that a... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Justice Department, Alaska, Sullivan, Trump",
-        "Politics desk signal: senate, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Justice Department sues to block Alaska results if Sullivan loses",
-        "Source context: The Trump administration has filed a lawsuit that aims to block certification of the Senate election in Alaska if incumbent Republican Sen. Dan..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Justice Department.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 23 Oct 2026 15:35:47 +0000",
-      "age_hours": "30.44",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "109",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
       "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
@@ -74,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 24 Oct 2026 16:15:44 -0400",
-      "age_hours": "1.77",
+      "age_hours": "2.59",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -103,10 +73,40 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 24 Oct 2026 18:30:56 +0000",
-      "age_hours": "3.52",
+      "age_hours": "4.34",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "How have Democrats' policies shifted since the last major US election?",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "snapshot": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Democrats, Israel, Gaza",
+        "Politics desk signal: election, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How have Democrats' policies shifted since the last major US election?",
+        "Source context: From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
     },
     {
       "headline": "Trump's former campaign manager on GOP ahead of midterms: 'It's ugly'",
@@ -133,7 +133,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 18:55:51 +0000",
-      "age_hours": "3.10",
+      "age_hours": "3.92",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -163,7 +163,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 24 Oct 2026 17:01:28 -0400",
-      "age_hours": "1.01",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 24 Oct 2026 16:15:44 -0400",
-      "age_hours": "1.77",
+      "age_hours": "2.59",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -225,7 +225,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 18:55:51 +0000",
-      "age_hours": "3.10",
+      "age_hours": "3.92",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -255,7 +255,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 23 Oct 2026 15:35:47 +0000",
-      "age_hours": "30.44",
+      "age_hours": "31.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
@@ -285,39 +285,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 24 Oct 2026 17:01:28 -0400",
-      "age_hours": "1.01",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Thousands gather at new Albanian antigovernment rally",
-      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-      "snapshot": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "How have Democrats' policies shifted since the last major US election?",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "snapshot": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Albanian",
-        "Specific figures mentioned: 300",
-        "Story focus: Thousands gather at new Albanian antigovernment rally",
-        "Source context: More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days. The geopolitical angle is how the..."
+        "Key people or organizations: Democrats, Israel, Gaza",
+        "Politics desk signal: election, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How have Democrats' policies shifted since the last major US election?",
+        "Source context: From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues. The key question is leverage:..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Albanian.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 18:30:56 +0000",
-      "age_hours": "3.52",
+      "published": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
+      "editorial_score": "88",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -351,7 +352,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 24 Oct 2026 16:15:44 -0400",
-      "age_hours": "1.77",
+      "age_hours": "2.59",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -381,7 +382,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 18:55:51 +0000",
-      "age_hours": "3.10",
+      "age_hours": "3.92",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -411,7 +412,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 24 Oct 2026 17:01:28 -0400",
-      "age_hours": "1.01",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -441,9 +442,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 20:38:56 +0000",
-      "age_hours": "1.39",
+      "age_hours": "2.20",
       "freshness_status": "fresh",
       "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "How have Democrats' policies shifted since the last major US election?",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "snapshot": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Democrats, Israel, Gaza",
+        "Politics desk signal: election, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: How have Democrats' policies shifted since the last major US election?",
+        "Source context: From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Democrats.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
       "urgency": ""
     },
     {
@@ -470,39 +501,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 24 Oct 2026 18:30:56 +0000",
-      "age_hours": "3.52",
+      "age_hours": "4.34",
       "freshness_status": "fresh",
       "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Justice Department sues to block Alaska results if Sullivan loses",
-      "url": "https://thehill.com/homenews/campaign/6168331-justice-department-sues-to-block-alaska-results-if-sullivan-loses/",
-      "snapshot": "The Trump administration has filed a lawsuit that aims to block certification of the Senate election in Alaska if incumbent Republican Sen. Dan Sullivan loses his reelection bid. The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska, argues that a... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Justice Department, Alaska, Sullivan, Trump",
-        "Politics desk signal: senate, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Justice Department sues to block Alaska results if Sullivan loses",
-        "Source context: The Trump administration has filed a lawsuit that aims to block certification of the Senate election in Alaska if incumbent Republican Sen. Dan..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Justice Department.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 23 Oct 2026 15:35:47 +0000",
-      "age_hours": "30.44",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "109",
       "urgency": "DEVELOPING"
     }
   ],
