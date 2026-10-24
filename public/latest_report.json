@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
-  "snapshot": "The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary Peltola because of the other Dan Sullivan who is on the ballot. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-10-24 10:13:25 AM ET",
-  "generated_at": "2026-10-24 10:13:25 AM ET",
+  "headline": "Why a blue wave might miss Minnesota's Senate race",
+  "snapshot": "Political headwinds are blowing in Democrats' favor nationally, with high gas prices and President Trump's record-low approval rating creating a difficult midterm environment for Republicans. But in Minnesota's open Senate race to replace retiring Sen. Tina Smith (D),... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+  "updated_at": "2026-10-24 12:19:08 PM ET",
+  "generated_at": "2026-10-24 12:19:08 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 148,
-    "live_fresh_items": 41,
-    "editor_fresh_items": 130,
-    "public_fallback_items": 147,
-    "stale_or_blocked_items": 107,
+    "total_items_checked": 149,
+    "live_fresh_items": 44,
+    "editor_fresh_items": 133,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 105,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-24 10:13:25 AM ET"
+    "last_checked": "2026-10-24 12:19:08 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,37 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 22:42:42 -0400",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
+      "age_hours": "13.61",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-      "snapshot": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Rubio calls on Cubans seeking \"positive change\" to work with CIA",
+      "url": "https://www.cbsnews.com/news/rubio-cuban-work-with-cia/",
+      "snapshot": "The CIA posted a video on X showing the steps needed to contact the intelligence agency.",
       "key_data": [
-        "Key people or organizations: Ilhan Omar, Trump, US Congresswoman Ilhan Omar, US",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ilhan Omar votes as Trump renews attacks amid federal probe",
-        "Source context: US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public..."
+        "Key people or organizations: CIA",
+        "Story focus: Rubio calls on Cubans seeking \"positive change\" to work with CIA",
+        "Source context: The CIA posted a video on X showing the steps needed to contact the intelligence agency."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ilhan Omar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving CIA.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 09:16:19 +0000",
-      "age_hours": "4.95",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 24 Oct 2026 11:49:32 -0400",
+      "age_hours": "0.49",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "80",
       "urgency": "DEVELOPING"
     },
     {
@@ -104,7 +102,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 24 Oct 2026 13:12:03 +0000",
-      "age_hours": "1.02",
+      "age_hours": "3.12",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -134,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "age_hours": "4.22",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -164,7 +162,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 13:51:47 +0000",
-      "age_hours": "0.36",
+      "age_hours": "2.46",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
@@ -196,9 +194,9 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 22:42:42 -0400",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
+      "age_hours": "13.61",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -226,39 +224,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 23 Oct 2026 15:35:47 +0000",
-      "age_hours": "22.63",
+      "age_hours": "24.72",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-      "snapshot": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Ilhan Omar, Trump, US Congresswoman Ilhan Omar, US",
-        "Politics desk signal: congress",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ilhan Omar votes as Trump renews attacks amid federal probe",
-        "Source context: US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Ilhan Omar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 09:16:19 +0000",
-      "age_hours": "4.95",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": "DEVELOPING"
     },
     {
@@ -286,7 +254,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "age_hours": "4.22",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -316,58 +284,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 23 Oct 2026 21:08:49 -0400",
-      "age_hours": "13.08",
+      "age_hours": "15.17",
       "freshness_status": "editor_fresh",
       "editorial_score": "94",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "DOJ sues to block Alaska Senate certification if Sullivan loses",
-    "Ilhan Omar votes as Trump renews attacks amid federal probe",
-    "Why a blue wave might miss Minnesota's Senate race"
-  ],
-  "sections": [
-    {
-      "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
-      "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
-      "snapshot": "The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary Peltola because of the other Dan Sullivan who is on the ballot. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Alaska Senate, Sullivan, Trump",
-        "Politics desk signal: senate, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ sues to block Alaska Senate certification if Sullivan loses",
-        "Source context: The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Alaska Senate.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 23 Oct 2026 22:42:42 -0400",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
-      "urgency": ""
     },
     {
-      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-      "snapshot": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "FIFA's Infantino touts global re-election support amid resignation questions",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss",
+      "snapshot": "Support from Asian federation bolsters FIFA's Gianni Infantino as he seeks re-election as president for a fourth term. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Ilhan Omar, Trump, US Congresswoman Ilhan Omar, US",
-        "Politics desk signal: congress",
+        "Key people or organizations: FIFA, Infantino, Support",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Ilhan Omar votes as Trump renews attacks amid federal probe",
-        "Source context: US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms. The key question is leverage: the next votes, negotiations and public..."
+        "Story focus: FIFA's Infantino touts global re-election support amid resignation questions",
+        "Source context: Support from Asian federation bolsters FIFA's Gianni Infantino as he seeks re-election as president for a fourth term. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -375,19 +306,26 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Ilhan Omar.",
+        "Watch for the next official action involving FIFA.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 24 Oct 2026 09:16:19 +0000",
-      "age_hours": "4.95",
+      "published": "Sat, 24 Oct 2026 13:12:03 +0000",
+      "age_hours": "3.12",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "DEVELOPING"
-    },
+      "editorial_score": "74",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Why a blue wave might miss Minnesota's Senate race",
+    "Trump hints that White House press area may be moved to another location",
+    "Rubio calls on Cubans seeking \"positive change\" to work with CIA"
+  ],
+  "sections": [
     {
       "headline": "Why a blue wave might miss Minnesota's Senate race",
       "url": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/",
@@ -413,7 +351,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "age_hours": "4.22",
+      "age_hours": "6.32",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -443,10 +381,38 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 24 Oct 2026 13:51:47 +0000",
-      "age_hours": "0.36",
+      "age_hours": "2.46",
       "freshness_status": "fresh",
       "editorial_score": "91",
       "urgency": ""
+    },
+    {
+      "headline": "Rubio calls on Cubans seeking \"positive change\" to work with CIA",
+      "url": "https://www.cbsnews.com/news/rubio-cuban-work-with-cia/",
+      "snapshot": "The CIA posted a video on X showing the steps needed to contact the intelligence agency.",
+      "key_data": [
+        "Key people or organizations: CIA",
+        "Story focus: Rubio calls on Cubans seeking \"positive change\" to work with CIA",
+        "Source context: The CIA posted a video on X showing the steps needed to contact the intelligence agency."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving CIA.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 24 Oct 2026 11:49:32 -0400",
+      "age_hours": "0.49",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "FIFA's Infantino touts global re-election support amid resignation questions",
@@ -473,21 +439,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 24 Oct 2026 13:12:03 +0000",
-      "age_hours": "1.02",
+      "age_hours": "3.12",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": ""
     },
     {
-      "headline": "DOJ demands California counties identify noncitizen voters: Reports",
-      "url": "https://thehill.com/homenews/administration/6169959-doj-warns-california-election-officials/",
-      "snapshot": "The Department of Justice (DOJ) on Friday sent letters to election officials in every California county asking that they identify potential noncitizens on their voter rolls, according to several reports. The letter warned local officials would \"risk significant federal... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
+      "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
+      "snapshot": "The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary Peltola because of the other Dan Sullivan who is on the ballot. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: DOJ, California, Reports",
-        "Politics desk signal: election",
+        "Key people or organizations: Alaska Senate, Sullivan, Trump",
+        "Politics desk signal: senate, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: DOJ demands California counties identify noncitizen voters",
-        "Source context: The Department of Justice (DOJ) on Friday sent letters to election officials in every California county asking that they identify potential..."
+        "Story focus: DOJ sues to block Alaska Senate certification if Sullivan loses",
+        "Source context: The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +461,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving DOJ.",
+        "Watch for the next official action involving Alaska Senate.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 23 Oct 2026 22:42:42 -0400",
+      "age_hours": "13.61",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Bill Maher to Karoline Leavitt: 'I don't give a s—', 'I like the ballroom'",
+      "url": "https://thehill.com/homenews/administration/6170078-maher-trump-ballroom-leavitt/",
+      "snapshot": "Bill Maher, a left leaning comedian and talk show host, told former White House Press Secretary Karoline Leavitt he actually likes President Trump's proposed ballroom in the East Wing, despite frequent criticism from Democrats. \"I don't give a s— about any of this. I like the... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Bill Maher, Karoline Leavitt, White House Press Secretary, President Trump",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Bill Maher to Karoline Leavitt",
+        "Source context: Bill Maher, a left leaning comedian and talk show host, told former White House Press Secretary Karoline Leavitt he actually likes President Trump's..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Bill Maher.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 24 Oct 2026 13:10:41 +0000",
-      "age_hours": "1.04",
+      "published": "Sat, 24 Oct 2026 15:56:10 +0000",
+      "age_hours": "0.38",
       "freshness_status": "fresh",
-      "editorial_score": "65",
+      "editorial_score": "67",
       "urgency": ""
     }
   ],
