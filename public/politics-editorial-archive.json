@@ -24,7 +24,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 25 Oct 2026 21:44:53 +0000",
-    "age_hours": "2.00",
+    "age_hours": "3.04",
     "freshness_status": "fresh",
     "editorial_score": "107",
     "urgency": ""
@@ -54,7 +54,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sun, 25 Oct 2026 21:41:10 +0000",
-    "age_hours": "2.07",
+    "age_hours": "3.10",
     "freshness_status": "fresh",
     "editorial_score": "108",
     "urgency": "DEVELOPING"
@@ -162,6 +162,36 @@
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Trump says he's weighing deal with Iran against action to \"finish them off\"",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+    "snapshot": "President Trump said he's deciding between reaching an agreement with Tehran and taking action to \"finish them off.\" The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, Iran, President Trump",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump says he's weighing deal with Iran against action to \"finish them off\"",
+      "Source context: President Trump said he's deciding between reaching an agreement with Tehran and taking action to \"finish them off.\" The election angle is whether..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Sun, 25 Oct 2026 15:55:04 -0400",
+    "age_hours": "4.87",
+    "freshness_status": "fresh",
+    "editorial_score": "100",
+    "urgency": "WATCH"
   },
   {
     "headline": "Trump accuses Fox News of giving too much airtime to GOP opponents",
@@ -274,7 +304,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Sun, 25 Oct 2026 13:38:42 -0400",
-    "age_hours": "6.11",
+    "age_hours": "7.14",
     "freshness_status": "fresh",
     "editorial_score": "102",
     "urgency": "DEVELOPING"
@@ -412,7 +442,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sun, 25 Oct 2026 16:00:00 +0000",
-    "age_hours": "7.75",
+    "age_hours": "8.79",
     "freshness_status": "fresh",
     "editorial_score": "135",
     "urgency": "BREAKING"
