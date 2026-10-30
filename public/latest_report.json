@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "DOJ issues new subpoenas in Alaska Senate probe",
   "snapshot": "The Justice Department has begun issuing a new wave of subpoenas stemming from an ongoing criminal investigation into Alaska's U.S. Senate race, multiple sources confirmed to CBS News. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-10-29 09:24:03 PM ET",
-  "generated_at": "2026-10-29 09:24:03 PM ET",
+  "updated_at": "2026-10-29 10:23:02 PM ET",
+  "generated_at": "2026-10-29 10:23:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 102,
-    "editor_fresh_items": 150,
-    "public_fallback_items": 150,
-    "stale_or_blocked_items": 48,
+    "total_items_checked": 149,
+    "live_fresh_items": 93,
+    "editor_fresh_items": 149,
+    "public_fallback_items": 149,
+    "stale_or_blocked_items": 56,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-29 09:24:03 PM ET"
+    "last_checked": "2026-10-29 10:23:02 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 29 Oct 2026 19:52:52 -0400",
-      "age_hours": "1.52",
+      "age_hours": "2.50",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 29 Oct 2026 18:20:19 +0000",
-      "age_hours": "7.06",
+      "age_hours": "8.04",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
@@ -104,38 +104,39 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 29 Oct 2026 21:10:13 +0000",
-      "age_hours": "4.23",
+      "age_hours": "5.21",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Pentagon fires general it says leaked classified information to media",
-      "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-      "snapshot": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Trump administration renews bid to block Alaska election results",
+      "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+      "snapshot": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Pentagon, Army Lieutenant General Brett, Iran",
-        "Politics desk signal: ukraine",
-        "Story focus: Pentagon fires general it says leaked classified information to media",
-        "Source context: Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine. The geopolitical angle is how the..."
+        "Key people or organizations: Trump",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration renews bid to block Alaska election results",
+        "Source context: The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters. The broader significance is..."
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 29 Oct 2026 19:02:19 +0000",
-      "age_hours": "6.36",
+      "published": "Fri, 30 Oct 2026 01:30:30 +0000",
+      "age_hours": "0.88",
       "freshness_status": "fresh",
-      "editorial_score": "80",
+      "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
@@ -163,7 +164,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 29 Oct 2026 18:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "8.38",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -195,7 +196,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 29 Oct 2026 19:52:52 -0400",
-      "age_hours": "1.52",
+      "age_hours": "2.50",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -225,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 29 Oct 2026 18:20:19 +0000",
-      "age_hours": "7.06",
+      "age_hours": "8.04",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
@@ -255,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 29 Oct 2026 18:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "8.38",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -285,39 +286,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 29 Oct 2026 20:51:34 -0400",
-      "age_hours": "0.54",
+      "age_hours": "1.52",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-      "snapshot": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump administration renews bid to block Alaska election results",
+      "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+      "snapshot": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
       "key_data": [
-        "Key people or organizations: Israel, Brad Lander, West Bank, US Democratic",
-        "Politics desk signal: congress",
+        "Key people or organizations: Trump",
+        "Politics desk signal: court, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Israel bans travel for Brad Lander after detention in occupied West Bank",
-        "Source context: Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained. The key question is leverage:..."
+        "Story focus: Trump administration renews bid to block Alaska election results",
+        "Source context: The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters. The broader significance is..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Israel.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 29 Oct 2026 21:10:13 +0000",
-      "age_hours": "4.23",
+      "published": "Fri, 30 Oct 2026 01:30:30 +0000",
+      "age_hours": "0.88",
       "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "114",
       "urgency": "DEVELOPING"
     }
   ],
@@ -352,7 +353,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 29 Oct 2026 19:52:52 -0400",
-      "age_hours": "1.52",
+      "age_hours": "2.50",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -382,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 29 Oct 2026 18:20:19 +0000",
-      "age_hours": "7.06",
+      "age_hours": "8.04",
       "freshness_status": "fresh",
       "editorial_score": "131",
       "urgency": "DEVELOPING"
@@ -412,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Thu, 29 Oct 2026 18:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "8.38",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -442,10 +443,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 29 Oct 2026 20:51:34 -0400",
-      "age_hours": "0.54",
+      "age_hours": "1.52",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
+    },
+    {
+      "headline": "Trump administration renews bid to block Alaska election results",
+      "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+      "snapshot": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "key_data": [
+        "Key people or organizations: Trump",
+        "Politics desk signal: court, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump administration renews bid to block Alaska election results",
+        "Source context: The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters. The broader significance is..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Fri, 30 Oct 2026 01:30:30 +0000",
+      "age_hours": "0.88",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Israel bans travel for Brad Lander after detention in occupied West Bank",
@@ -472,38 +503,9 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Thu, 29 Oct 2026 21:10:13 +0000",
-      "age_hours": "4.23",
+      "age_hours": "5.21",
       "freshness_status": "fresh",
       "editorial_score": "82",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Pentagon fires general it says leaked classified information to media",
-      "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-      "snapshot": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Pentagon, Army Lieutenant General Brett, Iran",
-        "Politics desk signal: ukraine",
-        "Story focus: Pentagon fires general it says leaked classified information to media",
-        "Source context: Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 29 Oct 2026 19:02:19 +0000",
-      "age_hours": "6.36",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
       "urgency": "DEVELOPING"
     }
   ],
