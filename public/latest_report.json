@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Judge skeptical of administration's defense of Trump's proposed arch",
-  "snapshot": "The Justice Department and a group of veterans faced off in court over the fate of the 250-foot arch that President Trump wants to build. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-10-31 03:56:48 AM ET",
-  "generated_at": "2026-10-31 03:56:48 AM ET",
+  "headline": "\"Trump holds 27th campaign rally as midterms near \"",
+  "snapshot": "President Trump is holding his 27th rally in 30 days on Friday, a sign of how competitive key congressional races have become as Election Day closes in. Weijia Jiang has the latest. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-10-31 04:59:52 AM ET",
+  "generated_at": "2026-10-31 04:59:52 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 148,
-    "live_fresh_items": 51,
-    "editor_fresh_items": 134,
+    "live_fresh_items": 45,
+    "editor_fresh_items": 125,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 97,
+    "stale_or_blocked_items": 103,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-31 03:56:48 AM ET"
+    "last_checked": "2026-10-31 04:59:52 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 30 Oct 2026 17:50:39 +0000",
-      "age_hours": "14.10",
+      "age_hours": "15.15",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "10/30: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/103026-the-takeout-with-major-garrett/",
+      "snapshot": "President Trump campaigns for Republicans in deep red Florida; Alaska Senate race intensifies amid DOJ probe into Dan Sullivan case. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, President Trump, Republicans",
+        "Specific figures mentioned: 10, 30",
+        "Politics desk signal: senate, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 10/30"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 30 Oct 2026 17:00:00 -0400",
+      "age_hours": "12.00",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,40 +104,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 31 Oct 2026 00:21:53 +0000",
-      "age_hours": "7.58",
+      "age_hours": "8.63",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Judge skeptical of administration's defense of Trump's proposed arch",
-      "url": "https://www.cbsnews.com/news/trump-arch-arguments-judge-hearing/",
-      "snapshot": "The Justice Department and a group of veterans faced off in court over the fate of the 250-foot arch that President Trump wants to build. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, Justice Department, President Trump",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge skeptical of administration's defense of Trump's proposed arch"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 30 Oct 2026 16:38:01 -0400",
-      "age_hours": "11.31",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
     },
     {
       "headline": "\"Trump holds 27th campaign rally as midterms near \"",
@@ -134,7 +134,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 30 Oct 2026 19:32:24 -0400",
-      "age_hours": "8.41",
+      "age_hours": "9.46",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 31 Oct 2026 05:07:25 +0000",
-      "age_hours": "2.82",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -172,36 +172,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "Judge skeptical of administration's defense of Trump's proposed arch",
-      "url": "https://www.cbsnews.com/news/trump-arch-arguments-judge-hearing/",
-      "snapshot": "The Justice Department and a group of veterans faced off in court over the fate of the 250-foot arch that President Trump wants to build. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, Justice Department, President Trump",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge skeptical of administration's defense of Trump's proposed arch"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 30 Oct 2026 16:38:01 -0400",
-      "age_hours": "11.31",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
       "headline": "\"Trump holds 27th campaign rally as midterms near \"",
       "url": "https://www.cbsnews.com/video/trump-holds-27th-campaign-rally-as-midterms-near/",
       "snapshot": "President Trump is holding his 27th rally in 30 days on Friday, a sign of how competitive key congressional races have become as Election Day closes in. Weijia Jiang has the latest. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
@@ -226,10 +196,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 30 Oct 2026 19:32:24 -0400",
-      "age_hours": "8.41",
+      "age_hours": "9.46",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
+    },
+    {
+      "headline": "10/30: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/103026-the-takeout-with-major-garrett/",
+      "snapshot": "President Trump campaigns for Republicans in deep red Florida; Alaska Senate race intensifies amid DOJ probe into Dan Sullivan case. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, President Trump, Republicans",
+        "Specific figures mentioned: 10, 30",
+        "Politics desk signal: senate, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 10/30"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 30 Oct 2026 17:00:00 -0400",
+      "age_hours": "12.00",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Judge opens East Potomac Park probe into potential DOJ misconduct",
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 30 Oct 2026 17:50:39 +0000",
-      "age_hours": "14.10",
+      "age_hours": "15.15",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
@@ -286,7 +286,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 30 Oct 2026 22:02:32 +0000",
-      "age_hours": "9.90",
+      "age_hours": "10.95",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -316,48 +316,18 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 31 Oct 2026 05:07:25 +0000",
-      "age_hours": "2.82",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Judge skeptical of administration's defense of Trump's proposed arch",
     "\"Trump holds 27th campaign rally as midterms near \"",
+    "10/30: The Takeout with Major Garrett",
     "Cruz warns GOP could lose 8 Senate seats, get swept in Texas"
   ],
   "sections": [
-    {
-      "headline": "Judge skeptical of administration's defense of Trump's proposed arch",
-      "url": "https://www.cbsnews.com/news/trump-arch-arguments-judge-hearing/",
-      "snapshot": "The Justice Department and a group of veterans faced off in court over the fate of the 250-foot arch that President Trump wants to build. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Trump, Justice Department, President Trump",
-        "Specific figures mentioned: 250",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Judge skeptical of administration's defense of Trump's proposed arch"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 30 Oct 2026 16:38:01 -0400",
-      "age_hours": "11.31",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
     {
       "headline": "\"Trump holds 27th campaign rally as midterms near \"",
       "url": "https://www.cbsnews.com/video/trump-holds-27th-campaign-rally-as-midterms-near/",
@@ -383,10 +353,40 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 30 Oct 2026 19:32:24 -0400",
-      "age_hours": "8.41",
+      "age_hours": "9.46",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
+    },
+    {
+      "headline": "10/30: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/103026-the-takeout-with-major-garrett/",
+      "snapshot": "President Trump campaigns for Republicans in deep red Florida; Alaska Senate race intensifies amid DOJ probe into Dan Sullivan case. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Major Garrett, President Trump, Republicans",
+        "Specific figures mentioned: 10, 30",
+        "Politics desk signal: senate, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 10/30"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Major Garrett.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 30 Oct 2026 17:00:00 -0400",
+      "age_hours": "12.00",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Cruz warns GOP could lose 8 Senate seats, get swept in Texas",
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 30 Oct 2026 22:02:32 +0000",
-      "age_hours": "9.90",
+      "age_hours": "10.95",
       "freshness_status": "fresh",
       "editorial_score": "99",
       "urgency": ""
@@ -443,7 +443,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 31 Oct 2026 00:21:53 +0000",
-      "age_hours": "7.58",
+      "age_hours": "8.63",
       "freshness_status": "fresh",
       "editorial_score": "95",
       "urgency": "DEVELOPING"
@@ -473,7 +473,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sat, 31 Oct 2026 05:07:25 +0000",
-      "age_hours": "2.82",
+      "age_hours": "3.87",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -503,7 +503,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 30 Oct 2026 17:50:39 +0000",
-      "age_hours": "14.10",
+      "age_hours": "15.15",
       "freshness_status": "editor_fresh",
       "editorial_score": "109",
       "urgency": "DEVELOPING"
