@@ -50,7 +50,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 31 Oct 2026 05:07:25 +0000",
-    "age_hours": "2.82",
+    "age_hours": "3.87",
     "freshness_status": "fresh",
     "editorial_score": "78",
     "urgency": ""
@@ -158,7 +158,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 31 Oct 2026 00:21:53 +0000",
-    "age_hours": "7.58",
+    "age_hours": "8.63",
     "freshness_status": "fresh",
     "editorial_score": "95",
     "urgency": "DEVELOPING"
@@ -188,7 +188,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 30 Oct 2026 19:32:24 -0400",
-    "age_hours": "8.41",
+    "age_hours": "9.46",
     "freshness_status": "fresh",
     "editorial_score": "116",
     "urgency": ""
@@ -356,6 +356,36 @@
     "freshness_status": "fresh",
     "editorial_score": "70",
     "urgency": ""
+  },
+  {
+    "headline": "10/30: The Takeout with Major Garrett",
+    "url": "https://www.cbsnews.com/video/103026-the-takeout-with-major-garrett/",
+    "snapshot": "President Trump campaigns for Republicans in deep red Florida; Alaska Senate race intensifies amid DOJ probe into Dan Sullivan case. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: Major Garrett, President Trump, Republicans",
+      "Specific figures mentioned: 10, 30",
+      "Politics desk signal: senate, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: 10/30"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Major Garrett.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Fri, 30 Oct 2026 17:00:00 -0400",
+    "age_hours": "12.00",
+    "freshness_status": "fresh",
+    "editorial_score": "110",
+    "urgency": "DEVELOPING"
   },
   {
     "headline": "Judge skeptical of administration's defense of Trump's proposed arch",
@@ -550,7 +580,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 30 Oct 2026 17:50:39 +0000",
-    "age_hours": "14.10",
+    "age_hours": "15.15",
     "freshness_status": "editor_fresh",
     "editorial_score": "109",
     "urgency": "DEVELOPING"
