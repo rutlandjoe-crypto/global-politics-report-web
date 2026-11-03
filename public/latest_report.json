@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "Attorney and Trump foe targeted in Alaska ballot probe, sources say",
   "snapshot": "Marc Elias, a longtime Democratic attorney and vocal opponent of the Trump administration, received one of about 20 target letters sent by the DOJ in its Alaska ballot investigation. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-11-03 04:28:22 PM ET",
-  "generated_at": "2026-11-03 04:28:22 PM ET",
+  "updated_at": "2026-11-03 06:44:45 PM ET",
+  "generated_at": "2026-11-03 06:44:45 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 83,
-    "live_fresh_items": 65,
-    "editor_fresh_items": 78,
-    "public_fallback_items": 83,
+    "total_items_checked": 97,
+    "live_fresh_items": 79,
+    "editor_fresh_items": 94,
+    "public_fallback_items": 97,
     "stale_or_blocked_items": 18,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-03 04:28:22 PM ET"
+    "last_checked": "2026-11-03 06:44:45 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,21 +44,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 03 Nov 2026 14:59:00 -0500",
-      "age_hours": "1.49",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-      "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
-      "snapshot": "President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Trump issues Election Day proclamations on space, communism",
+      "url": "https://thehill.com/homenews/6194490-trump-space-communism-proclamation/",
+      "snapshot": "President Trump marked Election Day by issuing two proclamations on space and anti-communism on Tuesday. The president signed \"the American Declaration of Freedom in Space,\" which states Earth's solar system and outer space \"are open to exploration, development, use, and the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Trump, GOP, President Trump",
+        "Key people or organizations: Trump, Election Day, President Trump, American Declaration",
         "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-        "Source context: President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party..."
+        "Story focus: Trump issues Election Day proclamations on space, communism",
+        "Source context: President Trump marked Election Day by issuing two proclamations on space and anti-communism on Tuesday. The president signed \"the American..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -67,28 +67,58 @@
       ],
       "what_to_watch": [
         "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 03 Nov 2026 23:32:22 +0000",
+      "age_hours": "0.21",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": ""
+    },
+    {
+      "headline": "Senate election updates as first polls begin to close",
+      "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+      "snapshot": "Republicans are defending a 53-47 majority in the Senate, as Democrats aim to flip enough seats to gain control. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Senate, Republicans, Democrats",
+        "Specific figures mentioned: 53, 47",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Senate election updates as first polls begin to close"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 03 Nov 2026 06:25:00 -0500",
-      "age_hours": "10.06",
+      "published": "Tue, 03 Nov 2026 18:35:59 -0500",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump's tariff claims need evidence, not a rubber stamp",
-      "url": "https://thehill.com/opinion/international/6190755-itc-trump-canada-tariffs/",
-      "snapshot": "Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president's conclusions. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump-backed Kentucky Republican wins Massie House seat",
+      "url": "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/",
+      "snapshot": "Republican Ed Gallrein, a retired Navy SEAL and farmer, is projected to win in the race to represent Kentucky's 4th Congressional District, a seat currently held by President Trump critic Rep. Thomas Massie (R-Ky.), according to Decision Desk HQ (DDHQ). Gallrein, whom Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Congress, International Trade Commission",
-        "Politics desk signal: congress, tariff",
+        "Key people or organizations: Trump, Kentucky Republican, Massie House, Republican Ed Gallrein",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: congress, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's tariff claims need evidence, not a rubber stamp",
-        "Source context: Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president's conclusions. The key..."
+        "Story focus: Trump-backed Kentucky Republican wins Massie House seat"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -103,40 +133,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 03 Nov 2026 17:30:00 +0000",
-      "age_hours": "3.97",
+      "published": "Tue, 03 Nov 2026 23:20:09 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Connecticut live results: 2026 House elections",
-      "url": "https://thehill.com/homenews/house/6182308-connecticut-live-results-2026-house-elections/",
-      "snapshot": "Connecticut voters on Tuesday will pick their U.S. representatives for the next two years. The Constitution State has five congressional districts, all of which are currently represented by Democrats. Democratic Reps. Joe Courtney, Rosa DeLauro, Jim Himes and Jahana Hayes are... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Connecticut, Constitution State, Democrats",
-        "Specific figures mentioned: 2026",
-        "Politics desk signal: congress, house, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Connecticut live results"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Connecticut.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "age_hours": "4.47",
-      "freshness_status": "fresh",
-      "editorial_score": "89",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 03 Nov 2026 20:00:30 +0000",
-      "age_hours": "1.46",
+      "age_hours": "3.74",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -196,21 +196,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 03 Nov 2026 14:59:00 -0500",
-      "age_hours": "1.49",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-      "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
-      "snapshot": "President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
+      "url": "https://www.cbsnews.com/news/judge-dismisses-ex-fbi-officials-hunter-biden-case/",
+      "snapshot": "The two former FBI officials, Nicole Floris and Bradley Benavides, were accused of falsely suggesting to Congress that they weren't aware of the federal investigations surrounding Hunter Biden. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, GOP, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: FBI, Hunter Biden, Nicole Floris",
+        "Specific figures mentioned: 2",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-        "Source context: President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party..."
+        "Story focus: Case dismissed against 2 ex-FBI officials in Hunter Biden probe"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -218,29 +218,59 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving FBI.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 03 Nov 2026 06:25:00 -0500",
-      "age_hours": "10.06",
+      "published": "Mon, 02 Nov 2026 14:34:20 -0500",
+      "age_hours": "28.17",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "112",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump issues Election Day proclamations on space, communism",
+      "url": "https://thehill.com/homenews/6194490-trump-space-communism-proclamation/",
+      "snapshot": "President Trump marked Election Day by issuing two proclamations on space and anti-communism on Tuesday. The president signed \"the American Declaration of Freedom in Space,\" which states Earth's solar system and outer space \"are open to exploration, development, use, and the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
+      "key_data": [
+        "Key people or organizations: Trump, Election Day, President Trump, American Declaration",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump issues Election Day proclamations on space, communism",
+        "Source context: President Trump marked Election Day by issuing two proclamations on space and anti-communism on Tuesday. The president signed \"the American..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 03 Nov 2026 23:32:22 +0000",
+      "age_hours": "0.21",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "105",
       "urgency": ""
     },
     {
-      "headline": "Trump's tariff claims need evidence, not a rubber stamp",
-      "url": "https://thehill.com/opinion/international/6190755-itc-trump-canada-tariffs/",
-      "snapshot": "Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president's conclusions. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump-backed Kentucky Republican wins Massie House seat",
+      "url": "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/",
+      "snapshot": "Republican Ed Gallrein, a retired Navy SEAL and farmer, is projected to win in the race to represent Kentucky's 4th Congressional District, a seat currently held by President Trump critic Rep. Thomas Massie (R-Ky.), according to Decision Desk HQ (DDHQ). Gallrein, whom Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Trump, Congress, International Trade Commission",
-        "Politics desk signal: congress, tariff",
+        "Key people or organizations: Trump, Kentucky Republican, Massie House, Republican Ed Gallrein",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: congress, house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's tariff claims need evidence, not a rubber stamp",
-        "Source context: Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president's conclusions. The key..."
+        "Story focus: Trump-backed Kentucky Republican wins Massie House seat"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -255,40 +285,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 03 Nov 2026 17:30:00 +0000",
-      "age_hours": "3.97",
+      "published": "Tue, 03 Nov 2026 23:20:09 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Connecticut live results: 2026 House elections",
-      "url": "https://thehill.com/homenews/house/6182308-connecticut-live-results-2026-house-elections/",
-      "snapshot": "Connecticut voters on Tuesday will pick their U.S. representatives for the next two years. The Constitution State has five congressional districts, all of which are currently represented by Democrats. Democratic Reps. Joe Courtney, Rosa DeLauro, Jim Himes and Jahana Hayes are... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Connecticut, Constitution State, Democrats",
-        "Specific figures mentioned: 2026",
-        "Politics desk signal: congress, house, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Connecticut live results"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Connecticut.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "age_hours": "4.47",
-      "freshness_status": "fresh",
-      "editorial_score": "89",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -316,7 +316,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 03 Nov 2026 20:00:30 +0000",
-      "age_hours": "1.46",
+      "age_hours": "3.74",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
@@ -324,8 +324,8 @@
   ],
   "key_storylines": [
     "Attorney and Trump foe targeted in Alaska ballot probe, sources say",
-    "Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-    "Trump's tariff claims need evidence, not a rubber stamp"
+    "Senate election updates as first polls begin to close",
+    "Trump issues Election Day proclamations on space, communism"
   ],
   "sections": [
     {
@@ -353,21 +353,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Tue, 03 Nov 2026 14:59:00 -0500",
-      "age_hours": "1.49",
+      "age_hours": "3.76",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-      "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
-      "snapshot": "President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Senate election updates as first polls begin to close",
+      "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+      "snapshot": "Republicans are defending a 53-47 majority in the Senate, as Democrats aim to flip enough seats to gain control. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, GOP, President Trump",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Senate, Republicans, Democrats",
+        "Specific figures mentioned: 53, 47",
+        "Politics desk signal: senate, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump tells GOP \"we gave this a very strong shot\" as campaign winds down",
-        "Source context: President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party..."
+        "Story focus: Senate election updates as first polls begin to close"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -375,29 +375,59 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
+        "Watch for the next official action involving Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Tue, 03 Nov 2026 06:25:00 -0500",
-      "age_hours": "10.06",
+      "published": "Tue, 03 Nov 2026 18:35:59 -0500",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Trump's tariff claims need evidence, not a rubber stamp",
-      "url": "https://thehill.com/opinion/international/6190755-itc-trump-canada-tariffs/",
-      "snapshot": "Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president's conclusions. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump issues Election Day proclamations on space, communism",
+      "url": "https://thehill.com/homenews/6194490-trump-space-communism-proclamation/",
+      "snapshot": "President Trump marked Election Day by issuing two proclamations on space and anti-communism on Tuesday. The president signed \"the American Declaration of Freedom in Space,\" which states Earth's solar system and outer space \"are open to exploration, development, use, and the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
       "key_data": [
-        "Key people or organizations: Trump, Congress, International Trade Commission",
-        "Politics desk signal: congress, tariff",
+        "Key people or organizations: Trump, Election Day, President Trump, American Declaration",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's tariff claims need evidence, not a rubber stamp",
-        "Source context: Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president's conclusions. The key..."
+        "Story focus: Trump issues Election Day proclamations on space, communism",
+        "Source context: President Trump marked Election Day by issuing two proclamations on space and anti-communism on Tuesday. The president signed \"the American..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Tue, 03 Nov 2026 23:32:22 +0000",
+      "age_hours": "0.21",
+      "freshness_status": "fresh",
+      "editorial_score": "105",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump-backed Kentucky Republican wins Massie House seat",
+      "url": "https://thehill.com/homenews/campaign/6186595-trump-backed-kentucky-republican-wins-house-seat/",
+      "snapshot": "Republican Ed Gallrein, a retired Navy SEAL and farmer, is projected to win in the race to represent Kentucky's 4th Congressional District, a seat currently held by President Trump critic Rep. Thomas Massie (R-Ky.), according to Decision Desk HQ (DDHQ). Gallrein, whom Trump... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, Kentucky Republican, Massie House, Republican Ed Gallrein",
+        "Specific figures mentioned: 4",
+        "Politics desk signal: congress, house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump-backed Kentucky Republican wins Massie House seat"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -412,40 +442,10 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Tue, 03 Nov 2026 17:30:00 +0000",
-      "age_hours": "3.97",
+      "published": "Tue, 03 Nov 2026 23:20:09 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
-    },
-    {
-      "headline": "Connecticut live results: 2026 House elections",
-      "url": "https://thehill.com/homenews/house/6182308-connecticut-live-results-2026-house-elections/",
-      "snapshot": "Connecticut voters on Tuesday will pick their U.S. representatives for the next two years. The Constitution State has five congressional districts, all of which are currently represented by Democrats. Democratic Reps. Joe Courtney, Rosa DeLauro, Jim Himes and Jahana Hayes are... The broader significance is institutional: court action can alter policy timelines, executive...",
-      "key_data": [
-        "Key people or organizations: Connecticut, Constitution State, Democrats",
-        "Specific figures mentioned: 2026",
-        "Politics desk signal: congress, house, court, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Connecticut live results"
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Connecticut.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Institutional accountability angle: legal process, precedent and limits on power.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "age_hours": "4.47",
-      "freshness_status": "fresh",
-      "editorial_score": "89",
+      "editorial_score": "99",
       "urgency": ""
     },
     {
@@ -473,21 +473,21 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Tue, 03 Nov 2026 20:00:30 +0000",
-      "age_hours": "1.46",
+      "age_hours": "3.74",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
     },
     {
-      "headline": "US midterm voting begins in high-stakes test of Trump's presidency",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
-      "snapshot": "Voting is under way across the US in midterm elections that could strip Trump's Republicans of control of Congress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Texans vote in most expensive Senate race in US history",
+      "url": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+      "snapshot": "Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: US, Trump, Voting, Republicans",
-        "Politics desk signal: congress, election",
+        "Key people or organizations: Senate, US, Pivotal Texas",
+        "Specific figures mentioned: $573.2m",
+        "Politics desk signal: senate, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US midterm voting begins in high-stakes test of Trump's presidency",
-        "Source context: Voting is under way across the US in midterm elections that could strip Trump's Republicans of control of Congress. The key question is leverage: the..."
+        "Story focus: Texans vote in most expensive Senate race in US history"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -495,17 +495,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving US.",
+        "Watch for the next official action involving Senate.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Tue, 03 Nov 2026 14:42:41 +0000",
-      "age_hours": "6.76",
+      "published": "Tue, 03 Nov 2026 21:41:53 +0000",
+      "age_hours": "2.05",
       "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "78",
       "urgency": ""
     }
   ],
