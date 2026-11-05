@@ -1,84 +1,32 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "California Gov. Gavin Newsom to commute all death sentences in state",
-  "snapshot": "Newsom said he is changing the penalty for all 548 death row inmates to life without parole.",
-  "updated_at": "2026-11-05 03:22:06 PM ET",
-  "generated_at": "2026-11-05 03:22:06 PM ET",
+  "headline": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+  "snapshot": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+  "updated_at": "2026-11-05 06:57:51 PM ET",
+  "generated_at": "2026-11-05 06:57:51 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 173,
-    "live_fresh_items": 129,
-    "editor_fresh_items": 173,
-    "public_fallback_items": 173,
-    "stale_or_blocked_items": 44,
+    "total_items_checked": 175,
+    "live_fresh_items": 148,
+    "editor_fresh_items": 175,
+    "public_fallback_items": 175,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-05 03:22:06 PM ET"
+    "last_checked": "2026-11-05 06:57:51 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "California Gov. Gavin Newsom to commute all death sentences in state",
-      "url": "https://thehill.com/homenews/state-watch/6202199-california-gov-gavin-newsom-to-commute-all-death-sentences-in-state/",
-      "snapshot": "Newsom said he is changing the penalty for all 548 death row inmates to life without parole.",
+      "headline": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+      "snapshot": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Policy",
-        "Published: Nov. 05, 2026 at 03:18 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 05 Nov 2026 20:18:56 +0000",
-      "age_hours": "0.05",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "California governor commutes death sentences for all 548 people on death row",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "California has historically had the largest population of death row inmates in the US.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Government",
-        "Published: Nov. 05, 2026 at 03:12 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Thu, 05 Nov 2026 20:12:03 GMT",
-      "age_hours": "0.17",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-      "snapshot": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
-      "key_data": [
-        "Source: Al Jazeera",
+        "Source: NPR Politics",
         "Politics desk: Foreign Policy",
-        "Published: Nov. 05, 2026 at 03:07 PM ET"
+        "Published: Nov. 05, 2026 at 06:52 PM ET"
       ],
       "why_it_matters": [
         "This development may affect alliances, security commitments or diplomatic leverage.",
@@ -89,22 +37,22 @@
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
       "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 05 Nov 2026 20:07:04 +0000",
-      "age_hours": "0.25",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Thu, 05 Nov 2026 18:52:48 -0500",
+      "age_hours": "0.08",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "JoAnna Mendoza Wins in Arizona, Giving Democrats a Key House Pickup",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/arizona-house-6-ciscomani-mendoza.html",
-      "snapshot": "The Democrat, a retired Marine, defeated Representative Juan Ciscomani, a two-term Republican, in a highly competitive district in southeastern Arizona.",
+      "headline": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+      "snapshot": "President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday.",
       "key_data": [
         "Source: The New York Times",
         "Politics desk: Congress",
-        "Published: Nov. 05, 2026 at 02:45 PM ET"
+        "Published: Nov. 05, 2026 at 06:47 PM ET"
       ],
       "why_it_matters": [
         "This development may affect legislative leverage, negotiations or the timing of government action.",
@@ -117,34 +65,86 @@
       "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
       "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
       "source_name": "The New York Times",
-      "published": "Thu, 05 Nov 2026 19:45:13 +0000",
-      "age_hours": "0.61",
+      "published": "Thu, 05 Nov 2026 23:47:35 +0000",
+      "age_hours": "0.17",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Head of Justice Department office on Civil Rights resigns",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
-      "snapshot": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+      "headline": "Trump seeks national monument status for iconic White House rooms",
+      "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/",
+      "snapshot": "{beacon} Energy & Environment Energy & Environment The Big Story Trump makes Oval Office a national monument President Trump signed a proclamation Thursday seeking to designate two iconic White House spaces, the Oval Office and Cabinet Room, as national monuments. © Alex Brandon, Associated Press Trump said Congress would have to ratify the proclamation,…",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Court",
-        "Published: Nov. 05, 2026 at 01:01 PM ET"
+        "Source: The Hill",
+        "Politics desk: Congress",
+        "Published: Nov. 05, 2026 at 06:46 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Thu, 05 Nov 2026 13:01:57 -0500",
-      "age_hours": "2.34",
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 05 Nov 2026 23:46:56 +0000",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "key_data": [
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Nov. 05, 2026 at 06:21 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Thu, 05 Nov 2026 23:21:34 GMT",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Generation Z and young voters help redefine US politics after midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "snapshot": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Election",
+        "Published: Nov. 05, 2026 at 04:49 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 05 Nov 2026 21:49:31 +0000",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": "DEVELOPING"
@@ -152,91 +152,13 @@
   ],
   "editor_signals": [
     {
-      "headline": "Blakeman rips ‘selfish’ Stefanik after losing New York governor race",
-      "url": "https://thehill.com/homenews/state-watch/6202067-blakeman-attacks-stefanik-ny-gov/",
-      "snapshot": "Republican Bruce Blakeman ripped outgoing Rep. Elise Stefanik (R-N.Y.) in a Thursday social media post following his loss in the New York governor’s race to incumbent Gov. Kathy Hochul (D). “Elise Stefanik is a selfish, do nothing politician that didn’t lift a finger to help Republican candidates in New York this year,” Blakeman wrote in…",
+      "headline": "Hegseth in ‘trouble’ as Trump faces music on Iran war, midterms",
+      "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
+      "snapshot": "Defense Secretary Pete Hegseth’s future leading the Pentagon looks increasingly uncertain as his critics within the administration blame him for helping push President Trump into a war that contributed to massive midterm losses on Tuesday. Two sources familiar with the discussion said the president is asking allies about Hegseth’s standing. One of those sources said…",
       "key_data": [
         "Source: The Hill",
-        "Politics desk: Election",
-        "Published: Nov. 05, 2026 at 03:12 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect voter attention, campaign strategy or party positioning.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 05 Nov 2026 20:12:15 +0000",
-      "age_hours": "0.16",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Top US civil rights official resigns",
-      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
-      "snapshot": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Congress",
-        "Published: Nov. 05, 2026 at 02:48 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 05 Nov 2026 19:48:00 +0000",
-      "age_hours": "0.57",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "snapshot": "A Massachusetts liberal who has never sought the No. 1 leadership spot, Ms. Clark is known as an adept member manager.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Nov. 05, 2026 at 02:43 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Thu, 05 Nov 2026 19:43:31 +0000",
-      "age_hours": "0.64",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "key_data": [
-        "Source: BBC News",
         "Politics desk: Foreign Policy",
-        "Published: Nov. 05, 2026 at 02:08 PM ET"
+        "Published: Nov. 05, 2026 at 06:41 PM ET"
       ],
       "why_it_matters": [
         "This development may affect alliances, security commitments or diplomatic leverage.",
@@ -247,81 +169,74 @@
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
       "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Thu, 05 Nov 2026 19:08:08 GMT",
-      "age_hours": "1.23",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-      "snapshot": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Court",
-        "Published: Nov. 05, 2026 at 11:15 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Thu, 05 Nov 2026 11:15:02 -0500",
-      "age_hours": "4.12",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "California Gov. Gavin Newsom to commute all death sentences in state",
-    "California governor commutes death sentences for all 548 people on death row",
-    "The blame game: How the US midterm shock is shaping Israel’s race for PM"
-  ],
-  "sections": [
-    {
-      "headline": "California Gov. Gavin Newsom to commute all death sentences in state",
-      "url": "https://thehill.com/homenews/state-watch/6202199-california-gov-gavin-newsom-to-commute-all-death-sentences-in-state/",
-      "snapshot": "Newsom said he is changing the penalty for all 548 death row inmates to life without parole.",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Policy",
-        "Published: Nov. 05, 2026 at 03:18 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 05 Nov 2026 20:18:56 +0000",
-      "age_hours": "0.05",
+      "published": "Thu, 05 Nov 2026 23:41:23 +0000",
+      "age_hours": "0.27",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "California governor commutes death sentences for all 548 people on death row",
+      "headline": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+      "snapshot": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
+      "key_data": [
+        "Source: NPR Politics",
+        "Politics desk: Election",
+        "Published: Nov. 05, 2026 at 06:34 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect voter attention, campaign strategy or party positioning.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Thu, 05 Nov 2026 18:34:36 -0500",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Hegseth Lashes Out at Critics Calling for His Firing",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
+      "snapshot": "In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses.",
+      "key_data": [
+        "Source: The New York Times",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 05, 2026 at 06:30 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Thu, 05 Nov 2026 23:30:30 +0000",
+      "age_hours": "0.46",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "California governor commutes sentences for state's 548 death row inmates",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "snapshot": "California has historically had the largest population of death row inmates in the US.",
+      "snapshot": "California has historically had the largest population of people on death row in the US.",
       "key_data": [
         "Source: BBC News",
         "Politics desk: Government",
-        "Published: Nov. 05, 2026 at 03:12 PM ET"
+        "Published: Nov. 05, 2026 at 06:09 PM ET"
       ],
       "why_it_matters": [
         "This development may affect executive authority, public policy or government accountability.",
@@ -334,20 +249,53 @@
       "editor_note": "Developing government story; prioritize verified official action and source reporting.",
       "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
       "source_name": "BBC News",
-      "published": "Thu, 05 Nov 2026 20:12:03 GMT",
-      "age_hours": "0.17",
+      "published": "Thu, 05 Nov 2026 23:09:33 GMT",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-      "snapshot": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+      "headline": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "snapshot": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
       "key_data": [
         "Source: Al Jazeera",
+        "Politics desk: Congress",
+        "Published: Nov. 05, 2026 at 03:43 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 05 Nov 2026 20:43:46 +0000",
+      "age_hours": "3.23",
+      "freshness_status": "fresh",
+      "editorial_score": "97",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+    "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+    "Trump seeks national monument status for iconic White House rooms"
+  ],
+  "sections": [
+    {
+      "headline": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+      "snapshot": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+      "key_data": [
+        "Source: NPR Politics",
         "Politics desk: Foreign Policy",
-        "Published: Nov. 05, 2026 at 03:07 PM ET"
+        "Published: Nov. 05, 2026 at 06:52 PM ET"
       ],
       "why_it_matters": [
         "This development may affect alliances, security commitments or diplomatic leverage.",
@@ -358,22 +306,22 @@
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
       "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 05 Nov 2026 20:07:04 +0000",
-      "age_hours": "0.25",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Thu, 05 Nov 2026 18:52:48 -0500",
+      "age_hours": "0.08",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "JoAnna Mendoza Wins in Arizona, Giving Democrats a Key House Pickup",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/arizona-house-6-ciscomani-mendoza.html",
-      "snapshot": "The Democrat, a retired Marine, defeated Representative Juan Ciscomani, a two-term Republican, in a highly competitive district in southeastern Arizona.",
+      "headline": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+      "snapshot": "President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday.",
       "key_data": [
         "Source: The New York Times",
         "Politics desk: Congress",
-        "Published: Nov. 05, 2026 at 02:45 PM ET"
+        "Published: Nov. 05, 2026 at 06:47 PM ET"
       ],
       "why_it_matters": [
         "This development may affect legislative leverage, negotiations or the timing of government action.",
@@ -386,46 +334,72 @@
       "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
       "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
       "source_name": "The New York Times",
-      "published": "Thu, 05 Nov 2026 19:45:13 +0000",
-      "age_hours": "0.61",
+      "published": "Thu, 05 Nov 2026 23:47:35 +0000",
+      "age_hours": "0.17",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Head of Justice Department office on Civil Rights resigns",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
-      "snapshot": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+      "headline": "Trump seeks national monument status for iconic White House rooms",
+      "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/",
+      "snapshot": "{beacon} Energy & Environment Energy & Environment The Big Story Trump makes Oval Office a national monument President Trump signed a proclamation Thursday seeking to designate two iconic White House spaces, the Oval Office and Cabinet Room, as national monuments. © Alex Brandon, Associated Press Trump said Congress would have to ratify the proclamation,…",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Court",
-        "Published: Nov. 05, 2026 at 01:01 PM ET"
+        "Source: The Hill",
+        "Politics desk: Congress",
+        "Published: Nov. 05, 2026 at 06:46 PM ET"
       ],
       "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
         "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
         "Watch for official documents, votes, rulings or agency actions.",
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Thu, 05 Nov 2026 13:01:57 -0500",
-      "age_hours": "2.34",
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Thu, 05 Nov 2026 23:46:56 +0000",
+      "age_hours": "0.18",
       "freshness_status": "fresh",
-      "editorial_score": "98",
+      "editorial_score": "100",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Blakeman rips ‘selfish’ Stefanik after losing New York governor race",
-      "url": "https://thehill.com/homenews/state-watch/6202067-blakeman-attacks-stefanik-ny-gov/",
-      "snapshot": "Republican Bruce Blakeman ripped outgoing Rep. Elise Stefanik (R-N.Y.) in a Thursday social media post following his loss in the New York governor’s race to incumbent Gov. Kathy Hochul (D). “Elise Stefanik is a selfish, do nothing politician that didn’t lift a finger to help Republican candidates in New York this year,” Blakeman wrote in…",
+      "headline": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
       "key_data": [
-        "Source: The Hill",
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Nov. 05, 2026 at 06:21 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Thu, 05 Nov 2026 23:21:34 GMT",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Generation Z and young voters help redefine US politics after midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "snapshot": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
+      "key_data": [
+        "Source: Al Jazeera",
         "Politics desk: Election",
-        "Published: Nov. 05, 2026 at 03:12 PM ET"
+        "Published: Nov. 05, 2026 at 04:49 PM ET"
       ],
       "why_it_matters": [
         "This development may affect voter attention, campaign strategy or party positioning.",
@@ -436,10 +410,36 @@
         "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
       "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 05 Nov 2026 21:49:31 +0000",
+      "age_hours": "2.14",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Hegseth in ‘trouble’ as Trump faces music on Iran war, midterms",
+      "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
+      "snapshot": "Defense Secretary Pete Hegseth’s future leading the Pentagon looks increasingly uncertain as his critics within the administration blame him for helping push President Trump into a war that contributed to massive midterm losses on Tuesday. Two sources familiar with the discussion said the president is asking allies about Hegseth’s standing. One of those sources said…",
+      "key_data": [
+        "Source: The Hill",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 05, 2026 at 06:41 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Thu, 05 Nov 2026 20:12:15 +0000",
-      "age_hours": "0.16",
+      "published": "Thu, 05 Nov 2026 23:41:23 +0000",
+      "age_hours": "0.27",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": "DEVELOPING"
