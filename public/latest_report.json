@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "US prosecutor who led Trump-backed election probe exits Justice Department",
   "snapshot": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-  "updated_at": "2026-11-06 04:15:06 PM ET",
-  "generated_at": "2026-11-06 04:15:06 PM ET",
+  "updated_at": "2026-11-06 04:49:27 PM ET",
+  "generated_at": "2026-11-06 04:49:27 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 93,
+    "live_fresh_items": 95,
     "editor_fresh_items": 149,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 57,
+    "stale_or_blocked_items": 55,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-06 04:15:06 PM ET"
+    "last_checked": "2026-11-06 04:49:27 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 06 Nov 2026 17:02:19 +0000",
-      "age_hours": "4.21",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 06 Nov 2026 15:19:15 +0000",
-      "age_hours": "5.93",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -104,9 +104,39 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 06 Nov 2026 09:27:33 -0500",
-      "age_hours": "6.79",
+      "age_hours": "7.36",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump touts imminent decision on potential new attack on Iran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+      "snapshot": "President Trump says he will make a decision soon on whether to order new strikes on Iran, calls Qatari emir as mediators push for a peace deal. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump touts imminent decision on potential new attack on Iran",
+        "Source context: President Trump says he will make a decision soon on whether to order new strikes on Iran, calls Qatari emir as mediators push for a peace deal. The..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Fri, 06 Nov 2026 14:39:00 -0500",
+      "age_hours": "2.17",
+      "freshness_status": "fresh",
+      "editorial_score": "112",
       "urgency": "DEVELOPING"
     },
     {
@@ -134,39 +164,9 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 06 Nov 2026 16:31:43 +0000",
-      "age_hours": "4.72",
+      "age_hours": "5.30",
       "freshness_status": "fresh",
       "editorial_score": "123",
-      "urgency": ""
-    },
-    {
-      "headline": "These House and Senate midterm races don't have winners yet",
-      "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-      "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: House, Senate, Democrats",
-        "Specific figures mentioned: 2026",
-        "Politics desk signal: senate, house, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: These House and Senate midterm races don't have winners yet"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 06 Nov 2026 15:40:12 -0500",
-      "age_hours": "0.58",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 06 Nov 2026 17:02:19 +0000",
-      "age_hours": "4.21",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -226,7 +226,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 06 Nov 2026 15:19:15 +0000",
-      "age_hours": "5.93",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -256,7 +256,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 06 Nov 2026 16:31:43 +0000",
-      "age_hours": "4.72",
+      "age_hours": "5.30",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -286,21 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 06 Nov 2026 09:27:33 -0500",
-      "age_hours": "6.79",
+      "age_hours": "7.36",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "These House and Senate midterm races don't have winners yet",
-      "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-      "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump touts imminent decision on potential new attack on Iran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+      "snapshot": "President Trump says he will make a decision soon on whether to order new strikes on Iran, calls Qatari emir as mediators push for a peace deal. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: House, Senate, Democrats",
-        "Specific figures mentioned: 2026",
-        "Politics desk signal: senate, house, election",
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: These House and Senate midterm races don't have winners yet"
+        "Story focus: Trump touts imminent decision on potential new attack on Iran",
+        "Source context: President Trump says he will make a decision soon on whether to order new strikes on Iran, calls Qatari emir as mediators push for a peace deal. The..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,18 +308,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 06 Nov 2026 15:40:12 -0500",
-      "age_hours": "0.58",
+      "published": "Fri, 06 Nov 2026 14:39:00 -0500",
+      "age_hours": "2.17",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "112",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -353,7 +353,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 06 Nov 2026 17:02:19 +0000",
-      "age_hours": "4.21",
+      "age_hours": "4.79",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -383,7 +383,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 06 Nov 2026 15:19:15 +0000",
-      "age_hours": "5.93",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
       "editorial_score": "137",
       "urgency": "DEVELOPING"
@@ -413,7 +413,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 06 Nov 2026 16:31:43 +0000",
-      "age_hours": "4.72",
+      "age_hours": "5.30",
       "freshness_status": "fresh",
       "editorial_score": "123",
       "urgency": ""
@@ -443,21 +443,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Fri, 06 Nov 2026 09:27:33 -0500",
-      "age_hours": "6.79",
+      "age_hours": "7.36",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "These House and Senate midterm races don't have winners yet",
-      "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-      "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump touts imminent decision on potential new attack on Iran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+      "snapshot": "President Trump says he will make a decision soon on whether to order new strikes on Iran, calls Qatari emir as mediators push for a peace deal. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: House, Senate, Democrats",
-        "Specific figures mentioned: 2026",
-        "Politics desk signal: senate, house, election",
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: These House and Senate midterm races don't have winners yet"
+        "Story focus: Trump touts imminent decision on potential new attack on Iran",
+        "Source context: President Trump says he will make a decision soon on whether to order new strikes on Iran, calls Qatari emir as mediators push for a peace deal. The..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,18 +465,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 06 Nov 2026 15:40:12 -0500",
-      "age_hours": "0.58",
+      "published": "Fri, 06 Nov 2026 14:39:00 -0500",
+      "age_hours": "2.17",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "112",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Could Trump's veto stop the Democratic majority?",
@@ -503,7 +503,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Fri, 06 Nov 2026 19:18:33 +0000",
-      "age_hours": "1.94",
+      "age_hours": "2.51",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": ""
