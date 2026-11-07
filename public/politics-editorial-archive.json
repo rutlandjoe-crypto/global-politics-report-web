@@ -24,7 +24,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 07 Nov 2026 07:05:01 +0000",
-    "age_hours": "0.79",
+    "age_hours": "1.17",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": "DEVELOPING"
@@ -158,10 +158,40 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 07 Nov 2026 02:32:58 +0000",
-    "age_hours": "5.33",
+    "age_hours": "5.70",
     "freshness_status": "fresh",
     "editorial_score": "119",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Ex-RFK Jr adviser bashes White House on MAHA priorities",
+    "url": "https://thehill.com/homenews/administration/6205715-calley-means-susan-wiles-departure-maha/",
+    "snapshot": "Calley Means, a former top adviser to Health Secretary Robert F. Kennedy Jr., ripped outgoing White House chief of staff Susie Wiles over her tenure, arguing in a Friday interview she led the Trump administration to consistently bow to corporate interests when it came to... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+    "key_data": [
+      "Key people or organizations: RFK Jr, White House",
+      "Politics desk signal: house, white house",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Ex-RFK Jr adviser bashes White House on MAHA priorities",
+      "Source context: Calley Means, a former top adviser to Health Secretary Robert F. Kennedy Jr., ripped outgoing White House chief of staff Susie Wiles over her tenure,..."
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving RFK Jr.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://thehill.com/feed/",
+    "source_name": "The Hill",
+    "published": "Sat, 07 Nov 2026 01:47:20 +0000",
+    "age_hours": "6.46",
+    "freshness_status": "fresh",
+    "editorial_score": "99",
+    "urgency": ""
   },
   {
     "headline": "What Stephen Miller has pushed for while in Trump administration",
@@ -188,7 +218,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 06 Nov 2026 20:36:49 -0500",
-    "age_hours": "6.26",
+    "age_hours": "6.64",
     "freshness_status": "fresh",
     "editorial_score": "124",
     "urgency": ""
@@ -218,7 +248,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Fri, 06 Nov 2026 20:00:07 -0500",
-    "age_hours": "6.88",
+    "age_hours": "7.25",
     "freshness_status": "fresh",
     "editorial_score": "112",
     "urgency": "DEVELOPING"
