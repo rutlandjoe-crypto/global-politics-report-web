@@ -1,54 +1,24 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Congress returns for lame-duck sprint after GOP midterm losses",
-  "snapshot": "Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will dramatically reshape the balance of power in Washington in the new year. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-  "updated_at": "2026-11-09 12:51:58 PM ET",
-  "generated_at": "2026-11-09 12:51:58 PM ET",
+  "headline": "White House staff treated Trump like a 'baby': Calley Means",
+  "snapshot": "Calley Means, former aide to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., on Sunday said in an interview that White House staffers treated President Trump like a \"baby.\" Means, who resigned from his position last month, said on CBS News's \"Face the Nation\"... The key question is leverage: the next votes, negotiations and public pressure points will...",
+  "updated_at": "2026-11-09 02:43:49 PM ET",
+  "generated_at": "2026-11-09 02:43:49 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 139,
-    "live_fresh_items": 67,
-    "editor_fresh_items": 117,
-    "public_fallback_items": 139,
-    "stale_or_blocked_items": 72,
+    "total_items_checked": 140,
+    "live_fresh_items": 79,
+    "editor_fresh_items": 129,
+    "public_fallback_items": 140,
+    "stale_or_blocked_items": 61,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-09 12:51:58 PM ET"
+    "last_checked": "2026-11-09 02:43:49 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-      "snapshot": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Nvidia, CEO Jensen Huang, Huang, China",
-        "Specific figures mentioned: $4.5",
-        "Politics desk signal: china",
-        "Story focus: Nvidia shares slump amid investigation into CEO Jensen Huang",
-        "Source context: Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Nvidia.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 09 Nov 2026 16:00:10 +0000",
-      "age_hours": "1.86",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "White House staff treated Trump like a 'baby': Calley Means",
       "url": "https://thehill.com/homenews/administration/6207568-calley-means-trump-baby/",
@@ -74,21 +44,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 09 Nov 2026 15:14:56 +0000",
-      "age_hours": "2.62",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": ""
     },
     {
-      "headline": "Congress returns for lame-duck sprint after GOP midterm losses",
-      "url": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-      "snapshot": "Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will dramatically reshape the balance of power in Washington in the new year. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
+      "headline": "Two security breaches near White House prompt brief lockdown",
+      "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+      "snapshot": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Congress, GOP, Capitol Hill",
-        "Politics desk signal: congress, election",
+        "Key people or organizations: White House, Lafayette Park",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress returns for lame-duck sprint after GOP midterm losses",
-        "Source context: Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will..."
+        "Story focus: Two security breaches near White House prompt brief lockdown",
+        "Source context: Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -96,17 +66,47 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Congress.",
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 09 Nov 2026 18:57:01 +0000",
+      "age_hours": "0.78",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "These House and Senate midterm races don't have winners yet",
+      "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+      "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: House, Senate, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: senate, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: These House and Senate midterm races don't have winners yet"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Mon, 09 Nov 2026 10:52:59 -0500",
-      "age_hours": "1.98",
+      "published": "Mon, 09 Nov 2026 13:52:01 -0500",
+      "age_hours": "0.86",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -134,21 +134,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 09 Nov 2026 07:54:43 -0500",
-      "age_hours": "4.95",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Voters' rebuke of Trump gives Democrats historic opportunity and responsibility",
-      "url": "https://thehill.com/opinion/6204968-voters-reject-trump-republican-party/",
-      "snapshot": "What an unforgettable election night! The American people delivered an enthusiastic, undeniable rebuke to President Donald Trump and the Republican Party that remade itself in his image. Democrats now have a responsibility to make the most of the opportunity voters have given... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump casts doubt on midterm results: 'How could the polls be so wrong?'",
+      "url": "https://thehill.com/homenews/campaign/6208460-trump-questions-midterm-results/",
+      "snapshot": "President Trump on Monday asked how the polls could have been \"so wrong\" after Democrats won back control of both the House and Senate in the midterms, raising questions about whether last week's elections were \"honest\" after signaling he'd accept the results. \"Does anybody... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Voters, Trump, Democrats",
-        "Politics desk signal: election",
+        "Key people or organizations: Trump, President Trump, Democrats",
+        "Politics desk signal: senate, house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Voters' rebuke of Trump gives Democrats historic opportunity and responsibility",
-        "Source context: What an unforgettable election night! The American people delivered an enthusiastic, undeniable rebuke to President Donald Trump and the Republican..."
+        "Story focus: Trump casts doubt on midterm results",
+        "Source context: President Trump on Monday asked how the polls could have been \"so wrong\" after Democrats won back control of both the House and Senate in the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -156,51 +156,21 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Voters.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 09 Nov 2026 15:30:00 +0000",
-      "age_hours": "2.37",
+      "published": "Mon, 09 Nov 2026 18:04:35 +0000",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Congress returns for lame-duck sprint after GOP midterm losses",
-      "url": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-      "snapshot": "Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will dramatically reshape the balance of power in Washington in the new year. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Congress, GOP, Capitol Hill",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress returns for lame-duck sprint after GOP midterm losses",
-        "Source context: Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 09 Nov 2026 10:52:59 -0500",
-      "age_hours": "1.98",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
     {
       "headline": "White House staff treated Trump like a 'baby': Calley Means",
       "url": "https://thehill.com/homenews/administration/6207568-calley-means-trump-baby/",
@@ -226,7 +196,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 09 Nov 2026 15:14:56 +0000",
-      "age_hours": "2.62",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
       "editorial_score": "111",
       "urgency": ""
@@ -256,10 +226,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 08 Nov 2026 22:00:00 +0000",
-      "age_hours": "19.87",
+      "age_hours": "21.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "111",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "These House and Senate midterm races don't have winners yet",
+      "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+      "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: House, Senate, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: senate, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: These House and Senate midterm races don't have winners yet"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 09 Nov 2026 13:52:01 -0500",
+      "age_hours": "0.86",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "Trump says U.S. took a \"giant step back in history\" with midterm results",
@@ -286,21 +286,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 09 Nov 2026 07:54:43 -0500",
-      "age_hours": "4.95",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Which Republicans are running for minority leadership roles in US Congress?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
-      "snapshot": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Two security breaches near White House prompt brief lockdown",
+      "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+      "snapshot": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Which Republicans, US Congress, Republicans, US House",
-        "Politics desk signal: congress, senate, house, election",
+        "Key people or organizations: White House, Lafayette Park",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Which Republicans are running for minority leadership roles in US Congress?",
-        "Source context: Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities. The key question is leverage:..."
+        "Story focus: Two security breaches near White House prompt brief lockdown",
+        "Source context: Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -308,56 +308,26 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Which Republicans.",
+        "Watch for the next official action involving White House.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 09 Nov 2026 13:14:57 +0000",
-      "age_hours": "4.62",
+      "published": "Mon, 09 Nov 2026 18:57:01 +0000",
+      "age_hours": "0.78",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
+      "editorial_score": "90",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Congress returns for lame-duck sprint after GOP midterm losses",
     "White House staff treated Trump like a 'baby': Calley Means",
+    "These House and Senate midterm races don't have winners yet",
     "Trump says U.S. took a \"giant step back in history\" with midterm results"
   ],
   "sections": [
-    {
-      "headline": "Congress returns for lame-duck sprint after GOP midterm losses",
-      "url": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-      "snapshot": "Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will dramatically reshape the balance of power in Washington in the new year. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political...",
-      "key_data": [
-        "Key people or organizations: Congress, GOP, Capitol Hill",
-        "Politics desk signal: congress, election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Congress returns for lame-duck sprint after GOP midterm losses",
-        "Source context: Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Congress.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Mon, 09 Nov 2026 10:52:59 -0500",
-      "age_hours": "1.98",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
     {
       "headline": "White House staff treated Trump like a 'baby': Calley Means",
       "url": "https://thehill.com/homenews/administration/6207568-calley-means-trump-baby/",
@@ -383,9 +353,39 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Mon, 09 Nov 2026 15:14:56 +0000",
-      "age_hours": "2.62",
+      "age_hours": "4.48",
       "freshness_status": "fresh",
       "editorial_score": "111",
+      "urgency": ""
+    },
+    {
+      "headline": "These House and Senate midterm races don't have winners yet",
+      "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+      "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: House, Senate, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: senate, house, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: These House and Senate midterm races don't have winners yet"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Mon, 09 Nov 2026 13:52:01 -0500",
+      "age_hours": "0.86",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -413,21 +413,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Mon, 09 Nov 2026 07:54:43 -0500",
-      "age_hours": "4.95",
+      "age_hours": "6.82",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Voters' rebuke of Trump gives Democrats historic opportunity and responsibility",
-      "url": "https://thehill.com/opinion/6204968-voters-reject-trump-republican-party/",
-      "snapshot": "What an unforgettable election night! The American people delivered an enthusiastic, undeniable rebuke to President Donald Trump and the Republican Party that remade itself in his image. Democrats now have a responsibility to make the most of the opportunity voters have given... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "headline": "Trump casts doubt on midterm results: 'How could the polls be so wrong?'",
+      "url": "https://thehill.com/homenews/campaign/6208460-trump-questions-midterm-results/",
+      "snapshot": "President Trump on Monday asked how the polls could have been \"so wrong\" after Democrats won back control of both the House and Senate in the midterms, raising questions about whether last week's elections were \"honest\" after signaling he'd accept the results. \"Does anybody... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: Voters, Trump, Democrats",
-        "Politics desk signal: election",
+        "Key people or organizations: Trump, President Trump, Democrats",
+        "Politics desk signal: senate, house, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Voters' rebuke of Trump gives Democrats historic opportunity and responsibility",
-        "Source context: What an unforgettable election night! The American people delivered an enthusiastic, undeniable rebuke to President Donald Trump and the Republican..."
+        "Story focus: Trump casts doubt on midterm results",
+        "Source context: President Trump on Monday asked how the polls could have been \"so wrong\" after Democrats won back control of both the House and Senate in the..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -435,29 +435,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Voters.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Mon, 09 Nov 2026 15:30:00 +0000",
-      "age_hours": "2.37",
+      "published": "Mon, 09 Nov 2026 18:04:35 +0000",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
     },
     {
-      "headline": "Which Republicans are running for minority leadership roles in US Congress?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
-      "snapshot": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Two security breaches near White House prompt brief lockdown",
+      "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+      "snapshot": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Which Republicans, US Congress, Republicans, US House",
-        "Politics desk signal: congress, senate, house, election",
+        "Key people or organizations: White House, Lafayette Park",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Which Republicans are running for minority leadership roles in US Congress?",
-        "Source context: Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities. The key question is leverage:..."
+        "Story focus: Two security breaches near White House prompt brief lockdown",
+        "Source context: Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier. The key question is leverage:..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -465,48 +465,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Which Republicans.",
+        "Watch for the next official action involving White House.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 09 Nov 2026 18:57:01 +0000",
+      "age_hours": "0.78",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+      "snapshot": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Democratic Senate",
+        "Politics desk signal: senate, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump reverses stance, alleges fraud in recent US midterm elections",
+        "Source context: Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims. The key question is leverage:..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Mon, 09 Nov 2026 13:14:57 +0000",
-      "age_hours": "4.62",
+      "published": "Mon, 09 Nov 2026 19:07:42 +0000",
+      "age_hours": "0.60",
       "freshness_status": "fresh",
-      "editorial_score": "94",
+      "editorial_score": "86",
       "urgency": ""
-    },
-    {
-      "headline": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-      "snapshot": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
-      "key_data": [
-        "Key people or organizations: Nvidia, CEO Jensen Huang, Huang, China",
-        "Specific figures mentioned: $4.5",
-        "Politics desk signal: china",
-        "Story focus: Nvidia shares slump amid investigation into CEO Jensen Huang",
-        "Source context: Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm. The geopolitical angle is how the..."
-      ],
-      "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Nvidia.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Mon, 09 Nov 2026 16:00:10 +0000",
-      "age_hours": "1.86",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
