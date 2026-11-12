@@ -1,22 +1,22 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Democrat Scott Colom wins Mississippi Senate race in upset",
-  "snapshot": "Democrat Scott Colom defeated GOP Sen. Cindy Hyde-Smith in the Mississippi Senate race, delivering Democrats an eighth flipped Senate seat after the dramatic race had been up in the air for days. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-11-12 08:20:37 AM ET",
-  "generated_at": "2026-11-12 08:20:37 AM ET",
+  "headline": "GOP lawmakers negotiating for Huang to appear before Congress",
+  "snapshot": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+  "updated_at": "2026-11-12 12:53:46 PM ET",
+  "generated_at": "2026-11-12 12:53:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 37,
-    "editor_fresh_items": 147,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 113,
+    "total_items_checked": 49,
+    "live_fresh_items": 30,
+    "editor_fresh_items": 46,
+    "public_fallback_items": 48,
+    "stale_or_blocked_items": 19,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-12 08:20:37 AM ET"
+    "last_checked": "2026-11-12 12:53:46 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,40 +44,99 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 17:03:00 -0500",
-      "age_hours": "15.29",
+      "age_hours": "19.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Indonesia vice president resigns amid dispute over eligibility",
-      "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-      "snapshot": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "Spain approves housing reforms after nationwide strike over costs",
+      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+      "snapshot": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Gibran Rakabuming Raka, President Joko Widodo",
-        "Politics desk signal: court",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Indonesia vice president resigns amid dispute over eligibility",
-        "Source context: Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education. The broader significance is..."
+        "Story focus: Spain approves housing reforms after nationwide strike over costs",
+        "Source context: Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome. The election angle is whether..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Gibran Rakabuming Raka.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 12 Nov 2026 06:38:01 +0000",
-      "age_hours": "6.71",
+      "published": "Thu, 12 Nov 2026 15:02:30 +0000",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
-      "editorial_score": "94",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "GOP lawmakers negotiating for Huang to appear before Congress",
+      "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
+      "snapshot": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: GOP, Huang, Congress, Republicans",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers negotiating for Huang to appear before Congress",
+        "Source context: Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 12 Nov 2026 12:30:03 -0500",
+      "age_hours": "0.40",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
+    },
+    {
+      "headline": "'Horrific crime': Gaza doctor killed as Israel expands war on healthcare",
+      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "snapshot": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Gaza, Israel",
+        "Politics desk signal: election, campaign, gaza",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: 'Horrific crime'",
+        "Source context: Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank. The election angle is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Gaza.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 12 Nov 2026 14:23:01 +0000",
+      "age_hours": "3.51",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Democrat Scott Colom wins Mississippi Senate race in upset",
@@ -103,74 +162,44 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 12 Nov 2026 07:20:32 -0500",
-      "age_hours": "1.00",
+      "published": "Thu, 12 Nov 2026 07:20:00 -0500",
+      "age_hours": "5.56",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Peltola holds lead after latest Alaska Senate vote drop",
-      "url": "https://thehill.com/homenews/campaign/6215353-mary-peltola-dan-sullivan-alaska-senate-race-update/",
-      "snapshot": "Former Rep. Mary Peltola's (D-Alaska) campaign said Wednesday that Sen. Dan Sullivan (R-Alaska) is running out of opportunities to overcome her lead in the state's closely contested Senate race. The warning came after the latest batch of ballots showed the incumbent making... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Peltola, Alaska Senate, Former Rep, Mary Peltola",
-        "Politics desk signal: senate, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Peltola holds lead after latest Alaska Senate vote drop",
-        "Source context: Former Rep. Mary Peltola's (D-Alaska) campaign said Wednesday that Sen. Dan Sullivan (R-Alaska) is running out of opportunities to overcome her lead..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Peltola.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 12 Nov 2026 13:11:18 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "83",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's labor panel can free workers trapped in unions they oppose",
-      "url": "https://thehill.com/opinion/civil-rights/6212565-nlrb-union-decertification-petition/",
-      "snapshot": "Workers seeking to vote out a union they no longer want should not have to fight the government's own rulebook to do it. Yet outdated agency-created barriers and union privileges still make such decertification elections harder to hold than they need to be — and harder than... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Workers",
-        "Politics desk signal: election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's labor panel can free workers trapped in unions they oppose",
-        "Source context: Workers seeking to vote out a union they no longer want should not have to fight the government's own rulebook to do it. Yet outdated agency-created..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 12 Nov 2026 12:30:00 +0000",
-      "age_hours": "0.84",
-      "freshness_status": "fresh",
-      "editorial_score": "83",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "GOP lawmakers negotiating for Huang to appear before Congress",
+      "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
+      "snapshot": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: GOP, Huang, Congress, Republicans",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers negotiating for Huang to appear before Congress",
+        "Source context: Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 12 Nov 2026 12:30:03 -0500",
+      "age_hours": "0.40",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
     {
       "headline": "White House warns of \"blatant criminality\" in Democratic probes",
       "url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
@@ -196,21 +225,21 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 17:03:00 -0500",
-      "age_hours": "15.29",
+      "age_hours": "19.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Senate Democrat presses Trump administration on Megaspeed probe following Alice Huang allegations",
-      "url": "https://thehill.com/policy/technology/6214107-bennet-pushes-megaspeed-probe/",
-      "snapshot": "Democratic Sen. Michael Bennet (Colo.) is pressing intelligence and commerce leaders in the Trump administration on its investigation into the cloud computing and data center firm Megaspeed following reports the Commerce Department paused their investigation into the company... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "'Horrific crime': Gaza doctor killed as Israel expands war on healthcare",
+      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "snapshot": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Senate Democrat, Trump, Megaspeed, Alice Huang",
-        "Politics desk signal: senate",
+        "Key people or organizations: Gaza, Israel",
+        "Politics desk signal: election, campaign, gaza",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Senate Democrat presses Trump administration on Megaspeed probe following Alice Huang allegations",
-        "Source context: Democratic Sen. Michael Bennet (Colo.) is pressing intelligence and commerce leaders in the Trump administration on its investigation into the cloud..."
+        "Story focus: 'Horrific crime'",
+        "Source context: Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank. The election angle is whether this changes..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -218,29 +247,28 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Senate Democrat.",
+        "Watch for the next official action involving Gaza.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 11 Nov 2026 20:52:06 +0000",
-      "age_hours": "16.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "103",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 12 Nov 2026 14:23:01 +0000",
+      "age_hours": "3.51",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-      "url": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
-      "snapshot": "The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on the House Oversight and Government Reform Committee that their probes \"may cross the line into blatant criminality.\" The letter... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Spain approves housing reforms after nationwide strike over costs",
+      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+      "snapshot": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: White House, Democrats, Congress, House Oversight",
-        "Politics desk signal: congress, house, white house",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-        "Source context: The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on..."
+        "Story focus: Spain approves housing reforms after nationwide strike over costs",
+        "Source context: Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -248,17 +276,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Wed, 11 Nov 2026 14:39:24 +0000",
-      "age_hours": "22.69",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "103",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 12 Nov 2026 15:02:30 +0000",
+      "age_hours": "2.85",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -285,49 +313,49 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 12 Nov 2026 07:20:32 -0500",
-      "age_hours": "1.00",
+      "published": "Thu, 12 Nov 2026 07:20:00 -0500",
+      "age_hours": "5.56",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Indonesia vice president resigns amid dispute over eligibility",
-      "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-      "snapshot": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
-      "key_data": [
-        "Key people or organizations: Gibran Rakabuming Raka, President Joko Widodo",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Indonesia vice president resigns amid dispute over eligibility",
-        "Source context: Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education. The broader significance is..."
-      ],
-      "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Gibran Rakabuming Raka.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 12 Nov 2026 06:38:01 +0000",
-      "age_hours": "6.71",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "GOP lawmakers negotiating for Huang to appear before Congress",
     "Democrat Scott Colom wins Mississippi Senate race in upset",
-    "Indonesia vice president resigns amid dispute over eligibility",
-    "Peltola holds lead after latest Alaska Senate vote drop"
+    "'Horrific crime': Gaza doctor killed as Israel expands war on healthcare"
   ],
   "sections": [
+    {
+      "headline": "GOP lawmakers negotiating for Huang to appear before Congress",
+      "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
+      "snapshot": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: GOP, Huang, Congress, Republicans",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: GOP lawmakers negotiating for Huang to appear before Congress",
+        "Source context: Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress. The key question is leverage: the..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving GOP.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Thu, 12 Nov 2026 12:30:03 -0500",
+      "age_hours": "0.40",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
     {
       "headline": "Democrat Scott Colom wins Mississippi Senate race in upset",
       "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
@@ -352,52 +380,51 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Thu, 12 Nov 2026 07:20:32 -0500",
-      "age_hours": "1.00",
+      "published": "Thu, 12 Nov 2026 07:20:00 -0500",
+      "age_hours": "5.56",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Indonesia vice president resigns amid dispute over eligibility",
-      "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-      "snapshot": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education. The broader significance is institutional: court action can alter policy timelines, executive authority, legal precedent and the political incentives around the issue.",
+      "headline": "'Horrific crime': Gaza doctor killed as Israel expands war on healthcare",
+      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "snapshot": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Gibran Rakabuming Raka, President Joko Widodo",
-        "Politics desk signal: court",
+        "Key people or organizations: Gaza, Israel",
+        "Politics desk signal: election, campaign, gaza",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Indonesia vice president resigns amid dispute over eligibility",
-        "Source context: Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education. The broader significance is..."
+        "Story focus: 'Horrific crime'",
+        "Source context: Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank. The election angle is whether this changes..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Gibran Rakabuming Raka.",
-        "Track filings, rulings, appeals and agency responses.",
+        "Watch for the next official action involving Gaza.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 12 Nov 2026 06:38:01 +0000",
-      "age_hours": "6.71",
+      "published": "Thu, 12 Nov 2026 14:23:01 +0000",
+      "age_hours": "3.51",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
+      "editorial_score": "72",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Peltola holds lead after latest Alaska Senate vote drop",
-      "url": "https://thehill.com/homenews/campaign/6215353-mary-peltola-dan-sullivan-alaska-senate-race-update/",
-      "snapshot": "Former Rep. Mary Peltola's (D-Alaska) campaign said Wednesday that Sen. Dan Sullivan (R-Alaska) is running out of opportunities to overcome her lead in the state's closely contested Senate race. The warning came after the latest batch of ballots showed the incumbent making... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Spain approves housing reforms after nationwide strike over costs",
+      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+      "snapshot": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Peltola, Alaska Senate, Former Rep, Mary Peltola",
-        "Politics desk signal: senate, campaign",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Peltola holds lead after latest Alaska Senate vote drop",
-        "Source context: Former Rep. Mary Peltola's (D-Alaska) campaign said Wednesday that Sen. Dan Sullivan (R-Alaska) is running out of opportunities to overcome her lead..."
+        "Story focus: Spain approves housing reforms after nationwide strike over costs",
+        "Source context: Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome. The election angle is whether..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,48 +432,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Peltola.",
+        "Watch for the next verified action by the relevant government, court, agency or political organization.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 12 Nov 2026 13:11:18 +0000",
-      "age_hours": "0.15",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 12 Nov 2026 15:02:30 +0000",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
-      "editorial_score": "83",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's labor panel can free workers trapped in unions they oppose",
-      "url": "https://thehill.com/opinion/civil-rights/6212565-nlrb-union-decertification-petition/",
-      "snapshot": "Workers seeking to vote out a union they no longer want should not have to fight the government's own rulebook to do it. Yet outdated agency-created barriers and union privileges still make such decertification elections harder to hold than they need to be — and harder than... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Workers",
-        "Politics desk signal: election",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's labor panel can free workers trapped in unions they oppose",
-        "Source context: Workers seeking to vote out a union they no longer want should not have to fight the government's own rulebook to do it. Yet outdated agency-created..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Thu, 12 Nov 2026 12:30:00 +0000",
-      "age_hours": "0.84",
-      "freshness_status": "fresh",
-      "editorial_score": "83",
-      "urgency": ""
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "With Jim Jordan as leader, House GOP signals it's ready to fight",
@@ -473,7 +470,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Thu, 12 Nov 2026 06:00:00 -0500",
-      "age_hours": "2.34",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -503,7 +500,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 17:03:00 -0500",
-      "age_hours": "15.29",
+      "age_hours": "19.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
