@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "White House warns of \"blatant criminality\" in Democratic probes",
   "snapshot": "White House counsel Will Scharf warned that congressional subpoenas could lead to investigations from the executive branch. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-  "updated_at": "2026-11-11 08:52:08 PM ET",
-  "generated_at": "2026-11-11 08:52:08 PM ET",
+  "updated_at": "2026-11-11 11:26:17 PM ET",
+  "generated_at": "2026-11-11 11:26:17 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 150,
-    "live_fresh_items": 115,
-    "editor_fresh_items": 148,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 35,
+    "total_items_checked": 149,
+    "live_fresh_items": 95,
+    "editor_fresh_items": 147,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 54,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-11 08:52:08 PM ET"
+    "last_checked": "2026-11-11 11:26:17 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 17:03:00 -0500",
-      "age_hours": "3.82",
+      "age_hours": "6.39",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
@@ -74,21 +74,77 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 11 Nov 2026 20:52:06 +0000",
-      "age_hours": "5.00",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-      "url": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
-      "snapshot": "The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on the House Oversight and Government Reform Committee that their probes \"may cross the line into blatant criminality.\" The letter... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Indonesian VP resigns over education qualification row",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "snapshot": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
       "key_data": [
-        "Key people or organizations: White House, Democrats, Congress, House Oversight",
-        "Politics desk signal: congress, house, white house",
+        "Key people or organizations: Indonesian VP, Vice President Gibran Rakabuming",
+        "Story focus: Indonesian VP resigns over education qualification row",
+        "Source context: Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications."
+      ],
+      "why_it_matters": [
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Indonesian VP.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 12 Nov 2026 02:22:48 +0000",
+      "age_hours": "2.06",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": ""
+    },
+    {
+      "headline": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+      "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+      "snapshot": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Iran, Israel, Israeli",
+        "Story focus: Iran warns of expanded retaliation as Israel reportedly readies to attack",
+        "Source context: Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports. The geopolitical angle is how..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Thu, 12 Nov 2026 03:50:42 +0000",
+      "age_hours": "0.59",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "House Democrat responds to White House warning: 'Come at me, bro'",
+      "url": "https://thehill.com/homenews/house/6214211-lynch-trump-oversight-clash/",
+      "snapshot": "Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and his administration, telling administration lawyers to \"Come at me, bro.\" \"I just think we are so well situated to do our jobs.... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: House Democrat, White House, Come",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-        "Source context: The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on..."
+        "Story focus: House Democrat responds to White House warning",
+        "Source context: Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -96,77 +152,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving House Democrat.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 11 Nov 2026 14:39:24 +0000",
-      "age_hours": "11.21",
+      "published": "Wed, 11 Nov 2026 20:35:23 +0000",
+      "age_hours": "7.85",
       "freshness_status": "fresh",
-      "editorial_score": "133",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump's White House calls Democratic plans for congressional probes 'abuse'",
-      "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-      "snapshot": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Trump, White House, Democratic, Robert Garcia",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's White House calls Democratic plans for congressional probes 'abuse'",
-        "Source context: Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch. The key question is leverage:..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Wed, 11 Nov 2026 20:39:50 +0000",
-      "age_hours": "5.21",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-      "snapshot": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Lebanon, Naim Qassem",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US election results could be positive for Lebanon, Hezbollah chief says",
-        "Source context: Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty. The election angle is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Lebanon.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Thu, 12 Nov 2026 00:06:50 +0000",
-      "age_hours": "1.76",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     }
   ],
@@ -196,7 +192,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 17:03:00 -0500",
-      "age_hours": "3.82",
+      "age_hours": "6.39",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
@@ -226,21 +222,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 11 Nov 2026 20:52:06 +0000",
-      "age_hours": "5.00",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-      "url": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
-      "snapshot": "The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on the House Oversight and Government Reform Committee that their probes \"may cross the line into blatant criminality.\" The letter... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "House Democrat responds to White House warning: 'Come at me, bro'",
+      "url": "https://thehill.com/homenews/house/6214211-lynch-trump-oversight-clash/",
+      "snapshot": "Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and his administration, telling administration lawyers to \"Come at me, bro.\" \"I just think we are so well situated to do our jobs.... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: White House, Democrats, Congress, House Oversight",
-        "Politics desk signal: congress, house, white house",
+        "Key people or organizations: House Democrat, White House, Come",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-        "Source context: The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on..."
+        "Story focus: House Democrat responds to White House warning",
+        "Source context: Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -248,17 +244,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving House Democrat.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 11 Nov 2026 14:39:24 +0000",
-      "age_hours": "11.21",
+      "published": "Wed, 11 Nov 2026 20:35:23 +0000",
+      "age_hours": "7.85",
       "freshness_status": "fresh",
-      "editorial_score": "133",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -286,46 +282,44 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 12:36:00 -0500",
-      "age_hours": "8.27",
+      "age_hours": "10.84",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump's White House calls Democratic plans for congressional probes 'abuse'",
-      "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-      "snapshot": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Indonesian VP resigns over education qualification row",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "snapshot": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
       "key_data": [
-        "Key people or organizations: Trump, White House, Democratic, Robert Garcia",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's White House calls Democratic plans for congressional probes 'abuse'",
-        "Source context: Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch. The key question is leverage:..."
+        "Key people or organizations: Indonesian VP, Vice President Gibran Rakabuming",
+        "Story focus: Indonesian VP resigns over education qualification row",
+        "Source context: Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Indonesian VP.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 11 Nov 2026 20:39:50 +0000",
-      "age_hours": "5.21",
+      "published": "Thu, 12 Nov 2026 02:22:48 +0000",
+      "age_hours": "2.06",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "White House warns of \"blatant criminality\" in Democratic probes",
     "Senate Democrat presses Trump administration on Megaspeed probe following Alice Huang allegations",
-    "White House pushes back on Democrats, saying investigations could 'cross the line' into crime"
+    "House Democrat responds to White House warning: 'Come at me, bro'"
   ],
   "sections": [
     {
@@ -353,7 +347,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 17:03:00 -0500",
-      "age_hours": "3.82",
+      "age_hours": "6.39",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
@@ -383,21 +377,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Wed, 11 Nov 2026 20:52:06 +0000",
-      "age_hours": "5.00",
+      "age_hours": "7.57",
       "freshness_status": "fresh",
       "editorial_score": "133",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-      "url": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
-      "snapshot": "The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on the House Oversight and Government Reform Committee that their probes \"may cross the line into blatant criminality.\" The letter... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "House Democrat responds to White House warning: 'Come at me, bro'",
+      "url": "https://thehill.com/homenews/house/6214211-lynch-trump-oversight-clash/",
+      "snapshot": "Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and his administration, telling administration lawyers to \"Come at me, bro.\" \"I just think we are so well situated to do our jobs.... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Key people or organizations: White House, Democrats, Congress, House Oversight",
-        "Politics desk signal: congress, house, white house",
+        "Key people or organizations: House Democrat, White House, Come",
+        "Politics desk signal: house, white house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: White House pushes back on Democrats, saying investigations could 'cross the line' into crime",
-        "Source context: The White House has floated that it may seek to investigate the investigators in the incoming Congress, writing Monday in a letter to Democrats on..."
+        "Story focus: House Democrat responds to White House warning",
+        "Source context: Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -405,17 +399,17 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving White House.",
+        "Watch for the next official action involving House Democrat.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Wed, 11 Nov 2026 14:39:24 +0000",
-      "age_hours": "11.21",
+      "published": "Wed, 11 Nov 2026 20:35:23 +0000",
+      "age_hours": "7.85",
       "freshness_status": "fresh",
-      "editorial_score": "133",
+      "editorial_score": "119",
       "urgency": "DEVELOPING"
     },
     {
@@ -443,70 +437,66 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Wed, 11 Nov 2026 12:36:00 -0500",
-      "age_hours": "8.27",
+      "age_hours": "10.84",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Trump's White House calls Democratic plans for congressional probes 'abuse'",
-      "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-      "snapshot": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Indonesian VP resigns over education qualification row",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "snapshot": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
       "key_data": [
-        "Key people or organizations: Trump, White House, Democratic, Robert Garcia",
-        "Politics desk signal: congress, house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump's White House calls Democratic plans for congressional probes 'abuse'",
-        "Source context: Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch. The key question is leverage:..."
+        "Key people or organizations: Indonesian VP, Vice President Gibran Rakabuming",
+        "Story focus: Indonesian VP resigns over education qualification row",
+        "Source context: Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This affects the balance of power, policy debate or public trust.",
+        "The newsroom should identify who gains leverage and who faces accountability.",
+        "Editors should connect the story to the next governing, legal or electoral consequence."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Indonesian VP.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Wed, 11 Nov 2026 20:39:50 +0000",
-      "age_hours": "5.21",
+      "published": "Thu, 12 Nov 2026 02:22:48 +0000",
+      "age_hours": "2.06",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "DEVELOPING"
+      "editorial_score": "86",
+      "urgency": ""
     },
     {
-      "headline": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-      "snapshot": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+      "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+      "snapshot": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Lebanon, Naim Qassem",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: US election results could be positive for Lebanon, Hezbollah chief says",
-        "Source context: Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty. The election angle is whether this changes..."
+        "Key people or organizations: Iran, Israel, Israeli",
+        "Story focus: Iran warns of expanded retaliation as Israel reportedly readies to attack",
+        "Source context: Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports. The geopolitical angle is how..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Lebanon.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Iran.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Thu, 12 Nov 2026 00:06:50 +0000",
-      "age_hours": "1.76",
+      "published": "Thu, 12 Nov 2026 03:50:42 +0000",
+      "age_hours": "0.59",
       "freshness_status": "fresh",
       "editorial_score": "82",
-      "urgency": "DEVELOPING"
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
