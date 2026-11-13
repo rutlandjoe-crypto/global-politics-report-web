@@ -21,7 +21,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Fri, 13 Nov 2026 01:44:55 +0000",
-    "age_hours": "0.45",
+    "age_hours": "3.09",
     "freshness_status": "fresh",
     "editorial_score": "86",
     "urgency": "DEVELOPING"
@@ -211,7 +211,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 12 Nov 2026 18:09:18 -0500",
-    "age_hours": "3.04",
+    "age_hours": "5.68",
     "freshness_status": "fresh",
     "editorial_score": "150",
     "urgency": "DEVELOPING"
@@ -241,7 +241,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 12 Nov 2026 22:52:19 +0000",
-    "age_hours": "3.33",
+    "age_hours": "5.96",
     "freshness_status": "fresh",
     "editorial_score": "157",
     "urgency": "DEVELOPING"
@@ -355,6 +355,36 @@
     "urgency": "DEVELOPING"
   },
   {
+    "headline": "These House and Senate midterm races don't have winners yet",
+    "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+    "snapshot": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: House, Senate, Democrats",
+      "Specific figures mentioned: 2026",
+      "Politics desk signal: senate, house, election",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: These House and Senate midterm races don't have winners yet"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving House.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Thu, 12 Nov 2026 15:01:29 -0500",
+    "age_hours": "8.81",
+    "freshness_status": "fresh",
+    "editorial_score": "108",
+    "urgency": ""
+  },
+  {
     "headline": "What we know about Brooklyn building collapse that killed eight people",
     "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
     "snapshot": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
@@ -435,7 +465,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 12 Nov 2026 17:24:59 +0000",
-    "age_hours": "8.78",
+    "age_hours": "11.42",
     "freshness_status": "fresh",
     "editorial_score": "149",
     "urgency": "DEVELOPING"
