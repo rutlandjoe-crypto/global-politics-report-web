@@ -1,447 +1,505 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump on reported FBI hack: ‘I always like to put things in a positive spin’",
-  "snapshot": "President Trump said Saturday the potential breach of the FBI’s nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never learned otherwise.” “I always like to put things on a positive spin,” Trump said during a phone interview with Fox News’s “Saturday in America”…",
-  "updated_at": "2026-11-21 02:51:59 PM ET",
-  "generated_at": "2026-11-21 02:51:59 PM ET",
+  "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+  "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+  "updated_at": "2026-11-21 03:45:04 PM ET",
+  "generated_at": "2026-11-21 03:45:04 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 176,
-    "live_fresh_items": 50,
-    "editor_fresh_items": 155,
-    "public_fallback_items": 175,
-    "stale_or_blocked_items": 126,
+    "total_items_checked": 151,
+    "live_fresh_items": 52,
+    "editor_fresh_items": 134,
+    "public_fallback_items": 151,
+    "stale_or_blocked_items": 99,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-21 02:51:59 PM ET"
+    "last_checked": "2026-11-21 03:45:04 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Trump on reported FBI hack: ‘I always like to put things in a positive spin’",
-      "url": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
-      "snapshot": "President Trump said Saturday the potential breach of the FBI’s nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never learned otherwise.” “I always like to put things on a positive spin,” Trump said during a phone interview with Fox News’s “Saturday in America”…",
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Nov. 21, 2026 at 02:36 PM ET"
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Pentagon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "3.71",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
+      "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
+      "snapshot": "The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling Florida-based probe into the past investigations of President Trump. Essayli was found last month to be unlawfully serving in his post as... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Justice Department, Trump, Department, Justice",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Justice Department taps new attorney to lead controversial review of Trump probes",
+        "Source context: The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Justice Department.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 19:36:46 +0000",
-      "age_hours": "0.25",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "published": "Fri, 20 Nov 2026 18:47:38 +0000",
+      "age_hours": "25.96",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-      "snapshot": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+      "headline": "California State Bar places Katie Zacharia under investigation",
+      "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
+      "snapshot": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Nov. 21, 2026 at 02:11 PM ET"
+        "Key people or organizations: California State Bar, Katie Zacharia, White House Press Secretary",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: California State Bar places Katie Zacharia under investigation",
+        "Source context: The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving California State Bar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sat, 21 Nov 2026 19:11:51 +0000",
-      "age_hours": "0.67",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 21 Nov 2026 13:54:58 +0000",
+      "age_hours": "6.83",
       "freshness_status": "fresh",
-      "editorial_score": "99",
+      "editorial_score": "107",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "snapshot": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "headline": "Trump signs executive order on federal workers' responses to Congress",
+      "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
+      "snapshot": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Nov. 21, 2026 at 01:42 PM ET"
+        "Key people or organizations: Trump, Congress, White House",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump signs executive order on federal workers' responses to Congress",
+        "Source context: If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended. The..."
       ],
       "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sat, 21 Nov 2026 18:42:38 +0000",
-      "age_hours": "1.16",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 13:33:46 -0500",
+      "age_hours": "2.19",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Nov. 21, 2026 at 11:35 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sat, 21 Nov 2026 16:35:15 GMT",
-      "age_hours": "3.28",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
-      "snapshot": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
+      "headline": "US midterms 2026: What happens before the new Congress takes office?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "snapshot": "What happens between the US midterm elections and January, when Democrats take control of Congress? The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Nov. 21, 2026 at 07:40 AM ET"
+        "Key people or organizations: US, Congress, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US midterms 2026"
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Sat, 21 Nov 2026 07:40:21 -0500",
-      "age_hours": "7.19",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+      "age_hours": "4.93",
       "freshness_status": "fresh",
-      "editorial_score": "93",
+      "editorial_score": "78",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Cruz says he is already working with Talarico on bringing Space Academy to Texas",
-      "url": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/",
-      "snapshot": "Sen. Ted Cruz (R-Texas) said he had a productive conversation with Sen.-elect James Talarico (D-Texas), his soon-to-be Texas partner, and that they will both push to bring President Trump’s proposed Space Academy to Texas. “I did actually spend a probably half hour on the phone with him yesterday talking about the space academy,” Cruz told…",
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Nov. 21, 2026 at 02:09 PM ET"
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Pentagon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "3.71",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump signs executive order on federal workers' responses to Congress",
+      "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
+      "snapshot": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Congress, White House",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump signs executive order on federal workers' responses to Congress",
+        "Source context: If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended. The..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 13:33:46 -0500",
+      "age_hours": "2.19",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
+      "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
+      "snapshot": "The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling Florida-based probe into the past investigations of President Trump. Essayli was found last month to be unlawfully serving in his post as... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Justice Department, Trump, Department, Justice",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Justice Department taps new attorney to lead controversial review of Trump probes",
+        "Source context: The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Justice Department.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 19:09:13 +0000",
-      "age_hours": "0.71",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
+      "published": "Fri, 20 Nov 2026 18:47:38 +0000",
+      "age_hours": "25.96",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "FBI national crime database suffers suspected breach: Reports",
-      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-      "snapshot": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "headline": "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+      "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
+      "snapshot": "House Democratic leader Rep. Hakeem Jeffries (D-N.Y.) expressed openness to work with Republicans in a new interview but said he had yet to speak extensively with any GOP leaders as he prepares to become Speaker of the House. Sitting down for a wide-ranging interview with The... The key question is leverage: the next votes, negotiations and public pressure points will...",
       "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Government",
-        "Published: Nov. 21, 2026 at 01:19 PM ET"
+        "Key people or organizations: Jeffries, Speaker, Trump",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+        "Source context: House Democratic leader Rep. Hakeem Jeffries (D-N.Y.) expressed openness to work with Republicans in a new interview but said he had yet to speak..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Jeffries.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 21 Nov 2026 18:06:27 +0000",
+      "age_hours": "2.64",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "US midterms 2026: What happens before the new Congress takes office?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "snapshot": "What happens between the US midterm elections and January, when Democrats take control of Congress? The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: US, Congress, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US midterms 2026"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 21 Nov 2026 18:19:10 +0000",
-      "age_hours": "1.55",
+      "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+      "age_hours": "4.93",
       "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-      "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
-      "snapshot": "The Democratic nominee for House speaker will have a challenging job. We asked him how he plans to lead.",
-      "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Nov. 21, 2026 at 11:03 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sat, 21 Nov 2026 16:03:26 +0000",
-      "age_hours": "3.81",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Court",
-        "Published: Nov. 21, 2026 at 09:02 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legal authority, enforcement or the balance of institutional power.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sat, 21 Nov 2026 14:02:03 GMT",
-      "age_hours": "5.83",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker",
-      "snapshot": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries.",
-      "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Nov. 21, 2026 at 07:40 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Sat, 21 Nov 2026 07:40:19 -0500",
-      "age_hours": "7.19",
-      "freshness_status": "fresh",
-      "editorial_score": "93",
+      "editorial_score": "78",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump on reported FBI hack: ‘I always like to put things in a positive spin’",
-    "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-    "Deadly attack in Kyiv as Russia launches barrage against Ukraine"
+    "Families frustrated with Pentagon probe of deadly drone strike",
+    "Trump signs executive order on federal workers' responses to Congress",
+    "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance"
   ],
   "sections": [
     {
-      "headline": "Trump on reported FBI hack: ‘I always like to put things in a positive spin’",
-      "url": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
-      "snapshot": "President Trump said Saturday the potential breach of the FBI’s nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never learned otherwise.” “I always like to put things on a positive spin,” Trump said during a phone interview with Fox News’s “Saturday in America”…",
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Nov. 21, 2026 at 02:36 PM ET"
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
       ],
       "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Pentagon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "3.71",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump signs executive order on federal workers' responses to Congress",
+      "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
+      "snapshot": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Trump, Congress, White House",
+        "Politics desk signal: congress, house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump signs executive order on federal workers' responses to Congress",
+        "Source context: If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended. The..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 13:33:46 -0500",
+      "age_hours": "2.19",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+      "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
+      "snapshot": "House Democratic leader Rep. Hakeem Jeffries (D-N.Y.) expressed openness to work with Republicans in a new interview but said he had yet to speak extensively with any GOP leaders as he prepares to become Speaker of the House. Sitting down for a wide-ranging interview with The... The key question is leverage: the next votes, negotiations and public pressure points will...",
+      "key_data": [
+        "Key people or organizations: Jeffries, Speaker, Trump",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+        "Source context: House Democratic leader Rep. Hakeem Jeffries (D-N.Y.) expressed openness to work with Republicans in a new interview but said he had yet to speak..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jeffries.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 19:36:46 +0000",
-      "age_hours": "0.25",
+      "published": "Sat, 21 Nov 2026 18:06:27 +0000",
+      "age_hours": "2.64",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "107",
+      "urgency": ""
+    },
+    {
+      "headline": "California State Bar places Katie Zacharia under investigation",
+      "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
+      "snapshot": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: California State Bar, Katie Zacharia, White House Press Secretary",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: California State Bar places Katie Zacharia under investigation",
+        "Source context: The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving California State Bar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 21 Nov 2026 13:54:58 +0000",
+      "age_hours": "6.83",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-      "snapshot": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+      "headline": "US midterms 2026: What happens before the new Congress takes office?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "snapshot": "What happens between the US midterm elections and January, when Democrats take control of Congress? The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Source: The New York Times",
-        "Politics desk: Congress",
-        "Published: Nov. 21, 2026 at 02:11 PM ET"
+        "Key people or organizations: US, Congress, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US midterms 2026"
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-      "source_name": "The New York Times",
-      "published": "Sat, 21 Nov 2026 19:11:51 +0000",
-      "age_hours": "0.67",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "snapshot": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
-      "key_data": [
-        "Source: Al Jazeera",
-        "Politics desk: Foreign Policy",
-        "Published: Nov. 21, 2026 at 01:42 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect alliances, security commitments or diplomatic leverage.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 21 Nov 2026 18:42:38 +0000",
-      "age_hours": "1.16",
+      "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+      "age_hours": "4.93",
       "freshness_status": "fresh",
-      "editorial_score": "99",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "snapshot": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "key_data": [
-        "Source: BBC News",
-        "Politics desk: Policy",
-        "Published: Nov. 21, 2026 at 11:35 AM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect public policy, political strategy or institutional decision-making.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "source_name": "BBC News",
-      "published": "Sat, 21 Nov 2026 16:35:15 GMT",
-      "age_hours": "3.28",
-      "freshness_status": "fresh",
-      "editorial_score": "97",
+      "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
-      "snapshot": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
+      "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
+      "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
+      "snapshot": "The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling Florida-based probe into the past investigations of President Trump. Essayli was found last month to be unlawfully serving in his post as... The broader significance is institutional: court action can alter policy timelines, executive...",
       "key_data": [
-        "Source: NPR Politics",
-        "Politics desk: Congress",
-        "Published: Nov. 21, 2026 at 07:40 AM ET"
+        "Key people or organizations: Justice Department, Trump, Department, Justice",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Justice Department taps new attorney to lead controversial review of Trump probes",
+        "Source context: The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling..."
       ],
       "why_it_matters": [
-        "This development may affect legislative leverage, negotiations or the timing of government action.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
       ],
       "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
+        "Watch for the next official action involving Justice Department.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
       ],
-      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
-      "source_feed": "https://feeds.npr.org/1014/rss.xml",
-      "source_name": "NPR Politics",
-      "published": "Sat, 21 Nov 2026 07:40:21 -0500",
-      "age_hours": "7.19",
-      "freshness_status": "fresh",
-      "editorial_score": "93",
-      "urgency": ""
-    },
-    {
-      "headline": "Cruz says he is already working with Talarico on bringing Space Academy to Texas",
-      "url": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/",
-      "snapshot": "Sen. Ted Cruz (R-Texas) said he had a productive conversation with Sen.-elect James Talarico (D-Texas), his soon-to-be Texas partner, and that they will both push to bring President Trump’s proposed Space Academy to Texas. “I did actually spend a probably half hour on the phone with him yesterday talking about the space academy,” Cruz told…",
-      "key_data": [
-        "Source: The Hill",
-        "Politics desk: Government",
-        "Published: Nov. 21, 2026 at 02:09 PM ET"
-      ],
-      "why_it_matters": [
-        "This development may affect executive authority, public policy or government accountability.",
-        "The practical test is whether official decisions follow the public statements and political reaction."
-      ],
-      "what_to_watch": [
-        "Watch for official documents, votes, rulings or agency actions.",
-        "Track responses from elected officials, courts, campaigns and affected institutions."
-      ],
-      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 19:09:13 +0000",
-      "age_hours": "0.71",
-      "freshness_status": "fresh",
-      "editorial_score": "99",
+      "published": "Fri, 20 Nov 2026 18:47:38 +0000",
+      "age_hours": "25.96",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "111",
       "urgency": "DEVELOPING"
     }
   ],
