@@ -1,174 +1,52 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-  "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-11-21 09:06:18 AM ET",
-  "generated_at": "2026-11-21 09:06:18 AM ET",
+  "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+  "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+  "updated_at": "2026-11-21 12:48:59 PM ET",
+  "generated_at": "2026-11-21 12:48:59 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 151,
-    "live_fresh_items": 36,
-    "editor_fresh_items": 123,
+    "live_fresh_items": 44,
+    "editor_fresh_items": 125,
     "public_fallback_items": 150,
-    "stale_or_blocked_items": 115,
+    "stale_or_blocked_items": 107,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-21 09:06:18 AM ET"
+    "last_checked": "2026-11-21 12:48:59 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
-      "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
-      "snapshot": "The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling Florida-based probe into the past investigations of President Trump. Essayli was found last month to be unlawfully serving in his post as... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Justice Department, Trump, Department, Justice",
-        "Politics desk signal: court",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Justice Department taps new attorney to lead controversial review of Trump probes",
-        "Source context: The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling..."
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
       ],
       "why_it_matters": [
-        "This has legal and institutional consequences beyond one news cycle.",
-        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
-        "Editors should frame the story around who gains power and who faces new limits."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Justice Department.",
-        "Track filings, rulings, appeals and agency responses.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Fri, 20 Nov 2026 18:47:38 +0000",
-      "age_hours": "19.31",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "111",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "California State Bar places Katie Zacharia under investigation",
-      "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
-      "snapshot": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: California State Bar, Katie Zacharia, White House Press Secretary",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: California State Bar places Katie Zacharia under investigation",
-        "Source context: The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving California State Bar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 13:54:58 +0000",
-      "age_hours": "0.19",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump insists he's \"not rushing to make any decisions on Iran\""
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 21 Nov 2026 06:13:29 -0500",
-      "age_hours": "2.88",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Can Democrats force an end to the Iran war when they take Congress?",
-      "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
-      "snapshot": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Can Democrats, Iran, Congress, Democrats",
-        "Politics desk signal: congress, senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Can Democrats force an end to the Iran war when they take Congress?",
-        "Source context: With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Can Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 20 Nov 2026 06:00:00 -0500",
-      "age_hours": "27.10",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "FBI looking into possible breach of its crime database: Report",
-      "url": "https://thehill.com/policy/technology/6235094-fbi-investigates-ncic-breach/",
-      "snapshot": "The Federal Bureau of Investigation (FBI) is looking into a potential breach of its nationwide criminal information database, a second breach in recent months coming on the heels of nationwide technology outages. The agency's National Crime Information Center, which is used to...",
-      "key_data": [
-        "Key people or organizations: FBI, Federal Bureau, National Crime Information Center",
-        "Story focus: FBI looking into possible breach of its crime database",
-        "Source context: The Federal Bureau of Investigation (FBI) is looking into a potential breach of its nationwide criminal information database, a second breach in..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving FBI.",
+        "Watch for the next official action involving Pentagon.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 13:43:48 +0000",
-      "age_hours": "0.37",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "0.77",
       "freshness_status": "fresh",
-      "editorial_score": "69",
-      "urgency": "DEVELOPING"
-    }
-  ],
-  "editor_signals": [
+      "editorial_score": "140",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
       "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
@@ -194,40 +72,10 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 20 Nov 2026 18:47:38 +0000",
-      "age_hours": "19.31",
+      "age_hours": "23.02",
       "freshness_status": "editor_fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump insists he's \"not rushing to make any decisions on Iran\""
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 21 Nov 2026 06:13:29 -0500",
-      "age_hours": "2.88",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     },
     {
       "headline": "California State Bar places Katie Zacharia under investigation",
@@ -254,21 +102,21 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sat, 21 Nov 2026 13:54:58 +0000",
-      "age_hours": "0.19",
+      "age_hours": "3.90",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Can Democrats force an end to the Iran war when they take Congress?",
-      "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
-      "snapshot": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Trump says he wants \"permanent\" deal with Iran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
       "key_data": [
-        "Key people or organizations: Can Democrats, Iran, Congress, Democrats",
-        "Politics desk signal: congress, senate, house",
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Specific figures mentioned: 2027",
+        "Politics desk signal: election, campaign",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Can Democrats force an end to the Iran war when they take Congress?",
-        "Source context: With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The..."
+        "Story focus: Trump says he wants \"permanent\" deal with Iran"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -276,29 +124,29 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Can Democrats.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Fri, 20 Nov 2026 06:00:00 -0500",
-      "age_hours": "27.10",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
-      "urgency": ""
+      "published": "Sat, 21 Nov 2026 12:22:37 -0500",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Gianni Infantino's FIFA re-election backed by South America's CONMEBOL",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-      "snapshot": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "US midterms 2026: What happens before the new Congress takes office?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "snapshot": "What happens between the US midterm elections and January, when Democrats take control of Congress? The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Gianni Infantino, FIFA, South America, CONMEBOL",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: US, Congress, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: congress, election",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Gianni Infantino's FIFA re-election backed by South America's CONMEBOL",
-        "Source context: Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support. The election angle is whether this..."
+        "Story focus: US midterms 2026"
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -306,173 +154,48 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Gianni Infantino.",
+        "Watch for the next official action involving US.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sat, 21 Nov 2026 08:33:52 +0000",
-      "age_hours": "5.54",
+      "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+      "age_hours": "1.99",
       "freshness_status": "fresh",
-      "editorial_score": "60",
+      "editorial_score": "78",
       "urgency": ""
     }
   ],
-  "key_storylines": [
-    "Trump insists he's \"not rushing to make any decisions on Iran\"",
-    "California State Bar places Katie Zacharia under investigation",
-    "Democratic Sen.-elect Colom responds to Trump's praise"
-  ],
-  "sections": [
+  "editor_signals": [
     {
-      "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump insists he's \"not rushing to make any decisions on Iran\""
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 21 Nov 2026 06:13:29 -0500",
-      "age_hours": "2.88",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "California State Bar places Katie Zacharia under investigation",
-      "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
-      "snapshot": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: California State Bar, Katie Zacharia, White House Press Secretary",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: California State Bar places Katie Zacharia under investigation",
-        "Source context: The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving California State Bar.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 13:54:58 +0000",
-      "age_hours": "0.19",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Democratic Sen.-elect Colom responds to Trump's praise",
-      "url": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
-      "snapshot": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump's recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how he plans to represent Mississippi. Colom went viral on the... The election angle is whether this changes voter attention, campaign strategy or party messaging...",
-      "key_data": [
-        "Key people or organizations: Democratic Sen, Colom, Trump, Sen",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Democratic Sen.-elect Colom responds to Trump's praise",
-        "Source context: Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump's recent praise of his midterm campaign strategy, saying his..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Democratic Sen.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 03:09:44 +0000",
-      "age_hours": "10.94",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Can Democrats force an end to the Iran war when they take Congress?",
-      "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
-      "snapshot": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Can Democrats, Iran, Congress, Democrats",
-        "Politics desk signal: congress, senate, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Can Democrats force an end to the Iran war when they take Congress?",
-        "Source context: With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Can Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Fri, 20 Nov 2026 06:00:00 -0500",
-      "age_hours": "27.10",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "FBI looking into possible breach of its crime database: Report",
-      "url": "https://thehill.com/policy/technology/6235094-fbi-investigates-ncic-breach/",
-      "snapshot": "The Federal Bureau of Investigation (FBI) is looking into a potential breach of its nationwide criminal information database, a second breach in recent months coming on the heels of nationwide technology outages. The agency's National Crime Information Center, which is used to...",
-      "key_data": [
-        "Key people or organizations: FBI, Federal Bureau, National Crime Information Center",
-        "Story focus: FBI looking into possible breach of its crime database",
-        "Source context: The Federal Bureau of Investigation (FBI) is looking into a potential breach of its nationwide criminal information database, a second breach in..."
-      ],
-      "why_it_matters": [
-        "This affects the balance of power, policy debate or public trust.",
-        "The newsroom should identify who gains leverage and who faces accountability.",
-        "Editors should connect the story to the next governing, legal or electoral consequence."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving FBI.",
+        "Watch for the next official action involving Pentagon.",
         "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
       "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 13:43:48 +0000",
-      "age_hours": "0.37",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "0.77",
       "freshness_status": "fresh",
-      "editorial_score": "69",
-      "urgency": "DEVELOPING"
+      "editorial_score": "140",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
@@ -499,7 +222,282 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Fri, 20 Nov 2026 18:47:38 +0000",
-      "age_hours": "19.31",
+      "age_hours": "23.02",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "111",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trump says he wants \"permanent\" deal with Iran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Specific figures mentioned: 2027",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he wants \"permanent\" deal with Iran"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:22:37 -0500",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "California State Bar places Katie Zacharia under investigation",
+      "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
+      "snapshot": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: California State Bar, Katie Zacharia, White House Press Secretary",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: California State Bar places Katie Zacharia under investigation",
+        "Source context: The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving California State Bar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 21 Nov 2026 13:54:58 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US midterms 2026: What happens before the new Congress takes office?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "snapshot": "What happens between the US midterm elections and January, when Democrats take control of Congress? The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: US, Congress, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US midterms 2026"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+      "age_hours": "1.99",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Families frustrated with Pentagon probe of deadly drone strike",
+    "Trump says he wants \"permanent\" deal with Iran",
+    "California State Bar places Katie Zacharia under investigation"
+  ],
+  "sections": [
+    {
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Pentagon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "0.77",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Trump says he wants \"permanent\" deal with Iran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "key_data": [
+        "Key people or organizations: Trump, Iran, President Trump",
+        "Specific figures mentioned: 2027",
+        "Politics desk signal: election, campaign",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump says he wants \"permanent\" deal with Iran"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Trump.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:22:37 -0500",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "California State Bar places Katie Zacharia under investigation",
+      "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
+      "snapshot": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: California State Bar, Katie Zacharia, White House Press Secretary",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: California State Bar places Katie Zacharia under investigation",
+        "Source context: The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly released letter shows, after a..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving California State Bar.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 21 Nov 2026 13:54:58 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "107",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Overton's nomination withdrawal means no clear end for FDA leadership vacuum",
+      "url": "https://thehill.com/homenews/administration/6231959-fda-leadership-heidi-overton-nomination-withdrawal/",
+      "snapshot": "The White House's abrupt withdrawal of Heidi Overton as President Trump's nominee to lead the Food and Drug Administration (FDA) means the agency will remain without stable leadership six months after the former commissioner resigned, leaving industry observers anxious. The... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Overton, FDA, White House, Heidi Overton",
+        "Politics desk signal: house, white house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Overton's nomination withdrawal means no clear end for FDA leadership vacuum",
+        "Source context: The White House's abrupt withdrawal of Heidi Overton as President Trump's nominee to lead the Food and Drug Administration (FDA) means the agency..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Overton.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+      "age_hours": "0.82",
+      "freshness_status": "fresh",
+      "editorial_score": "93",
+      "urgency": ""
+    },
+    {
+      "headline": "US midterms 2026: What happens before the new Congress takes office?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "snapshot": "What happens between the US midterm elections and January, when Democrats take control of Congress? The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: US, Congress, Democrats",
+        "Specific figures mentioned: 2026",
+        "Politics desk signal: congress, election",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: US midterms 2026"
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving US.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+      "age_hours": "1.99",
+      "freshness_status": "fresh",
+      "editorial_score": "78",
+      "urgency": ""
+    },
+    {
+      "headline": "Justice Department taps new attorney to lead controversial review of Trump probes",
+      "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
+      "snapshot": "The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling Florida-based probe into the past investigations of President Trump. Essayli was found last month to be unlawfully serving in his post as... The broader significance is institutional: court action can alter policy timelines, executive...",
+      "key_data": [
+        "Key people or organizations: Justice Department, Trump, Department, Justice",
+        "Politics desk signal: court",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Justice Department taps new attorney to lead controversial review of Trump probes",
+        "Source context: The Department of Justice (DOJ) has tapped Bill Essayli, an embattled federal prosecutor in California, to additionally take on a sprawling..."
+      ],
+      "why_it_matters": [
+        "This has legal and institutional consequences beyond one news cycle.",
+        "Court action can change policy timelines, executive authority, precedent and accountability pressure.",
+        "Editors should frame the story around who gains power and who faces new limits."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Justice Department.",
+        "Track filings, rulings, appeals and agency responses.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Fri, 20 Nov 2026 18:47:38 +0000",
+      "age_hours": "23.02",
       "freshness_status": "editor_fresh",
       "editorial_score": "111",
       "urgency": "DEVELOPING"
