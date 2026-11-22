@@ -3,20 +3,20 @@
   "vertical": "Politics",
   "headline": "$1.7T Biden-era government funding bill found unconstitutional, appeals court rules",
   "snapshot": "An appeals court ruled on Friday that the 2022 $1.7 trillion government funding bill passed by Congress under former President Biden through a pandemic-era rule that allowed lawmakers to vote by proxy was unconstitutional. The New Orleans-based 5th U.S. Circuit ‌Court of... The broader significance is institutional: court action can alter policy timelines, executive authority,...",
-  "updated_at": "2026-11-22 10:53:02 AM ET",
-  "generated_at": "2026-11-22 10:53:02 AM ET",
+  "updated_at": "2026-11-22 01:06:03 PM ET",
+  "generated_at": "2026-11-22 01:06:03 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 150,
-    "live_fresh_items": 36,
-    "editor_fresh_items": 71,
-    "public_fallback_items": 149,
-    "stale_or_blocked_items": 114,
+    "live_fresh_items": 48,
+    "editor_fresh_items": 82,
+    "public_fallback_items": 148,
+    "stale_or_blocked_items": 102,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-22 10:53:02 AM ET"
+    "last_checked": "2026-11-22 01:06:03 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,40 +42,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "22.84",
+      "age_hours": "25.06",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "House Democrats split over risking lame-duck shutdown to defund Iran war",
-      "url": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/",
-      "snapshot": "House Democrats are wrestling with a lame-duck strategy on the Iran war, divided over whether to demand an end to war funding, which could risk triggering a government shutdown — or punting that fight to next year, when they'll control Congress. On one side of the debate are... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: House Democrats, Iran, Congress, On",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House Democrats split over risking lame-duck shutdown to defund Iran war",
-        "Source context: House Democrats are wrestling with a lame-duck strategy on the Iran war, divided over whether to demand an end to war funding, which could risk..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving House Democrats.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "age_hours": "4.88",
-      "freshness_status": "fresh",
-      "editorial_score": "95",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "$1.7T Biden-era government funding bill found unconstitutional, appeals court rules",
@@ -102,21 +72,51 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 13:49:20 +0000",
-      "age_hours": "2.06",
+      "age_hours": "4.28",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
     },
     {
-      "headline": "Trump says he wants \"permanent\" deal with Iran",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+      "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+      "snapshot": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Jeffries, Democrats, Trump, House Minority Leader Hakeem",
+        "Politics desk signal: house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he wants \"permanent\" deal with Iran"
+        "Story focus: Jeffries talks about where Democrats may be able to work with Trump",
+        "Source context: House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jeffries.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 22 Nov 2026 12:39:08 -0500",
+      "age_hours": "0.45",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump hates wind power. A bill he supports may help it get built",
+      "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+      "snapshot": "While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump has been a longtime opponent of wind energy, calling it \"worthless.\" However, he's also encouraging Congress to approve the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, While President Trump, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump hates wind power. A bill he supports may help it get built",
+        "Source context: While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -129,13 +129,13 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 08:17:51 -0500",
-      "age_hours": "2.59",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Sun, 22 Nov 2026 17:00:00 +0000",
+      "age_hours": "1.10",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
+      "editorial_score": "99",
+      "urgency": ""
     },
     {
       "headline": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
@@ -162,7 +162,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 22 Nov 2026 12:31:30 +0000",
-      "age_hours": "3.36",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
@@ -194,7 +194,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 13:49:20 +0000",
-      "age_hours": "2.06",
+      "age_hours": "4.28",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
@@ -222,21 +222,51 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "22.84",
+      "age_hours": "25.06",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Trump says he wants \"permanent\" deal with Iran",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+      "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+      "snapshot": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
+        "Key people or organizations: Jeffries, Democrats, Trump, House Minority Leader Hakeem",
+        "Politics desk signal: house",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he wants \"permanent\" deal with Iran"
+        "Story focus: Jeffries talks about where Democrats may be able to work with Trump",
+        "Source context: House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jeffries.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 22 Nov 2026 12:39:08 -0500",
+      "age_hours": "0.45",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump hates wind power. A bill he supports may help it get built",
+      "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+      "snapshot": "While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump has been a longtime opponent of wind energy, calling it \"worthless.\" However, he's also encouraging Congress to approve the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "key_data": [
+        "Key people or organizations: Trump, While President Trump, Congress",
+        "Politics desk signal: congress",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Trump hates wind power. A bill he supports may help it get built",
+        "Source context: While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -249,43 +279,13 @@
         "Separate official action from political messaging."
       ],
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 08:17:51 -0500",
-      "age_hours": "2.59",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Trump praises Zacharia amid California state bar investigation",
-      "url": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
-      "snapshot": "President Trump heaped praise on former White House Press Secretary Katie Zacharia in a phone interview Saturday, defending her quick exit from the role earlier this fall. \"I saw the way she was being treated and I said, 'Katie, you don't need this,'\" Trump told Fox News'... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: Trump, Zacharia, President Trump",
-        "Politics desk signal: house, white house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump praises Zacharia amid California state bar investigation",
-        "Source context: President Trump heaped praise on former White House Press Secretary Katie Zacharia in a phone interview Saturday, defending her quick exit from the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sat, 21 Nov 2026 21:07:46 +0000",
-      "age_hours": "18.75",
-      "freshness_status": "editor_fresh",
+      "published": "Sun, 22 Nov 2026 17:00:00 +0000",
+      "age_hours": "1.10",
+      "freshness_status": "fresh",
       "editorial_score": "99",
-      "urgency": "DEVELOPING"
+      "urgency": ""
     },
     {
       "headline": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
@@ -312,7 +312,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 22 Nov 2026 12:31:30 +0000",
-      "age_hours": "3.36",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
@@ -320,8 +320,8 @@
   ],
   "key_storylines": [
     "$1.7T Biden-era government funding bill found unconstitutional, appeals court rules",
-    "Trump says he wants \"permanent\" deal with Iran",
-    "House Democrats split over risking lame-duck shutdown to defund Iran war"
+    "Jeffries talks about where Democrats may be able to work with Trump",
+    "Trump says he wants \"permanent\" deal with Iran"
   ],
   "sections": [
     {
@@ -349,10 +349,40 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 13:49:20 +0000",
-      "age_hours": "2.06",
+      "age_hours": "4.28",
       "freshness_status": "fresh",
       "editorial_score": "115",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+      "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+      "snapshot": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "key_data": [
+        "Key people or organizations: Jeffries, Democrats, Trump, House Minority Leader Hakeem",
+        "Politics desk signal: house",
+        "Institutional context: story may affect policy, legal pressure or governing leverage",
+        "Story focus: Jeffries talks about where Democrats may be able to work with Trump",
+        "Source context: House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is..."
+      ],
+      "why_it_matters": [
+        "This could affect legislative leverage, policy timing or party strategy.",
+        "The practical question is whether the development changes votes, negotiations or public pressure.",
+        "Editors should watch for the gap between messaging and actual governing outcomes."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Jeffries.",
+        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sun, 22 Nov 2026 12:39:08 -0500",
+      "age_hours": "0.45",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "Trump says he wants \"permanent\" deal with Iran",
@@ -378,22 +408,22 @@
       "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 08:17:51 -0500",
-      "age_hours": "2.59",
+      "published": "Sun, 22 Nov 2026 11:30:04 -0500",
+      "age_hours": "1.60",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "House Democrats split over risking lame-duck shutdown to defund Iran war",
-      "url": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/",
-      "snapshot": "House Democrats are wrestling with a lame-duck strategy on the Iran war, divided over whether to demand an end to war funding, which could risk triggering a government shutdown — or punting that fight to next year, when they'll control Congress. On one side of the debate are... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
+      "headline": "Trump hates wind power. A bill he supports may help it get built",
+      "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+      "snapshot": "While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump has been a longtime opponent of wind energy, calling it \"worthless.\" However, he's also encouraging Congress to approve the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
       "key_data": [
-        "Key people or organizations: House Democrats, Iran, Congress, On",
-        "Politics desk signal: congress, house",
+        "Key people or organizations: Trump, While President Trump, Congress",
+        "Politics desk signal: congress",
         "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: House Democrats split over risking lame-duck shutdown to defund Iran war",
-        "Source context: House Democrats are wrestling with a lame-duck strategy on the Iran war, divided over whether to demand an end to war funding, which could risk..."
+        "Story focus: Trump hates wind power. A bill he supports may help it get built",
+        "Source context: While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump..."
       ],
       "why_it_matters": [
         "This could affect legislative leverage, policy timing or party strategy.",
@@ -401,18 +431,18 @@
         "Editors should watch for the gap between messaging and actual governing outcomes."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving House Democrats.",
+        "Watch for the next official action involving Trump.",
         "Track vote counts, committee movement, leadership pressure and amendment fights.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "age_hours": "4.88",
+      "published": "Sun, 22 Nov 2026 17:00:00 +0000",
+      "age_hours": "1.10",
       "freshness_status": "fresh",
-      "editorial_score": "95",
-      "urgency": "DEVELOPING"
+      "editorial_score": "99",
+      "urgency": ""
     },
     {
       "headline": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
@@ -439,7 +469,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 22 Nov 2026 12:31:30 +0000",
-      "age_hours": "3.36",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
@@ -467,40 +497,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "22.84",
+      "age_hours": "25.06",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump says it will be 'very hard' to work with Schumer as Senate majority leader",
-      "url": "https://thehill.com/homenews/administration/6235788-trump-critiques-schumer-senate/",
-      "snapshot": "President Trump said Sunday that it would be \"very hard\" for him to work with Senate Minority Leader Chuck Schumer (D-N.Y.) if he becomes majority leader next year, as the New York Democrat faces a challenge to his leadership post when Democrats take control of the chamber in... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Trump, Schumer, Senate, President Trump",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says it will be 'very hard' to work with Schumer as Senate majority leader",
-        "Source context: President Trump said Sunday that it would be \"very hard\" for him to work with Senate Minority Leader Chuck Schumer (D-N.Y.) if he becomes majority..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 15:19:09 +0000",
-      "age_hours": "0.56",
-      "freshness_status": "fresh",
-      "editorial_score": "91",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
