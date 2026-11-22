@@ -24,10 +24,40 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sun, 22 Nov 2026 02:14:18 +0000",
-    "age_hours": "0.48",
+    "age_hours": "5.49",
     "freshness_status": "fresh",
     "editorial_score": "90",
     "urgency": "DEVELOPING"
+  },
+  {
+    "headline": "Trump says he wants \"permanent\" deal with Iran",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+    "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+    "key_data": [
+      "Key people or organizations: Trump, Iran, President Trump",
+      "Specific figures mentioned: 2027",
+      "Politics desk signal: election, campaign",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Trump says he wants \"permanent\" deal with Iran"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+    "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+    "source_name": "CBS News",
+    "published": "Sat, 21 Nov 2026 20:34:57 -0500",
+    "age_hours": "6.14",
+    "freshness_status": "fresh",
+    "editorial_score": "108",
+    "urgency": "WATCH"
   },
   {
     "headline": "Lebanese president demands Israel withdrawal, decries Iran's interference",
@@ -52,7 +82,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Sat, 21 Nov 2026 23:44:00 +0000",
-    "age_hours": "2.98",
+    "age_hours": "7.99",
     "freshness_status": "fresh",
     "editorial_score": "82",
     "urgency": "DEVELOPING"
@@ -136,30 +166,34 @@
     "urgency": "DEVELOPING"
   },
   {
-    "headline": "Sunday shows preview: Trump’s security agenda, House leadership elections take center stage",
+    "headline": "Sunday shows preview: Trump's security agenda, House leadership elections take center stage",
     "url": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
-    "snapshot": "House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment as the first Black lawmaker to lead the legislative chamber. Jeffries’s nomination was one of many significant firsts in the lower chamber. House Democrats also elected Rep. Katherine Clark (D-Mass.) as the first woman for…",
+    "snapshot": "House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment as the first Black lawmaker to lead the legislative chamber. Jeffries's nomination was one of many significant firsts in the... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
     "key_data": [
-      "Source: The Hill",
-      "Politics desk: Election",
-      "Published: Nov. 21, 2026 at 06:06 PM ET"
+      "Key people or organizations: Trump, House, House Democrats, Minority Leader Hakeem Jeffries",
+      "Politics desk signal: house, election",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Sunday shows preview",
+      "Source context: House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment..."
     ],
     "why_it_matters": [
-      "This development may affect voter attention, campaign strategy or party positioning.",
-      "The practical test is whether official decisions follow the public statements and political reaction."
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
     ],
     "what_to_watch": [
-      "Watch for official documents, votes, rulings or agency actions.",
-      "Track responses from elected officials, courts, campaigns and affected institutions."
+      "Watch for the next official action involving Trump.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
     ],
-    "editor_note": "Developing elections story; prioritize verified official action and source reporting.",
+    "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 21 Nov 2026 23:06:51 +0000",
-    "age_hours": "0.61",
+    "age_hours": "8.61",
     "freshness_status": "fresh",
-    "editorial_score": "99",
-    "urgency": "DEVELOPING"
+    "editorial_score": "91",
+    "urgency": ""
   },
   {
     "headline": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -212,7 +246,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Sat, 21 Nov 2026 21:07:46 +0000",
-    "age_hours": "5.59",
+    "age_hours": "10.60",
     "freshness_status": "fresh",
     "editorial_score": "129",
     "urgency": "DEVELOPING"
