@@ -3,22 +3,50 @@
   "vertical": "Politics",
   "headline": "Trump says he wants \"permanent\" deal with Iran",
   "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-11-22 09:10:41 PM ET",
-  "generated_at": "2026-11-22 09:10:41 PM ET",
+  "updated_at": "2026-11-22 11:08:35 PM ET",
+  "generated_at": "2026-11-22 11:08:35 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 147,
-    "live_fresh_items": 61,
-    "editor_fresh_items": 94,
+    "live_fresh_items": 60,
+    "editor_fresh_items": 93,
     "public_fallback_items": 146,
-    "stale_or_blocked_items": 86,
+    "stale_or_blocked_items": 87,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-22 09:10:41 PM ET"
+    "last_checked": "2026-11-22 11:08:35 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "key_data": [
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
+      ],
+      "why_it_matters": [
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
+      ],
+      "what_to_watch": [
+        "Watch for the next official action involving Pentagon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
+        "Separate official action from political messaging."
+      ],
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "35.10",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
       "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
@@ -44,7 +72,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 20:20:40 +0000",
-      "age_hours": "5.83",
+      "age_hours": "7.80",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
@@ -74,40 +102,10 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 22 Nov 2026 17:29:17 -0500",
-      "age_hours": "3.69",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-      "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
-      "snapshot": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Jeffries, Democrats, Trump, House Minority Leader Hakeem",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jeffries talks about where Democrats may be able to work with Trump",
-        "Source context: House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jeffries.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 12:39:08 -0500",
-      "age_hours": "8.53",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     },
     {
       "headline": "GOP lawmaker 'optimistic' about passing AI bill before next Congress",
@@ -134,7 +132,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 19:28:31 +0000",
-      "age_hours": "6.70",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -164,7 +162,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 22 Nov 2026 23:22:59 +0000",
-      "age_hours": "2.79",
+      "age_hours": "4.76",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -194,7 +192,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "33.13",
+      "age_hours": "35.10",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "BREAKING"
@@ -224,7 +222,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 22 Nov 2026 17:29:17 -0500",
-      "age_hours": "3.69",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
@@ -254,7 +252,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 19:28:31 +0000",
-      "age_hours": "6.70",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -284,7 +282,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 20:20:40 +0000",
-      "age_hours": "5.83",
+      "age_hours": "7.80",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
@@ -314,7 +312,7 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 22 Nov 2026 23:22:59 +0000",
-      "age_hours": "2.79",
+      "age_hours": "4.76",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
@@ -351,7 +349,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 22 Nov 2026 17:29:17 -0500",
-      "age_hours": "3.69",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
@@ -381,7 +379,7 @@
       "source_feed": "https://www.cbsnews.com/latest/rss/politics",
       "source_name": "CBS News",
       "published": "Sun, 22 Nov 2026 12:39:08 -0500",
-      "age_hours": "8.53",
+      "age_hours": "10.49",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -411,7 +409,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 19:28:31 +0000",
-      "age_hours": "6.70",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "107",
       "urgency": ""
@@ -441,7 +439,7 @@
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
       "published": "Sun, 22 Nov 2026 20:20:40 +0000",
-      "age_hours": "5.83",
+      "age_hours": "7.80",
       "freshness_status": "fresh",
       "editorial_score": "105",
       "urgency": "DEVELOPING"
@@ -471,40 +469,38 @@
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
       "published": "Sun, 22 Nov 2026 23:22:59 +0000",
-      "age_hours": "2.79",
+      "age_hours": "4.76",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": ""
     },
     {
-      "headline": "Aber Kawas becomes first Palestinian in New York state Senate history",
-      "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-      "snapshot": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
       "key_data": [
-        "Key people or organizations: Aber Kawas, Senate",
-        "Specific figures mentioned: 74.5",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Aber Kawas becomes first Palestinian in New York state Senate history"
+        "Key people or organizations: Pentagon, Iran",
+        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
+        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
+        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
+        "Editors should watch official actions, not just statements."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Aber Kawas.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
+        "Watch for the next official action involving Pentagon.",
+        "Track responses from lawmakers, courts, agencies or campaigns.",
         "Separate official action from political messaging."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 22 Nov 2026 19:18:29 +0000",
-      "age_hours": "6.87",
-      "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "source_name": "CBS News",
+      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
+      "age_hours": "35.10",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
