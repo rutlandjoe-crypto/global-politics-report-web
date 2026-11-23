@@ -1,506 +1,448 @@
 {
   "site": "Global Politics Report",
   "vertical": "Politics",
-  "headline": "Trump says he wants \"permanent\" deal with Iran",
-  "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-  "updated_at": "2026-11-22 11:08:35 PM ET",
-  "generated_at": "2026-11-22 11:08:35 PM ET",
+  "headline": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+  "snapshot": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
+  "updated_at": "2026-11-23 03:48:08 AM ET",
+  "generated_at": "2026-11-23 03:48:08 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 147,
-    "live_fresh_items": 60,
-    "editor_fresh_items": 93,
-    "public_fallback_items": 146,
-    "stale_or_blocked_items": 87,
+    "total_items_checked": 162,
+    "live_fresh_items": 25,
+    "editor_fresh_items": 77,
+    "public_fallback_items": 162,
+    "stale_or_blocked_items": 137,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-22 11:08:35 PM ET"
+    "last_checked": "2026-11-23 03:48:08 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
-      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
-      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+      "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+      "snapshot": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
       "key_data": [
-        "Key people or organizations: Pentagon, Iran",
-        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
-        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 23, 2026 at 03:12 AM ET"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "35.10",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-      "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
-      "snapshot": "House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading stocks \"very early\" in the next Congress. \"So, well, listen, we've got to clean up the mess in Washington. That means the Congress,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Jeffries, Congress, House Minority Leader Hakeem, House Speaker",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-        "Source context: House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jeffries.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 20:20:40 +0000",
-      "age_hours": "7.80",
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 23 Nov 2026 08:12:29 +0000",
+      "age_hours": "0.59",
       "freshness_status": "fresh",
-      "editorial_score": "105",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump says he wants \"permanent\" deal with Iran",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "John Kennedy on potential 2028 presidential run: ‘If I get really fed up, I could run’",
+      "url": "https://thehill.com/homenews/campaign/6236538-john-kennedy-on-potential-2028-presidential-run-if-i-get-really-fed-up-i-could-run/",
+      "snapshot": "Sen. John Kennedy (R-La.) said Sunday he may make a bid for the White House in 2028 if he gets “really fed up.” “My plan, right now, is to run for reelection. I’ve saved up my nickels and dimes. I’ve saved up about $30 million. I’ll add a few nickels to it. And I plan…",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he wants \"permanent\" deal with Iran"
+        "Source: The Hill",
+        "Politics desk: Congress",
+        "Published: Nov. 22, 2026 at 10:59 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 17:29:17 -0500",
-      "age_hours": "5.65",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "GOP lawmaker 'optimistic' about passing AI bill before next Congress",
-      "url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
-      "snapshot": "Rep. Jay Obernolte (R-Calif.) said Sunday he is \"optimistic\" that Congress can pass a bipartisan artificial intelligence bill before the end of the year, despite a narrowing window for Republicans to advance legislation before Democrats take control of the House in January.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP, Congress, Jay Obernolte",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP lawmaker 'optimistic' about passing AI bill before next Congress",
-        "Source context: Rep. Jay Obernolte (R-Calif.) said Sunday he is \"optimistic\" that Congress can pass a bipartisan artificial intelligence bill before the end of the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
       "source_feed": "https://thehill.com/feed/",
       "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 19:28:31 +0000",
-      "age_hours": "8.67",
+      "published": "Mon, 23 Nov 2026 03:59:48 +0000",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
-      "editorial_score": "107",
+      "editorial_score": "95",
       "urgency": ""
     },
     {
-      "headline": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-      "snapshot": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "snapshot": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
       "key_data": [
-        "Key people or organizations: Trump, Schumer, US Senate",
-        "Specific figures mentioned: 2017",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump criticises Schumer amid push for new Democrat leadership in US Senate"
+        "Source: The New York Times",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 22, 2026 at 09:17 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Mon, 23 Nov 2026 02:17:16 +0000",
+      "age_hours": "6.51",
+      "freshness_status": "fresh",
+      "editorial_score": "93",
+      "urgency": ""
+    },
+    {
+      "headline": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The couple have been together for four years and were engaged in 2025.",
+      "key_data": [
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Nov. 22, 2026 at 04:22 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Sun, 22 Nov 2026 21:22:40 GMT",
+      "age_hours": "11.42",
+      "freshness_status": "fresh",
+      "editorial_score": "89",
+      "urgency": ""
+    },
+    {
+      "headline": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+      "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+      "snapshot": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 23, 2026 at 02:37 AM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
       "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_name": "Al Jazeera",
-      "published": "Sun, 22 Nov 2026 23:22:59 +0000",
-      "age_hours": "4.76",
+      "published": "Mon, 23 Nov 2026 07:37:09 +0000",
+      "age_hours": "1.18",
       "freshness_status": "fresh",
-      "editorial_score": "78",
-      "urgency": ""
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
-      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
-      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+      "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+      "snapshot": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
       "key_data": [
-        "Key people or organizations: Pentagon, Iran",
-        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
-        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
+        "Source: Al Jazeera",
+        "Politics desk: Policy",
+        "Published: Nov. 23, 2026 at 01:08 AM ET"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "35.10",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Trump says he wants \"permanent\" deal with Iran",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
-      "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he wants \"permanent\" deal with Iran"
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 17:29:17 -0500",
-      "age_hours": "5.65",
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 23 Nov 2026 06:08:13 +0000",
+      "age_hours": "2.67",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "GOP lawmaker 'optimistic' about passing AI bill before next Congress",
-      "url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
-      "snapshot": "Rep. Jay Obernolte (R-Calif.) said Sunday he is \"optimistic\" that Congress can pass a bipartisan artificial intelligence bill before the end of the year, despite a narrowing window for Republicans to advance legislation before Democrats take control of the House in January.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP, Congress, Jay Obernolte",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP lawmaker 'optimistic' about passing AI bill before next Congress",
-        "Source context: Rep. Jay Obernolte (R-Calif.) said Sunday he is \"optimistic\" that Congress can pass a bipartisan artificial intelligence bill before the end of the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 19:28:31 +0000",
-      "age_hours": "8.67",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-      "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
-      "snapshot": "House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading stocks \"very early\" in the next Congress. \"So, well, listen, we've got to clean up the mess in Washington. That means the Congress,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Jeffries, Congress, House Minority Leader Hakeem, House Speaker",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-        "Source context: House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jeffries.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 20:20:40 +0000",
-      "age_hours": "7.80",
-      "freshness_status": "fresh",
-      "editorial_score": "105",
+      "editorial_score": "97",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-      "snapshot": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "Kennedy calls Trump, Putin and Xi meeting a ‘good thing’",
+      "url": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/",
+      "snapshot": "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. “Well, I think it’s a good thing that the presidents of the three most powerful countries in the world are meeting, so long as America uses the opportunity to show its resolve,” Kennedy told…",
       "key_data": [
-        "Key people or organizations: Trump, Schumer, US Senate",
-        "Specific figures mentioned: 2017",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump criticises Schumer amid push for new Democrat leadership in US Senate"
+        "Source: The Hill",
+        "Politics desk: Government",
+        "Published: Nov. 22, 2026 at 09:55 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect executive authority, public policy or government accountability.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 22 Nov 2026 23:22:59 +0000",
-      "age_hours": "4.76",
+      "editor_note": "Developing government story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 23 Nov 2026 02:55:10 +0000",
+      "age_hours": "5.88",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+      "snapshot": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.",
+      "key_data": [
+        "Source: The New York Times",
+        "Politics desk: Congress",
+        "Published: Nov. 22, 2026 at 07:27 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Mon, 23 Nov 2026 00:27:25 +0000",
+      "age_hours": "8.35",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "key_data": [
+        "Source: BBC News",
+        "Politics desk: Court",
+        "Published: Nov. 22, 2026 at 01:29 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legal authority, enforcement or the balance of institutional power.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing courts story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Sun, 22 Nov 2026 18:29:46 GMT",
+      "age_hours": "14.31",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": ""
+    },
+    {
+      "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
+      "snapshot": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
+      "key_data": [
+        "Source: NPR Politics",
+        "Politics desk: Congress",
+        "Published: Nov. 22, 2026 at 08:12 AM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Sun, 22 Nov 2026 08:12:09 -0500",
+      "age_hours": "19.60",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Trump says he wants \"permanent\" deal with Iran",
-    "Jeffries talks about where Democrats may be able to work with Trump",
-    "GOP lawmaker 'optimistic' about passing AI bill before next Congress"
+    "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+    "John Kennedy on potential 2028 presidential run: ‘If I get really fed up, I could run’",
+    "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair"
   ],
   "sections": [
     {
-      "headline": "Trump says he wants \"permanent\" deal with Iran",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "snapshot": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027. The election angle is whether this changes voter attention, campaign strategy or party messaging beyond the immediate news cycle.",
+      "headline": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+      "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+      "snapshot": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
       "key_data": [
-        "Key people or organizations: Trump, Iran, President Trump",
-        "Specific figures mentioned: 2027",
-        "Politics desk signal: election, campaign",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump says he wants \"permanent\" deal with Iran"
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 23, 2026 at 03:12 AM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 17:29:17 -0500",
-      "age_hours": "5.65",
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 23 Nov 2026 08:12:29 +0000",
+      "age_hours": "0.59",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-      "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
-      "snapshot": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
-      "key_data": [
-        "Key people or organizations: Jeffries, Democrats, Trump, House Minority Leader Hakeem",
-        "Politics desk signal: house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jeffries talks about where Democrats may be able to work with Trump",
-        "Source context: House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump. The key question is..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jeffries.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sun, 22 Nov 2026 12:39:08 -0500",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "GOP lawmaker 'optimistic' about passing AI bill before next Congress",
-      "url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
-      "snapshot": "Rep. Jay Obernolte (R-Calif.) said Sunday he is \"optimistic\" that Congress can pass a bipartisan artificial intelligence bill before the end of the year, despite a narrowing window for Republicans to advance legislation before Democrats take control of the House in January.... The key question is leverage: the next votes, negotiations and public pressure points will determine...",
-      "key_data": [
-        "Key people or organizations: GOP, Congress, Jay Obernolte",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: GOP lawmaker 'optimistic' about passing AI bill before next Congress",
-        "Source context: Rep. Jay Obernolte (R-Calif.) said Sunday he is \"optimistic\" that Congress can pass a bipartisan artificial intelligence bill before the end of the..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving GOP.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 19:28:31 +0000",
-      "age_hours": "8.67",
-      "freshness_status": "fresh",
-      "editorial_score": "107",
-      "urgency": ""
-    },
-    {
-      "headline": "Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-      "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
-      "snapshot": "House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading stocks \"very early\" in the next Congress. \"So, well, listen, we've got to clean up the mess in Washington. That means the Congress,... The key question is leverage: the next votes, negotiations and public pressure points will...",
-      "key_data": [
-        "Key people or organizations: Jeffries, Congress, House Minority Leader Hakeem, House Speaker",
-        "Politics desk signal: congress, house",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress",
-        "Source context: House Minority Leader Hakeem Jeffries (D-N.Y.), likely the next House Speaker, said Sunday that he will take action to bar lawmakers from trading..."
-      ],
-      "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
-      ],
-      "what_to_watch": [
-        "Watch for the next official action involving Jeffries.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
-      ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://thehill.com/feed/",
-      "source_name": "The Hill",
-      "published": "Sun, 22 Nov 2026 20:20:40 +0000",
-      "age_hours": "7.80",
-      "freshness_status": "fresh",
-      "editorial_score": "105",
+      "editorial_score": "99",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-      "snapshot": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+      "headline": "John Kennedy on potential 2028 presidential run: ‘If I get really fed up, I could run’",
+      "url": "https://thehill.com/homenews/campaign/6236538-john-kennedy-on-potential-2028-presidential-run-if-i-get-really-fed-up-i-could-run/",
+      "snapshot": "Sen. John Kennedy (R-La.) said Sunday he may make a bid for the White House in 2028 if he gets “really fed up.” “My plan, right now, is to run for reelection. I’ve saved up my nickels and dimes. I’ve saved up about $30 million. I’ll add a few nickels to it. And I plan…",
       "key_data": [
-        "Key people or organizations: Trump, Schumer, US Senate",
-        "Specific figures mentioned: 2017",
-        "Politics desk signal: senate",
-        "Institutional context: story may affect policy, legal pressure or governing leverage",
-        "Story focus: Trump criticises Schumer amid push for new Democrat leadership in US Senate"
+        "Source: The Hill",
+        "Politics desk: Congress",
+        "Published: Nov. 22, 2026 at 10:59 PM ET"
       ],
       "why_it_matters": [
-        "This could affect legislative leverage, policy timing or party strategy.",
-        "The practical question is whether the development changes votes, negotiations or public pressure.",
-        "Editors should watch for the gap between messaging and actual governing outcomes."
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Trump.",
-        "Track vote counts, committee movement, leadership pressure and amendment fights.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Governing leverage angle: votes, negotiations, timing and policy consequences.",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_name": "Al Jazeera",
-      "published": "Sun, 22 Nov 2026 23:22:59 +0000",
-      "age_hours": "4.76",
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://thehill.com/feed/",
+      "source_name": "The Hill",
+      "published": "Mon, 23 Nov 2026 03:59:48 +0000",
+      "age_hours": "4.81",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "95",
       "urgency": ""
     },
     {
-      "headline": "Families frustrated with Pentagon probe of deadly drone strike",
-      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
-      "snapshot": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The geopolitical angle is how the decision affects alliances, economic pressure, security commitments and U.S. positioning abroad.",
+      "headline": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "snapshot": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
       "key_data": [
-        "Key people or organizations: Pentagon, Iran",
-        "Story focus: Families frustrated with Pentagon probe of deadly drone strike",
-        "Source context: The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war. The..."
+        "Source: The New York Times",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 22, 2026 at 09:17 PM ET"
       ],
       "why_it_matters": [
-        "This carries foreign-policy or economic consequences beyond the immediate political reaction.",
-        "The story can affect alliances, security commitments, trade pressure or U.S. credibility abroad.",
-        "Editors should watch official actions, not just statements."
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
       ],
       "what_to_watch": [
-        "Watch for the next official action involving Pentagon.",
-        "Track responses from lawmakers, courts, agencies or campaigns.",
-        "Separate official action from political messaging."
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
       ],
-      "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
-      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
-      "source_name": "CBS News",
-      "published": "Sat, 21 Nov 2026 12:02:37 -0500",
-      "age_hours": "35.10",
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "source_name": "The New York Times",
+      "published": "Mon, 23 Nov 2026 02:17:16 +0000",
+      "age_hours": "6.51",
+      "freshness_status": "fresh",
+      "editorial_score": "93",
+      "urgency": ""
+    },
+    {
+      "headline": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "snapshot": "The couple have been together for four years and were engaged in 2025.",
+      "key_data": [
+        "Source: BBC News",
+        "Politics desk: Policy",
+        "Published: Nov. 22, 2026 at 04:22 PM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect public policy, political strategy or institutional decision-making.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "source_name": "BBC News",
+      "published": "Sun, 22 Nov 2026 21:22:40 GMT",
+      "age_hours": "11.42",
+      "freshness_status": "fresh",
+      "editorial_score": "89",
+      "urgency": ""
+    },
+    {
+      "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
+      "snapshot": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
+      "key_data": [
+        "Source: NPR Politics",
+        "Politics desk: Congress",
+        "Published: Nov. 22, 2026 at 08:12 AM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect legislative leverage, negotiations or the timing of government action.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing congress story; prioritize verified official action and source reporting.",
+      "source_feed": "https://feeds.npr.org/1014/rss.xml",
+      "source_name": "NPR Politics",
+      "published": "Sun, 22 Nov 2026 08:12:09 -0500",
+      "age_hours": "19.60",
       "freshness_status": "editor_fresh",
-      "editorial_score": "110",
-      "urgency": "BREAKING"
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+      "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+      "snapshot": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
+      "key_data": [
+        "Source: Al Jazeera",
+        "Politics desk: Foreign Policy",
+        "Published: Nov. 23, 2026 at 02:37 AM ET"
+      ],
+      "why_it_matters": [
+        "This development may affect alliances, security commitments or diplomatic leverage.",
+        "The practical test is whether official decisions follow the public statements and political reaction."
+      ],
+      "what_to_watch": [
+        "Watch for official documents, votes, rulings or agency actions.",
+        "Track responses from elected officials, courts, campaigns and affected institutions."
+      ],
+      "editor_note": "Developing foreign policy story; prioritize verified official action and source reporting.",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_name": "Al Jazeera",
+      "published": "Mon, 23 Nov 2026 07:37:09 +0000",
+      "age_hours": "1.18",
+      "freshness_status": "fresh",
+      "editorial_score": "99",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
