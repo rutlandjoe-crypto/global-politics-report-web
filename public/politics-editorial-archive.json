@@ -102,7 +102,7 @@
     "source_feed": "https://www.cbsnews.com/latest/rss/politics",
     "source_name": "CBS News",
     "published": "Thu, 26 Nov 2026 19:39:06 -0500",
-    "age_hours": "1.34",
+    "age_hours": "5.80",
     "freshness_status": "fresh",
     "editorial_score": "142",
     "urgency": "DEVELOPING"
@@ -132,10 +132,40 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Fri, 27 Nov 2026 00:33:50 +0000",
-    "age_hours": "1.43",
+    "age_hours": "5.89",
     "freshness_status": "fresh",
     "editorial_score": "99",
     "urgency": ""
+  },
+  {
+    "headline": "Argentina bars Central Bank from printing money to fund government spending",
+    "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+    "snapshot": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race. The key question is leverage: the next votes, negotiations and public pressure points will determine whether this becomes policy movement or political positioning.",
+    "key_data": [
+      "Key people or organizations: Central Bank, South American, Senate",
+      "Specific figures mentioned: 2027",
+      "Politics desk signal: senate, election",
+      "Institutional context: story may affect policy, legal pressure or governing leverage",
+      "Story focus: Argentina bars Central Bank from printing money to fund government spending"
+    ],
+    "why_it_matters": [
+      "This could affect legislative leverage, policy timing or party strategy.",
+      "The practical question is whether the development changes votes, negotiations or public pressure.",
+      "Editors should watch for the gap between messaging and actual governing outcomes."
+    ],
+    "what_to_watch": [
+      "Watch for the next official action involving Central Bank.",
+      "Track vote counts, committee movement, leadership pressure and amendment fights.",
+      "Separate official action from political messaging."
+    ],
+    "editor_note": "Developing power-and-policy story; prioritize official actions, legal documents and institutional response.",
+    "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source_name": "Al Jazeera",
+    "published": "Fri, 27 Nov 2026 00:11:16 +0000",
+    "age_hours": "6.27",
+    "freshness_status": "fresh",
+    "editorial_score": "82",
+    "urgency": "DEVELOPING"
   },
   {
     "headline": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
@@ -244,7 +274,7 @@
     "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
     "source_name": "Al Jazeera",
     "published": "Thu, 26 Nov 2026 22:51:55 +0000",
-    "age_hours": "3.13",
+    "age_hours": "7.59",
     "freshness_status": "fresh",
     "editorial_score": "100",
     "urgency": "DEVELOPING"
@@ -326,7 +356,7 @@
     "source_feed": "https://thehill.com/feed/",
     "source_name": "The Hill",
     "published": "Thu, 26 Nov 2026 20:50:40 +0000",
-    "age_hours": "2.62",
+    "age_hours": "9.61",
     "freshness_status": "fresh",
     "editorial_score": "97",
     "urgency": ""
